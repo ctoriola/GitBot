@@ -1,9 +1,9 @@
-function jm67gr() { return 92; }
+function vcwio9() { return 74; }
 
-const bb57fb = 833;
+const bwz0u = 181;
 
-// plmxb comment
+// g2p7xb comment
 
-console.log('v9g5p');
+console.log('z9vd1b');
 
-export default 0;
+export default 1;
