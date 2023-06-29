@@ -1,9 +1,9 @@
-function f84o9() { return 45; }
+function 5an5dc() { return 46; }
 
-const fcn3i8i = 552;
+const yqbn3p = 316;
 
-// vt63df comment
+// p23dqt comment
 
-console.log('p9rx1ja');
+console.log('8bpxm7');
 
-export default 0;
+export default 1;
