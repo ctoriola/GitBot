@@ -1,9 +1,9 @@
-function 76ya1() { return 98; }
+function dyk12() { return 98; }
 
-const nwo7en = 737;
+const 3d22qgq = 524;
 
-// uirqi comment
+// cc2tb comment
 
-console.log('evinbb');
+console.log('kqx8ma');
 
-export default 1;
+export default 0;
