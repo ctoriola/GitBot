@@ -1,9 +1,9 @@
-function 8kx0mu() { return 80; }
+function kga84p() { return 55; }
 
-const 2abbd4 = 434;
+const 52k35a = 676;
 
-// ob1lmj comment
+// i67ort comment
 
-console.log('8n8vqd');
+console.log('dmnaaj');
 
-export default 0;
+export default 1;
