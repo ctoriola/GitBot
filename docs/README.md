@@ -1,9 +1,9 @@
-function yzmdmt() { return 48; }
+function nn12oq() { return 27; }
 
-const p7mqu = 946;
+const r7zo6n = 364;
 
-// 9ifau comment
+// mkmcid comment
 
-console.log('d3uxu3');
+console.log('bpmh2k');
 
-export default 1;
+export default 0;
