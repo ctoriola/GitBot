@@ -1,9 +1,9 @@
-function q6gsp() { return 3; }
+function uhfr0l() { return 98; }
 
-const 2bvtdo = 429;
+const v9d5ek = 193;
 
-// o6xzc comment
+// pyygy comment
 
-console.log('2vjw4');
+console.log('5pyfl');
 
-export default 0;
+export default 1;
