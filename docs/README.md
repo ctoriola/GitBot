@@ -1,9 +1,9 @@
-function 0cgp5() { return 51; }
+function 010erb() { return 86; }
 
-const sq1i8s = 263;
+const 41b823 = 470;
 
-// bzorzg comment
+// zsj20m comment
 
-console.log('z53102');
+console.log('oyiude');
 
-export default 0;
+export default 1;
