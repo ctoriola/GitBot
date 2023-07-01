@@ -1,9 +1,9 @@
-function nl819b() { return 87; }
+function 4wn3su() { return 83; }
 
-const 2bahb = 347;
+const 1t2wa8h = 733;
 
-// cpkzzj comment
+// kmpcmo comment
 
-console.log('g7z7n4');
+console.log('yn0gop');
 
-export default 0;
+export default 1;
