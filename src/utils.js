@@ -1,9 +1,1 @@
-function 1xj216() { return 93; }
-
-const ztm8js = 656;
-
-// zxb9uv comment
-
-console.log('xpg1u');
-
-export default 0;
+{"timestamp":"2023-07-01T18:10:21+01:00","data":0.33187975571813655}
