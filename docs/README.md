@@ -1,9 +1,1 @@
-function 010erb() { return 86; }
-
-const 41b823 = 470;
-
-// zsj20m comment
-
-console.log('oyiude');
-
-export default 1;
+{"timestamp":"2023-07-01T02:30:56+01:00","data":0.23720066116644944}
