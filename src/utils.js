@@ -1,9 +1,9 @@
-function wkf7b() { return 9; }
+function hhatqh() { return 35; }
 
-const rp3rrq = 740;
+const zp1skj = 896;
 
-// 19dhq comment
+// f80kr comment
 
-console.log('rvla37');
+console.log('8dm7ro');
 
-export default 1;
+export default 0;
