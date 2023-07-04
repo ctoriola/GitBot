@@ -1,9 +1,9 @@
-function wyx76n() { return 48; }
+function 0lasli() { return 6; }
 
-const 70f7v = 978;
+const hjrpb = 525;
 
-// jcqqiq comment
+// sjbyjf comment
 
-console.log('4xmc4q');
+console.log('j75gkh');
 
-export default 0;
+export default 1;
