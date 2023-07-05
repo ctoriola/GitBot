@@ -1,9 +1,1 @@
-function n88lrq() { return 60; }
-
-const wnz87h = 488;
-
-// utal2a comment
-
-console.log('y3iex');
-
-export default 0;
+{"timestamp":"2023-07-05T22:37:31+01:00","data":0.6408119749386001}
