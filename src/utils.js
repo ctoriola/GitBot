@@ -1,9 +1,1 @@
-function 4j2pt() { return 97; }
-
-const buzjxq = 497;
-
-// f5knv8 comment
-
-console.log('d0esim');
-
-export default 0;
+{"timestamp":"2023-07-06T13:04:52+01:00","data":0.4070085526894702}
