@@ -1,9 +1,9 @@
-function v6nvib() { return 95; }
+function mvst5j() { return 23; }
 
-const g6cvum = 225;
+const gum20c = 603;
 
-// f5mbun comment
+// ewkqx8 comment
 
-console.log('2jv70r');
+console.log('kxkkcb');
 
-export default 1;
+export default 0;
