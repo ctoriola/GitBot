@@ -1,9 +1,9 @@
-function 88otr() { return 35; }
+function liazr() { return 19; }
 
-const r6vnz = 691;
+const jj5jgw = 553;
 
-// mwx6k comment
+// h4cm8b comment
 
-console.log('qmjenp');
+console.log('m5ss6g');
 
-export default 0;
+export default 1;
