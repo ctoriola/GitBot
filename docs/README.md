@@ -1,9 +1,9 @@
-function ngko4b() { return 85; }
+function tsyt9() { return 4; }
 
-const v1rd5t = 842;
+const jfrx8 = 539;
 
-// jofye comment
+// v3ifmpb comment
 
-console.log('su5ajq');
+console.log('l6vw7v');
 
-export default 1;
+export default 0;
