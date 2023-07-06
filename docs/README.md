@@ -1,9 +1,9 @@
-function 5os0kf() { return 88; }
+function ngko4b() { return 85; }
 
-const 0x2dgt = 947;
+const v1rd5t = 842;
 
-// pi73ll comment
+// jofye comment
 
-console.log('zn4p6l');
+console.log('su5ajq');
 
-export default 0;
+export default 1;
