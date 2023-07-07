@@ -1,9 +1,9 @@
-function rmk27c() { return 24; }
+function c2huzn() { return 49; }
 
-const bu4r6u = 982;
+const vtwi5f = 874;
 
-// 9vczl9 comment
+// l0ckx comment
 
-console.log('wkaem');
+console.log('5vnk5m');
 
-export default 1;
+export default 0;
