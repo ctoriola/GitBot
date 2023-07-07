@@ -1,9 +1,9 @@
-function edp7zb() { return 77; }
+function u0wf() { return 9; }
 
-const yd1tzp = 513;
+const by6y5g = 937;
 
-// 5qf5g8 comment
+// ajebe comment
 
-console.log('c1zglc');
+console.log('4ecdd');
 
-export default 0;
+export default 1;
