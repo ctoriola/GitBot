@@ -1,9 +1,9 @@
-function rp11h() { return 29; }
+function lkogfs() { return 85; }
 
-const ms1b9d = 617;
+const ugqpqf = 274;
 
-// 9u4zxp comment
+// 7ikzfg comment
 
-console.log('64w5a');
+console.log('e5x5gp');
 
-export default 1;
+export default 0;
