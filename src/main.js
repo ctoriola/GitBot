@@ -1,9 +1,9 @@
-function lkogfs() { return 85; }
+function qtw0lg() { return 49; }
 
-const ugqpqf = 274;
+const e2pu2 = 858;
 
-// 7ikzfg comment
+// cdawl comment
 
-console.log('e5x5gp');
+console.log('dy93w8');
 
-export default 0;
+export default 1;
