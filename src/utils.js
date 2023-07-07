@@ -1,9 +1,9 @@
-function xnl8b() { return 16; }
+function tftq35() { return 12; }
 
-const iete7o = 718;
+const vbtnrk = 413;
 
-// 6g2he6 comment
+// lth1fn comment
 
-console.log('d5r7hs');
+console.log('bbc5cd');
 
-export default 1;
+export default 0;
