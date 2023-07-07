@@ -1,9 +1,9 @@
-function 29x1tk() { return 18; }
+function ujsg9() { return 26; }
 
-const vgx8hr = 475;
+const w723o = 172;
 
-// vmggpj comment
+// kt5dwm comment
 
-console.log('4sfmgj');
+console.log('yykw3s');
 
 export default 1;
