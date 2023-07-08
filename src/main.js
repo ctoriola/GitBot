@@ -1,9 +1,9 @@
-function b84s6i() { return 32; }
+function 7z7vtb() { return 1; }
 
-const 65vsi = 748;
+const ccjrpm = 648;
 
-// tmj9vv comment
+// wqhyob comment
 
-console.log('k4un0q');
+console.log('uaoirg');
 
 export default 0;
