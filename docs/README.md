@@ -1,9 +1,9 @@
-function slzhvk() { return 63; }
+function 9zxj8() { return 72; }
 
-const fkcubj = 929;
+const 4n7bz = 945;
 
-// xri87 comment
+// rga7hd comment
 
-console.log('2fb7gx');
+console.log('eqg8l');
 
-export default 0;
+export default 1;
