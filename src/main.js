@@ -1,9 +1,9 @@
-function 7z7vtb() { return 1; }
+function n4ohuw() { return 28; }
 
-const ccjrpm = 648;
+const kzfsal = 881;
 
-// wqhyob comment
+// rlmnce comment
 
-console.log('uaoirg');
+console.log('0u8ofk');
 
-export default 0;
+export default 1;
