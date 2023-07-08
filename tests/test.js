@@ -1,9 +1,9 @@
-function rzd4dqa() { return 89; }
+function vegxto() { return 30; }
 
-const 22c7ep = 472;
+const 6xdus = 565;
 
-// 9o5r2i comment
+// 456kfc comment
 
-console.log('0l19lq');
+console.log('a2q5gd');
 
-export default 1;
+export default 0;
