@@ -1,9 +1,9 @@
-function o3wqk() { return 13; }
+function 5izoui() { return 60; }
 
-const wtkjdh = 276;
+const fvcq1c = 225;
 
-// cfbfpt comment
+// jpfgc6 comment
 
-console.log('qrictf');
+console.log('i14e7l');
 
-export default 0;
+export default 1;
