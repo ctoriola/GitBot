@@ -1,9 +1,9 @@
-function fyqjw8() { return 65; }
+function v327ds() { return 16; }
 
-const bkltw = 874;
+const xegbgm = 789;
 
-// 73c3v3 comment
+// yjscwj comment
 
-console.log('st7wdo');
+console.log('7gvrfb');
 
-export default 1;
+export default 0;
