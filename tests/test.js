@@ -1,9 +1,9 @@
-function abcyb() { return 6; }
+function xw53ya() { return 59; }
 
-const 8l1vt = 268;
+const 18zcdg = 112;
 
-// a4js7 comment
+// 0xelxo comment
 
-console.log('tlnzld');
+console.log('by6gli');
 
-export default 1;
+export default 0;
