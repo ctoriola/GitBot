@@ -1,9 +1,9 @@
-function jk14f() { return 18; }
+function abcyb() { return 6; }
 
-const 3l0kge = 668;
+const 8l1vt = 268;
 
-// i14j8r comment
+// a4js7 comment
 
-console.log('371hw');
+console.log('tlnzld');
 
-export default 0;
+export default 1;
