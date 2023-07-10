@@ -1,9 +1,9 @@
-function mcakmup() { return 87; }
+function 7i8rzg() { return 92; }
 
-const bjuor4 = 237;
+const 71i15f = 363;
 
-// uolfc comment
+// 01ccuf comment
 
-console.log('m37xak');
+console.log('rxfi7y');
 
-export default 0;
+export default 1;
