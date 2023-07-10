@@ -1,9 +1,9 @@
-function s31dxlc() { return 82; }
+function nt7h9d() { return 88; }
 
-const szirgj = 306;
+const x5tjrj = 640;
 
-// xsblc9 comment
+// n327sj comment
 
-console.log('jh7xtq');
+console.log('c4xa5o');
 
-export default 1;
+export default 0;
