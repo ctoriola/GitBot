@@ -1,9 +1,9 @@
-function 67nux() { return 90; }
+function 0mcjgp() { return 61; }
 
-const 6c6tee = 619;
+const wn1xtm = 522;
 
-// plet2c comment
+// bidzdr comment
 
-console.log('3fbfcg');
+console.log('hkscis');
 
-export default 0;
+export default 1;
