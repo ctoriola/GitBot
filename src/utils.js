@@ -1,9 +1,9 @@
-function fytfr() { return 95; }
+function k4cdr() { return 52; }
 
-const w08cg = 790;
+const lfxiug = 103;
 
-// 26zrxw comment
+// 7wzmga comment
 
-console.log('gkao3i');
+console.log('d9h0r');
 
-export default 1;
+export default 0;
