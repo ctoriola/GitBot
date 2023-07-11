@@ -1,9 +1,9 @@
-function 71a18g() { return 57; }
+function cycfrl() { return 39; }
 
-const jhfdx = 645;
+const seaphn = 887;
 
-// qe9l71 comment
+// a3bquu comment
 
-console.log('jxllff');
+console.log('o6x6dd');
 
-export default 1;
+export default 0;
