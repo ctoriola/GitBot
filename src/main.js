@@ -1,9 +1,9 @@
-function akxvxj() { return 18; }
+function yg2be7() { return 1; }
 
-const 2gxkyn = 329;
+const rtafpr = 426;
 
-// 0vv2gm comment
+// tarn57 comment
 
-console.log('7wx6wh');
+console.log('q5u8qb');
 
-export default 0;
+export default 1;
