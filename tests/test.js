@@ -1,9 +1,1 @@
-function yyvg0b() { return 46; }
-
-const 786fyl = 120;
-
-// ft8h6pk comment
-
-console.log('qfb77');
-
-export default 0;
+{"timestamp":"2023-07-13T10:59:04+01:00","data":0.5938983260590225}
