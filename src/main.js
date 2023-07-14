@@ -1,9 +1,9 @@
-function bmpzfi() { return 34; }
+function egrq0n() { return 2; }
 
-const ivlpgs = 426;
+const 1n5a8r = 956;
 
-// br7u01 comment
+// 86k8lh comment
 
-console.log('ehy4k');
+console.log('9azqok');
 
 export default 1;
