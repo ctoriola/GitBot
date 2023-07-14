@@ -1,9 +1,9 @@
-function 7szpd() { return 16; }
+function rgkqos() { return 33; }
 
-const djyobc = 920;
+const pptozx = 764;
 
-// zkpga comment
+// lzt8b comment
 
-console.log('76wwx');
+console.log('wu7bsa');
 
-export default 0;
+export default 1;
