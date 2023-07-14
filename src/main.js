@@ -1,9 +1,9 @@
-function 3341pi() { return 83; }
+function 3d7c46() { return 4; }
 
-const z7yoqo = 855;
+const zr8e3b = 964;
 
-// olihfrt comment
+// 25r67 comment
 
-console.log('60zpv');
+console.log('7yaic');
 
-export default 0;
+export default 1;
