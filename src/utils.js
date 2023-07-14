@@ -1,9 +1,9 @@
-function vcegy() { return 23; }
+function wad3gk() { return 58; }
 
-const 6iuyy = 480;
+const 6h9ltu = 509;
 
-// jiqelj comment
+// pfynpa comment
 
-console.log('7hxy3q');
+console.log('z1rhqc');
 
-export default 1;
+export default 0;
