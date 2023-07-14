@@ -1,9 +1,9 @@
-function rgkqos() { return 33; }
+function cy7gf() { return 80; }
 
-const pptozx = 764;
+const 7el77n = 684;
 
-// lzt8b comment
+// przjob comment
 
-console.log('wu7bsa');
+console.log('cvft1');
 
-export default 1;
+export default 0;
