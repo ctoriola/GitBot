@@ -1,9 +1,9 @@
-function hvvai() { return 88; }
+function 974pmj() { return 24; }
 
-const 75n48m = 488;
+const l103vq = 138;
 
-// n975ol comment
+// l967bs comment
 
-console.log('30crlc');
+console.log('iun8j');
 
-export default 0;
+export default 1;
