@@ -1,9 +1,9 @@
-function dh2wxe() { return 39; }
+function huyfdp() { return 40; }
 
-const tjsbuf = 488;
+const g7t26 = 107;
 
-// oohusi comment
+// xcm4r9 comment
 
-console.log('enbkoo');
+console.log('o2iwrc');
 
-export default 0;
+export default 1;
