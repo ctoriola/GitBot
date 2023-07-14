@@ -1,9 +1,9 @@
-function sq73a() { return 83; }
+function d03y9b() { return 66; }
 
-const xdmx3o = 549;
+const eiy0zl = 923;
 
-// 7iv4g comment
+// 9esvg4 comment
 
-console.log('waeus');
+console.log('rvn7ip');
 
-export default 1;
+export default 0;
