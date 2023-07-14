@@ -1,9 +1,9 @@
-function cy7gf() { return 80; }
+function r3uc8p() { return 13; }
 
-const 7el77n = 684;
+const a70mh8 = 952;
 
-// przjob comment
+// 2g0idb comment
 
-console.log('cvft1');
+console.log('leh4gl');
 
-export default 0;
+export default 1;
