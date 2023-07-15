@@ -1,9 +1,9 @@
-function egrq0n() { return 2; }
+function erz6k() { return 29; }
 
-const 1n5a8r = 956;
+const ueib8m = 714;
 
-// 86k8lh comment
+// f98aw comment
 
-console.log('9azqok');
+console.log('asrv25');
 
-export default 1;
+export default 0;
