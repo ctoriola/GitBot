@@ -1,9 +1,9 @@
-function yflck() { return 31; }
+function vkkwh7() { return 86; }
 
-const zp0ux8 = 956;
+const lgawk = 134;
 
-// qovuf comment
+// pobjm5 comment
 
-console.log('6o499q');
+console.log('5utapp');
 
-export default 0;
+export default 1;
