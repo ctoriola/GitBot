@@ -1,9 +1,9 @@
-function smzm4k() { return 60; }
+function g4vijm() { return 68; }
 
-const p17tsh = 235;
+const mt8qyn = 672;
 
-// vq0mcl comment
+// 67fotj comment
 
-console.log('hfn2r');
+console.log('kowx1k');
 
-export default 1;
+export default 0;
