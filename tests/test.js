@@ -1,9 +1,9 @@
-function 3l0ure() { return 48; }
+function gm4it3() { return 4; }
 
-const d7rbez = 797;
+const gjbec = 444;
 
-// 4herso comment
+// 4625vf comment
 
-console.log('l21zfn');
+console.log('je9r9');
 
-export default 0;
+export default 1;
