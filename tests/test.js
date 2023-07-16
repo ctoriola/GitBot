@@ -1,9 +1,9 @@
-function 4pcbf8() { return 73; }
+function oortk() { return 20; }
 
-const 48yo6e = 957;
+const p3e9au = 972;
 
-// 1szgg comment
+// 3971ra comment
 
-console.log('sv1ek');
+console.log('ixivts');
 
-export default 1;
+export default 0;
