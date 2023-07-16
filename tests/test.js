@@ -1,9 +1,9 @@
-function vkkwh7() { return 86; }
+function 4pcbf8() { return 73; }
 
-const lgawk = 134;
+const 48yo6e = 957;
 
-// pobjm5 comment
+// 1szgg comment
 
-console.log('5utapp');
+console.log('sv1ek');
 
 export default 1;
