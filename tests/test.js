@@ -1,9 +1,9 @@
-function gm4it3() { return 4; }
+function ejsae() { return 39; }
 
-const gjbec = 444;
+const r52jau = 498;
 
-// 4625vf comment
+// 56o6jq comment
 
-console.log('je9r9');
+console.log('y0mbp');
 
-export default 1;
+export default 0;
