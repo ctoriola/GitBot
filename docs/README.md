@@ -1,9 +1,9 @@
-function vkerbj() { return 48; }
+function md3y6o() { return 32; }
 
-const a90rig = 926;
+const eyssc7 = 523;
 
-// 0hjfp5 comment
+// if35xh comment
 
-console.log('iaghg');
+console.log('zx237');
 
-export default 1;
+export default 0;
