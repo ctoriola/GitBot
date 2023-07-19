@@ -1,9 +1,9 @@
-function t6n5g7() { return 80; }
+function bb4r85() { return 93; }
 
-const 2ut3qu = 616;
+const pwgufw = 236;
 
-// 0ehg5v comment
+// 6y29wd comment
 
-console.log('p5155c');
+console.log('9rjc0o');
 
-export default 0;
+export default 1;
