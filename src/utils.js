@@ -1,9 +1,9 @@
-function rx8i8u() { return 58; }
+function v5gijp() { return 49; }
 
-const u8nfy = 520;
+const k1t6in = 499;
 
-// 90vby comment
+// 1vccp6 comment
 
-console.log('y273rh');
+console.log('mdz4aq');
 
-export default 1;
+export default 0;
