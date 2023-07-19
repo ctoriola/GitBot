@@ -1,9 +1,9 @@
-function bb4r85() { return 93; }
+function i77nuk() { return 71; }
 
-const pwgufw = 236;
+const j2vt9s = 146;
 
-// 6y29wd comment
+// eoipb4 comment
 
-console.log('9rjc0o');
+console.log('c2jz9h');
 
-export default 1;
+export default 0;
