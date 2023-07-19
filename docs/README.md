@@ -1,9 +1,9 @@
-function i77nuk() { return 71; }
+function vkerbj() { return 48; }
 
-const j2vt9s = 146;
+const a90rig = 926;
 
-// eoipb4 comment
+// 0hjfp5 comment
 
-console.log('c2jz9h');
+console.log('iaghg');
 
-export default 0;
+export default 1;
