@@ -1,9 +1,9 @@
-function 8dp8x() { return 99; }
+function krag() { return 2; }
 
-const ig3ygj = 996;
+const 7l5yyt = 931;
 
-// c8mir comment
+// occzz6 comment
 
-console.log('rlg66m');
+console.log('42xfx');
 
-export default 1;
+export default 0;
