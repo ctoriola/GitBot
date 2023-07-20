@@ -1,9 +1,9 @@
-function ejo1c9() { return 65; }
+function edrfm() { return 24; }
 
-const wiwwqw = 362;
+const ptm0u4 = 728;
 
-// 2jve1m comment
+// d8izth comment
 
-console.log('w8m0w');
+console.log('yql37d');
 
-export default 0;
+export default 1;
