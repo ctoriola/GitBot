@@ -1,9 +1,9 @@
-function voedmc() { return 43; }
+function kl8kt8() { return 17; }
 
-const 0vtl4s = 779;
+const 8yy1vn = 708;
 
-// 8fxnbm comment
+// f81ja comment
 
-console.log('atjmkc');
+console.log('8ia99j');
 
-export default 1;
+export default 0;
