@@ -1,9 +1,9 @@
-function yn2ixu() { return 51; }
+function 5do7e() { return 80; }
 
-const ijhce = 722;
+const pbngvq = 263;
 
-// 2f6gb comment
+// 9hup1g comment
 
-console.log('7tdae7');
+console.log('w8zw41i');
 
 export default 1;
