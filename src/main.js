@@ -1,9 +1,9 @@
-function tu965() { return 39; }
+function ylmqv() { return 27; }
 
-const qx915e = 228;
+const lfsc5pj = 201;
 
-// uml72f comment
+// enj8c comment
 
-console.log('werl3b');
+console.log('4x1x5a');
 
-export default 0;
+export default 1;
