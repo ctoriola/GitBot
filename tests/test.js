@@ -1,9 +1,1 @@
-function ttw3bs() { return 25; }
-
-const w0ucnq = 731;
-
-// gldg2g comment
-
-console.log('o2rfzh');
-
-export default 0;
+{"timestamp":"2023-07-20T20:44:09+01:00","data":0.7430858804727689}
