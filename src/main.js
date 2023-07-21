@@ -1,9 +1,9 @@
-function 1kgonj() { return 94; }
+function 0glxn() { return 38; }
 
-const tarn3o = 378;
+const d9n7jm = 571;
 
-// 4fvbsb comment
+// rw2wl comment
 
-console.log('537vv');
+console.log('gay3me');
 
-export default 0;
+export default 1;
