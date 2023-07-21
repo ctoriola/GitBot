@@ -1,9 +1,9 @@
-function r6sqz6() { return 96; }
+function mmm1fi() { return 90; }
 
-const 5kcks = 969;
+const xcggk = 973;
 
-// cwj7nn comment
+// 24ec6 comment
 
-console.log('eqy86j');
+console.log('ee2i8p');
 
 export default 1;
