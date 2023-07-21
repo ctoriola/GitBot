@@ -1,9 +1,9 @@
-function mmm1fi() { return 90; }
+function 8kkfuc() { return 95; }
 
-const xcggk = 973;
+const gfn3xe = 624;
 
-// 24ec6 comment
+// 10sjak comment
 
-console.log('ee2i8p');
+console.log('p2nxbm');
 
-export default 1;
+export default 0;
