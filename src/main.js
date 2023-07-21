@@ -1,9 +1,9 @@
-function 0glxn() { return 38; }
+function heq5bf() { return 71; }
 
-const d9n7jm = 571;
+const vyylp = 246;
 
-// rw2wl comment
+// efewq comment
 
-console.log('gay3me');
+console.log('az36mb');
 
-export default 1;
+export default 0;
