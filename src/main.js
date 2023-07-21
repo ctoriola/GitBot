@@ -1,9 +1,9 @@
-function 4nxcda() { return 64; }
+function vy05z() { return 6; }
 
-const ex1tld = 696;
+const l9wfeh = 425;
 
-// ln4tlw comment
+// kpjyt comment
 
-console.log('9l0ivv');
+console.log('8f2hid');
 
-export default 0;
+export default 1;
