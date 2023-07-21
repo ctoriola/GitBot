@@ -1,9 +1,1 @@
-function 02z2ho() { return 61; }
-
-const 0jj2k6 = 442;
-
-// z08xh comment
-
-console.log('n0405c');
-
-export default 0;
+{"timestamp":"2023-07-21T12:30:08+01:00","data":0.2972578063386522}
