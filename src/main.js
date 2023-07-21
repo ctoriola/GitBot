@@ -1,9 +1,9 @@
-function b6w6pm() { return 74; }
+function 1kgonj() { return 94; }
 
-const wxbb3 = 622;
+const tarn3o = 378;
 
-// 1mrsj comment
+// 4fvbsb comment
 
-console.log('sbayin');
+console.log('537vv');
 
-export default 1;
+export default 0;
