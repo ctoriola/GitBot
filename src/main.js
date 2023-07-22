@@ -1,9 +1,9 @@
-function mw6oj5() { return 96; }
+function 4a8hal() { return 7; }
 
-const 9p75gi = 580;
+const 7wzzk = 629;
 
-// vimpg5 comment
+// g0zx84 comment
 
-console.log('37cyas');
+console.log('ue5ez');
 
-export default 0;
+export default 1;
