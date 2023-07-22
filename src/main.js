@@ -1,9 +1,9 @@
-function 48ob7j() { return 90; }
+function w22oyk() { return 51; }
 
-const ury7l = 918;
+const 3gnyt = 879;
 
-// 3gm2g comment
+// xq6cqf comment
 
-console.log('3c6x8');
+console.log('pm32vg');
 
-export default 0;
+export default 1;
