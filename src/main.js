@@ -1,9 +1,9 @@
-function w22oyk() { return 51; }
+function mw6oj5() { return 96; }
 
-const 3gnyt = 879;
+const 9p75gi = 580;
 
-// xq6cqf comment
+// vimpg5 comment
 
-console.log('pm32vg');
+console.log('37cyas');
 
-export default 1;
+export default 0;
