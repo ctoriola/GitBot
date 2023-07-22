@@ -1,9 +1,9 @@
-function d9hwmc() { return 83; }
+function wud6() { return 83; }
 
-const r16s19 = 299;
+const pgkcwv = 598;
 
-// 57bh1a comment
+// huwsgh5 comment
 
-console.log('94tcva');
+console.log('pb1m6j');
 
-export default 1;
+export default 0;
