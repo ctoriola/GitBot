@@ -1,9 +1,9 @@
-function 94d63k() { return 92; }
+function v1v049() { return 97; }
 
-const i43giq = 206;
+const j3pfcq = 973;
 
-// xy7q7j comment
+// br8isr comment
 
-console.log('y67ksi');
+console.log('p89mbj');
 
-export default 0;
+export default 1;
