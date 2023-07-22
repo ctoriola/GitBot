@@ -1,9 +1,9 @@
-function pkptpi() { return 51; }
+function 94d63k() { return 92; }
 
-const 8mpwpr = 998;
+const i43giq = 206;
 
-// eaugkf comment
+// xy7q7j comment
 
-console.log('cmsosc');
+console.log('y67ksi');
 
-export default 1;
+export default 0;
