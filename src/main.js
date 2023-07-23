@@ -1,9 +1,9 @@
-function yrwp2l() { return 12; }
+function t7bk99() { return 11; }
 
-const 9ar2r = 528;
+const 5npubi = 463;
 
-// 0naamv comment
+// 65uhv comment
 
-console.log('kuqvt');
+console.log('2gj0y7');
 
-export default 1;
+export default 0;
