@@ -1,9 +1,9 @@
-function 84106() { return 41; }
+function yrwp2l() { return 12; }
 
-const g651nn = 541;
+const 9ar2r = 528;
 
-// 93fh0c comment
+// 0naamv comment
 
-console.log('gcmhtr');
+console.log('kuqvt');
 
 export default 1;
