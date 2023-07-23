@@ -1,9 +1,9 @@
-function rvuun() { return 10; }
+function 75wa5h() { return 22; }
 
-const 16ot02 = 682;
+const x0i05 = 128;
 
-// ms0vmc comment
+// sdgqwv comment
 
-console.log('bjkpg2');
+console.log('bpdf2c');
 
-export default 1;
+export default 0;
