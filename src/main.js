@@ -1,9 +1,9 @@
-function lrewv() { return 82; }
+function 8yob3g() { return 90; }
 
-const x4jqui = 593;
+const flofsl = 514;
 
-// ioata comment
+// vc6lv9 comment
 
-console.log('g9yo2b');
+console.log('5nzc9q');
 
 export default 1;
