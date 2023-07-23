@@ -1,9 +1,9 @@
-function uibciv() { return 22; }
+function pdl19n() { return 16; }
 
-const 31yj8b = 527;
+const za6nfl = 839;
 
-// 52xop comment
+// mi8b4z comment
 
-console.log('3hin0a');
+console.log('wusnm');
 
-export default 0;
+export default 1;
