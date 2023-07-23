@@ -1,9 +1,9 @@
-function ujfnlu() { return 41; }
+function i99e3c() { return 92; }
 
-const lq8j9m = 164;
+const hnrz4 = 307;
 
-// a1lqg comment
+// 6g1rb7 comment
 
-console.log('l2qa7in');
+console.log('i3a3ah');
 
-export default 1;
+export default 0;
