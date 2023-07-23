@@ -1,9 +1,9 @@
-function sx1wi8() { return 52; }
+function asl2gw() { return 2; }
 
-const 8rhsam = 222;
+const fvwucc = 164;
 
-// xf9qlm comment
+// 9nh90t comment
 
-console.log('4o4bp');
+console.log('o5d5ea');
 
-export default 1;
+export default 0;
