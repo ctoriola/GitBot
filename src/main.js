@@ -1,9 +1,9 @@
-function qvj3a() { return 52; }
+function cl28he() { return 9; }
 
-const 55gmfd = 504;
+const xtw6p7 = 676;
 
-// qpfymm comment
+// ihmqi comment
 
-console.log('v9kk0c');
+console.log('esrkwd');
 
-export default 1;
+export default 0;
