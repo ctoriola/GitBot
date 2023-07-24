@@ -1,9 +1,9 @@
-function xktu4t() { return 9; }
+function gra0o8() { return 83; }
 
-const veomty = 607;
+const x2tvja = 701;
 
-// 58waej comment
+// cy3woh comment
 
-console.log('gkefo');
+console.log('thmal8q');
 
-export default 1;
+export default 0;
