@@ -1,9 +1,9 @@
-function 9146o0u() { return 86; }
+function h21xk9() { return 62; }
 
-const ea21f = 258;
+const ei3nlh = 101;
 
-// 3bn9vb comment
+// 2igihk comment
 
-console.log('taor9l');
+console.log('xw884f');
 
-export default 0;
+export default 1;
