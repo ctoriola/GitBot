@@ -1,9 +1,9 @@
-function s5i8rb() { return 8; }
+function qvj3a() { return 52; }
 
-const apt9y = 592;
+const 55gmfd = 504;
 
-// t6obl comment
+// qpfymm comment
 
-console.log('9k1ubi');
+console.log('v9kk0c');
 
-export default 0;
+export default 1;
