@@ -1,9 +1,9 @@
-function mjnm6p() { return 83; }
+function o0a3h() { return 67; }
 
-const v3ozx = 488;
+const 83vm3 = 287;
 
-// seg6e comment
+// badts comment
 
-console.log('58eqjc');
+console.log('qakoct');
 
-export default 1;
+export default 0;
