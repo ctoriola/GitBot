@@ -1,9 +1,9 @@
-function lzi8pr() { return 45; }
+function aqkd0k() { return 87; }
 
-const ppebof = 907;
+const l8kpg3 = 916;
 
-// 3l2tln comment
+// gevt1e comment
 
-console.log('9kmbfr');
+console.log('9nz0bs');
 
-export default 0;
+export default 1;
