@@ -1,9 +1,9 @@
-function aqkd0k() { return 87; }
+function mqahxc() { return 87; }
 
-const l8kpg3 = 916;
+const 5bqhwa = 734;
 
-// gevt1e comment
+// kdlztl comment
 
-console.log('9nz0bs');
+console.log('xfvwwj');
 
-export default 1;
+export default 0;
