@@ -1,9 +1,1 @@
-function co70b3() { return 20; }
-
-const v5zsam = 750;
-
-// efyl5 comment
-
-console.log('umkz0e');
-
-export default 0;
+{"timestamp":"2023-07-25T14:40:38+01:00","data":0.3988058584913683}
