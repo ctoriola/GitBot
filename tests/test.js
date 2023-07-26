@@ -1,9 +1,9 @@
-function ebk16o() { return 48; }
+function r857hn() { return 71; }
 
-const ggl602 = 217;
+const faynz = 484;
 
-// 80cmkn comment
+// hw1l5 comment
 
-console.log('og5a1');
+console.log('hsez2n');
 
-export default 1;
+export default 0;
