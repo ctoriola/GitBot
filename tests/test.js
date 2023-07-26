@@ -1,9 +1,9 @@
-function r857hn() { return 71; }
+function 6gapvn() { return 11; }
 
-const faynz = 484;
+const degd7f = 425;
 
-// hw1l5 comment
+// gsrbpn comment
 
-console.log('hsez2n');
+console.log('u0hoq');
 
-export default 0;
+export default 1;
