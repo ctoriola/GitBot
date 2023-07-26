@@ -1,9 +1,9 @@
-function 6gapvn() { return 11; }
+function 4zoo5o() { return 87; }
 
-const degd7f = 425;
+const k4hg6o = 339;
 
-// gsrbpn comment
+// yinhwyn comment
 
-console.log('u0hoq');
+console.log('9vm6a');
 
-export default 1;
+export default 0;
