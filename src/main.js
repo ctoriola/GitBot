@@ -1,9 +1,9 @@
-function ohjhh() { return 99; }
+function jak2w() { return 95; }
 
-const 80ihl7 = 302;
+const 5j2yzrv = 977;
 
-// uv18u4 comment
+// 8ckzqa comment
 
-console.log('y50im9');
+console.log('ku9bl');
 
-export default 0;
+export default 1;
