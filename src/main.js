@@ -1,9 +1,9 @@
-function 8uxfol() { return 85; }
+function zs6ivn() { return 47; }
 
-const 1qxj4y = 279;
+const 2j992s = 211;
 
-// f3f757 comment
+// tw8h3rl comment
 
-console.log('j7herx0n');
+console.log('pf2yd');
 
-export default 1;
+export default 0;
