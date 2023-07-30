@@ -1,9 +1,9 @@
-function 68i8nl() { return 6; }
+function 75054s() { return 58; }
 
-const w30gnu = 312;
+const c7k38a = 564;
 
-// f003nk comment
+// un9dwf comment
 
-console.log('tpjr6g');
+console.log('lbnwom');
 
-export default 0;
+export default 1;
