@@ -1,9 +1,9 @@
-function 614ake() { return 16; }
+function tlqr8b() { return 97; }
 
-const j3qdx = 131;
+const 73lz1ko = 248;
 
-// x1job7 comment
+// 028rbz comment
 
-console.log('mm5hgj');
+console.log('sb8wt');
 
-export default 1;
+export default 0;
