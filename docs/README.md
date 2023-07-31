@@ -1,9 +1,9 @@
-function azmubj() { return 1; }
+function ikf0ub() { return 81; }
 
-const 0vg2b9 = 871;
+const s03ydj = 845;
 
-// yvuzaq comment
+// gqo37b comment
 
-console.log('4x4ktp');
+console.log('15hp2w');
 
-export default 0;
+export default 1;
