@@ -1,9 +1,9 @@
-function 1dylo() { return 40; }
+function u2i7se() { return 74; }
 
-const sdn76i = 910;
+const 42d0te = 607;
 
-// qezgwp comment
+// 7javfq comment
 
-console.log('my0cwr');
+console.log('4gqs97');
 
-export default 1;
+export default 0;
