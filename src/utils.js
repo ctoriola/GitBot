@@ -1,9 +1,9 @@
-function fe1k7c() { return 65; }
+function hj8tpx() { return 57; }
 
-const dij2k = 328;
+const 6rc2wh = 905;
 
-// fhi60g comment
+// bmskde comment
 
-console.log('hiregf');
+console.log('z4r62i');
 
-export default 1;
+export default 0;
