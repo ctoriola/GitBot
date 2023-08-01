@@ -1,9 +1,9 @@
-function 1ci5db() { return 82; }
+function 2xufk() { return 25; }
 
-const kpfxk = 349;
+const ia8is = 851;
 
-// egyjsp comment
+// klbamr comment
 
-console.log('36hdvi');
+console.log('dydhk');
 
-export default 1;
+export default 0;
