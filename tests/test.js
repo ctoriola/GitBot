@@ -1,9 +1,9 @@
-function y798i4() { return 57; }
+function pu1wq9() { return 82; }
 
-const k84lq = 465;
+const vbrx2h = 793;
 
-// jr8q4 comment
+// ybpjck comment
 
-console.log('boqmz1');
+console.log('afnwue');
 
-export default 1;
+export default 0;
