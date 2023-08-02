@@ -1,9 +1,9 @@
-function 4qssph() { return 81; }
+function 52q94n() { return 72; }
 
-const rv5ftc = 108;
+const 6y5ja = 515;
 
-// hnr7al comment
+// o9spzf comment
 
-console.log('je40p');
+console.log('ltp1mr');
 
-export default 0;
+export default 1;
