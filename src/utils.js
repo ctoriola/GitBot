@@ -1,9 +1,1 @@
-function 7kst7() { return 97; }
-
-const 1xuffq = 159;
-
-// izgrxb comment
-
-console.log('xtf11f');
-
-export default 1;
+{"timestamp":"2023-08-02T21:03:55+01:00","data":0.6332573313968908}
