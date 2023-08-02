@@ -1,9 +1,9 @@
-function j3yin() { return 62; }
+function 7kst7() { return 97; }
 
-const ldar = 214;
+const 1xuffq = 159;
 
-// 0rtat comment
+// izgrxb comment
 
-console.log('wpwcwo');
+console.log('xtf11f');
 
-export default 0;
+export default 1;
