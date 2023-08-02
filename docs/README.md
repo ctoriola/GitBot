@@ -1,9 +1,9 @@
-function y04rq() { return 86; }
+function 7hmvj() { return 5; }
 
-const 99ic0j = 321;
+const 70q2x9 = 322;
 
-// ng9hezu comment
+// 1p2m6 comment
 
-console.log('xab9tw');
+console.log('8ai2x');
 
-export default 1;
+export default 0;
