@@ -1,9 +1,9 @@
-function bqgn8t() { return 84; }
+function d3wmh() { return 89; }
 
-const uf2tpq = 764;
+const qsbunc = 361;
 
-// 4l15y comment
+// w7ff8 comment
 
-console.log('3s5xss');
+console.log('52o6yme');
 
-export default 0;
+export default 1;
