@@ -1,9 +1,9 @@
-function 4xwlfk() { return 63; }
+function 3puwx() { return 86; }
 
-const w0idr = 801;
+const m7rxdm = 921;
 
-// 6m291 comment
+// 473sb comment
 
-console.log('qsaua7');
+console.log('hf0rmj');
 
-export default 0;
+export default 1;
