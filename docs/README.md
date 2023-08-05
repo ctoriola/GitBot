@@ -1,9 +1,9 @@
-function 3puwx() { return 86; }
+function 5eusmg() { return 48; }
 
-const m7rxdm = 921;
+const 7d5hsg = 468;
 
-// 473sb comment
+// fdk1 comment
 
-console.log('hf0rmj');
+console.log('1klwx');
 
-export default 1;
+export default 0;
