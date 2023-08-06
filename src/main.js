@@ -1,9 +1,9 @@
-function 5gwcb() { return 35; }
+function lwrhq() { return 16; }
 
-const ewwv8b = 545;
+const d402v = 105;
 
-// l0ws comment
+// f3h1mep comment
 
-console.log('g6d9g');
+console.log('2xa4d6');
 
-export default 1;
+export default 0;
