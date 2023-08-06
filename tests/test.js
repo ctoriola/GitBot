@@ -1,9 +1,9 @@
-function iumwv() { return 75; }
+function lo575() { return 51; }
 
-const wcgh3v = 537;
+const kd7uf = 948;
 
-// epx4y comment
+// o2tiu9 comment
 
-console.log('8pvvhe');
+console.log('bq9z3m');
 
 export default 1;
