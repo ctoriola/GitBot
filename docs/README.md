@@ -1,9 +1,9 @@
-function krxlw6() { return 84; }
+function hnjep() { return 39; }
 
-const svv9p = 640;
+const lqarxd = 500;
 
-// 4ekd1 comment
+// mbyik7 comment
 
-console.log('b3oyg3');
+console.log('xsbvyk');
 
-export default 1;
+export default 0;
