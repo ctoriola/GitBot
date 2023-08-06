@@ -1,9 +1,9 @@
-function x171rw() { return 94; }
+function dfy2u() { return 2; }
 
-const pfbefl = 778;
+const cp2qq5 = 429;
 
-// 0c7qbe comment
+// c06wob comment
 
-console.log('84czcl');
+console.log('4rndvf');
 
-export default 0;
+export default 1;
