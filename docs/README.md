@@ -1,9 +1,9 @@
-function v60de9() { return 97; }
+function krxlw6() { return 84; }
 
-const ry7ain = 302;
+const svv9p = 640;
 
-// cerale comment
+// 4ekd1 comment
 
-console.log('1f9g8');
+console.log('b3oyg3');
 
 export default 1;
