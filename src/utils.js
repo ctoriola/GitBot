@@ -1,9 +1,9 @@
-function vk9ckn() { return 67; }
+function rjdedk() { return 42; }
 
-const 2ubr8r = 755;
+const 1c4ys5 = 105;
 
-// h2ijv comment
+// w40ukk comment
 
-console.log('py1xx');
+console.log('dujd1wm');
 
-export default 1;
+export default 0;
