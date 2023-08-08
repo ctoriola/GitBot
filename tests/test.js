@@ -1,9 +1,9 @@
-function nnh98() { return 57; }
+function c6knm() { return 66; }
 
-const ts7p3 = 507;
+const 8uayp2a = 418;
 
-// 5e5xtt comment
+// 8djgzu comment
 
-console.log('tnhgde');
+console.log('zdioby');
 
-export default 1;
+export default 0;
