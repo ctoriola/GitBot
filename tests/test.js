@@ -1,9 +1,9 @@
-function 7b8mrs() { return 11; }
+function nbrma() { return 83; }
 
-const llley = 753;
+const 0h9ar8 = 183;
 
-// kcxy5l comment
+// ua1ean comment
 
-console.log('2yw8jo');
+console.log('7q64qq');
 
-export default 1;
+export default 0;
