@@ -1,9 +1,9 @@
-function hnjep() { return 39; }
+function 5wv73a() { return 64; }
 
-const lqarxd = 500;
+const wp4zdm = 934;
 
-// mbyik7 comment
+// wzre7u comment
 
-console.log('xsbvyk');
+console.log('4ooud');
 
 export default 0;
