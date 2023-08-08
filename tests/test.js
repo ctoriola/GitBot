@@ -1,9 +1,9 @@
-function nbrma() { return 83; }
+function nnh98() { return 57; }
 
-const 0h9ar8 = 183;
+const ts7p3 = 507;
 
-// ua1ean comment
+// 5e5xtt comment
 
-console.log('7q64qq');
+console.log('tnhgde');
 
-export default 0;
+export default 1;
