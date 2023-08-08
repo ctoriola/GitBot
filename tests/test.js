@@ -1,9 +1,9 @@
-function c6knm() { return 66; }
+function pmkr5a() { return 26; }
 
-const 8uayp2a = 418;
+const 5rc6e = 209;
 
-// 8djgzu comment
+// 8xzf6 comment
 
-console.log('zdioby');
+console.log('qqdh');
 
-export default 0;
+export default 1;
