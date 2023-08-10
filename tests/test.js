@@ -1,9 +1,9 @@
-function boxyqp() { return 37; }
+function g83m7a() { return 66; }
 
-const zn1wdl = 417;
+const 8e2va8 = 514;
 
-// 981tu comment
+// 9ra51 comment
 
-console.log('g6ubt9');
+console.log('s38g2j');
 
-export default 0;
+export default 1;
