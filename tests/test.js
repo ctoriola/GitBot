@@ -1,9 +1,9 @@
-function 8zvj5n() { return 12; }
+function k70eym() { return 67; }
 
-const ivwhn = 224;
+const ypkivp = 926;
 
-// 9gpavr comment
+// v01n3i comment
 
-console.log('kymlr4');
+console.log('wua18');
 
-export default 1;
+export default 0;
