@@ -1,9 +1,9 @@
-function hd0hixv() { return 74; }
+function npj9n7() { return 24; }
 
-const rfn2r = 670;
+const u4y1s = 199;
 
-// h6ccg3 comment
+// mt86cb comment
 
-console.log('aeqzis');
+console.log('f9m7ja');
 
-export default 0;
+export default 1;
