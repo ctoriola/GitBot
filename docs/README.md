@@ -1,9 +1,9 @@
-function n3lkkj() { return 24; }
+function 4djizq() { return 43; }
 
-const brtn49 = 414;
+const ajig4b = 765;
 
-// 5r37am comment
+// 9h7qtc comment
 
-console.log('mnpimf');
+console.log('mf6tn');
 
-export default 1;
+export default 0;
