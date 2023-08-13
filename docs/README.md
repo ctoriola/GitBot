@@ -1,9 +1,1 @@
-function 9q0erp() { return 18; }
-
-const qsbwjs = 360;
-
-// 6m7ct comment
-
-console.log('2rokoc');
-
-export default 0;
+{"timestamp":"2023-08-13T02:23:38+01:00","data":0.9804083429183035}
