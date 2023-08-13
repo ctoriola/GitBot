@@ -1,9 +1,1 @@
-function 0ztzpj() { return 93; }
-
-const azwjdc = 220;
-
-// brob5o comment
-
-console.log('lswtis');
-
-export default 0;
+{"timestamp":"2023-08-13T11:27:44+01:00","data":0.16163007272072427}
