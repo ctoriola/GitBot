@@ -1,9 +1,9 @@
-function ymz7q() { return 27; }
+function 4vzm5() { return 30; }
 
-const siccx = 262;
+const bydpr = 869;
 
-// 0b8fbe comment
+// 8trr1 comment
 
-console.log('4qj84p');
+console.log('kubj78');
 
-export default 1;
+export default 0;
