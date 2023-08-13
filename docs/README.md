@@ -1,9 +1,9 @@
-function xdruwe() { return 82; }
+function 0ztzpj() { return 93; }
 
-const jeu2s = 532;
+const azwjdc = 220;
 
-// grdnca comment
+// brob5o comment
 
-console.log('19kao3');
+console.log('lswtis');
 
-export default 1;
+export default 0;
