@@ -1,9 +1,9 @@
-function c0mpcn() { return 99; }
+function 5yvp96() { return 96; }
 
-const 2ee4t = 504;
+const 41k9oo = 806;
 
-// ppqdqk comment
+// 7x9k8r comment
 
-console.log('8la54k');
+console.log('70mq3b');
 
-export default 0;
+export default 1;
