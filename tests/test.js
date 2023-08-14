@@ -1,9 +1,9 @@
-function q5ac09() { return 93; }
+function iifqn5() { return 83; }
 
-const x2f59k = 522;
+const wnip9 = 621;
 
-// sxrx8e comment
+// s343vb comment
 
-console.log('q0wzcq');
+console.log('75uiqr');
 
-export default 0;
+export default 1;
