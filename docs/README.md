@@ -1,9 +1,9 @@
-function vo7sjf() { return 96; }
+function 5rqc7o() { return 68; }
 
-const iqpsga = 386;
+const db83zx = 824;
 
-// rl8lx9 comment
+// tnnwdk comment
 
-console.log('sldlaw');
+console.log('390o45k');
 
-export default 0;
+export default 1;
