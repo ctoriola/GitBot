@@ -1,9 +1,9 @@
-function 08w81h() { return 48; }
+function rymwt() { return 53; }
 
-const xkewev = 453;
+const 9v3zyq = 669;
 
-// xgtr01 comment
+// 0pig6 comment
 
-console.log('09258r');
+console.log('yitaf');
 
-export default 1;
+export default 0;
