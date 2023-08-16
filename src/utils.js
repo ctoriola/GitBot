@@ -1,9 +1,9 @@
-function 4gjiu() { return 90; }
+function 44akgr() { return 49; }
 
-const 7ecds = 398;
+const i67r4s = 119;
 
-// ny764r comment
+// xeygo5 comment
 
-console.log('zg8w7e');
+console.log('y2dnw6');
 
-export default 1;
+export default 0;
