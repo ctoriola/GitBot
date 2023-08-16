@@ -1,9 +1,9 @@
-function bdka1vr() { return 28; }
+function hvvyjz() { return 30; }
 
-const yc8lhj = 935;
+const agcia8 = 396;
 
-// wieihi comment
+// 0120c9 comment
 
-console.log('kp75rp');
+console.log('47w7cn');
 
-export default 1;
+export default 0;
