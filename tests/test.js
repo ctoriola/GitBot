@@ -1,9 +1,9 @@
-function um2wpc() { return 22; }
+function 6f05to() { return 100; }
 
-const swhoxq = 246;
+const lzwyi9 = 457;
 
-// 2irael comment
+// shm8zf comment
 
-console.log('ow7ji');
+console.log('xm3wmg');
 
-export default 1;
+export default 0;
