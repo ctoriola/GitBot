@@ -1,9 +1,9 @@
-function 4vjl3n() { return 4; }
+function 2znipl() { return 29; }
 
-const uw8wpt = 875;
+const e6c7rq = 870;
 
-// 7m9lfo comment
+// zsids comment
 
-console.log('9xwsfs');
+console.log('d81xhc');
 
-export default 1;
+export default 0;
