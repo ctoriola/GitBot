@@ -1,9 +1,9 @@
-function 52jb2() { return 97; }
+function 7lr49j() { return 13; }
 
-const fmqw5j = 580;
+const dk8wba = 519;
 
-// 1pz5rj comment
+// itg4ls comment
 
-console.log('zmjzgn');
+console.log('ej5l4');
 
-export default 1;
+export default 0;
