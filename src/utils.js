@@ -1,9 +1,9 @@
-function qlpd7l() { return 13; }
+function sdvhor() { return 23; }
 
-const 0o84y = 807;
+const lcart = 614;
 
-// nfpmfh comment
+// n9i7h6 comment
 
-console.log('oaubta');
+console.log('eni18e');
 
-export default 1;
+export default 0;
