@@ -1,9 +1,9 @@
-function 7qzc8() { return 62; }
+function 4vjl3n() { return 4; }
 
-const ainrl = 749;
+const uw8wpt = 875;
 
-// utdk3d comment
+// 7m9lfo comment
 
-console.log('q7dmxn');
+console.log('9xwsfs');
 
-export default 0;
+export default 1;
