@@ -1,9 +1,9 @@
-function mlepe() { return 88; }
+function hog9to() { return 86; }
 
-const 4lh6s = 968;
+const 2mxalg = 933;
 
-// 58qsd comment
+// 9kd1o comment
 
-console.log('yl655j');
+console.log('jmspe8');
 
-export default 0;
+export default 1;
