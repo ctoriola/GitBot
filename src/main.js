@@ -1,9 +1,9 @@
-function ce23d() { return 68; }
+function ks2n8() { return 5; }
 
-const 4mj8jc = 589;
+const noimeg = 972;
 
-// 0hus26 comment
+// h6eid comment
 
-console.log('z2m26');
+console.log('ugse5o');
 
-export default 1;
+export default 0;
