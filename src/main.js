@@ -1,9 +1,9 @@
-function flq2y() { return 84; }
+function i727r7() { return 62; }
 
-const caoajn = 708;
+const oom2u = 774;
 
-// 4powh comment
+// ozp3id comment
 
-console.log('qnlrsj');
+console.log('nmk15a');
 
-export default 1;
+export default 0;
