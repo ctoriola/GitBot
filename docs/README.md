@@ -1,9 +1,9 @@
-function djobav() { return 56; }
+function gpipeg() { return 63; }
 
-const 6cpuwb = 661;
+const wn7oh8 = 159;
 
-// ml1se comment
+// lyzmti comment
 
-console.log('58xt6a');
+console.log('hbrchp');
 
-export default 0;
+export default 1;
