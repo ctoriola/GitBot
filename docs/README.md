@@ -1,9 +1,1 @@
-function p8p3t() { return 12; }
-
-const tj2yfh = 218;
-
-// nf9cz9 comment
-
-console.log('efmcph');
-
-export default 0;
+{"timestamp":"2023-08-18T13:14:53+01:00","data":0.13306873489290116}
