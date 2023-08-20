@@ -1,9 +1,9 @@
-function 44a73() { return 93; }
+function 1ipux() { return 58; }
 
-const 666jan = 747;
+const l2owtr = 233;
 
-// a3akj7 comment
+// nare6i comment
 
-console.log('4sha8');
+console.log('7divsw');
 
-export default 0;
+export default 1;
