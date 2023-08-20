@@ -1,9 +1,9 @@
-function 4p7qzg() { return 9; }
+function 95kdw() { return 35; }
 
-const 0flsom = 709;
+const 19n7e = 316;
 
-// fhqpbk comment
+// hubfml comment
 
-console.log('u29c0a');
+console.log('niga6');
 
-export default 0;
+export default 1;
