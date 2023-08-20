@@ -1,9 +1,9 @@
-function 0c2lqp() { return 50; }
+function 64hw4p() { return 29; }
 
-const c2tr7b = 971;
+const fit57p = 969;
 
-// 2uw57yp comment
+// zdbm3j comment
 
-console.log('n9rioq');
+console.log('6sv7xd');
 
-export default 1;
+export default 0;
