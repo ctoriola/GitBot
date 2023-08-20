@@ -1,9 +1,9 @@
-function y8wfs() { return 98; }
+function izurdx() { return 98; }
 
-const rszk2o = 880;
+const 8e9jz = 860;
 
-// bs21g6o comment
+// 4krd5c comment
 
-console.log('hwej2l');
+console.log('ekqiz');
 
-export default 0;
+export default 1;
