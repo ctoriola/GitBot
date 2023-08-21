@@ -1,9 +1,9 @@
-function v3j7z9() { return 93; }
+function 94s20s() { return 21; }
 
-const d1htyt = 516;
+const 1jz7rd = 109;
 
-// xpdc4c comment
+// z6ibmn comment
 
-console.log('2fipe');
+console.log('apfui');
 
 export default 1;
