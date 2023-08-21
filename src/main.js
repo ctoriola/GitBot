@@ -1,9 +1,9 @@
-function xgq0mw() { return 14; }
+function elygz() { return 39; }
 
-const ozxitd = 956;
+const ioecx = 974;
 
-// npmpd comment
+// nr2np comment
 
-console.log('bbkmjl');
+console.log('1otizb');
 
-export default 1;
+export default 0;
