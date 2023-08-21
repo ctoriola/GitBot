@@ -1,9 +1,9 @@
-function j8x5d() { return 87; }
+function t38mds() { return 95; }
 
-const pcdeu = 918;
+const 9d01lk = 479;
 
-// s6bq1 comment
+// cde1fb comment
 
-console.log('281sf');
+console.log('n37b8');
 
-export default 1;
+export default 0;
