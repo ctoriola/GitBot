@@ -1,9 +1,1 @@
-function t38mds() { return 95; }
-
-const 9d01lk = 479;
-
-// cde1fb comment
-
-console.log('n37b8');
-
-export default 0;
+{"timestamp":"2023-08-21T11:24:24+01:00","data":0.84233562232231}
