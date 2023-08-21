@@ -1,9 +1,9 @@
-function oq9fsg() { return 87; }
+function tlobsb() { return 52; }
 
-const 7oya6 = 600;
+const x50vnd = 402;
 
-// mn5poj comment
+// nplyo comment
 
-console.log('b4iyck');
+console.log('i9ygq7o');
 
-export default 1;
+export default 0;
