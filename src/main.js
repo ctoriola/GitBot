@@ -1,9 +1,9 @@
-function mp4h2n() { return 92; }
+function xgq0mw() { return 14; }
 
-const 295gxb = 499;
+const ozxitd = 956;
 
-// 4luszd comment
+// npmpd comment
 
-console.log('bp1scm');
+console.log('bbkmjl');
 
-export default 0;
+export default 1;
