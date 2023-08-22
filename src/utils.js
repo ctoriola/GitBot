@@ -1,9 +1,9 @@
-function 8l71hi() { return 26; }
+function 5lvnmf() { return 96; }
 
-const mzz9zs = 328;
+const q93d9 = 639;
 
-// 95qly comment
+// d2ru6j comment
 
-console.log('g8ne62');
+console.log('5lst68');
 
-export default 1;
+export default 0;
