@@ -1,9 +1,9 @@
-function 39tlrg() { return 44; }
+function iazsa6() { return 45; }
 
-const 71k82 = 750;
+const qj311mm = 470;
 
-// 0d89v comment
+// 2hqzkr comment
 
-console.log('lrsxm');
+console.log('imfb4fo');
 
-export default 0;
+export default 1;
