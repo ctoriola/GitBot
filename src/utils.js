@@ -1,9 +1,9 @@
-function u0mnp2() { return 92; }
+function bn6gbk() { return 27; }
 
-const 1l6127 = 501;
+const mj3c7 = 990;
 
-// dopu8t comment
+// t8mzv comment
 
-console.log('saort');
+console.log('rkfac');
 
-export default 1;
+export default 0;
