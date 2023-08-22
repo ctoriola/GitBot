@@ -1,9 +1,9 @@
-function elygz() { return 39; }
+function 79kb6o() { return 7; }
 
-const ioecx = 974;
+const wzdpk = 968;
 
-// nr2np comment
+// jl83u comment
 
-console.log('1otizb');
+console.log('woh5q7');
 
-export default 0;
+export default 1;
