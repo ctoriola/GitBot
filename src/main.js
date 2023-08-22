@@ -1,9 +1,9 @@
-function h82fkc() { return 80; }
+function rjf69d() { return 91; }
 
-const mmiwhc = 225;
+const y596ec = 253;
 
-// 2szgoq comment
+// 8sevdj comment
 
-console.log('f4j0ja');
+console.log('ve7gv');
 
-export default 0;
+export default 1;
