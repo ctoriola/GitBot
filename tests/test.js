@@ -1,9 +1,9 @@
-function 3kpj3() { return 10; }
+function ya83kx() { return 63; }
 
-const kk5st7 = 853;
+const 3fskd = 670;
 
-// jd68tr comment
+// llf0xp comment
 
-console.log('gqbrwp');
+console.log('yx7pql');
 
-export default 0;
+export default 1;
