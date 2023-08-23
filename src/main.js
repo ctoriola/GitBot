@@ -1,9 +1,9 @@
-function j4w9r() { return 23; }
+function 9vmbrv() { return 90; }
 
-const 91ba4 = 209;
+const dswluxm = 963;
 
-// x0zva comment
+// tsnpi8 comment
 
-console.log('wpcjam');
+console.log('e9agbb');
 
-export default 0;
+export default 1;
