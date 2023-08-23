@@ -1,9 +1,9 @@
-function rjf69d() { return 91; }
+function j4w9r() { return 23; }
 
-const y596ec = 253;
+const 91ba4 = 209;
 
-// 8sevdj comment
+// x0zva comment
 
-console.log('ve7gv');
+console.log('wpcjam');
 
-export default 1;
+export default 0;
