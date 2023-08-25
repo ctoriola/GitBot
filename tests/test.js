@@ -1,9 +1,9 @@
-function 6o8pp() { return 84; }
+function li418() { return 50; }
 
-const x1v6cr = 720;
+const p5sx9l = 145;
 
-// 1avggo comment
+// 4n17fa comment
 
-console.log('it0lir');
+console.log('fakuuf');
 
-export default 1;
+export default 0;
