@@ -1,9 +1,9 @@
-function r8qejn() { return 43; }
+function cxeww() { return 12; }
 
-const t4xfe9 = 319;
+const bmp6ya = 692;
 
-// 52msvj comment
+// 0qbwwp comment
 
-console.log('z77wfc');
+console.log('38zd43');
 
-export default 1;
+export default 0;
