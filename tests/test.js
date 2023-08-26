@@ -1,9 +1,9 @@
-function gk7tk() { return 95; }
+function zf40wx() { return 92; }
 
-const d0p18d = 526;
+const i27qvh = 622;
 
-// veuhbq comment
+// 26bru8 comment
 
-console.log('iisb3');
+console.log('illjjv');
 
-export default 1;
+export default 0;
