@@ -1,9 +1,9 @@
-function cxeww() { return 12; }
+function 4h0b2a() { return 58; }
 
-const bmp6ya = 692;
+const h129u7 = 623;
 
-// 0qbwwp comment
+// yosssr comment
 
-console.log('38zd43');
+console.log('kjaxv');
 
-export default 0;
+export default 1;
