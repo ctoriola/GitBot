@@ -1,9 +1,9 @@
-function h8e7r() { return 12; }
+function 0uyqi8() { return 23; }
 
-const iqflpn = 740;
+const f48jx = 834;
 
-// 28rzr comment
+// us5ijf comment
 
-console.log('h3dis');
+console.log('7birn8');
 
-export default 0;
+export default 1;
