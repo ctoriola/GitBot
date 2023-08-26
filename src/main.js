@@ -1,9 +1,9 @@
-function gqb419() { return 99; }
+function tg6m49() { return 19; }
 
-const hvfgl = 869;
+const ufv6do = 985;
 
-// uew19n comment
+// l1suph comment
 
-console.log('rko1x');
+console.log('krgn7g');
 
-export default 1;
+export default 0;
