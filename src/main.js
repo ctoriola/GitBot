@@ -1,9 +1,9 @@
-function zf3zof() { return 5; }
+function 6il8p() { return 12; }
 
-const xt1bug = 231;
+const e434v8 = 602;
 
-// tqknzk comment
+// 8qkic2 comment
 
-console.log('8ss8q');
+console.log('f51spp');
 
-export default 0;
+export default 1;
