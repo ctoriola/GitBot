@@ -1,9 +1,9 @@
-function sd4e0l() { return 43; }
+function k4bwqg() { return 39; }
 
-const yvcst = 466;
+const 9vmz88 = 674;
 
-// lsw8ae comment
+// 5530q comment
 
-console.log('g04dda');
+console.log('lex2z');
 
-export default 1;
+export default 0;
