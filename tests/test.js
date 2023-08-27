@@ -1,9 +1,9 @@
-function 6rmhb() { return 55; }
+function knngaa() { return 32; }
 
-const t7u969 = 879;
+const xd68a = 790;
 
-// z7ttg9 comment
+// t9xpki comment
 
-console.log('4m0xd');
+console.log('rz3dou');
 
-export default 0;
+export default 1;
