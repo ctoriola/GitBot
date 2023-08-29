@@ -1,9 +1,9 @@
-function 80nfl() { return 62; }
+function gpihr9() { return 30; }
 
-const f84o8a = 358;
+const 8b97jq = 925;
 
-// 82bx8 comment
+// 0m793 comment
 
-console.log('3uxj82');
+console.log('sbtf9y');
 
-export default 1;
+export default 0;
