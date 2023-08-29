@@ -1,9 +1,9 @@
-function i7ltu4() { return 18; }
+function 7fyxfs() { return 1; }
 
-const pe2fys = 588;
+const ofwhok = 942;
 
-// zpb8ti comment
+// 381mth comment
 
-console.log('ensira');
+console.log('kx8ksu');
 
-export default 0;
+export default 1;
