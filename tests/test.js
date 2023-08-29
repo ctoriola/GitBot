@@ -1,9 +1,9 @@
-function lz75an() { return 9; }
+function qyakg9() { return 28; }
 
-const qlsg35 = 496;
+const wt4xs4 = 291;
 
-// vkhp6o comment
+// 9itttj comment
 
-console.log('8063th');
+console.log('2baan');
 
-export default 0;
+export default 1;
