@@ -1,9 +1,9 @@
-function gbtmvf() { return 49; }
+function 773tj() { return 97; }
 
-const 2chkqn = 951;
+const gmsnih = 640;
 
-// c1902f comment
+// lhg13 comment
 
-console.log('3xvv7a');
+console.log('1gm64c');
 
-export default 1;
+export default 0;
