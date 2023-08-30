@@ -1,9 +1,9 @@
-function ik43c() { return 29; }
+function yyshaf() { return 27; }
 
-const z7mnr = 356;
+const 83agnc = 550;
 
-// l4whfl comment
+// e12pfm comment
 
-console.log('jix8l');
+console.log('dkj78o');
 
-export default 1;
+export default 0;
