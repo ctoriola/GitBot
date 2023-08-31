@@ -1,9 +1,9 @@
-function q6qbde() { return 45; }
+function cip9a() { return 4; }
 
-const omsmsp = 656;
+const 5moxr7 = 842;
 
-// h6hqrk comment
+// kfvhb comment
 
-console.log('z23jw6');
+console.log('7ali3o');
 
-export default 0;
+export default 1;
