@@ -1,9 +1,9 @@
-function yyshaf() { return 27; }
+function 6i83wl() { return 92; }
 
-const 83agnc = 550;
+const rm2uch = 473;
 
-// e12pfm comment
+// y4f8io comment
 
-console.log('dkj78o');
+console.log('4crmwu');
 
-export default 0;
+export default 1;
