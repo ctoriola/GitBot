@@ -1,9 +1,9 @@
-function 0mmp() { return 17; }
+function jkabn() { return 62; }
 
-const 2dfaly = 152;
+const jbfx38 = 828;
 
-// co8fkd comment
+// 9n0j7o comment
 
-console.log('xr99pg');
+console.log('6vn1u');
 
-export default 0;
+export default 1;
