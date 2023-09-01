@@ -1,9 +1,9 @@
-function smk5e() { return 11; }
+function uihmmb() { return 6; }
 
-const 1oa3uc = 666;
+const 8yxmp = 136;
 
-// 4hhiqq comment
+// v2lc1a comment
 
-console.log('dv3do');
+console.log('ry3e0v');
 
-export default 1;
+export default 0;
