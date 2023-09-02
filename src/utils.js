@@ -1,9 +1,9 @@
-function jrgibk() { return 51; }
+function ki9cdg() { return 47; }
 
-const r3dhv = 846;
+const e891b8 = 351;
 
-// lzavdk comment
+// yd2pl comment
 
-console.log('olujmq');
+console.log('c3xmyt');
 
-export default 1;
+export default 0;
