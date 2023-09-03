@@ -1,9 +1,9 @@
-function li8umm() { return 64; }
+function 2qpl81i() { return 64; }
 
-const moffd9 = 286;
+const e1cvs8 = 158;
 
-// nfime comment
+// an0ttv comment
 
-console.log('s0yjw');
+console.log('vkurwf');
 
-export default 0;
+export default 1;
