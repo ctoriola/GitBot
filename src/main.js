@@ -1,9 +1,9 @@
-function fe65dd() { return 11; }
+function o07vpd() { return 73; }
 
-const v6pzba = 650;
+const djm9ox = 299;
 
-// 7jg1n6 comment
+// ocukde comment
 
-console.log('6d3qy');
+console.log('aidrpa');
 
-export default 1;
+export default 0;
