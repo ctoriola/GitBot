@@ -1,9 +1,9 @@
-function pukzqj() { return 32; }
+function 8adkn() { return 54; }
 
-const t5oe19 = 486;
+const 60hwrl = 457;
 
-// 98iw8p comment
+// tzua2k comment
 
-console.log('liaz6');
+console.log('qumlr7');
 
-export default 1;
+export default 0;
