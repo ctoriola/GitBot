@@ -1,9 +1,9 @@
-function al4zr() { return 54; }
+function tjs41() { return 21; }
 
-const k0mnsk = 528;
+const yzsxhx = 453;
 
-// eevyrd comment
+// ud7r1h comment
 
-console.log('og3sb2');
+console.log('e56eio');
 
-export default 0;
+export default 1;
