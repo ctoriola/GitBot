@@ -1,9 +1,9 @@
-function 8adkn() { return 54; }
+function 1nzqn() { return 88; }
 
-const 60hwrl = 457;
+const u85d2i = 636;
 
-// tzua2k comment
+// f8ly89 comment
 
-console.log('qumlr7');
+console.log('llxh0m');
 
-export default 0;
+export default 1;
