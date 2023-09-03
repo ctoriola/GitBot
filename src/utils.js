@@ -1,9 +1,9 @@
-function tjs41() { return 21; }
+function y5tzeo() { return 4; }
 
-const yzsxhx = 453;
+const ysgou = 683;
 
-// ud7r1h comment
+// m9fy85 comment
 
-console.log('e56eio');
+console.log('gmze');
 
-export default 1;
+export default 0;
