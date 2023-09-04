@@ -1,9 +1,9 @@
-function v56yt() { return 1; }
+function zet3jl() { return 88; }
 
-const sh3dbk = 523;
+const xpndvk = 425;
 
-// nsvz0x comment
+// l1ygcp comment
 
-console.log('nc7v8e9');
+console.log('eycl6ew');
 
-export default 1;
+export default 0;
