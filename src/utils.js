@@ -1,9 +1,9 @@
-function ki9cdg() { return 47; }
+function lw8wc8() { return 48; }
 
-const e891b8 = 351;
+const sfghe8 = 206;
 
-// yd2pl comment
+// uf3kw comment
 
-console.log('c3xmyt');
+console.log('lli8d');
 
-export default 0;
+export default 1;
