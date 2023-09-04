@@ -1,9 +1,9 @@
-function cww2fw() { return 33; }
+function v56yt() { return 1; }
 
-const rt35ho = 887;
+const sh3dbk = 523;
 
-// syju1 comment
+// nsvz0x comment
 
-console.log('2zshkv');
+console.log('nc7v8e9');
 
-export default 0;
+export default 1;
