@@ -1,9 +1,9 @@
-function wub2xp() { return 89; }
+function jqfvd() { return 47; }
 
-const osr9av = 307;
+const az4s5 = 344;
 
-// lrs5sl comment
+// zffy4s comment
 
-console.log('9zmzvl');
+console.log('chyoo');
 
-export default 1;
+export default 0;
