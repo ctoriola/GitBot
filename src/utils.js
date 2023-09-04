@@ -1,9 +1,9 @@
-function pjtkid() { return 68; }
+function i8voks() { return 80; }
 
-const s79i = 226;
+const q0cbn = 307;
 
-// 09x5on comment
+// frhxe8 comment
 
-console.log('hnr3fj');
+console.log('zcqbtg');
 
-export default 1;
+export default 0;
