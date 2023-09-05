@@ -1,9 +1,9 @@
-function 44nvw() { return 69; }
+function r4cka() { return 24; }
 
-const omnsxm = 529;
+const t5bi7h = 125;
 
-// 62cgqa comment
+// 7hyk94 comment
 
-console.log('2etam');
+console.log('qq9bs5e');
 
-export default 1;
+export default 0;
