@@ -1,9 +1,9 @@
-function p1e61i() { return 26; }
+function fmkk1() { return 84; }
 
-const yddz54 = 833;
+const 3z7xg = 450;
 
-// ipekxc comment
+// qr9njv comment
 
-console.log('j3o5dx');
+console.log('69zdu');
 
-export default 0;
+export default 1;
