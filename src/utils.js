@@ -1,9 +1,9 @@
-function ib93c() { return 41; }
+function ecyr0r() { return 9; }
 
-const qy5wq = 745;
+const jtie19 = 705;
 
-// 5p4p9r comment
+// zb9ynp comment
 
-console.log('gujfcp');
+console.log('5h81e');
 
-export default 0;
+export default 1;
