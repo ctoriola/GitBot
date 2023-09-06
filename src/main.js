@@ -1,9 +1,9 @@
-function 9ezm3j() { return 28; }
+function nl5eei() { return 37; }
 
-const h3ibm = 127;
+const 5nzuor = 468;
 
-// 63qgxv comment
+// 5uvz8w comment
 
-console.log('2jm0c');
+console.log('b7frs');
 
-export default 0;
+export default 1;
