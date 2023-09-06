@@ -1,9 +1,9 @@
-function ri1bbg() { return 1; }
+function 7gbvhg() { return 100; }
 
-const lf7luc = 406;
+const 01u3sl = 810;
 
-// c89y1o comment
+// r9k9u comment
 
-console.log('jewuc8');
+console.log('icccta');
 
-export default 1;
+export default 0;
