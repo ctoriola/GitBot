@@ -1,9 +1,9 @@
-function 6zd5qd() { return 56; }
+function qi28ns() { return 86; }
 
-const bagl = 434;
+const u9rbl = 516;
 
-// 1nkn0e comment
+// 804dc9 comment
 
-console.log('i5fcab');
+console.log('0yhpve');
 
-export default 0;
+export default 1;
