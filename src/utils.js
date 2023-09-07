@@ -1,9 +1,9 @@
-function 7x6tn() { return 15; }
+function nztjvj() { return 4; }
 
-const tfmygs = 798;
+const 3v903o = 962;
 
-// g6rjq comment
+// s16un2 comment
 
-console.log('jyvx5s');
+console.log('65ouns');
 
-export default 0;
+export default 1;
