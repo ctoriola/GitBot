@@ -1,9 +1,9 @@
-function uaz6zr() { return 62; }
+function 5fjmc8() { return 73; }
 
-const 236tnl = 994;
+const lgx0zo = 442;
 
-// j1gdnr comment
+// oixm8 comment
 
-console.log('rbw0x');
+console.log('tb2oh');
 
-export default 0;
+export default 1;
