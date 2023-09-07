@@ -1,9 +1,9 @@
-function iq7lyh() { return 92; }
+function xysa2() { return 19; }
 
-const sd5zv9 = 253;
+const qs9w2 = 225;
 
-// lxz2ap comment
+// x9ekg5 comment
 
-console.log('jtqbxe');
+console.log('usaff8');
 
-export default 1;
+export default 0;
