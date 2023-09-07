@@ -1,9 +1,9 @@
-function pt5mmq() { return 74; }
+function uaz6zr() { return 62; }
 
-const sarwtu = 445;
+const 236tnl = 994;
 
-// 5lkm5 comment
+// j1gdnr comment
 
-console.log('6snvgh');
+console.log('rbw0x');
 
-export default 1;
+export default 0;
