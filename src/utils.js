@@ -1,9 +1,9 @@
-function nztjvj() { return 4; }
+function 71mpk() { return 50; }
 
-const 3v903o = 962;
+const 3tbhyf = 830;
 
-// s16un2 comment
+// 5yf04c comment
 
-console.log('65ouns');
+console.log('13w47s');
 
-export default 1;
+export default 0;
