@@ -1,9 +1,9 @@
-function 5fjmc8() { return 73; }
+function g1rjmf() { return 13; }
 
-const lgx0zo = 442;
+const bk3mt = 803;
 
-// oixm8 comment
+// myd8xe comment
 
-console.log('tb2oh');
+console.log('j7iigv');
 
-export default 1;
+export default 0;
