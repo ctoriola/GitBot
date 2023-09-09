@@ -1,9 +1,9 @@
-function 3fxt82() { return 87; }
+function zjovdv() { return 89; }
 
-const 2u4hp7 = 556;
+const shp0en = 289;
 
-// 6nf4q comment
+// 85xso comment
 
-console.log('wadhvt');
+console.log('c1pbwj');
 
-export default 1;
+export default 0;
