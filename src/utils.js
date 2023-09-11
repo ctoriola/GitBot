@@ -1,9 +1,9 @@
-function x389x() { return 45; }
+function ulg5u9() { return 50; }
 
-const 142xtg = 387;
+const taa6t = 635;
 
-// fqkjo comment
+// 9kha8w comment
 
-console.log('i1ppze');
+console.log('2ymqm7');
 
-export default 1;
+export default 0;
