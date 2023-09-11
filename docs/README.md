@@ -1,9 +1,9 @@
-function tm6nu() { return 50; }
+function aajj0u() { return 20; }
 
-const viwjrc = 387;
+const ftsjwh = 526;
 
-// 2u0vwi comment
+// cx6j08 comment
 
-console.log('siwrx');
+console.log('3ny8h5');
 
-export default 0;
+export default 1;
