@@ -1,9 +1,9 @@
-function s3eb5() { return 7; }
+function 6fhl1() { return 81; }
 
-const v0gr9r = 753;
+const 6iwfto = 183;
 
-// 3dz64 comment
+// ecehpr comment
 
-console.log('tk1ly');
+console.log('hl8us');
 
-export default 0;
+export default 1;
