@@ -1,9 +1,9 @@
-function fsksnk() { return 7; }
+function tm6nu() { return 50; }
 
-const 6vgjpu = 668;
+const viwjrc = 387;
 
-// 4okhfc comment
+// 2u0vwi comment
 
-console.log('gkqop5c');
+console.log('siwrx');
 
 export default 0;
