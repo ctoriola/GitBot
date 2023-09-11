@@ -1,9 +1,9 @@
-function tc9c9s() { return 78; }
+function f47dwg() { return 11; }
 
-const 1qzy0o = 251;
+const pyepcd = 192;
 
-// 8jmm8k comment
+// hsvh9e comment
 
-console.log('yswc5b');
+console.log('murph');
 
-export default 1;
+export default 0;
