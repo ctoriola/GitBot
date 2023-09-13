@@ -1,9 +1,9 @@
-function k3z1sa() { return 97; }
+function m9jcm() { return 65; }
 
-const phr81a = 471;
+const lnzr7i = 426;
 
-// hf3ud comment
+// ni8ab comment
 
-console.log('gb0oe');
+console.log('sbmpjp');
 
-export default 1;
+export default 0;
