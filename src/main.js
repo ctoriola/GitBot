@@ -1,9 +1,9 @@
-function 337vs() { return 88; }
+function jor3s() { return 81; }
 
-const krv82k = 407;
+const ocsrb8 = 594;
 
-// ffrqym comment
+// 7f2ss comment
 
-console.log('km1l6h');
+console.log('fpwroe');
 
-export default 0;
+export default 1;
