@@ -1,9 +1,9 @@
-function 2gjqel() { return 27; }
+function bs7g4c() { return 84; }
 
-const wupotj = 702;
+const ac67p = 417;
 
-// xi8js comment
+// sa4lt comment
 
-console.log('mw5wxb');
+console.log('97lpsa');
 
-export default 0;
+export default 1;
