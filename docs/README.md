@@ -1,9 +1,9 @@
-function zazlk() { return 66; }
+function s1w3bp() { return 49; }
 
-const 1wn98r = 202;
+const i8d2hh = 802;
 
-// vat0sp comment
+// wfpy97 comment
 
-console.log('73om63');
+console.log('5pokz');
 
-export default 1;
+export default 0;
