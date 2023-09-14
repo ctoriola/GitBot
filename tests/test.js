@@ -1,9 +1,9 @@
-function axtpuv() { return 76; }
+function drh43q() { return 80; }
 
-const sa33d = 887;
+const 6nvtis = 678;
 
-// bi4ikj comment
+// 143bqv comment
 
-console.log('dfe5u');
+console.log('dpxm5');
 
-export default 0;
+export default 1;
