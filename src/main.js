@@ -1,9 +1,9 @@
-function jor3s() { return 81; }
+function as7i2() { return 85; }
 
-const ocsrb8 = 594;
+const iys1o = 524;
 
-// 7f2ss comment
+// a0x4x3 comment
 
-console.log('fpwroe');
+console.log('1yss1u');
 
-export default 1;
+export default 0;
