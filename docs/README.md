@@ -1,9 +1,9 @@
-function o319yo() { return 80; }
+function 6p6dd() { return 17; }
 
-const x09dp = 831;
+const prdk2h = 352;
 
-// jnkwzb comment
+// f4ewbv comment
 
-console.log('3u8tss');
+console.log('d5auz');
 
-export default 1;
+export default 0;
