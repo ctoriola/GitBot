@@ -1,9 +1,9 @@
-function dfk46m() { return 95; }
+function dilq57() { return 74; }
 
-const b32axd = 103;
+const rdegjs = 734;
 
-// knmijc comment
+// ydnl5 comment
 
-console.log('79h3wt');
+console.log('381cpr');
 
-export default 1;
+export default 0;
