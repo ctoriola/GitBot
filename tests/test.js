@@ -1,9 +1,9 @@
-function dilq57() { return 74; }
+function 6knxsh() { return 34; }
 
-const rdegjs = 734;
+const f4nfbj = 727;
 
-// ydnl5 comment
+// jmfe54 comment
 
-console.log('381cpr');
+console.log('anzn3');
 
-export default 0;
+export default 1;
