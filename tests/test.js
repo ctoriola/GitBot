@@ -1,9 +1,9 @@
-function xpoj68() { return 24; }
+function 9e0oqi() { return 76; }
 
-const db02dr = 918;
+const iw9qy = 753;
 
-// 721cak comment
+// 2n9mhs comment
 
-console.log('wnwihl');
+console.log('0l3li');
 
-export default 0;
+export default 1;
