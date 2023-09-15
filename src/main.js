@@ -1,9 +1,9 @@
-function 0xl7z9() { return 4; }
+function ft7isv() { return 93; }
 
-const m13vd = 165;
+const hr9hz = 176;
 
-// imdkjp comment
+// p6zwth comment
 
-console.log('5qxkm8');
+console.log('4cl1zn');
 
-export default 1;
+export default 0;
