@@ -1,9 +1,9 @@
-function 6knxsh() { return 34; }
+function z3m4vo() { return 72; }
 
-const f4nfbj = 727;
+const 2fhh1i = 552;
 
-// jmfe54 comment
+// sx1z6 comment
 
-console.log('anzn3');
+console.log('gkhm4s');
 
-export default 1;
+export default 0;
