@@ -1,9 +1,9 @@
-function 53lipi() { return 74; }
+function k1kv9q() { return 44; }
 
-const 2y7hk9 = 486;
+const dymk3a = 613;
 
-// jdv1yy comment
+// lu6yq comment
 
-console.log('silpnl');
+console.log('xxbcl5');
 
-export default 1;
+export default 0;
