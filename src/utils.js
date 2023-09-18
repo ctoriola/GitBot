@@ -1,9 +1,9 @@
-function w550gk() { return 35; }
+function 93gnjv() { return 32; }
 
-const 7dbr68 = 609;
+const oend6e = 249;
 
-// fkwdh comment
+// xqhe9s comment
 
-console.log('frgkln');
+console.log('91dc6f');
 
-export default 1;
+export default 0;
