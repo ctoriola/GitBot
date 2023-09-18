@@ -1,9 +1,9 @@
-function bmk6t() { return 75; }
+function ej0arg() { return 26; }
 
-const 337zuu = 731;
+const ouc16 = 819;
 
-// lpsc3e comment
+// 34wtiw comment
 
-console.log('dhtvde');
+console.log('1u9ld');
 
-export default 1;
+export default 0;
