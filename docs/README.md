@@ -1,9 +1,9 @@
-function 8exip8() { return 9; }
+function bq0c9g() { return 14; }
 
-const 5h862p = 572;
+const dr88g = 600;
 
-// i47a8p comment
+// 20df0s comment
 
-console.log('bk2689');
+console.log('emk2o4');
 
-export default 1;
+export default 0;
