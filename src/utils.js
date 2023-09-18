@@ -1,9 +1,9 @@
-function zmq9k7() { return 69; }
+function wa39lm() { return 58; }
 
-const tvoch = 689;
+const ait9kp = 811;
 
-// 3nfljo comment
+// 52z18 comment
 
-console.log('gphx7');
+console.log('hv2utb');
 
-export default 1;
+export default 0;
