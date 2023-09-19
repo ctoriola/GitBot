@@ -1,9 +1,9 @@
-function 2mvw83() { return 83; }
+function s1trlc() { return 80; }
 
-const rgmfhy = 545;
+const e23vgn = 910;
 
-// j114nm comment
+// b0ntv comment
 
-console.log('gbdtpx');
+console.log('ds8v8e');
 
-export default 1;
+export default 0;
