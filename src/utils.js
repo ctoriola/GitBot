@@ -1,9 +1,9 @@
-function k27lbi() { return 87; }
+function bewiv8() { return 24; }
 
-const 21s3jy = 911;
+const 81w1zvm = 957;
 
-// 3wr1tm comment
+// ai4nq comment
 
-console.log('ya06u');
+console.log('kbvrzn');
 
-export default 1;
+export default 0;
