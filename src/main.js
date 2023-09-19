@@ -1,9 +1,9 @@
-function ej0arg() { return 26; }
+function r7fmt() { return 8; }
 
-const ouc16 = 819;
+const 09x86d = 923;
 
-// 34wtiw comment
+// wcvdm comment
 
-console.log('1u9ld');
+console.log('jwqydr');
 
-export default 0;
+export default 1;
