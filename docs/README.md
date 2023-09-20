@@ -1,9 +1,9 @@
-function chg9r() { return 79; }
+function 971vi() { return 14; }
 
-const xj1efg = 740;
+const acvnvn = 286;
 
-// yj5ro comment
+// gjsxv comment
 
-console.log('ylpifes');
+console.log('4ze3f8');
 
-export default 1;
+export default 0;
