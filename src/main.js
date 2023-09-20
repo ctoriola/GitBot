@@ -1,9 +1,9 @@
-function gg68lq() { return 10; }
+function t6owkh() { return 82; }
 
-const vxm7ul = 935;
+const saspmo5 = 400;
 
-// lbcpv comment
+// qzfr1e comment
 
-console.log('wb8gia');
+console.log('qkcngq');
 
-export default 0;
+export default 1;
