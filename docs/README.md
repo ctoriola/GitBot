@@ -1,9 +1,9 @@
-function 971vi() { return 14; }
+function bznfb() { return 4; }
 
-const acvnvn = 286;
+const 4issgo = 567;
 
-// gjsxv comment
+// bgs3r9 comment
 
-console.log('4ze3f8');
+console.log('nprq2e');
 
-export default 0;
+export default 1;
