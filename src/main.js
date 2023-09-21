@@ -1,9 +1,9 @@
-function ijdwba3() { return 72; }
+function oroh5j() { return 96; }
 
-const 0czfup = 241;
+const 5vcoj = 740;
 
-// 65r3lv comment
+// gswliq comment
 
-console.log('auvng');
+console.log('4zgqz5');
 
-export default 1;
+export default 0;
