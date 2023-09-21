@@ -1,9 +1,9 @@
-function jmtsck() { return 13; }
+function 670u9h() { return 64; }
 
-const ajrxq = 694;
+const 9nd87d = 271;
 
-// 3w4lh8 comment
+// uzvbv comment
 
-console.log('lngv7m');
+console.log('yodp1');
 
-export default 1;
+export default 0;
