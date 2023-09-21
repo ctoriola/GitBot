@@ -1,9 +1,9 @@
-function z7jxti() { return 83; }
+function 0sf3eo() { return 93; }
 
-const rplom = 264;
+const hzjmb = 277;
 
-// bse4m8 comment
+// xleve9 comment
 
-console.log('rh4jxi');
+console.log('ql6ikm');
 
-export default 0;
+export default 1;
