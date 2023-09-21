@@ -1,9 +1,9 @@
-function oh78bn() { return 32; }
+function gtqoft() { return 74; }
 
-const 4qbh9s = 535;
+const kg1fl4 = 981;
 
-// l6ooyf comment
+// 94617i comment
 
-console.log('reudyd');
+console.log('xeoyb');
 
-export default 1;
+export default 0;
