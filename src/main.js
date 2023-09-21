@@ -1,9 +1,9 @@
-function 0sf3eo() { return 93; }
+function 0nmg8b() { return 58; }
 
-const hzjmb = 277;
+const eq06ae = 115;
 
-// xleve9 comment
+// z03ubc comment
 
-console.log('ql6ikm');
+console.log('ewblg6');
 
-export default 1;
+export default 0;
