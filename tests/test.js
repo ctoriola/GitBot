@@ -1,9 +1,9 @@
-function 90p3x5() { return 63; }
+function arjy2h() { return 10; }
 
-const 77cpcs = 964;
+const yggpnf = 782;
 
-// p75ufg comment
+// vr77j8 comment
 
-console.log('3bfeqx');
+console.log('8opamu');
 
-export default 0;
+export default 1;
