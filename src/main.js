@@ -1,9 +1,9 @@
-function 6w3uio() { return 63; }
+function h02ye3() { return 7; }
 
-const xfkym = 523;
+const iv4aoa = 472;
 
-// pllr07 comment
+// s0jggrd comment
 
-console.log('oq5pms');
+console.log('790x9');
 
-export default 0;
+export default 1;
