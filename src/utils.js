@@ -1,9 +1,9 @@
-function hk97x8() { return 52; }
+function b33gu4() { return 83; }
 
-const 5bylw4 = 129;
+const j20iw = 591;
 
-// 556c2 comment
+// e1knd comment
 
-console.log('vj5v1p');
+console.log('0vlixl');
 
-export default 1;
+export default 0;
