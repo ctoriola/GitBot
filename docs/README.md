@@ -1,9 +1,9 @@
-function htlzc() { return 53; }
+function 47f1ve() { return 34; }
 
-const janvok = 992;
+const 97tpzf = 953;
 
-// u8d4zg comment
+// vcg3h5 comment
 
-console.log('la19qb');
+console.log('37uo2r');
 
-export default 1;
+export default 0;
