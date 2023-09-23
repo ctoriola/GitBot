@@ -1,9 +1,9 @@
-function lfre8d() { return 18; }
+function jmvjnup() { return 2; }
 
-const 0ken6 = 937;
+const gzxof9 = 384;
 
-// 7hxytow comment
+// 4gaq2u comment
 
-console.log('qqdqu');
+console.log('qxtj8');
 
-export default 1;
+export default 0;
