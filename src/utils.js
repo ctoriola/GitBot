@@ -1,9 +1,9 @@
-function b33gu4() { return 83; }
+function xbzew4() { return 24; }
 
-const j20iw = 591;
+const riiu5 = 298;
 
-// e1knd comment
+// uaqpoe comment
 
-console.log('0vlixl');
+console.log('jbzr4');
 
-export default 0;
+export default 1;
