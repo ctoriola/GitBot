@@ -1,9 +1,9 @@
-function prc0j() { return 12; }
+function x32kwn() { return 33; }
 
-const avm96w = 941;
+const gkyka = 405;
 
-// mpmlfm comment
+// j5i668 comment
 
-console.log('liwjci');
+console.log('2iojqa');
 
-export default 1;
+export default 0;
