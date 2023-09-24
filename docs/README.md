@@ -1,9 +1,9 @@
-function eb161u() { return 97; }
+function qdvrj4() { return 1; }
 
-const 2mn5i = 372;
+const oo4tdn = 110;
 
-// r9cmg5 comment
+// fjep8a comment
 
-console.log('3jt1s');
+console.log('dcmgzc');
 
-export default 0;
+export default 1;
