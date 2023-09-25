@@ -1,9 +1,9 @@
-function 258qvlx() { return 34; }
+function ejfga5() { return 74; }
 
-const 6s3cjd = 791;
+const 99rz2 = 709;
 
-// lf6myc comment
+// 9zu8pi comment
 
-console.log('l3cnb');
+console.log('6qxyeq');
 
-export default 1;
+export default 0;
