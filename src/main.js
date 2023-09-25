@@ -1,9 +1,9 @@
-function x32kwn() { return 33; }
+function 258qvlx() { return 34; }
 
-const gkyka = 405;
+const 6s3cjd = 791;
 
-// j5i668 comment
+// lf6myc comment
 
-console.log('2iojqa');
+console.log('l3cnb');
 
-export default 0;
+export default 1;
