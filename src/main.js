@@ -1,9 +1,9 @@
-function zsuay() { return 90; }
+function 1yf27() { return 88; }
 
-const gjzfn = 644;
+const 1htvy = 666;
 
-// vjoic comment
+// kk3dw comment
 
-console.log('47ybjh');
+console.log('i7xewn');
 
-export default 0;
+export default 1;
