@@ -1,9 +1,9 @@
-function pv0oo9() { return 64; }
+function tet16() { return 13; }
 
-const 0eyn1 = 965;
+const 0wowlb = 386;
 
-// w5gdzi comment
+// wvur4b comment
 
-console.log('8vutgs');
+console.log('1bw3i7');
 
 export default 0;
