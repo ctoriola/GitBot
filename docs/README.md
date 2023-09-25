@@ -1,9 +1,9 @@
-function juf1o() { return 85; }
+function vgol6() { return 33; }
 
-const 5vs9md = 267;
+const bg5l3l = 763;
 
-// pbjat comment
+// gcr2ft comment
 
-console.log('pd4hoo');
+console.log('m6gpkt');
 
-export default 1;
+export default 0;
