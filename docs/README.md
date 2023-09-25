@@ -1,9 +1,9 @@
-function z1vo38() { return 82; }
+function dfabu() { return 15; }
 
-const zyj5ha = 432;
+const ees5rn = 501;
 
-// yjkkgx comment
+// yebfed comment
 
-console.log('hf52ca');
+console.log('0dgobk');
 
-export default 0;
+export default 1;
