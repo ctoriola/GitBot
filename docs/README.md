@@ -1,9 +1,9 @@
-function kh6fkp() { return 60; }
+function pqo2qk() { return 88; }
 
-const nuo38 = 360;
+const da66tk = 738;
 
-// zs09v comment
+// xknyjk comment
 
-console.log('6lb4do');
+console.log('cn6jhz');
 
-export default 1;
+export default 0;
