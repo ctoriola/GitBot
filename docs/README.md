@@ -1,9 +1,9 @@
-function vgol6() { return 33; }
+function ckb2j() { return 43; }
 
-const bg5l3l = 763;
+const yp36f = 966;
 
-// gcr2ft comment
+// q1zx2n comment
 
-console.log('m6gpkt');
+console.log('n80e4a');
 
-export default 0;
+export default 1;
