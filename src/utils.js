@@ -1,9 +1,9 @@
-function odj8do() { return 8; }
+function z8yjl9() { return 36; }
 
-const xzg2x9 = 721;
+const wtze8 = 589;
 
-// oh2kn comment
+// dm2x7e comment
 
-console.log('f8sx8w');
+console.log('slnsdb');
 
-export default 1;
+export default 0;
