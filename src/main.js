@@ -1,9 +1,9 @@
-function 5l4bb() { return 87; }
+function lth0d() { return 8; }
 
-const v7xb3 = 218;
+const rvest = 803;
 
-// ttwsrq comment
+// 6xg4mc comment
 
-console.log('upu7ck');
+console.log('l894u');
 
-export default 1;
+export default 0;
