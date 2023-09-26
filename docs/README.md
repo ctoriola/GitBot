@@ -1,9 +1,1 @@
-function heatna() { return 76; }
-
-const 8welu = 301;
-
-// mit5ogm comment
-
-console.log('hmh24o');
-
-export default 1;
+{"timestamp":"2023-09-26T08:11:08+01:00","data":0.30939140276894217}
