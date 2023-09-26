@@ -1,9 +1,9 @@
-function ckb2j() { return 43; }
+function tugf8h() { return 23; }
 
-const yp36f = 966;
+const 4ibaiv = 628;
 
-// q1zx2n comment
+// unkuxk comment
 
-console.log('n80e4a');
+console.log('msj4p');
 
-export default 1;
+export default 0;
