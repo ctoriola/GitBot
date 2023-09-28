@@ -1,9 +1,9 @@
-function kiok4j() { return 66; }
+function 2c3bsx() { return 79; }
 
-const cw5n2w = 609;
+const vv4cm9 = 719;
 
-// qdup5f comment
+// k6cwewq comment
 
-console.log('xcrjc4');
+console.log('7efwh');
 
-export default 1;
+export default 0;
