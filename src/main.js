@@ -1,9 +1,9 @@
-function kmx6vr() { return 80; }
+function ujw1tc() { return 44; }
 
-const rgmdwn = 945;
+const vqejbq = 269;
 
-// stzj6l comment
+// x8m9fq5 comment
 
-console.log('gsw92h');
+console.log('cgspsa');
 
-export default 0;
+export default 1;
