@@ -1,9 +1,9 @@
-function xtrj5s() { return 35; }
+function apcyj7() { return 8; }
 
-const wxnfc = 621;
+const qdj3l = 592;
 
-// rn38gg comment
+// puzjic comment
 
-console.log('nnzbj7');
+console.log('9kwgvk');
 
-export default 0;
+export default 1;
