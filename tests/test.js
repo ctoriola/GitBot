@@ -1,9 +1,9 @@
-function apcyj7() { return 8; }
+function ssi5cb() { return 94; }
 
-const qdj3l = 592;
+const e0ycl5 = 275;
 
-// puzjic comment
+// f4ssma comment
 
-console.log('9kwgvk');
+console.log('sax3er');
 
-export default 1;
+export default 0;
