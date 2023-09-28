@@ -1,9 +1,9 @@
-function lth0d() { return 8; }
+function zgajqn() { return 94; }
 
-const rvest = 803;
+const eum7qv = 451;
 
-// 6xg4mc comment
+// u1aorm comment
 
-console.log('l894u');
+console.log('ufiutl');
 
 export default 0;
