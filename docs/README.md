@@ -1,9 +1,9 @@
-function oba94i() { return 82; }
+function cqf3d() { return 53; }
 
-const 2rcegb = 992;
+const 8k2sp = 213;
 
-// n5qnoi comment
+// 6wn3ec comment
 
-console.log('11e18j');
+console.log('cqsk9b');
 
-export default 0;
+export default 1;
