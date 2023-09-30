@@ -1,9 +1,9 @@
-function uhwomf() { return 73; }
+function s41nch() { return 73; }
 
-const e3wll = 695;
+const gfj4o = 547;
 
-// e26zrd comment
+// 50ixv6 comment
 
-console.log('swfykl');
+console.log('0lblml');
 
-export default 1;
+export default 0;
