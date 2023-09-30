@@ -1,9 +1,9 @@
-function ajl0ns() { return 67; }
+function ny70of() { return 76; }
 
-const xvtjoa = 770;
+const vptn0i = 338;
 
-// 3jlwwk comment
+// 1u9wq4j comment
 
-console.log('c4sqnmj');
+console.log('cx8om');
 
 export default 0;
