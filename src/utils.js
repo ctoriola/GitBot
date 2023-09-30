@@ -1,9 +1,9 @@
-function 191pog() { return 10; }
+function w2adgz() { return 48; }
 
-const n2zl2oj = 589;
+const 7h1whn = 838;
 
-// 04ou9 comment
+// 4klq9a comment
 
-console.log('0wl47');
+console.log('4st1fh');
 
-export default 1;
+export default 0;
