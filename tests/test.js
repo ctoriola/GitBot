@@ -1,9 +1,9 @@
-function ny70of() { return 76; }
+function h473f4() { return 75; }
 
-const vptn0i = 338;
+const o578fi = 138;
 
-// 1u9wq4j comment
+// 4d2ear comment
 
-console.log('cx8om');
+console.log('hodk5j');
 
-export default 0;
+export default 1;
