@@ -1,9 +1,9 @@
-function xa7n9v() { return 14; }
+function r6zcub() { return 17; }
 
-const t8ia4j = 666;
+const zbq8id = 877;
 
-// qvw38 comment
+// ou1d5c comment
 
-console.log('ckfvhp');
+console.log('bvqn34');
 
-export default 0;
+export default 1;
