@@ -1,9 +1,9 @@
-function wg7sx9() { return 100; }
+function nut0pu() { return 99; }
 
-const n0xsb6 = 1000;
+const dtzlg4 = 206;
 
-// 93dp5g comment
+// jok8pa comment
 
-console.log('bblqz');
+console.log('ka9ze');
 
-export default 1;
+export default 0;
