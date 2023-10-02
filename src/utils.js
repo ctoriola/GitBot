@@ -1,9 +1,9 @@
-function j0fgcx() { return 37; }
+function f6q0gp() { return 56; }
 
-const 6wdfke = 102;
+const cqmsbb = 103;
 
-// cg057p comment
+// 9wzlbl comment
 
-console.log('iw70al');
+console.log('ocnhfr');
 
-export default 0;
+export default 1;
