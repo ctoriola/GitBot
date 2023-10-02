@@ -1,9 +1,9 @@
-function lttzurh() { return 66; }
+function lv2ow() { return 13; }
 
-const 25ji4 = 963;
+const x20nnc = 162;
 
-// 5l6vmm comment
+// z8tjh comment
 
-console.log('pws21');
+console.log('53q8n');
 
-export default 0;
+export default 1;
