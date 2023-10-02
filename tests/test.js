@@ -1,9 +1,9 @@
-function rwonqi() { return 32; }
+function 4izl3() { return 30; }
 
-const xvunsl = 713;
+const iu8aj = 125;
 
-// fk70al comment
+// lcdc6 comment
 
-console.log('sna22y');
+console.log('1tbwjn');
 
 export default 1;
