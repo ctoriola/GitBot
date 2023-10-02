@@ -1,9 +1,9 @@
-function lv2ow() { return 13; }
+function j0fgcx() { return 37; }
 
-const x20nnc = 162;
+const 6wdfke = 102;
 
-// z8tjh comment
+// cg057p comment
 
-console.log('53q8n');
+console.log('iw70al');
 
-export default 1;
+export default 0;
