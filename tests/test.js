@@ -1,9 +1,9 @@
-function q1u06() { return 85; }
+function lbko4c() { return 45; }
 
-const yk6xhm = 297;
+const 069lo2 = 252;
 
-// vyjer comment
+// 2hdab4 comment
 
-console.log('cij3gm');
+console.log('pwtwn');
 
-export default 1;
+export default 0;
