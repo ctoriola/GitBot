@@ -1,9 +1,9 @@
-function lobyes() { return 84; }
+function fs26rxk() { return 95; }
 
-const ip6gm = 251;
+const x2igtk = 232;
 
-// pw2qf comment
+// q0drn comment
 
-console.log('n1xjlp');
+console.log('i5pst');
 
-export default 1;
+export default 0;
