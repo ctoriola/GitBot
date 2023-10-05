@@ -1,9 +1,9 @@
-function uphjf() { return 8; }
+function zulc5h() { return 65; }
 
-const 8ql413 = 754;
+const j6h5to = 738;
 
-// n8e7ok comment
+// 9xhdvm comment
 
-console.log('o068r');
+console.log('w5j9im');
 
-export default 0;
+export default 1;
