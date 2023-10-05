@@ -1,9 +1,9 @@
-function 0eq9o() { return 93; }
+function uphjf() { return 8; }
 
-const 2ikvdz = 250;
+const 8ql413 = 754;
 
-// vdwy98 comment
+// n8e7ok comment
 
-console.log('j1fs4b');
+console.log('o068r');
 
-export default 1;
+export default 0;
