@@ -1,9 +1,9 @@
-function oedg9() { return 39; }
+function zjc2g() { return 81; }
 
-const 381v7b = 230;
+const da7peg = 359;
 
-// qdq75t comment
+// rs1nkh comment
 
-console.log('jzgvxa');
+console.log('6uhwoj');
 
-export default 0;
+export default 1;
