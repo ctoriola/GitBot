@@ -1,9 +1,9 @@
-function 6xt44() { return 64; }
+function 2d22m6() { return 92; }
 
-const eem1th = 653;
+const 54ku3 = 292;
 
-// 7691re comment
+// bjfigh comment
 
-console.log('4rvd4f');
+console.log('2jb6m');
 
-export default 1;
+export default 0;
