@@ -1,9 +1,9 @@
-function i57mq() { return 96; }
+function n1y1oe() { return 17; }
 
-const y8cn8q = 868;
+const mpyfy8 = 663;
 
-// yjg8y comment
+// vgbluf comment
 
-console.log('hhk3a8');
+console.log('0yogqp');
 
-export default 0;
+export default 1;
