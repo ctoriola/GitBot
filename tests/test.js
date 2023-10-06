@@ -1,9 +1,9 @@
-function z0amu() { return 77; }
+function sr71bq() { return 46; }
 
-const 1wiki = 759;
+const yysxvk = 768;
 
-// vnqn6i comment
+// gedx0lb comment
 
-console.log('lvvh9');
+console.log('0ln3ak');
 
 export default 1;
