@@ -1,9 +1,9 @@
-function 3hbm5e8() { return 18; }
+function nqbtq() { return 19; }
 
-const okcmod = 660;
+const ou3rqr = 395;
 
-// jkzcd comment
+// 1qiidy comment
 
-console.log('w66lqp');
+console.log('3u0vri');
 
-export default 0;
+export default 1;
