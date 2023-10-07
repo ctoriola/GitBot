@@ -1,9 +1,9 @@
-function sr71bq() { return 46; }
+function 1rf2y() { return 31; }
 
-const yysxvk = 768;
+const 5typgb = 880;
 
-// gedx0lb comment
+// 7k8kjp comment
 
-console.log('0ln3ak');
+console.log('6lg28b');
 
 export default 1;
