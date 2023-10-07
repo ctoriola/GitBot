@@ -1,9 +1,9 @@
-function mgwcjj() { return 66; }
+function 7xfojd() { return 2; }
 
-const wvfprl = 158;
+const 112u8h = 473;
 
-// 7n1eii comment
+// xfjx2 comment
 
-console.log('l07otd');
+console.log('ewv14q');
 
-export default 0;
+export default 1;
