@@ -1,9 +1,9 @@
-function a0ibu() { return 48; }
+function 2i4ri() { return 60; }
 
-const db2kbp = 981;
+const r1xwxm = 969;
 
-// 2fwuff comment
+// 1qhn6d comment
 
-console.log('pu4wg');
+console.log('rtuayl');
 
-export default 0;
+export default 1;
