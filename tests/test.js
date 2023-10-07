@@ -1,9 +1,9 @@
-function whos0w() { return 79; }
+function v37w5q() { return 80; }
 
-const h0toy = 796;
+const uk6sa = 937;
 
-// nz125 comment
+// 82zzzl comment
 
-console.log('oaos1');
+console.log('os9zto');
 
-export default 0;
+export default 1;
