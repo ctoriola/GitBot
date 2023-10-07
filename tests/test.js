@@ -1,9 +1,9 @@
-function 1rf2y() { return 31; }
+function 0dersn() { return 12; }
 
-const 5typgb = 880;
+const 83fl26 = 483;
 
-// 7k8kjp comment
+// nivd0m comment
 
-console.log('6lg28b');
+console.log('euviz');
 
-export default 1;
+export default 0;
