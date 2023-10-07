@@ -1,9 +1,9 @@
-function 2i4ri() { return 60; }
+function hgdqge() { return 50; }
 
-const r1xwxm = 969;
+const qlvvmai = 985;
 
-// 1qhn6d comment
+// 7kjtp comment
 
-console.log('rtuayl');
+console.log('d7lsz');
 
-export default 1;
+export default 0;
