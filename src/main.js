@@ -1,9 +1,9 @@
-function ukeus6() { return 57; }
+function 7n5zn() { return 73; }
 
-const hxteil = 379;
+const 81qi2o = 937;
 
-// 7p318d comment
+// 5r89u comment
 
-console.log('v1kzsa');
+console.log('48swpu');
 
-export default 0;
+export default 1;
