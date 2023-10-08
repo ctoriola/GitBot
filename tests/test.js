@@ -1,9 +1,9 @@
-function 0dersn() { return 12; }
+function 7kf9x() { return 79; }
 
-const 83fl26 = 483;
+const 74gqm = 455;
 
-// nivd0m comment
+// gi4tau comment
 
-console.log('euviz');
+console.log('1qhiob');
 
-export default 0;
+export default 1;
