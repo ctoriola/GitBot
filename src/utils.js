@@ -1,9 +1,9 @@
-function mw5fbd() { return 24; }
+function 7mzvg4() { return 91; }
 
-const i2xdhd = 869;
+const dy038k = 362;
 
-// yqs3o comment
+// di6s6s comment
 
-console.log('9i9ikg');
+console.log('qqy7');
 
-export default 1;
+export default 0;
