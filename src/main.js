@@ -1,9 +1,9 @@
-function ewaz4i() { return 58; }
+function i6rh7() { return 41; }
 
-const crdbaw = 562;
+const y07j5e = 482;
 
-// 3kt15b comment
+// 8dgr6q comment
 
-console.log('hora4i');
+console.log('ydqer');
 
 export default 0;
