@@ -1,9 +1,9 @@
-function mfrmhae() { return 67; }
+function axsm8f() { return 33; }
 
-const ot8ocu = 972;
+const mw8kzh = 712;
 
-// e9lw1 comment
+// cguf1a comment
 
-console.log('zqf1i');
+console.log('k699ia');
 
-export default 0;
+export default 1;
