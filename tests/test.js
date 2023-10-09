@@ -1,9 +1,9 @@
-function 7xfojd() { return 2; }
+function fodsk() { return 87; }
 
-const 112u8h = 473;
+const ox862v = 385;
 
-// xfjx2 comment
+// s7ieb comment
 
-console.log('ewv14q');
+console.log('7u9ub6');
 
-export default 1;
+export default 0;
