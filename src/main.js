@@ -1,9 +1,9 @@
-function vyh2wg() { return 26; }
+function oy8ef() { return 60; }
 
-const cia85 = 972;
+const htcadm = 811;
 
-// dshlm comment
+// pqvahy comment
 
-console.log('w2jj7');
+console.log('8ix2x');
 
-export default 1;
+export default 0;
