@@ -1,9 +1,9 @@
-function 8thqeb() { return 15; }
+function cm5g9() { return 84; }
 
-const a5wdno = 874;
+const lrf5i = 973;
 
-// 99mv5h comment
+// hxgfiu comment
 
-console.log('fc03n');
+console.log('wx1btm');
 
-export default 1;
+export default 0;
