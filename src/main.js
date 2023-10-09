@@ -1,9 +1,9 @@
-function qvkhr() { return 12; }
+function vyh2wg() { return 26; }
 
-const d5elkl = 418;
+const cia85 = 972;
 
-// 8jgnq comment
+// dshlm comment
 
-console.log('tctfld');
+console.log('w2jj7');
 
-export default 0;
+export default 1;
