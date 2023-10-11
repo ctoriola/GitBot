@@ -1,9 +1,9 @@
-function 21hjv7() { return 40; }
+function im7cd8() { return 31; }
 
-const ji74rr = 171;
+const 7mjupq = 502;
 
-// js6vjv comment
+// hrf1qq comment
 
-console.log('b5hl5q');
+console.log('er0s1bc');
 
-export default 0;
+export default 1;
