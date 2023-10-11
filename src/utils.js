@@ -1,9 +1,9 @@
-function 36y6ul() { return 10; }
+function eymyl() { return 4; }
 
-const 6pp52xf = 409;
+const uqhhsy = 137;
 
-// oo840e comment
+// ubsdy8 comment
 
-console.log('51ntdf');
+console.log('0oxah');
 
 export default 1;
