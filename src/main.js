@@ -1,9 +1,9 @@
-function 8m75q2() { return 19; }
+function w01z1c() { return 80; }
 
-const 8are8e = 233;
+const nk9yp = 177;
 
-// gptlob comment
+// to6a7 comment
 
-console.log('i45tj');
+console.log('q43ols');
 
-export default 1;
+export default 0;
