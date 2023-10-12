@@ -1,9 +1,9 @@
-function w01z1c() { return 80; }
+function siqbf() { return 22; }
 
-const nk9yp = 177;
+const 6ezxrp = 467;
 
-// to6a7 comment
+// kb82eg comment
 
-console.log('q43ols');
+console.log('7r70x');
 
-export default 0;
+export default 1;
