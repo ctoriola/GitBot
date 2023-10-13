@@ -1,9 +1,9 @@
-function dqzz62() { return 84; }
+function kn0466() { return 20; }
 
-const ktd6qo = 304;
+const 9dcay = 925;
 
-// zpw62 comment
+// omx77p comment
 
-console.log('r77f7v');
+console.log('3tofkh');
 
-export default 1;
+export default 0;
