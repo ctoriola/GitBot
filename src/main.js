@@ -1,9 +1,9 @@
-function 2gzgci() { return 51; }
+function r5qff() { return 48; }
 
-const mpn7c = 541;
+const lg6opa = 522;
 
-// x1j47pr comment
+// 95ygrk comment
 
-console.log('x4sqju');
+console.log('aj960j');
 
-export default 0;
+export default 1;
