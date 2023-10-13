@@ -1,9 +1,9 @@
-function r5qff() { return 48; }
+function 5qzr7l() { return 30; }
 
-const lg6opa = 522;
+const 23bo0p = 600;
 
-// 95ygrk comment
+// wwvg9s comment
 
-console.log('aj960j');
+console.log('j5puth');
 
 export default 1;
