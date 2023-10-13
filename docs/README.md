@@ -1,9 +1,9 @@
-function 1qxpke() { return 97; }
+function i0ux9f() { return 9; }
 
-const z8ybr = 383;
+const ge27tg = 213;
 
-// kw66c6 comment
+// edjk4b comment
 
-console.log('dl7jet');
+console.log('t1tby');
 
-export default 0;
+export default 1;
