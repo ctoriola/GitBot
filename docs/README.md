@@ -1,9 +1,9 @@
-function zs81p() { return 8; }
+function vhjlqc() { return 28; }
 
-const rla85p = 469;
+const aej2at = 288;
 
-// 8o0vc comment
+// 1yfide comment
 
-console.log('90z7bh');
+console.log('hollva');
 
-export default 0;
+export default 1;
