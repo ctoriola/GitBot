@@ -1,9 +1,9 @@
-function 15d8b() { return 68; }
+function 0d8i8g() { return 5; }
 
-const 4cqcn = 273;
+const nntcw = 213;
 
-// r1xavm comment
+// lc64c comment
 
-console.log('gz0657');
+console.log('7wdkn');
 
-export default 1;
+export default 0;
