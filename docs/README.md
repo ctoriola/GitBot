@@ -1,9 +1,9 @@
-function hzi8dq() { return 73; }
+function 15d8b() { return 68; }
 
-const ilrq2i = 581;
+const 4cqcn = 273;
 
-// apbyf8b comment
+// r1xavm comment
 
-console.log('pmptri');
+console.log('gz0657');
 
 export default 1;
