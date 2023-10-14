@@ -1,9 +1,9 @@
-function 6fi5l() { return 73; }
+function te4ja9() { return 45; }
 
-const xio1zl = 801;
+const 9n925 = 460;
 
-// imfft comment
+// v01zc7 comment
 
-console.log('zv4296');
+console.log('ebtf1x');
 
-export default 1;
+export default 0;
