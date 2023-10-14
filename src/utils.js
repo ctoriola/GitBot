@@ -1,9 +1,9 @@
-function shvt0g() { return 12; }
+function j753vm() { return 34; }
 
-const wlqgin = 954;
+const 1g86mgm = 710;
 
-// yno71 comment
+// 6iv0j comment
 
-console.log('u954va');
+console.log('6o0y1');
 
-export default 1;
+export default 0;
