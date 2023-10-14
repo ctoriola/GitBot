@@ -1,9 +1,9 @@
-function 2lwea() { return 72; }
+function shvt0g() { return 12; }
 
-const b5h5gp = 103;
+const wlqgin = 954;
 
-// r2hicn comment
+// yno71 comment
 
-console.log('sy0opt');
+console.log('u954va');
 
-export default 0;
+export default 1;
