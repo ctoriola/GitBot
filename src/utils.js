@@ -1,9 +1,9 @@
-function s16zq() { return 33; }
+function 3h6va() { return 89; }
 
-const 6ted6m = 844;
+const rr1op = 894;
 
-// 1ltdsp comment
+// 9xjcek comment
 
-console.log('nzfp7c');
+console.log('f8uf0d');
 
-export default 0;
+export default 1;
