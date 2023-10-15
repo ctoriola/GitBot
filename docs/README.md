@@ -1,9 +1,9 @@
-function 8el4ot() { return 34; }
+function 3garb() { return 6; }
 
-const f9kyoi = 587;
+const nvoajj = 267;
 
-// ymptn comment
+// lqws85 comment
 
-console.log('szod3rc');
+console.log('6o8zyk');
 
-export default 0;
+export default 1;
