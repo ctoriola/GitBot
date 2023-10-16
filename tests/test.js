@@ -1,9 +1,9 @@
-function 4xq1qq() { return 93; }
+function er1y5e() { return 14; }
 
-const 0mpqia = 449;
+const 0ehe95 = 705;
 
-// 5scnt9 comment
+// t6pn47 comment
 
-console.log('fm363e');
+console.log('w4z6rm');
 
-export default 1;
+export default 0;
