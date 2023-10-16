@@ -1,9 +1,9 @@
-function wgzosm() { return 3; }
+function uhrzc8() { return 91; }
 
-const y4ba4l = 979;
+const cuxthg = 783;
 
-// veadft comment
+// zcih7a comment
 
-console.log('6qcoin');
+console.log('d3xwtc');
 
-export default 0;
+export default 1;
