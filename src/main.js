@@ -1,9 +1,9 @@
-function r48rmb() { return 75; }
+function t4imtn() { return 45; }
 
-const 9snsu = 960;
+const th61o = 825;
 
-// my3p1 comment
+// vc6o comment
 
-console.log('h831in');
+console.log('c9v5');
 
-export default 1;
+export default 0;
