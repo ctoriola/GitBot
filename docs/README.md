@@ -1,9 +1,9 @@
-function is0tei() { return 47; }
+function 6t2g0a() { return 20; }
 
-const fr1lf = 426;
+const q5mcz9 = 335;
 
-// didpmm comment
+// vu39bk comment
 
-console.log('7uqdm9');
+console.log('75wiip');
 
-export default 0;
+export default 1;
