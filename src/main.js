@@ -1,9 +1,9 @@
-function i324wx() { return 4; }
+function r48rmb() { return 75; }
 
-const 0ag9go = 249;
+const 9snsu = 960;
 
-// v8752e comment
+// my3p1 comment
 
-console.log('wx0ls7');
+console.log('h831in');
 
 export default 1;
