@@ -1,9 +1,9 @@
-function xtkieo() { return 98; }
+function 6xnk2() { return 10; }
 
-const 9wefu = 812;
+const 9b75yi = 711;
 
-// gocni1 comment
+// loldrn comment
 
-console.log('ilstuh');
+console.log('59yev8');
 
-export default 1;
+export default 0;
