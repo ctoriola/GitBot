@@ -1,9 +1,9 @@
-function 2hrmld() { return 90; }
+function 884lehq() { return 68; }
 
-const z4d82d = 132;
+const 2fywat = 715;
 
-// il7d0n comment
+// x390hr comment
 
-console.log('3z1qq8');
+console.log('herg45b');
 
-export default 1;
+export default 0;
