@@ -1,9 +1,9 @@
-function a1m3hy() { return 4; }
+function 68nx6r() { return 26; }
 
-const 1znsjq = 448;
+const npagd = 346;
 
-// fxggqn comment
+// iwsoxm comment
 
-console.log('nkhzvg');
+console.log('gg9zsj');
 
-export default 0;
+export default 1;
