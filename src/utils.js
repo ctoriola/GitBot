@@ -1,9 +1,9 @@
-function pyk91e() { return 23; }
+function g4hxz8() { return 18; }
 
-const 1co375 = 168;
+const aj4qk7 = 759;
 
-// vixnx comment
+// 8eafab comment
 
-console.log('ji8l0s');
+console.log('lihnqc');
 
-export default 0;
+export default 1;
