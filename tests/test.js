@@ -1,9 +1,9 @@
-function r8vplp() { return 17; }
+function rnehl7m() { return 16; }
 
-const dlxdmk = 615;
+const el57rb = 438;
 
-// dvtjle comment
+// 1xokl5 comment
 
-console.log('pdw5tr');
+console.log('b3cv4v');
 
-export default 1;
+export default 0;
