@@ -1,9 +1,9 @@
-function c8teg8() { return 53; }
+function v51cby() { return 55; }
 
-const lestxn = 514;
+const 7disi7 = 991;
 
-// jj3vlv comment
+// 3tk6fr comment
 
-console.log('byuywi');
+console.log('fl6s8i');
 
-export default 1;
+export default 0;
