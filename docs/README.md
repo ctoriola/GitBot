@@ -1,9 +1,9 @@
-function syk4ae() { return 60; }
+function mtjcpt() { return 22; }
 
-const zk8bfj = 961;
+const br4g09 = 938;
 
-// rmzxa comment
+// 4slvqq comment
 
-console.log('kw49yr');
+console.log('mio2g');
 
-export default 0;
+export default 1;
