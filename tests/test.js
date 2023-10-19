@@ -1,9 +1,9 @@
-function okg7wz() { return 79; }
+function c9qlji() { return 17; }
 
-const ioyjo = 230;
+const 2xc4rk = 180;
 
-// c2ykhe comment
+// dimx44 comment
 
-console.log('4x825a');
+console.log('p7os3k');
 
-export default 0;
+export default 1;
