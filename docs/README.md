@@ -1,9 +1,9 @@
-function 9q9p4c() { return 68; }
+function edje84() { return 7; }
 
-const z97xmp = 586;
+const fnwvoi = 233;
 
-// 2lvu0j comment
+// 0eabpu comment
 
-console.log('pidmi');
+console.log('sctpik');
 
-export default 0;
+export default 1;
