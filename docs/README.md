@@ -1,9 +1,9 @@
-function xsrn2p() { return 49; }
+function d7dwqd() { return 33; }
 
-const gru9me = 344;
+const fvqse = 874;
 
-// 1ly52 comment
+// kgu9tw comment
 
-console.log('wfpuzl');
+console.log('jg262a');
 
-export default 1;
+export default 0;
