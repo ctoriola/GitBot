@@ -1,9 +1,9 @@
-function g9dfvb() { return 40; }
+function wbwtw() { return 99; }
 
-const m29v1c = 964;
+const a1xtc = 948;
 
-// e4jldi comment
+// 19hyk9j comment
 
-console.log('7wvocu');
+console.log('dls86');
 
-export default 0;
+export default 1;
