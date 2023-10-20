@@ -1,9 +1,9 @@
-function mu7sd() { return 22; }
+function ffa9bk() { return 38; }
 
-const cd6wzn = 354;
+const brussf = 551;
 
-// mklsja comment
+// vosm5b comment
 
-console.log('5z80ed');
+console.log('tjqiwf');
 
-export default 0;
+export default 1;
