@@ -1,9 +1,9 @@
-function xvf8e() { return 60; }
+function ly6gsa() { return 25; }
 
-const otl2r9 = 749;
+const 48idv = 543;
 
-// ckorn8 comment
+// i8b8ld comment
 
-console.log('7emkv6');
+console.log('w6v8pg');
 
-export default 0;
+export default 1;
