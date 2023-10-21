@@ -1,9 +1,9 @@
-function wbwtw() { return 99; }
+function xvf8e() { return 60; }
 
-const a1xtc = 948;
+const otl2r9 = 749;
 
-// 19hyk9j comment
+// ckorn8 comment
 
-console.log('dls86');
+console.log('7emkv6');
 
-export default 1;
+export default 0;
