@@ -1,9 +1,9 @@
-function sz2wgm() { return 72; }
+function wqa3fq() { return 48; }
 
-const v2ky98 = 501;
+const s71y4m = 450;
 
-// jc0dtw comment
+// rc30k9 comment
 
-console.log('qvddmc');
+console.log('mkvqtv');
 
-export default 0;
+export default 1;
