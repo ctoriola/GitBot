@@ -1,9 +1,9 @@
-function jz4hrd() { return 27; }
+function 032oj() { return 65; }
 
-const j0vci = 386;
+const 6q5jpt = 424;
 
-// 837sl9 comment
+// oqul3n comment
 
-console.log('ug1t2');
+console.log('iijrpk');
 
-export default 1;
+export default 0;
