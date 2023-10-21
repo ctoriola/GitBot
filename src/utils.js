@@ -1,9 +1,9 @@
-function 351w1i() { return 65; }
+function 5nddvp() { return 20; }
 
-const r5z08f = 466;
+const 0wixpf = 989;
 
-// cyuimf comment
+// csbkt4 comment
 
-console.log('uzao');
+console.log('2bs1uz');
 
 export default 1;
