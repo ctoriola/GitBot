@@ -1,9 +1,9 @@
-function ly6gsa() { return 25; }
+function sz2wgm() { return 72; }
 
-const 48idv = 543;
+const v2ky98 = 501;
 
-// i8b8ld comment
+// jc0dtw comment
 
-console.log('w6v8pg');
+console.log('qvddmc');
 
-export default 1;
+export default 0;
