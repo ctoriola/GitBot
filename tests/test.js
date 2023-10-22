@@ -1,9 +1,9 @@
-function 4svxp() { return 44; }
+function m0dhd4() { return 79; }
 
-const i7rgeg = 512;
+const ullbqk = 709;
 
-// kd3lsk comment
+// lim0a9 comment
 
-console.log('lxqrc');
+console.log('mjjxt');
 
-export default 1;
+export default 0;
