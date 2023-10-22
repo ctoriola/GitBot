@@ -1,9 +1,1 @@
-function pkq4js() { return 6; }
-
-const r3uts = 829;
-
-// u95rbd comment
-
-console.log('0udcke');
-
-export default 0;
+{"timestamp":"2023-10-22T12:04:10+01:00","data":0.5887636041390407}
