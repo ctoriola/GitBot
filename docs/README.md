@@ -1,9 +1,9 @@
-function 0lsf6g() { return 55; }
+function l74vvl() { return 20; }
 
-const ufy22h = 468;
+const avg5d = 557;
 
-// 7ctsmm comment
+// 7lh866 comment
 
-console.log('0mgzy');
+console.log('z2jsf');
 
-export default 0;
+export default 1;
