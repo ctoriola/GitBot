@@ -1,9 +1,9 @@
-function 8nnjtd() { return 24; }
+function yt685i() { return 20; }
 
-const p331g = 182;
+const oj1zge = 534;
 
-// n4a1sl comment
+// wzxh4d comment
 
-console.log('pi9z6n');
+console.log('nxvaaw');
 
-export default 0;
+export default 1;
