@@ -1,9 +1,9 @@
-function xsdui() { return 95; }
+function 2zrqul() { return 2; }
 
-const v8scv9 = 732;
+const g08cnt = 319;
 
-// gteupj comment
+// ogsa8x comment
 
-console.log('5s3yhq9');
+console.log('d8jv6n');
 
-export default 0;
+export default 1;
