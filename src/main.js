@@ -1,9 +1,9 @@
-function pezjk() { return 56; }
+function geu2lc() { return 2; }
 
-const 8ikdcb = 511;
+const ptmc69 = 487;
 
-// ffg76l comment
+// 9b03td comment
 
-console.log('f0agzd');
+console.log('qxaahq');
 
-export default 1;
+export default 0;
