@@ -1,9 +1,9 @@
-function iqgf2d() { return 48; }
+function h4a6lh() { return 38; }
 
-const 35mv3v = 141;
+const paemr = 752;
 
-// u9846 comment
+// 4xj77w comment
 
-console.log('u1tvxo');
+console.log('8h7r8r');
 
-export default 0;
+export default 1;
