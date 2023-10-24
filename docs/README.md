@@ -1,9 +1,9 @@
-function hc0qp() { return 26; }
+function tkys9o() { return 42; }
 
-const 140ii5 = 896;
+const uqke0u = 339;
 
-// 8g86ki comment
+// 80msk comment
 
-console.log('96p8l');
+console.log('tc4pe');
 
-export default 1;
+export default 0;
