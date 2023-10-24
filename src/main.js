@@ -1,9 +1,9 @@
-function h4a6lh() { return 38; }
+function jszxeh() { return 98; }
 
-const paemr = 752;
+const o5pmzv = 112;
 
-// 4xj77w comment
+// zo8s9i comment
 
-console.log('8h7r8r');
+console.log('chiylp');
 
-export default 1;
+export default 0;
