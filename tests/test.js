@@ -1,9 +1,9 @@
-function rg1lig() { return 92; }
+function xsdui() { return 95; }
 
-const tg1bkc = 772;
+const v8scv9 = 732;
 
-// i6p5fd comment
+// gteupj comment
 
-console.log('0uea3');
+console.log('5s3yhq9');
 
-export default 1;
+export default 0;
