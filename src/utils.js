@@ -1,9 +1,9 @@
-function qmk0g() { return 94; }
+function py7h1() { return 51; }
 
-const ytjgt = 527;
+const c09y4j = 593;
 
-// 98skxg comment
+// cttku comment
 
-console.log('hwssh6');
+console.log('7all19');
 
-export default 1;
+export default 0;
