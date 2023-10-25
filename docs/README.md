@@ -1,9 +1,9 @@
-function 20qv8() { return 29; }
+function tdm3dka() { return 58; }
 
-const fo2f4f = 335;
+const ey332p = 989;
 
-// pp8tsl comment
+// y4z7fe comment
 
-console.log('efpiwa');
+console.log('45gp7g');
 
-export default 0;
+export default 1;
