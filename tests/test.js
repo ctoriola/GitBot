@@ -1,9 +1,9 @@
-function r48v8a() { return 27; }
+function m0huxt() { return 44; }
 
-const e6usew = 832;
+const kidlwb = 265;
 
-// r6dcyd comment
+// 13km7 comment
 
-console.log('cr4zjd');
+console.log('4jzpku');
 
-export default 1;
+export default 0;
