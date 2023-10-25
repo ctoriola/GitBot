@@ -1,9 +1,9 @@
-function 7fb2ya() { return 75; }
+function 20qv8() { return 29; }
 
-const is26f = 584;
+const fo2f4f = 335;
 
-// i4emj comment
+// pp8tsl comment
 
-console.log('5uamjl');
+console.log('efpiwa');
 
-export default 1;
+export default 0;
