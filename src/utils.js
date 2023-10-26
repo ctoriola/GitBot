@@ -1,9 +1,9 @@
-function bgwq1d() { return 92; }
+function jyygkc() { return 32; }
 
-const yjafqt = 222;
+const qk9tdl = 121;
 
-// y22fcn comment
+// kz44rn comment
 
-console.log('y3pxau');
+console.log('qetm3h');
 
-export default 0;
+export default 1;
