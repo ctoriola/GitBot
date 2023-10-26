@@ -1,9 +1,9 @@
-function 02urhm() { return 54; }
+function b2wzui() { return 78; }
 
-const u3ca86 = 509;
+const vgb9if = 684;
 
-// 2ooecn comment
+// tvrlge comment
 
-console.log('peeaw');
+console.log('h2lcm');
 
-export default 1;
+export default 0;
