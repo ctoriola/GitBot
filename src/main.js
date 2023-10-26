@@ -1,9 +1,9 @@
-function v1l1cd() { return 87; }
+function 08xjfm() { return 22; }
 
-const p2xecf = 758;
+const iekj8h = 770;
 
-// 69behn comment
+// di3iz comment
 
-console.log('uyowp');
+console.log('iqkuxt');
 
-export default 1;
+export default 0;
