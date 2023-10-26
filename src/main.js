@@ -1,9 +1,9 @@
-function 08xjfm() { return 22; }
+function gocvl() { return 38; }
 
-const iekj8h = 770;
+const qg2ppj = 145;
 
-// di3iz comment
+// 6xj639 comment
 
-console.log('iqkuxt');
+console.log('1pewov');
 
-export default 0;
+export default 1;
