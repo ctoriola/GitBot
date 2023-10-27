@@ -1,9 +1,9 @@
-function 7p9gv() { return 63; }
+function rwcxfo() { return 31; }
 
-const vn986cv = 974;
+const vn5uzt = 494;
 
-// 2dy8n comment
+// 3i6do comment
 
-console.log('lqcixg');
+console.log('cig3sz');
 
 export default 0;
