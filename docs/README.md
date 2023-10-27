@@ -1,9 +1,9 @@
-function fkzmz8() { return 100; }
+function yq37r() { return 72; }
 
-const gih4zi = 730;
+const u6669k = 131;
 
-// h6mt0q comment
+// 8qice comment
 
-console.log('ahr0j');
+console.log('v10tv');
 
-export default 0;
+export default 1;
