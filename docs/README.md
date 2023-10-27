@@ -1,9 +1,9 @@
-function cdk1ei() { return 96; }
+function 7p9gv() { return 63; }
 
-const exz1o = 699;
+const vn986cv = 974;
 
-// vzjbqh comment
+// 2dy8n comment
 
-console.log('jurshs');
+console.log('lqcixg');
 
-export default 1;
+export default 0;
