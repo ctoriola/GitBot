@@ -1,9 +1,9 @@
-function wlzevb() { return 52; }
+function 2oghs7() { return 24; }
 
-const l1r2se = 734;
+const cvorark = 920;
 
-// p0nya comment
+// 3hdxfc comment
 
-console.log('edpt3h');
+console.log('nd1e7c');
 
-export default 1;
+export default 0;
