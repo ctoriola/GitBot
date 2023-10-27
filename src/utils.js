@@ -1,9 +1,9 @@
-function t0ohpm() { return 88; }
+function 8m5nv5() { return 15; }
 
-const haix6 = 573;
+const ntf4xs = 808;
 
-// she6vj comment
+// crtcgi comment
 
-console.log('g3n48g');
+console.log('o4r7r');
 
-export default 1;
+export default 0;
