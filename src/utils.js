@@ -1,9 +1,9 @@
-function suqsh() { return 61; }
+function 59lycq() { return 5; }
 
-const t6440b = 214;
+const w2pnrh = 955;
 
-// wriwr comment
+// u75kii comment
 
-console.log('eoa99t');
+console.log('42rp6');
 
-export default 0;
+export default 1;
