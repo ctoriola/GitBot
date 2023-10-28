@@ -1,9 +1,9 @@
-function b5t55rh() { return 81; }
+function gh55r8() { return 47; }
 
-const 17wrtm = 459;
+const d6bn8 = 900;
 
-// 2667ud comment
+// da50kb comment
 
-console.log('8g2j9');
+console.log('bxct1e');
 
-export default 1;
+export default 0;
