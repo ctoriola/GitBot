@@ -1,9 +1,9 @@
-function 0flot() { return 84; }
+function b5t55rh() { return 81; }
 
-const 0ulqm = 487;
+const 17wrtm = 459;
 
-// du1ko comment
+// 2667ud comment
 
-console.log('nko8xb');
+console.log('8g2j9');
 
-export default 0;
+export default 1;
