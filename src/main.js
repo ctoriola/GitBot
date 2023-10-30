@@ -1,9 +1,9 @@
-function f5tpv8() { return 44; }
+function 6cj6jd() { return 94; }
 
-const eirqus = 427;
+const tjoc6 = 818;
 
-// k7bin comment
+// 2zis26 comment
 
-console.log('2im8f');
+console.log('kbglef');
 
-export default 1;
+export default 0;
