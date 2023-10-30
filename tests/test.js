@@ -1,9 +1,9 @@
-function 7g4f5() { return 70; }
+function 7cedgl() { return 76; }
 
-const 0ugxjp = 338;
+const nlqi6 = 115;
 
-// k5wbkq comment
+// yp817a comment
 
-console.log('0redkp');
+console.log('4t12i2');
 
-export default 1;
+export default 0;
