@@ -1,9 +1,9 @@
-function s8j96f() { return 41; }
+function 42va3() { return 98; }
 
-const a1bwqj = 346;
+const 7hxh6b = 192;
 
-// 28y4oq comment
+// 7l82a comment
 
-console.log('twbdqo');
+console.log('f98xma');
 
-export default 1;
+export default 0;
