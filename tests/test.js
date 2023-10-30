@@ -1,9 +1,9 @@
-function e73hik() { return 1; }
+function kobg3() { return 97; }
 
-const afnbygs = 162;
+const m61pp = 573;
 
-// 02joht comment
+// 2gkcwh comment
 
-console.log('e35rpb');
+console.log('e47uxr');
 
-export default 1;
+export default 0;
