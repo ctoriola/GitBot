@@ -1,9 +1,9 @@
-function 6cj6jd() { return 94; }
+function ko9uab() { return 53; }
 
-const tjoc6 = 818;
+const 9cv5lj = 484;
 
-// 2zis26 comment
+// 0fai comment
 
-console.log('kbglef');
+console.log('dc3bgl');
 
 export default 0;
