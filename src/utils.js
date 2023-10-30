@@ -1,9 +1,9 @@
-function p6i5w() { return 10; }
+function kq72lj() { return 4; }
 
-const ivr52 = 625;
+const fn0mhn = 925;
 
-// rljn7r comment
+// 02vdxb comment
 
-console.log('0bttr');
+console.log('isdh8t');
 
 export default 1;
