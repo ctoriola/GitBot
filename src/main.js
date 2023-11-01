@@ -1,9 +1,9 @@
-function feeggd() { return 53; }
+function 4o9qtt() { return 96; }
 
-const wncges = 519;
+const jk7ljn = 891;
 
-// 120tw comment
+// f427pb comment
 
-console.log('9a66ke');
+console.log('syy4rt');
 
-export default 1;
+export default 0;
