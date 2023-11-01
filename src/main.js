@@ -1,9 +1,9 @@
-function tbfaxs() { return 4; }
+function ls853n() { return 50; }
 
-const 6g6rle = 780;
+const 9t3lvg = 124;
 
-// k4ut7r comment
+// hi0rh comment
 
-console.log('2btss');
+console.log('6ougao');
 
-export default 1;
+export default 0;
