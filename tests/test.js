@@ -1,9 +1,9 @@
-function 4gtfc7() { return 77; }
+function 2j628j() { return 61; }
 
-const 3l4195 = 224;
+const r58wxf = 451;
 
-// 0jzlrp comment
+// z98v47 comment
 
-console.log('61lp7h');
+console.log('x287su');
 
-export default 0;
+export default 1;
