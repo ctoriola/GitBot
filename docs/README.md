@@ -1,9 +1,9 @@
-function egr6pi() { return 74; }
+function qbcj9j() { return 20; }
 
-const ixyra = 449;
+const dy68q5 = 651;
 
-// uo55jk comment
+// bekkqg comment
 
-console.log('ldxfno');
+console.log('c04ygq');
 
-export default 1;
+export default 0;
