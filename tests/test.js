@@ -1,9 +1,9 @@
-function gck2hu() { return 97; }
+function 9qwopl() { return 47; }
 
-const vhavd9 = 761;
+const t69sso = 218;
 
-// s4n0du comment
+// ir0slw comment
 
-console.log('2lyv9');
+console.log('xjd5fu');
 
-export default 0;
+export default 1;
