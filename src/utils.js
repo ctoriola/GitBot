@@ -1,9 +1,9 @@
-function mxvno() { return 56; }
+function ehaj3o() { return 28; }
 
-const 4u7mp = 207;
+const gnvqos = 247;
 
-// aq17zgj comment
+// snt8ge comment
 
-console.log('chmbks');
+console.log('yfny6j');
 
-export default 0;
+export default 1;
