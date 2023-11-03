@@ -1,9 +1,9 @@
-function apih8c() { return 69; }
+function 32xa1c() { return 95; }
 
-const qkz0yn = 948;
+const gqzhf = 101;
 
-// imlyzp comment
+// 4qs7rr comment
 
-console.log('sxv6h5');
+console.log('phvap9');
 
-export default 1;
+export default 0;
