@@ -1,9 +1,9 @@
-function 9qwopl() { return 47; }
+function 4gtfc7() { return 77; }
 
-const t69sso = 218;
+const 3l4195 = 224;
 
-// ir0slw comment
+// 0jzlrp comment
 
-console.log('xjd5fu');
+console.log('61lp7h');
 
-export default 1;
+export default 0;
