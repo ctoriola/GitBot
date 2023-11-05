@@ -1,9 +1,9 @@
-function 1u92ip() { return 19; }
+function c16so() { return 33; }
 
-const ngwt0n = 882;
+const rbvlb5 = 265;
 
-// 9x3qe comment
+// njvlkp comment
 
-console.log('hzvfrt');
+console.log('ptiq96');
 
-export default 0;
+export default 1;
