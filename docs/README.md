@@ -1,9 +1,9 @@
-function al8x07() { return 44; }
+function b5au1x() { return 87; }
 
-const d2zolm = 844;
+const on8z6 = 187;
 
-// y10dt8 comment
+// 4koiwm comment
 
-console.log('hxe03');
+console.log('a35q68');
 
-export default 0;
+export default 1;
