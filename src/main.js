@@ -1,9 +1,9 @@
-function c16so() { return 33; }
+function g3v4na() { return 80; }
 
-const rbvlb5 = 265;
+const 1pygtg = 885;
 
-// njvlkp comment
+// 04safi comment
 
-console.log('ptiq96');
+console.log('8zerpl');
 
-export default 1;
+export default 0;
