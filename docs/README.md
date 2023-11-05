@@ -1,9 +1,9 @@
-function b5au1x() { return 87; }
+function 57g12q() { return 71; }
 
-const on8z6 = 187;
+const hz36pe = 254;
 
-// 4koiwm comment
+// gua4ah comment
 
-console.log('a35q68');
+console.log('q36el8');
 
-export default 1;
+export default 0;
