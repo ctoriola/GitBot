@@ -1,9 +1,9 @@
-function g3v4na() { return 80; }
+function y0qk6h() { return 64; }
 
-const 1pygtg = 885;
+const itt51a = 830;
 
-// 04safi comment
+// ybr9na comment
 
-console.log('8zerpl');
+console.log('gdjjyj');
 
 export default 0;
