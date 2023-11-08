@@ -1,9 +1,9 @@
-function lob0od() { return 36; }
+function 7tk4jn() { return 31; }
 
-const dkkz08 = 475;
+const 9yy7kp = 252;
 
-// x896pm comment
+// lgejic comment
 
-console.log('0qgmo');
+console.log('70pft');
 
 export default 0;
