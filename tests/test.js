@@ -1,9 +1,9 @@
-function s84omd() { return 65; }
+function bt0cf() { return 76; }
 
-const c045z = 609;
+const 9ocbm2 = 975;
 
-// s9fef9 comment
+// shkesj comment
 
-console.log('q8tbz');
+console.log('gt46q9');
 
-export default 1;
+export default 0;
