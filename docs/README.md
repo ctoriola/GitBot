@@ -1,9 +1,9 @@
-function 91ulw() { return 82; }
+function ezu5na() { return 57; }
 
-const mlh4dx = 125;
+const nxzup = 562;
 
-// 3cjqw comment
+// 2ecmej comment
 
-console.log('ks5h96');
+console.log('38k5e');
 
-export default 1;
+export default 0;
