@@ -1,9 +1,9 @@
-function 293n44() { return 83; }
+function mq166k() { return 52; }
 
-const ne3q9 = 673;
+const 901dj = 869;
 
-// rz3rra comment
+// k2euoa comment
 
-console.log('63u3df');
+console.log('4xbi58');
 
-export default 0;
+export default 1;
