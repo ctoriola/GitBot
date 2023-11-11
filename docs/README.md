@@ -1,9 +1,9 @@
-function cyyro8() { return 53; }
+function mz22kj() { return 56; }
 
-const rqff6h = 513;
+const 5zw5ek = 708;
 
-// tg55jp comment
+// nk39oi comment
 
-console.log('8jqs9o');
+console.log('vk96j');
 
-export default 1;
+export default 0;
