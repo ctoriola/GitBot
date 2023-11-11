@@ -1,9 +1,9 @@
-function mq166k() { return 52; }
+function duw9ul() { return 57; }
 
-const 901dj = 869;
+const v5qyp = 224;
 
-// k2euoa comment
+// 61zg4o comment
 
-console.log('4xbi58');
+console.log('pchyl9');
 
-export default 1;
+export default 0;
