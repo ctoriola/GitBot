@@ -1,9 +1,9 @@
-function eroqck() { return 67; }
+function jbdee() { return 37; }
 
-const 0ddjrr = 441;
+const cq4aok = 594;
 
-// l0xtu comment
+// 4nrdr comment
 
-console.log('ieorh9');
+console.log('k6e9d');
 
-export default 0;
+export default 1;
