@@ -1,9 +1,9 @@
-function jbdee() { return 37; }
+function khbcye() { return 1; }
 
-const cq4aok = 594;
+const zm8s3q = 117;
 
-// 4nrdr comment
+// 7g3vso comment
 
-console.log('k6e9d');
+console.log('19bqhb');
 
-export default 1;
+export default 0;
