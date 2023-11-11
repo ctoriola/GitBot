@@ -1,9 +1,9 @@
-function bervr6() { return 67; }
+function 6y3spd() { return 13; }
 
-const 1v3l0m = 920;
+const cj876 = 539;
 
-// vbsfma comment
+// 3tpxk comment
 
-console.log('tphhme');
+console.log('ishbd7');
 
-export default 1;
+export default 0;
