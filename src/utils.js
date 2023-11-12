@@ -1,9 +1,9 @@
-function 7a5o() { return 6; }
+function 6z48w() { return 78; }
 
-const cahbnw = 930;
+const 79crpk = 892;
 
-// u8cm0s comment
+// wv7nct comment
 
-console.log('uk7mvl');
+console.log('xelwh');
 
-export default 1;
+export default 0;
