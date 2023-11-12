@@ -1,9 +1,9 @@
-function j77d1() { return 56; }
+function pzphcm() { return 35; }
 
-const hqtvro = 586;
+const o3axz = 855;
 
-// 79kg95 comment
+// 7vidm comment
 
-console.log('3ufahb');
+console.log('xv3noi');
 
-export default 0;
+export default 1;
