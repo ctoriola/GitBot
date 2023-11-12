@@ -1,9 +1,9 @@
-function vmr248() { return 30; }
+function 7a5o() { return 6; }
 
-const lcgs2a = 473;
+const cahbnw = 930;
 
-// afn4c comment
+// u8cm0s comment
 
-console.log('w2zktl');
+console.log('uk7mvl');
 
-export default 0;
+export default 1;
