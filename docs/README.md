@@ -1,9 +1,9 @@
-function 71wpsu() { return 8; }
+function z25jl() { return 79; }
 
-const 2v4gqx = 306;
+const f661lr = 268;
 
-// 8fhhs comment
+// hdhwfd comment
 
-console.log('crjti');
+console.log('e0iph5');
 
-export default 1;
+export default 0;
