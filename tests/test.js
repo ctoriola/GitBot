@@ -1,9 +1,9 @@
-function e5t3u() { return 77; }
+function yj7jh() { return 25; }
 
-const hop9tq = 210;
+const ouw26p = 577;
 
-// 9oxfid comment
+// frv2pc comment
 
-console.log('0mi2ur');
+console.log('v70mc');
 
-export default 0;
+export default 1;
