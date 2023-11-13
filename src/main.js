@@ -1,9 +1,9 @@
-function j0el0t() { return 39; }
+function lcnour() { return 96; }
 
-const rpkwi = 278;
+const d3onfb = 152;
 
-// q556c8 comment
+// 991yem comment
 
-console.log('31q016');
+console.log('n6xtd9');
 
-export default 1;
+export default 0;
