@@ -1,9 +1,9 @@
-function 38prg() { return 19; }
+function 5mxirp() { return 94; }
 
-const dofmva = 926;
+const s20fs9 = 335;
 
-// cq4ptx comment
+// lwpfao comment
 
-console.log('2lqdz4');
+console.log('zfjmaq');
 
-export default 0;
+export default 1;
