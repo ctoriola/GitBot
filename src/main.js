@@ -1,9 +1,9 @@
-function 5mxirp() { return 94; }
+function nwzbya() { return 89; }
 
-const s20fs9 = 335;
+const zam2d = 675;
 
-// lwpfao comment
+// z8ar2 comment
 
-console.log('zfjmaq');
+console.log('rfpx9p');
 
-export default 1;
+export default 0;
