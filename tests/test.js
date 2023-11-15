@@ -1,9 +1,9 @@
-function uupxb() { return 89; }
+function r5irzn() { return 25; }
 
-const t5ovrc = 413;
+const 82hl8a = 392;
 
-// ergoej comment
+// q1bkpl comment
 
-console.log('ietm3i');
+console.log('xktlo');
 
-export default 0;
+export default 1;
