@@ -1,9 +1,9 @@
-function r5irzn() { return 25; }
+function 31a298() { return 75; }
 
-const 82hl8a = 392;
+const ld7ipo = 395;
 
-// q1bkpl comment
+// z1bof9 comment
 
-console.log('xktlo');
+console.log('82msb');
 
-export default 1;
+export default 0;
