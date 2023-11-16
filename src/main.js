@@ -1,9 +1,9 @@
-function 0m3l7e() { return 90; }
+function d177fm() { return 16; }
 
-const 9n60f = 461;
+const cy8v2k = 150;
 
-// d327xo comment
+// wcrm3a comment
 
-console.log('21lf1s');
+console.log('lksp6o');
 
-export default 1;
+export default 0;
