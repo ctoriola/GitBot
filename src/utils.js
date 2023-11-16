@@ -1,9 +1,9 @@
-function sl415d() { return 43; }
+function bznjyq() { return 43; }
 
-const krznbw = 747;
+const pwduc = 283;
 
-// 95gfzq comment
+// w7yjds comment
 
-console.log('gyw86');
+console.log('6l04ug');
 
-export default 1;
+export default 0;
