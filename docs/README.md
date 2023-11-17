@@ -1,9 +1,9 @@
-function 3f0atp() { return 6; }
+function p6cqi() { return 41; }
 
-const mv7n9 = 780;
+const kchuat = 612;
 
-// ozfjh7 comment
+// 881p2bn comment
 
-console.log('qlyl03');
+console.log('dva0ya');
 
-export default 1;
+export default 0;
