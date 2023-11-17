@@ -1,9 +1,9 @@
-function s1mko() { return 75; }
+function r4xx7() { return 33; }
 
-const 47mvjg = 254;
+const 20w35 = 182;
 
-// mxa03 comment
+// g3my1 comment
 
-console.log('hsyeu');
+console.log('r0o9at');
 
-export default 0;
+export default 1;
