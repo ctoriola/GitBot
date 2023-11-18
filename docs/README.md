@@ -1,9 +1,9 @@
-function fboukg() { return 59; }
+function 3pv6hg() { return 26; }
 
-const 8014hm = 343;
+const bgiolp = 130;
 
-// zfmh2tp comment
+// ntzxyf comment
 
-console.log('irh958');
+console.log('rer79v');
 
-export default 1;
+export default 0;
