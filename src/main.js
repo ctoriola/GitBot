@@ -1,9 +1,9 @@
-function 98zc6j() { return 53; }
+function q58kz() { return 51; }
 
-const diguuj = 286;
+const 70q9ia = 213;
 
-// 5t6bq comment
+// qm5dd6 comment
 
-console.log('hxn3j');
+console.log('nkhle8');
 
-export default 1;
+export default 0;
