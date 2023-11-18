@@ -1,9 +1,9 @@
-function po5dbo() { return 79; }
+function 8o444n() { return 54; }
 
-const ppttnp = 596;
+const vngda = 932;
 
-// heg4pa comment
+// a0bdjl comment
 
-console.log('wu4q6l');
+console.log('jxquhj');
 
-export default 1;
+export default 0;
