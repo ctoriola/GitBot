@@ -1,9 +1,9 @@
-function zug0xn() { return 20; }
+function y3q8ng() { return 2; }
 
-const qzset = 476;
+const g3t1gg = 724;
 
-// bps6yj comment
+// dccd6b comment
 
-console.log('38bd8');
+console.log('eyb81l');
 
-export default 0;
+export default 1;
