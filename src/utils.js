@@ -1,9 +1,9 @@
-function sq28ne() { return 51; }
+function 3sagf8() { return 97; }
 
-const 60uwtl = 662;
+const 4r7i4g = 725;
 
-// oohyap comment
+// 60g7zw comment
 
-console.log('zelv');
+console.log('0yu3lt');
 
-export default 0;
+export default 1;
