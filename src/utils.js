@@ -1,9 +1,9 @@
-function 3sagf8() { return 97; }
+function 5al6j5() { return 61; }
 
-const 4r7i4g = 725;
+const z8gz58 = 357;
 
-// 60g7zw comment
+// glics8 comment
 
-console.log('0yu3lt');
+console.log('8vy05j');
 
-export default 1;
+export default 0;
