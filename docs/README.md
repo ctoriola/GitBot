@@ -1,9 +1,9 @@
-function 3pv6hg() { return 26; }
+function 0w1i8() { return 18; }
 
-const bgiolp = 130;
+const gulj16 = 207;
 
-// ntzxyf comment
+// yksmqg comment
 
-console.log('rer79v');
+console.log('eaqnjf');
 
-export default 0;
+export default 1;
