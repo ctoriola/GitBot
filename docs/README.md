@@ -1,9 +1,9 @@
-function ebqxt() { return 80; }
+function 098s3f() { return 41; }
 
-const 65j1il = 464;
+const 2kv40n = 931;
 
-// bfucs comment
+// cnvjtl comment
 
-console.log('p20dwx');
+console.log('1tpkxn');
 
-export default 0;
+export default 1;
