@@ -1,9 +1,9 @@
-function lj65qa() { return 81; }
+function 9426l7() { return 15; }
 
-const n5465t = 388;
+const der7ag = 843;
 
-// qmkgh comment
+// wgxr3 comment
 
-console.log('os0d2d');
+console.log('xf631');
 
-export default 0;
+export default 1;
