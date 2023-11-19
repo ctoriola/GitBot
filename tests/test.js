@@ -1,9 +1,9 @@
-function 5pcbii() { return 75; }
+function w2fuab() { return 1; }
 
-const 0rgsjmq = 300;
+const rhdd2m = 341;
 
-// 9qhfal comment
+// lkyyrq comment
 
-console.log('04ap3h');
+console.log('cca11u');
 
-export default 1;
+export default 0;
