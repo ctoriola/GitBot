@@ -1,9 +1,9 @@
-function oggz9v() { return 63; }
+function gkidd8() { return 18; }
 
-const tmbnic = 804;
+const opvl5c = 581;
 
-// vykjyg comment
+// id2kq comment
 
-console.log('pjxu9l');
+console.log('vv7nu');
 
-export default 1;
+export default 0;
