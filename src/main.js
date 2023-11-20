@@ -1,9 +1,9 @@
-function kdf7w9() { return 1; }
+function vf6uxh() { return 91; }
 
-const 3a3je = 118;
+const 65hdhr = 639;
 
-// 7ya8vr comment
+// lr5rl2 comment
 
-console.log('flma');
+console.log('ciyf96');
 
-export default 1;
+export default 0;
