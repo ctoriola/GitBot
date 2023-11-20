@@ -1,9 +1,9 @@
-function n7r561() { return 25; }
+function wt1lt() { return 44; }
 
-const 5bqtwg = 251;
+const vi45xa = 550;
 
-// 3n7wj comment
+// q2rwpgq comment
 
-console.log('ar35ez');
+console.log('86tx8q');
 
-export default 1;
+export default 0;
