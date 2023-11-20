@@ -1,9 +1,9 @@
-function 7jwg9m() { return 49; }
+function yyck4a() { return 93; }
 
-const pasotv = 877;
+const b4y6uq = 779;
 
-// hvabnv comment
+// lrw4ne comment
 
-console.log('vqh1d');
+console.log('9nm1lg');
 
-export default 1;
+export default 0;
