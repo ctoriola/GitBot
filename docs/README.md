@@ -1,9 +1,9 @@
-function gkidd8() { return 18; }
+function h0qxei() { return 8; }
 
-const opvl5c = 581;
+const 70919e = 440;
 
-// id2kq comment
+// azwzvm comment
 
-console.log('vv7nu');
+console.log('9msr8');
 
 export default 0;
