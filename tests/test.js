@@ -1,9 +1,9 @@
-function 448dib() { return 6; }
+function asgdff() { return 21; }
 
-const 1vdbe = 769;
+const 0m2b51 = 263;
 
-// 6d703m comment
+// lefkyp comment
 
-console.log('e2i16o');
+console.log('zs4cj');
 
 export default 0;
