@@ -1,9 +1,9 @@
-function mr3dla() { return 6; }
+function 448dib() { return 6; }
 
-const sg87hb = 551;
+const 1vdbe = 769;
 
-// 7febzj comment
+// 6d703m comment
 
-console.log('63bb1d');
+console.log('e2i16o');
 
-export default 1;
+export default 0;
