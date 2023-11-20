@@ -1,9 +1,9 @@
-function 273yl8() { return 23; }
+function sryre9() { return 78; }
 
-const hza84 = 958;
+const x2row3 = 445;
 
-// 3hwozg comment
+// 9wswba comment
 
-console.log('or7rlf6');
+console.log('hocblq');
 
-export default 0;
+export default 1;
