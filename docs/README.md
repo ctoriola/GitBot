@@ -1,9 +1,9 @@
-function gvtse() { return 95; }
+function 96j736h() { return 36; }
 
-const rqhhk8 = 549;
+const czx5ai = 606;
 
-// 1h324 comment
+// 5y4oq comment
 
-console.log('y332i6');
+console.log('ykitm');
 
-export default 1;
+export default 0;
