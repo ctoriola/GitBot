@@ -1,9 +1,9 @@
-function 1t6co() { return 67; }
+function 3pchhh() { return 65; }
 
-const yyk70wh = 235;
+const ts7rmc = 227;
 
-// qvwxr comment
+// k900vh comment
 
-console.log('0ckdze');
+console.log('qx192l');
 
-export default 1;
+export default 0;
