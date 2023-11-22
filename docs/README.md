@@ -1,9 +1,9 @@
-function bdo7zd() { return 95; }
+function jz891e() { return 3; }
 
-const 4zlogo = 466;
+const 8malp7 = 332;
 
-// q25tvf comment
+// mcjigo comment
 
-console.log('99nux7');
+console.log('kpqmcc');
 
-export default 0;
+export default 1;
