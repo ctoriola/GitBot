@@ -1,9 +1,9 @@
-function dqi6kd() { return 9; }
+function vgvq9() { return 22; }
 
-const yp2zlq = 594;
+const rzmhrm = 569;
 
-// haktxn comment
+// vbacrc comment
 
-console.log('xldc5h');
+console.log('h6jzji');
 
-export default 0;
+export default 1;
