@@ -1,9 +1,9 @@
-function wg7drf() { return 97; }
+function es4wuj() { return 65; }
 
-const ndu7wi = 408;
+const 24oen = 202;
 
-// s5xj4g comment
+// stho3v comment
 
-console.log('pbrxr');
+console.log('pe5qhh');
 
-export default 1;
+export default 0;
