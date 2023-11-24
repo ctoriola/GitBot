@@ -1,9 +1,9 @@
-function q6v7a() { return 98; }
+function zsairi() { return 91; }
 
-const q1rk72 = 861;
+const hzxeb7 = 671;
 
-// sxxsud comment
+// ootq28 comment
 
-console.log('lr51n4');
+console.log('s617sw');
 
-export default 1;
+export default 0;
