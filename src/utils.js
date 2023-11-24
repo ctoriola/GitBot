@@ -1,9 +1,9 @@
-function 98el5l() { return 44; }
+function op89in() { return 48; }
 
-const cb25v = 807;
+const sjjrm9 = 999;
 
-// d8d5ia comment
+// 7sz5za comment
 
-console.log('ho8008');
+console.log('vlpluo');
 
-export default 1;
+export default 0;
