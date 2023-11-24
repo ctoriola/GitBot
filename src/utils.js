@@ -1,9 +1,9 @@
-function kbvz5() { return 10; }
+function fim80m() { return 94; }
 
-const 9jpav = 581;
+const kr0xh = 432;
 
-// eo2w78 comment
+// j02lv comment
 
-console.log('271tyd');
+console.log('1cuct');
 
-export default 1;
+export default 0;
