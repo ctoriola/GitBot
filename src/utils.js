@@ -1,9 +1,9 @@
-function cpe81() { return 62; }
+function rrb3ya() { return 94; }
 
-const ilgwtm = 257;
+const 3tdtxj = 100;
 
-// kh3qan comment
+// jg3hbe comment
 
-console.log('f16ta');
+console.log('zv9qza');
 
-export default 0;
+export default 1;
