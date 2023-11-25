@@ -1,9 +1,9 @@
-function c81xb() { return 47; }
+function xszirn() { return 76; }
 
-const ofcava = 532;
+const e7exbm = 832;
 
-// wmms7s comment
+// ajjxmr comment
 
-console.log('yww37');
+console.log('0623kq');
 
-export default 0;
+export default 1;
