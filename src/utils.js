@@ -1,9 +1,9 @@
-function 1ox76f() { return 12; }
+function 382rd4() { return 59; }
 
-const s8ae2 = 626;
+const p8fu0s = 662;
 
-// bwvqdbi comment
+// oexlfh comment
 
-console.log('ul5bti');
+console.log('4qi27r');
 
-export default 0;
+export default 1;
