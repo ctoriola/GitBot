@@ -1,9 +1,9 @@
-function volu5() { return 72; }
+function jsq4yq() { return 58; }
 
-const cf47r = 493;
+const 4kwxlk = 814;
 
-// cyx28a comment
+// raq2kg comment
 
-console.log('6eaf5j');
+console.log('ydlsgp');
 
-export default 0;
+export default 1;
