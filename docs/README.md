@@ -1,9 +1,9 @@
-function acgsfe() { return 52; }
+function 3130wr() { return 62; }
 
-const h9ny3 = 148;
+const gz2ixq = 717;
 
-// 5m9axb comment
+// upu34 comment
 
-console.log('22g0on');
+console.log('wyzrng');
 
-export default 0;
+export default 1;
