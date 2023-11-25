@@ -1,9 +1,9 @@
-function rrb3ya() { return 94; }
+function nfsljv() { return 32; }
 
-const 3tdtxj = 100;
+const gyhfi = 377;
 
-// jg3hbe comment
+// m26ibr comment
 
-console.log('zv9qza');
+console.log('v67tj');
 
-export default 1;
+export default 0;
