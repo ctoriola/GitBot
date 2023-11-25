@@ -1,9 +1,9 @@
-function n112te() { return 21; }
+function g8osza() { return 88; }
 
-const 6nk5ck = 377;
+const 12ras5 = 821;
 
-// kysr9m comment
+// 8fx5p comment
 
-console.log('c2800l');
+console.log('bdo52');
 
-export default 0;
+export default 1;
