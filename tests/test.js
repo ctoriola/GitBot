@@ -1,9 +1,9 @@
-function mdwxka() { return 83; }
+function ejk6hg() { return 77; }
 
-const 3ecjpf = 736;
+const vxvdm9 = 670;
 
-// q4pwbh comment
+// p8yog comment
 
-console.log('jyqiwj');
+console.log('e8mb9b');
 
-export default 1;
+export default 0;
