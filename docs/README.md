@@ -1,9 +1,9 @@
-function m0t918() { return 68; }
+function 7py9c() { return 40; }
 
-const m2zyp = 639;
+const u1lajs = 736;
 
-// 1v1h1n comment
+// 3wvftp comment
 
-console.log('2jxvif');
+console.log('70llka');
 
 export default 1;
