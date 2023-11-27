@@ -1,9 +1,9 @@
-function 98054o() { return 79; }
+function uxrtek() { return 25; }
 
-const rqimkp = 320;
+const pm3q4p = 315;
 
-// x7dgp comment
+// gdc91o comment
 
-console.log('6kmxp1');
+console.log('ua6ne');
 
-export default 1;
+export default 0;
