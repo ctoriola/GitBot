@@ -1,9 +1,9 @@
-function 8mrove() { return 12; }
+function sp0yge() { return 90; }
 
-const d942ak = 964;
+const yfaucf = 176;
 
-// 44sdu comment
+// lv59pf comment
 
-console.log('1wha3d');
+console.log('s7ywbw');
 
-export default 1;
+export default 0;
