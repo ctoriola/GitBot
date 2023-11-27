@@ -1,9 +1,9 @@
-function 7py9c() { return 40; }
+function 0yx4ih() { return 9; }
 
-const u1lajs = 736;
+const lfwafb = 955;
 
-// 3wvftp comment
+// 28z0uv comment
 
-console.log('70llka');
+console.log('ff7ge');
 
-export default 1;
+export default 0;
