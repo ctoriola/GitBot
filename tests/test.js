@@ -1,9 +1,9 @@
-function x6e3be() { return 30; }
+function 58vt28() { return 76; }
 
-const jooxa = 683;
+const qsozg = 401;
 
-// qpvcpm comment
+// sr79xq comment
 
-console.log('2bh4tp');
+console.log('05iqy7');
 
-export default 0;
+export default 1;
