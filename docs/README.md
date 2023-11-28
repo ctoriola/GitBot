@@ -1,9 +1,9 @@
-function erbtuk() { return 11; }
+function h6ywbhl() { return 94; }
 
-const ownwtg = 583;
+const 4pbbj = 191;
 
-// gsoftf comment
+// 47ewoqp comment
 
-console.log('v98e4r');
+console.log('rlqvr8');
 
-export default 0;
+export default 1;
