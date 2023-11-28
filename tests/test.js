@@ -1,9 +1,9 @@
-function in3z66() { return 5; }
+function 6nqc5d() { return 59; }
 
-const 12nxvh = 445;
+const 1ic79m = 509;
 
-// jfrzf8 comment
+// ocda56 comment
 
-console.log('fioias');
+console.log('vf7kib');
 
-export default 0;
+export default 1;
