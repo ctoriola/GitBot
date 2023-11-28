@@ -1,9 +1,9 @@
-function 3ot58o() { return 40; }
+function nc20rl() { return 20; }
 
-const 8qppbf = 815;
+const pef4zg = 743;
 
-// p37nkm comment
+// owkdqr comment
 
-console.log('ooirq');
+console.log('i3opa');
 
-export default 0;
+export default 1;
