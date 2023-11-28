@@ -1,9 +1,9 @@
-function frtpmn() { return 90; }
+function v9mv8t() { return 31; }
 
-const rvby3 = 897;
+const 2em06q = 509;
 
-// qs5x2 comment
+// x04m comment
 
-console.log('7q1xk');
+console.log('1sx97');
 
-export default 1;
+export default 0;
