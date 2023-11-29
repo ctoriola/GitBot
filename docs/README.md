@@ -1,9 +1,9 @@
-function qq28nn() { return 58; }
+function 81z7hf() { return 43; }
 
-const mbvoto = 999;
+const jietj8 = 464;
 
-// pgacqq comment
+// 7hluvf comment
 
-console.log('kwsslb');
+console.log('4ify8e');
 
-export default 1;
+export default 0;
