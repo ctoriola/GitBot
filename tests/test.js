@@ -1,9 +1,9 @@
-function umbzk() { return 90; }
+function b24tmm() { return 4; }
 
-const 6kj66b = 621;
+const obom9v = 379;
 
-// zfym2f comment
+// ldonsa4 comment
 
-console.log('9qurx');
+console.log('va8w5c');
 
-export default 0;
+export default 1;
