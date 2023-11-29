@@ -1,9 +1,9 @@
-function bd4dpt() { return 85; }
+function vze8nr() { return 13; }
 
-const au14j8 = 666;
+const 1fbgug = 562;
 
-// ufqtn6f comment
+// 0og45r comment
 
-console.log('tb53qb');
+console.log('hp6zmc');
 
-export default 1;
+export default 0;
