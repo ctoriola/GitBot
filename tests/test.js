@@ -1,9 +1,9 @@
-function vrbipb() { return 90; }
+function 9e3zwk() { return 69; }
 
-const 5tyoa = 702;
+const 9j3bxf = 707;
 
-// kq9a5 comment
+// nor66w5 comment
 
-console.log('cbrzlu');
+console.log('yv124');
 
-export default 1;
+export default 0;
