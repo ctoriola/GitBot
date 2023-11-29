@@ -1,9 +1,9 @@
-function bfxsuk() { return 41; }
+function 4ojyws() { return 24; }
 
-const tnc304 = 858;
+const t5s6nb = 363;
 
-// th0wl5 comment
+// v4xbxg comment
 
-console.log('bsz0vm');
+console.log('4h3x5');
 
-export default 0;
+export default 1;
