@@ -1,9 +1,9 @@
-function t2nt0j() { return 77; }
+function hego7() { return 14; }
 
-const wjav0s = 554;
+const 39h6lb = 313;
 
-// 34rod6 comment
+// 1i6e8g comment
 
-console.log('c8hka');
+console.log('puqh8p');
 
-export default 1;
+export default 0;
