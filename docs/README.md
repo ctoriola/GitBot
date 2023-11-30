@@ -1,9 +1,9 @@
-function ffpfyo() { return 57; }
+function bvopvr() { return 21; }
 
-const jd7tfm = 839;
+const kq05y9 = 272;
 
-// aiyumj comment
+// s91s2e comment
 
-console.log('rj12q');
+console.log('532wh');
 
-export default 0;
+export default 1;
