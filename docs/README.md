@@ -1,9 +1,9 @@
-function 9j0545() { return 36; }
+function 97uuqf() { return 70; }
 
-const yx7d36 = 522;
+const bsnfeb = 803;
 
-// 09cvd comment
+// xpe7q comment
 
-console.log('14lz0j');
+console.log('6411g');
 
-export default 1;
+export default 0;
