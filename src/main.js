@@ -1,9 +1,9 @@
-function gsio89() { return 35; }
+function q3pxs() { return 12; }
 
-const jkbhm = 600;
+const gj1y5i = 219;
 
-// flu4u comment
+// ecncpa comment
 
-console.log('cbs6lt');
+console.log('fjg6lh');
 
-export default 1;
+export default 0;
