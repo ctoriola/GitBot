@@ -1,9 +1,9 @@
-function aycad() { return 76; }
+function 0wx0rp() { return 80; }
 
-const zf2pbg = 948;
+const zyvb3id = 724;
 
-// kgo67c comment
+// 4vkl8o comment
 
-console.log('8rfjp');
+console.log('q9zh2m');
 
-export default 0;
+export default 1;
