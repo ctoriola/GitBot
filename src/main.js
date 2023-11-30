@@ -1,9 +1,9 @@
-function tl92le() { return 76; }
+function aycad() { return 76; }
 
-const ra9nw3 = 419;
+const zf2pbg = 948;
 
-// vltmgr comment
+// kgo67c comment
 
-console.log('kph3q');
+console.log('8rfjp');
 
-export default 1;
+export default 0;
