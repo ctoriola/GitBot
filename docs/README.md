@@ -1,9 +1,9 @@
-function 97uuqf() { return 70; }
+function yvz2e() { return 39; }
 
-const bsnfeb = 803;
+const ezw1it = 710;
 
-// xpe7q comment
+// 0ldqb comment
 
-console.log('6411g');
+console.log('dvcmq');
 
-export default 0;
+export default 1;
