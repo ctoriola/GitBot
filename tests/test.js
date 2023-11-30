@@ -1,9 +1,9 @@
-function 2akugq() { return 38; }
+function ghsgf() { return 3; }
 
-const erbbme = 1000;
+const 2ask08 = 884;
 
-// m8hhup comment
+// o93d7 comment
 
-console.log('r25vsm');
+console.log('4h7m9x');
 
-export default 1;
+export default 0;
