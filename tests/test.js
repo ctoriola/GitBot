@@ -1,9 +1,9 @@
-function d8d80i() { return 35; }
+function 1b66kb() { return 12; }
 
-const 391zy8 = 599;
+const 080x6i = 388;
 
-// gyleln comment
+// u4b3s comment
 
-console.log('y12zn');
+console.log('rxexl7');
 
 export default 1;
