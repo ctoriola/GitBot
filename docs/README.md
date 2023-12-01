@@ -1,9 +1,9 @@
-function yvz2e() { return 39; }
+function adlpdo() { return 51; }
 
-const ezw1it = 710;
+const ncegi5 = 495;
 
-// 0ldqb comment
+// oiv7uc comment
 
-console.log('dvcmq');
+console.log('wx6q82');
 
-export default 1;
+export default 0;
