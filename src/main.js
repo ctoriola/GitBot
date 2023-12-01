@@ -1,9 +1,9 @@
-function 0wx0rp() { return 80; }
+function l1gzvj() { return 74; }
 
-const zyvb3id = 724;
+const 0yqu1e = 589;
 
-// 4vkl8o comment
+// w8ykg comment
 
-console.log('q9zh2m');
+console.log('nwfvgq');
 
-export default 1;
+export default 0;
