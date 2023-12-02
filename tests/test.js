@@ -1,9 +1,9 @@
-function 1b66kb() { return 12; }
+function 7woff() { return 27; }
 
-const 080x6i = 388;
+const via2a4 = 791;
 
-// u4b3s comment
+// brzhfa comment
 
-console.log('rxexl7');
+console.log('kv8leg');
 
-export default 1;
+export default 0;
