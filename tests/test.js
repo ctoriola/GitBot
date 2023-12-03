@@ -1,9 +1,9 @@
-function odhmah() { return 35; }
+function lo37u7() { return 9; }
 
-const fbxp0i = 386;
+const i3nuc = 225;
 
-// z6bocf comment
+// ps8t1 comment
 
-console.log('spnwwul');
+console.log('6c1lin');
 
-export default 1;
+export default 0;
