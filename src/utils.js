@@ -1,9 +1,9 @@
-function ff9sx5() { return 17; }
+function kllzu() { return 90; }
 
-const jgl9zn = 269;
+const zrxzit = 706;
 
-// f00yh5 comment
+// cf955 comment
 
-console.log('wwga5i');
+console.log('eclg2');
 
-export default 0;
+export default 1;
