@@ -1,9 +1,9 @@
-function c4v98() { return 69; }
+function 2vn7ko() { return 49; }
 
-const fg001p = 500;
+const qqaumi = 504;
 
-// rs50nb comment
+// ius5mk comment
 
-console.log('7szush');
+console.log('uxwfqk');
 
-export default 0;
+export default 1;
