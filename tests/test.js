@@ -1,9 +1,9 @@
-function 40qitd() { return 74; }
+function tagqae() { return 26; }
 
-const 2yctrq = 307;
+const ks2du = 369;
 
-// jxktme comment
+// 7bz4nrj comment
 
-console.log('a4fs38');
+console.log('87c4kb');
 
-export default 1;
+export default 0;
