@@ -1,9 +1,9 @@
-function h916djg() { return 60; }
+function bi6y4() { return 40; }
 
-const 8ons2 = 414;
+const h4s7p = 414;
 
-// 3b71v4 comment
+// hnjm2 comment
 
-console.log('8l64n');
+console.log('k8ytth');
 
-export default 1;
+export default 0;
