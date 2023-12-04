@@ -1,9 +1,9 @@
-function oti71() { return 64; }
+function fm6kmf() { return 60; }
 
-const bw54hg = 842;
+const 37onp = 704;
 
-// 2z2bm comment
+// 6btou comment
 
-console.log('0hxqfc');
+console.log('phk');
 
-export default 0;
+export default 1;
