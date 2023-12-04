@@ -1,9 +1,9 @@
-function lo37u7() { return 9; }
+function 40qitd() { return 74; }
 
-const i3nuc = 225;
+const 2yctrq = 307;
 
-// ps8t1 comment
+// jxktme comment
 
-console.log('6c1lin');
+console.log('a4fs38');
 
-export default 0;
+export default 1;
