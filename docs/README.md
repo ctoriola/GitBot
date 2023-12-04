@@ -1,9 +1,9 @@
-function 2vn7ko() { return 49; }
+function ts8gep() { return 23; }
 
-const qqaumi = 504;
+const oxeqjb = 726;
 
-// ius5mk comment
+// ksnc5q comment
 
-console.log('uxwfqk');
+console.log('ejkqs5j');
 
-export default 1;
+export default 0;
