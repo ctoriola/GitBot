@@ -1,9 +1,9 @@
-function 2c37j() { return 82; }
+function 278wcs() { return 98; }
 
-const j1k49 = 472;
+const ohfe0f = 983;
 
-// j6sblh comment
+// n53rc comment
 
-console.log('4uowx');
+console.log('xsr192');
 
-export default 0;
+export default 1;
