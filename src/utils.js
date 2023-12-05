@@ -1,9 +1,9 @@
-function xnq0i() { return 99; }
+function 2tbzi() { return 44; }
 
-const 1mef6aq = 975;
+const f91eo = 480;
 
-// 3f3msi comment
+// otj5vd comment
 
-console.log('8daeg3');
+console.log('5m8ijc');
 
-export default 1;
+export default 0;
