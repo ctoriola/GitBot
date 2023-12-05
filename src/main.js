@@ -1,9 +1,9 @@
-function 7lhy43() { return 36; }
+function bwf22r() { return 33; }
 
-const xgiktw = 452;
+const p6z7u = 367;
 
-// kcyaal comment
+// bflau7 comment
 
-console.log('4ctz8');
+console.log('y9v2c');
 
-export default 0;
+export default 1;
