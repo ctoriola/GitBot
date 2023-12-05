@@ -1,9 +1,9 @@
-function 433ril() { return 51; }
+function ozsg3() { return 80; }
 
-const 4ev6z8 = 826;
+const k1sicj = 430;
 
-// u595mv comment
+// ajn1vh comment
 
-console.log('ouroda');
+console.log('cnfnmm');
 
-export default 0;
+export default 1;
