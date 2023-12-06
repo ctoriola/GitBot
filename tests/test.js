@@ -1,9 +1,9 @@
-function mbvvc() { return 46; }
+function 5rbpxi() { return 34; }
 
-const 4ekps8 = 933;
+const m5gohb = 709;
 
-// tg4zrf comment
+// 0toxx comment
 
-console.log('8kipd');
+console.log('ns9dt8');
 
-export default 1;
+export default 0;
