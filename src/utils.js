@@ -1,9 +1,9 @@
-function 1br62() { return 14; }
+function up9n1m() { return 78; }
 
-const izy4m = 506;
+const rs1iyg = 348;
 
-// iattab comment
+// ornvpc comment
 
-console.log('a2jgui');
+console.log('s5c2e5');
 
-export default 0;
+export default 1;
