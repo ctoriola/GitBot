@@ -1,9 +1,9 @@
-function up9n1m() { return 78; }
+function yervd7() { return 81; }
 
-const rs1iyg = 348;
+const oppp5 = 918;
 
-// ornvpc comment
+// vjkdws comment
 
-console.log('s5c2e5');
+console.log('p4p2lg');
 
-export default 1;
+export default 0;
