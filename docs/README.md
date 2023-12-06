@@ -1,9 +1,9 @@
-function 17e466() { return 26; }
+function m45tf9() { return 53; }
 
-const glj5md = 221;
+const 3de6s9 = 255;
 
-// 81l7q comment
+// sgnbio comment
 
-console.log('3x3u4');
+console.log('lx4hs9');
 
-export default 1;
+export default 0;
