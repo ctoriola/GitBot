@@ -1,9 +1,9 @@
-function cxfgcl() { return 4; }
+function kdbn29() { return 94; }
 
-const wg0us = 381;
+const e8hqic = 200;
 
-// wwxp38 comment
+// q6xzd8 comment
 
-console.log('bhb1yb');
+console.log('3mp6ef');
 
-export default 0;
+export default 1;
