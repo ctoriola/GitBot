@@ -1,9 +1,9 @@
-function 266fep() { return 68; }
+function cxfgcl() { return 4; }
 
-const k1aea = 177;
+const wg0us = 381;
 
-// geg8uo comment
+// wwxp38 comment
 
-console.log('w1ou7');
+console.log('bhb1yb');
 
-export default 1;
+export default 0;
