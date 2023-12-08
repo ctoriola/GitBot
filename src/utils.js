@@ -1,9 +1,9 @@
-function rbs6oj() { return 20; }
+function olbqjnp() { return 12; }
 
-const ehq6oj = 754;
+const qda7if = 323;
 
-// 0ogx8i comment
+// 8bcqf comment
 
-console.log('zg4k2m');
+console.log('ydq3h');
 
 export default 1;
