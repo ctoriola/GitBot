@@ -1,9 +1,9 @@
-function 98t0ec() { return 86; }
+function 6wjk53q() { return 82; }
 
-const vx45rc = 479;
+const 5c8qy = 259;
 
-// s3vm8q comment
+// c0vgr comment
 
-console.log('ug1q3s');
+console.log('hq4yn');
 
-export default 1;
+export default 0;
