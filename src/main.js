@@ -1,9 +1,9 @@
-function 5y7glp() { return 9; }
+function rf34dr() { return 98; }
 
-const bztubb = 930;
+const xr9axu = 536;
 
-// noq0zp comment
+// h1jbzd comment
 
-console.log('flp5e');
+console.log('u683u');
 
-export default 1;
+export default 0;
