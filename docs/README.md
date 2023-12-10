@@ -1,9 +1,9 @@
-function s40w4j() { return 12; }
+function 6f1eva() { return 7; }
 
-const ftch7 = 426;
+const s7xox5 = 377;
 
-// enee0j comment
+// puwq4e comment
 
-console.log('i6g3wu');
+console.log('3u86q4');
 
-export default 1;
+export default 0;
