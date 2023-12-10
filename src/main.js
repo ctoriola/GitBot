@@ -1,9 +1,9 @@
-function jmac0c() { return 29; }
+function 7m2ia8() { return 8; }
 
-const ucq2yh = 648;
+const yccqzg = 213;
 
-// ta87uf comment
+// j84nlp comment
 
-console.log('vlyt96');
+console.log('7dsxbq');
 
-export default 0;
+export default 1;
