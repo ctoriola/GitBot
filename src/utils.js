@@ -1,9 +1,9 @@
-function bxi2b4() { return 73; }
+function pj23mm() { return 91; }
 
-const ya377 = 125;
+const i6lpk = 897;
 
-// a5ak1f comment
+// gnvs7d comment
 
-console.log('ckoltk');
+console.log('sw96x');
 
-export default 1;
+export default 0;
