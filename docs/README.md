@@ -1,9 +1,9 @@
-function 7ha39c() { return 21; }
+function u84ixr() { return 17; }
 
-const k5mhym = 336;
+const hgx4dkp7 = 726;
 
-// k5ab35 comment
+// 7zp8rf comment
 
-console.log('vepbae');
+console.log('t7x9rs');
 
-export default 0;
+export default 1;
