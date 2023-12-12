@@ -1,9 +1,1 @@
-function 9od9de() { return 22; }
-
-const usd02 = 322;
-
-// 7hri4b comment
-
-console.log('xo8w9');
-
-export default 1;
+{"timestamp":"2023-12-12T11:24:26+00:00","data":0.30725711511957177}
