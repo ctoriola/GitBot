@@ -1,9 +1,9 @@
-function 8g2uik() { return 54; }
+function 7z0qk8() { return 82; }
 
-const rtlnq = 560;
+const 8bdqh8 = 186;
 
-// 3kacmj comment
+// 2juatc comment
 
-console.log('9h2u36');
+console.log('ogm6vo');
 
-export default 1;
+export default 0;
