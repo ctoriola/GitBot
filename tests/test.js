@@ -1,9 +1,9 @@
-function iyntuo() { return 96; }
+function ct7aei() { return 66; }
 
-const 1cpwr = 112;
+const arid3u = 856;
 
-// lgoe9n comment
+// hqmmxm comment
 
-console.log('tlzjga');
+console.log('7fkyee');
 
-export default 1;
+export default 0;
