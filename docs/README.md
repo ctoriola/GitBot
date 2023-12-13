@@ -1,9 +1,9 @@
-function 9sgbc() { return 60; }
+function idyyq() { return 51; }
 
-const pu4qs = 986;
+const 45uptq = 758;
 
-// isnz09 comment
+// th73si comment
 
-console.log('fi5b15');
+console.log('bvlcd9');
 
-export default 0;
+export default 1;
