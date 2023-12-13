@@ -1,9 +1,9 @@
-function fsjt59() { return 23; }
+function pb6hay() { return 66; }
 
-const 2d40vw = 638;
+const wrbawj = 438;
 
-// trlfp comment
+// havn9 comment
 
-console.log('rmeezg');
+console.log('ykfhx');
 
-export default 1;
+export default 0;
