@@ -1,9 +1,9 @@
-function 7793vi() { return 11; }
+function qwzxqu() { return 14; }
 
-const z1a5z4 = 804;
+const fe8j1p = 897;
 
-// 3muult comment
+// 23uuui comment
 
-console.log('8ujt0t');
+console.log('5mdfes');
 
-export default 1;
+export default 0;
