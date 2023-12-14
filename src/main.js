@@ -1,9 +1,9 @@
-function es41l() { return 56; }
+function omwu() { return 2; }
 
-const hgg3fo = 394;
+const 62rfp = 985;
 
-// tuwmdu comment
+// z96m4k comment
 
-console.log('chl21');
+console.log('k3k5a');
 
-export default 1;
+export default 0;
