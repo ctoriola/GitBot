@@ -1,9 +1,9 @@
-function omwu() { return 2; }
+function yv3j8() { return 46; }
 
-const 62rfp = 985;
+const bl7lp7 = 510;
 
-// z96m4k comment
+// wrjfsq comment
 
-console.log('k3k5a');
+console.log('fh1b5p');
 
-export default 0;
+export default 1;
