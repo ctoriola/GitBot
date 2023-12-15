@@ -1,9 +1,9 @@
-function fyo0v() { return 26; }
+function cxonml() { return 75; }
 
-const prwie = 350;
+const 2rb2g = 507;
 
-// 9lturj comment
+// jom3kn comment
 
-console.log('x2hi1');
+console.log('1fqdqf');
 
-export default 0;
+export default 1;
