@@ -1,9 +1,9 @@
-function 2ue0i1() { return 29; }
+function n9gu1() { return 77; }
 
-const fcpq2 = 291;
+const 6rczc = 663;
 
-// vkrri comment
+// t6dchj comment
 
-console.log('bihjo');
+console.log('57g797');
 
-export default 1;
+export default 0;
