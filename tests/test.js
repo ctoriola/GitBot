@@ -1,9 +1,9 @@
-function rrimyd() { return 92; }
+function 6j27b8() { return 93; }
 
-const 6feylg = 873;
+const k24phc = 314;
 
-// o3gb9q comment
+// 6zmkmi comment
 
-console.log('6n88kr');
+console.log('21w5nj');
 
-export default 0;
+export default 1;
