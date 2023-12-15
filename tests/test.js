@@ -1,9 +1,9 @@
-function hhmvi() { return 64; }
+function 3ih7i() { return 36; }
 
-const 7jsp5 = 728;
+const ypq1yp = 416;
 
-// 8sfp4q comment
+// boj4w comment
 
-console.log('k5h79j');
+console.log('d5wzia');
 
 export default 1;
