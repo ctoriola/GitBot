@@ -1,9 +1,9 @@
-function 9mayri() { return 93; }
+function k9v8gk() { return 9; }
 
-const 8qvpx9 = 532;
+const 8upz5pq = 589;
 
-// bmyqme comment
+// 76tkob comment
 
-console.log('q80zfo');
+console.log('edbtca');
 
-export default 0;
+export default 1;
