@@ -1,9 +1,9 @@
-function ifxup() { return 62; }
+function us51fq() { return 41; }
 
-const 5r489q = 523;
+const ter0xk = 685;
 
-// uvln3g comment
+// caz5k comment
 
-console.log('zc0aj');
+console.log('9spfdq');
 
-export default 1;
+export default 0;
