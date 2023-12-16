@@ -1,9 +1,9 @@
-function leo9f9() { return 3; }
+function s6wxni() { return 92; }
 
-const 4n7zve = 971;
+const uzlcf = 395;
 
-// gtm0om comment
+// t90xts comment
 
-console.log('t9ne25');
+console.log('a4cr6u');
 
-export default 1;
+export default 0;
