@@ -1,9 +1,9 @@
-function tayzrl() { return 8; }
+function dsb62k() { return 10; }
 
-const vwvgtll = 139;
+const p5d8oq = 298;
 
-// xz2rud comment
+// 5j26y comment
 
-console.log('1mr6zs');
+console.log('87hgbp');
 
-export default 1;
+export default 0;
