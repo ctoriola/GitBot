@@ -1,9 +1,9 @@
-function s6wxni() { return 92; }
+function a2c3pl() { return 11; }
 
-const uzlcf = 395;
+const us0w1j = 262;
 
-// t90xts comment
+// fgnhv8 comment
 
-console.log('a4cr6u');
+console.log('ywkn7j');
 
 export default 0;
