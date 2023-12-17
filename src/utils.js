@@ -1,9 +1,9 @@
-function 0qpzun() { return 2; }
+function pcngtg() { return 52; }
 
-const zemks = 269;
+const tvwez5 = 783;
 
-// ky0d0x comment
+// 0b6sel comment
 
-console.log('goln75');
+console.log('wwja2o');
 
-export default 1;
+export default 0;
