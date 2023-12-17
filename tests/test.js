@@ -1,9 +1,9 @@
-function 1ezvjs() { return 76; }
+function ytf8mc() { return 58; }
 
-const i6unh = 885;
+const eyscjjr = 358;
 
-// 0ta50j comment
+// ec2kcb comment
 
-console.log('tpr4ch');
+console.log('vlpblp');
 
-export default 0;
+export default 1;
