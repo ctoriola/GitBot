@@ -1,9 +1,9 @@
-function cgvnag() { return 45; }
+function odre0o() { return 37; }
 
-const bd0n8 = 800;
+const wzvufa = 813;
 
-// zioc2 comment
+// d8bbx comment
 
-console.log('os5l2s');
+console.log('9q95pc');
 
-export default 0;
+export default 1;
