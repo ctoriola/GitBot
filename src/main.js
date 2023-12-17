@@ -1,9 +1,9 @@
-function 1na8ak() { return 62; }
+function n0z54() { return 77; }
 
-const vfcxt = 591;
+const dc3x89 = 319;
 
-// 2h0g4j comment
+// a3fjbb comment
 
-console.log('by2gt');
+console.log('egc63');
 
-export default 1;
+export default 0;
