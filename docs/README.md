@@ -1,9 +1,9 @@
-function m83t3p() { return 35; }
+function ux44ui() { return 53; }
 
-const sj2ng8 = 790;
+const snvb54 = 141;
 
-// m3pr7j comment
+// 34mskm comment
 
-console.log('jowdr');
+console.log('74o8g');
 
-export default 1;
+export default 0;
