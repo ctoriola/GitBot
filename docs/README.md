@@ -1,9 +1,9 @@
-function ptryo8() { return 33; }
+function k9uuf() { return 91; }
 
-const dcz39n = 507;
+const 8bwkd = 183;
 
-// ce4nan comment
+// cxihvu comment
 
-console.log('sbgw8l');
+console.log('r1vxuq');
 
-export default 0;
+export default 1;
