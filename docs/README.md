@@ -1,9 +1,9 @@
-function l3jdl() { return 82; }
+function rxzbn5() { return 48; }
 
-const q6jzug = 433;
+const 02q2ab = 701;
 
-// knhz3 comment
+// myho7a comment
 
-console.log('dk7ory');
+console.log('y9cyw8');
 
-export default 1;
+export default 0;
