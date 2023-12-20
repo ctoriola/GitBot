@@ -1,9 +1,9 @@
-function 8f7542() { return 85; }
+function vk1imu5() { return 71; }
 
-const q1ra6e = 179;
+const 9xxrphm = 851;
 
-// tsu0i comment
+// iyzqt2 comment
 
-console.log('spvepb');
+console.log('iz9bpo');
 
-export default 1;
+export default 0;
