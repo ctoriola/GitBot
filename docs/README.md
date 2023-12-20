@@ -1,9 +1,9 @@
-function og4q1d() { return 81; }
+function a6y2j4() { return 68; }
 
-const 7pk9ki = 248;
+const e4tosk = 216;
 
-// omq2y comment
+// nbbjc4 comment
 
-console.log('odi2os');
+console.log('wjr4o7');
 
-export default 1;
+export default 0;
