@@ -1,9 +1,9 @@
-function 9xwlt() { return 32; }
+function 7beqmk() { return 35; }
 
-const p4ulrr = 700;
+const ylhwin = 302;
 
-// mltrtb comment
+// x1qfba comment
 
-console.log('rxkulj');
+console.log('87ey5');
 
-export default 1;
+export default 0;
