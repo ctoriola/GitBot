@@ -1,9 +1,9 @@
-function xzukvi() { return 59; }
+function og4q1d() { return 81; }
 
-const k8yrvq = 409;
+const 7pk9ki = 248;
 
-// by9drn comment
+// omq2y comment
 
-console.log('fplpm8');
+console.log('odi2os');
 
-export default 0;
+export default 1;
