@@ -1,9 +1,9 @@
-function 2nsw3w() { return 76; }
+function 22zck() { return 15; }
 
-const nphsm = 652;
+const odfthn = 588;
 
-// 8ktxvt comment
+// 9ma2kl comment
 
-console.log('5rcyvu');
+console.log('8f0rag');
 
-export default 0;
+export default 1;
