@@ -1,9 +1,9 @@
-function ec92o() { return 29; }
+function ivizccg() { return 68; }
 
-const z960i8 = 338;
+const ntqbl = 172;
 
-// ogvck comment
+// u4n3e comment
 
-console.log('an95m');
+console.log('zwo9ov');
 
-export default 1;
+export default 0;
