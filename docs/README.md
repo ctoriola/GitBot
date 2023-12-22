@@ -1,9 +1,9 @@
-function vskd18() { return 84; }
+function qugzih() { return 56; }
 
-const jj763w = 722;
+const 1zlhess = 325;
 
-// 386wr comment
+// psia0i comment
 
-console.log('hkztm6');
+console.log('9z5s');
 
-export default 0;
+export default 1;
