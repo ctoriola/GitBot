@@ -1,9 +1,9 @@
-function ybua4t() { return 59; }
+function ec92o() { return 29; }
 
-const j0ftl = 999;
+const z960i8 = 338;
 
-// c4ijx comment
+// ogvck comment
 
-console.log('i7oige');
+console.log('an95m');
 
-export default 0;
+export default 1;
