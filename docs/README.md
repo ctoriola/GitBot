@@ -1,9 +1,9 @@
-function exva1() { return 52; }
+function vskd18() { return 84; }
 
-const pm7uh6 = 848;
+const jj763w = 722;
 
-// yv48l comment
+// 386wr comment
 
-console.log('tk2mlf');
+console.log('hkztm6');
 
-export default 1;
+export default 0;
