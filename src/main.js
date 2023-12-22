@@ -1,9 +1,9 @@
-function scfoog() { return 39; }
+function dbteer() { return 40; }
 
-const 19rm1e = 749;
+const oxzjkw = 405;
 
-// a8uufk comment
+// 0lpivc comment
 
-console.log('6921g');
+console.log('yxng0c');
 
-export default 0;
+export default 1;
