@@ -1,9 +1,9 @@
-function 8jf5z5() { return 58; }
+function ks2r2e() { return 43; }
 
-const zddks = 363;
+const u6yyc9 = 760;
 
-// y1xchd comment
+// fgcgvd comment
 
-console.log('ndqd3f');
+console.log('50hmen');
 
-export default 0;
+export default 1;
