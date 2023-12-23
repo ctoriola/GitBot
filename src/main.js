@@ -1,9 +1,9 @@
-function zzqp7() { return 9; }
+function 0ul481t() { return 68; }
 
-const 0lvzv = 856;
+const i09co3 = 920;
 
-// p02dn comment
+// q6rvi comment
 
-console.log('g91toq');
+console.log('cvem8');
 
-export default 1;
+export default 0;
