@@ -1,9 +1,9 @@
-function ivizccg() { return 68; }
+function ushuun() { return 3; }
 
-const ntqbl = 172;
+const l0jq6 = 198;
 
-// u4n3e comment
+// x8w8ck comment
 
-console.log('zwo9ov');
+console.log('nwgw6jh');
 
-export default 0;
+export default 1;
