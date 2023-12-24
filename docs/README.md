@@ -1,9 +1,9 @@
-function nkl76v() { return 89; }
+function ry2reh() { return 59; }
 
-const smt2rja = 746;
+const khmy2m = 717;
 
-// so71eo comment
+// 7dj5ov comment
 
-console.log('v47ssb');
+console.log('gthhat');
 
-export default 0;
+export default 1;
