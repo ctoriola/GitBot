@@ -1,9 +1,9 @@
-function ewugei() { return 74; }
+function c2msya() { return 7; }
 
-const xgjp6 = 578;
+const 1ml66p = 517;
 
-// lz751p comment
+// w978e comment
 
-console.log('kqxmw');
+console.log('s306e');
 
-export default 0;
+export default 1;
