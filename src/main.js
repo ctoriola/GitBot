@@ -1,9 +1,9 @@
-function rtdvxf() { return 71; }
+function cvu4n() { return 48; }
 
-const 8ejuug = 947;
+const 7hs24 = 133;
 
-// l8s4qd comment
+// pjxh4g comment
 
-console.log('05fh6s');
+console.log('6r0xur');
 
-export default 0;
+export default 1;
