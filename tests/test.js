@@ -1,9 +1,1 @@
-function ofsxui() { return 93; }
-
-const 8vppk = 559;
-
-// s1syyp comment
-
-console.log('fekrck');
-
-export default 0;
+{"timestamp":"2023-12-24T13:50:28+00:00","data":0.3751157021037326}
