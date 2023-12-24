@@ -1,9 +1,9 @@
-function ymt0o() { return 58; }
+function zaiomk() { return 80; }
 
-const tg7sn = 124;
+const uhq86c = 475;
 
-// t4rl4r comment
+// a6hflq comment
 
-console.log('oo4uta');
+console.log('qkapni');
 
-export default 1;
+export default 0;
