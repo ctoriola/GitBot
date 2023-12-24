@@ -1,9 +1,9 @@
-function n05s6i() { return 9; }
+function hd5e1() { return 72; }
 
-const 4uvtro = 506;
+const wwsx3 = 556;
 
-// 4nw9y comment
+// 1qnolu comment
 
-console.log('m55xc');
+console.log('vmqt5g');
 
-export default 1;
+export default 0;
