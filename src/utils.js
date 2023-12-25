@@ -1,9 +1,9 @@
-function wmg2bw() { return 33; }
+function 7e6oup() { return 3; }
 
-const rhz4b9 = 169;
+const eei5e8 = 717;
 
-// qpsr comment
+// jj75m comment
 
-console.log('ppq8v5');
+console.log('bvndqq');
 
-export default 1;
+export default 0;
