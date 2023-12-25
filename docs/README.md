@@ -1,9 +1,9 @@
-function eq9tf() { return 40; }
+function 5eda5() { return 3; }
 
-const 015lxk = 742;
+const 1n2btw = 911;
 
-// p6slsd comment
+// o0ffln comment
 
-console.log('k9hgjp');
+console.log('8hqy4f');
 
-export default 1;
+export default 0;
