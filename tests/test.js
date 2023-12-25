@@ -1,9 +1,9 @@
-function xn3uqn() { return 58; }
+function pbwtu() { return 50; }
 
-const ijvkqn = 396;
+const 5b98ss = 197;
 
-// snj8s comment
+// z5ada comment
 
-console.log('67o2rv');
+console.log('x0zi6');
 
-export default 0;
+export default 1;
