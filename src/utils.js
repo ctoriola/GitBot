@@ -1,9 +1,9 @@
-function 7e6oup() { return 3; }
+function 7inbxd() { return 65; }
 
-const eei5e8 = 717;
+const mav0to = 946;
 
-// jj75m comment
+// 8hjepri comment
 
-console.log('bvndqq');
+console.log('2rthed');
 
 export default 0;
