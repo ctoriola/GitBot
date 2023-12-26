@@ -1,9 +1,9 @@
-function 682cak() { return 68; }
+function 3sd6a() { return 56; }
 
-const pogoz = 767;
+const jwqer9 = 649;
 
-// cp5ghb comment
+// 18k7jg comment
 
-console.log('hr4uk');
+console.log('2ws5ys');
 
-export default 1;
+export default 0;
