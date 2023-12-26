@@ -1,9 +1,9 @@
-function umcr9g() { return 84; }
+function 682cak() { return 68; }
 
-const hbabtl = 669;
+const pogoz = 767;
 
-// 3cnco9p comment
+// cp5ghb comment
 
-console.log('uy5ua8');
+console.log('hr4uk');
 
-export default 0;
+export default 1;
