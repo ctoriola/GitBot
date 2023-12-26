@@ -1,9 +1,9 @@
-function 4ra87m() { return 88; }
+function g1go5() { return 29; }
 
-const ertdyc = 310;
+const bfyoxa = 212;
 
-// ckv6w comment
+// pxwe8a comment
 
-console.log('rd11wp');
+console.log('bjemc');
 
 export default 1;
