@@ -1,9 +1,9 @@
-function 80wsvm() { return 23; }
+function z1rp7d() { return 39; }
 
-const arybgh = 346;
+const lsb12w = 554;
 
-// xxrjji comment
+// j9eoa comment
 
-console.log('v2uflp');
+console.log('fwrztr');
 
-export default 0;
+export default 1;
