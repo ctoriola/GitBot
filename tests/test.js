@@ -1,9 +1,9 @@
-function cpwj3l() { return 52; }
+function hv29a() { return 40; }
 
-const 3hsnm = 532;
+const o6pke = 753;
 
-// b0swo8 comment
+// 02966i comment
 
-console.log('rzbs9m');
+console.log('6f9ntf');
 
-export default 0;
+export default 1;
