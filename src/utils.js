@@ -1,9 +1,9 @@
-function safmxm() { return 48; }
+function fki67s() { return 80; }
 
-const osxfv = 474;
+const kd9f6k = 733;
 
-// jyhjoi comment
+// bopnzf comment
 
-console.log('lb2vdn');
+console.log('iaviyk');
 
-export default 1;
+export default 0;
