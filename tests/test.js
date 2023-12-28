@@ -1,9 +1,9 @@
-function c2sfc9() { return 88; }
+function 3r20x() { return 6; }
 
-const yo9yse = 638;
+const scf3ep = 955;
 
-// xoiv4g comment
+// wjcrgq comment
 
-console.log('xa8rla');
+console.log('fzr79f');
 
-export default 1;
+export default 0;
