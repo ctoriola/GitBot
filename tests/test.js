@@ -1,9 +1,9 @@
-function z1rp7d() { return 39; }
+function cpwj3l() { return 52; }
 
-const lsb12w = 554;
+const 3hsnm = 532;
 
-// j9eoa comment
+// b0swo8 comment
 
-console.log('fwrztr');
+console.log('rzbs9m');
 
-export default 1;
+export default 0;
