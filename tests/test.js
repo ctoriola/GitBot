@@ -1,9 +1,9 @@
-function 3r20x() { return 6; }
+function 3sxe9i() { return 71; }
 
-const scf3ep = 955;
+const 6k09mg = 134;
 
-// wjcrgq comment
+// ovngxj comment
 
-console.log('fzr79f');
+console.log('dmb4wc');
 
-export default 0;
+export default 1;
