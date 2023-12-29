@@ -1,9 +1,9 @@
-function 4b18v() { return 48; }
+function 6xm5ls() { return 70; }
 
-const irhipj = 942;
+const u54vdb = 441;
 
-// uita8vd comment
+// 4bsvd comment
 
-console.log('c7k62q');
+console.log('hfty4f');
 
-export default 0;
+export default 1;
