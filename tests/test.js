@@ -1,9 +1,9 @@
-function v28wfl() { return 82; }
+function nyzjhj() { return 21; }
 
-const u68x5u = 358;
+const nsgizw = 530;
 
-// u456bn comment
+// 2dpks comment
 
-console.log('7zniy');
+console.log('qiau2');
 
-export default 1;
+export default 0;
