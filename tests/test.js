@@ -1,9 +1,9 @@
-function 8rugq() { return 93; }
+function 2oq5a6() { return 19; }
 
-const udkp9a = 927;
+const ay3y5 = 857;
 
-// 3bfy7w comment
+// qk57v comment
 
-console.log('gaqcvu');
+console.log('8x3725');
 
-export default 1;
+export default 0;
