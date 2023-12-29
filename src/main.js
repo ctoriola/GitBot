@@ -1,9 +1,9 @@
-function pd0i() { return 39; }
+function 4gtd() { return 35; }
 
-const 1o1gcb = 697;
+const ax5idd = 777;
 
-// tu4qqn comment
+// a9s3zt comment
 
-console.log('bnkxvl');
+console.log('70ha');
 
-export default 1;
+export default 0;
