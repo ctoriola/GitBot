@@ -1,9 +1,9 @@
-function xg4fq() { return 71; }
+function hnitp() { return 30; }
 
-const znoggr = 573;
+const ccsils = 898;
 
-// 1246fn comment
+// ptk36d comment
 
-console.log('adwsyh');
+console.log('vdvzak');
 
-export default 0;
+export default 1;
