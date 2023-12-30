@@ -1,9 +1,9 @@
-function ushefm() { return 26; }
+function f8r1z() { return 45; }
 
-const 475pkx = 337;
+const 1ku79 = 476;
 
-// rq31tc comment
+// q3etsf comment
 
-console.log('ebf2ou');
+console.log('gc4q2');
 
-export default 1;
+export default 0;
