@@ -1,9 +1,9 @@
-function iq82mv() { return 56; }
+function m98h5a() { return 4; }
 
-const 2d00h = 113;
+const xyyvqp = 560;
 
-// vla61p comment
+// spzdwk comment
 
-console.log('leyus7');
+console.log('yei81o');
 
-export default 0;
+export default 1;
