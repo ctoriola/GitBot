@@ -1,9 +1,9 @@
-function jdo4pa() { return 24; }
+function tthwwk() { return 68; }
 
-const pqdz5i = 680;
+const ytjg9h = 162;
 
-// litsge comment
+// mwbidb comment
 
-console.log('g3ztb');
+console.log('vvnvub');
 
-export default 1;
+export default 0;
