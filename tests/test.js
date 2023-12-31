@@ -1,9 +1,9 @@
-function y9d3c1() { return 1; }
+function o8mold() { return 38; }
 
-const 0fnlh = 344;
+const vabf6 = 899;
 
-// alaz28 comment
+// 2sctjw comment
 
-console.log('o0a6gu');
+console.log('95pbwm');
 
 export default 1;
