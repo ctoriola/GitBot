@@ -1,9 +1,9 @@
-function 2va8m6() { return 3; }
+function ffavc() { return 68; }
 
-const q981tf = 373;
+const uv2zmo = 649;
 
-// 4o68jw comment
+// nae37l comment
 
-console.log('i6hvga');
+console.log('zsxsoc');
 
-export default 1;
+export default 0;
