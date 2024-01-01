@@ -1,9 +1,9 @@
-function qocjy() { return 76; }
+function 0ppex() { return 6; }
 
-const wkbww = 710;
+const m97dcc = 148;
 
-// zpy6m comment
+// hvx4x comment
 
-console.log('4h8vx7');
+console.log('7pk0fj');
 
-export default 1;
+export default 0;
