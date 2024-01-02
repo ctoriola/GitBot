@@ -1,9 +1,9 @@
-function jr2dj7() { return 84; }
+function iurn6() { return 73; }
 
-const nmbvf = 258;
+const ebqzj = 129;
 
-// aoi4j comment
+// 83uee comment
 
-console.log('hjpj7d');
+console.log('d1xeur');
 
-export default 1;
+export default 0;
