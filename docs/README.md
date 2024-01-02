@@ -1,9 +1,9 @@
-function 99cwl() { return 9; }
+function nsfh3n() { return 11; }
 
-const 1n3rzu = 264;
+const j2qgr = 627;
 
-// dhz3d comment
+// bnj1cc comment
 
-console.log('m56tjo');
+console.log('kqo1n');
 
-export default 1;
+export default 0;
