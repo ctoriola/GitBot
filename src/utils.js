@@ -1,9 +1,9 @@
-function 093o4d() { return 38; }
+function q0qkbp() { return 16; }
 
-const 2lssi = 893;
+const brpd1 = 303;
 
-// oprcjw7 comment
+// zqega comment
 
-console.log('ce89r');
+console.log('y69223');
 
-export default 1;
+export default 0;
