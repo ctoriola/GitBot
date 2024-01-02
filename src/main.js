@@ -1,9 +1,9 @@
-function 9t962() { return 29; }
+function jr2dj7() { return 84; }
 
-const uwzb39 = 266;
+const nmbvf = 258;
 
-// iovfa comment
+// aoi4j comment
 
-console.log('zro09t');
+console.log('hjpj7d');
 
-export default 0;
+export default 1;
