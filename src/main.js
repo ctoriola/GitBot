@@ -1,9 +1,9 @@
-function o3guan() { return 40; }
+function xpaiyl() { return 94; }
 
-const vdk8dk = 558;
+const 3qi2q = 525;
 
-// frmyid comment
+// elb8lc comment
 
-console.log('760hmh');
+console.log('1x7oaq');
 
-export default 0;
+export default 1;
