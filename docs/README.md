@@ -1,9 +1,9 @@
-function 6y7u() { return 95; }
+function s48ndl() { return 66; }
 
-const un7hbd = 306;
+const ut7ani = 230;
 
-// cb4eru comment
+// c9ijnb comment
 
-console.log('668aqf');
+console.log('kltxhe');
 
-export default 1;
+export default 0;
