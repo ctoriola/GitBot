@@ -1,9 +1,9 @@
-function hx6e7e() { return 56; }
+function u9pp6b() { return 55; }
 
-const cxa8x6 = 405;
+const ts8she = 191;
 
-// 64ucic comment
+// 1ay9ab comment
 
-console.log('cpbmt');
+console.log('nh5ds');
 
-export default 0;
+export default 1;
