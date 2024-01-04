@@ -1,9 +1,9 @@
-function u9pp6b() { return 55; }
+function annot() { return 66; }
 
-const ts8she = 191;
+const gzml1i = 587;
 
-// 1ay9ab comment
+// xvzenc comment
 
-console.log('nh5ds');
+console.log('7u2yib');
 
-export default 1;
+export default 0;
