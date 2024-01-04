@@ -1,9 +1,9 @@
-function sl9mf() { return 25; }
+function hx6e7e() { return 56; }
 
-const owywms = 311;
+const cxa8x6 = 405;
 
-// dzjjl comment
+// 64ucic comment
 
-console.log('4h6jim');
+console.log('cpbmt');
 
-export default 1;
+export default 0;
