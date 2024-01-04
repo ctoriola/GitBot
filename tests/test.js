@@ -1,9 +1,9 @@
-function qdidsf() { return 63; }
+function 9xg8ki() { return 3; }
 
-const 0p9wub = 432;
+const zh0sj = 312;
 
-// 921rne comment
+// fkl0m6 comment
 
-console.log('fgtbu6');
+console.log('g5iwgm');
 
 export default 1;
