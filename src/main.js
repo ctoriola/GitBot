@@ -1,9 +1,9 @@
-function azowic() { return 67; }
+function 29z8w() { return 96; }
 
-const svutud = 884;
+const wxeaij = 322;
 
-// xfa8o9 comment
+// 8fgvgv comment
 
-console.log('9463tp');
+console.log('c166p4');
 
-export default 1;
+export default 0;
