@@ -1,9 +1,9 @@
-function jz5x2() { return 25; }
+function kcga9() { return 86; }
 
-const t1g3eg = 719;
+const pf4mkj = 238;
 
-// w22z2b comment
+// suecx comment
 
-console.log('7xt2d');
+console.log('2qk7q');
 
-export default 1;
+export default 0;
