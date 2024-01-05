@@ -1,9 +1,9 @@
-function 8ipx1() { return 23; }
+function l44wi() { return 14; }
 
-const 6lsliq = 773;
+const pmia89 = 210;
 
-// qlv40k comment
+// entbqn comment
 
-console.log('90nir9');
+console.log('j7i9hk');
 
-export default 1;
+export default 0;
