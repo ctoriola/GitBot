@@ -1,9 +1,9 @@
-function cgyb2f() { return 69; }
+function inagb() { return 97; }
 
-const fip7um = 591;
+const hhvfm6 = 630;
 
-// y16g6 comment
+// 7poz4e comment
 
-console.log('eixa7a');
+console.log('r4qm7c');
 
-export default 1;
+export default 0;
