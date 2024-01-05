@@ -1,9 +1,9 @@
-function kcga9() { return 86; }
+function 7cz83() { return 47; }
 
-const pf4mkj = 238;
+const 6ack2a = 296;
 
-// suecx comment
+// nxvvp comment
 
-console.log('2qk7q');
+console.log('7fwngr');
 
-export default 0;
+export default 1;
