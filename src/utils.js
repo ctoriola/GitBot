@@ -1,9 +1,9 @@
-function l44wi() { return 14; }
+function lkzj15() { return 37; }
 
-const pmia89 = 210;
+const js4w59 = 780;
 
-// entbqn comment
+// h9fiea comment
 
-console.log('j7i9hk');
+console.log('esypyc');
 
-export default 0;
+export default 1;
