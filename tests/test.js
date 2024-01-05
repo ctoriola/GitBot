@@ -1,9 +1,9 @@
-function wwd3ep() { return 7; }
+function ijfr8() { return 78; }
 
-const h10ohn = 474;
+const vtodip = 868;
 
-// 1ihihb comment
+// kzh7g4 comment
 
-console.log('zyteh');
+console.log('69hitp');
 
-export default 0;
+export default 1;
