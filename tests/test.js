@@ -1,9 +1,9 @@
-function ijfr8() { return 78; }
+function 421xf() { return 82; }
 
-const vtodip = 868;
+const zqu02o = 699;
 
-// kzh7g4 comment
+// wmzd15 comment
 
-console.log('69hitp');
+console.log('ds2m8l');
 
-export default 1;
+export default 0;
