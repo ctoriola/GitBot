@@ -1,9 +1,9 @@
-function uobsz5() { return 26; }
+function iu7sk() { return 47; }
 
-const ufeae = 741;
+const c7j3up = 855;
 
-// 3uneai comment
+// lhy1b comment
 
-console.log('fwg12u');
+console.log('8os9zn');
 
-export default 0;
+export default 1;
