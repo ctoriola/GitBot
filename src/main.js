@@ -1,9 +1,9 @@
-function esbxag() { return 46; }
+function gc9p1() { return 13; }
 
-const v29qk = 266;
+const erxty7 = 476;
 
-// h2vay4 comment
+// 1iu6or comment
 
-console.log('8r8c5w');
+console.log('r6mm4n');
 
-export default 0;
+export default 1;
