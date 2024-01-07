@@ -1,9 +1,9 @@
-function 3gk1n() { return 41; }
+function 8yvofms() { return 3; }
 
-const db9hy = 380;
+const y5knle = 213;
 
-// 5a6jaa comment
+// e20al comment
 
-console.log('kurrava');
+console.log('j4hmof');
 
-export default 0;
+export default 1;
