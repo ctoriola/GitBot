@@ -1,9 +1,9 @@
-function bmmol() { return 92; }
+function kj9i5h() { return 59; }
 
-const yv32w = 498;
+const wilzg = 327;
 
-// mpvumng comment
+// qbixlk comment
 
-console.log('wb9wgl');
+console.log('f895w');
 
-export default 0;
+export default 1;
