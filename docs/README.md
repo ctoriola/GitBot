@@ -1,9 +1,9 @@
-function buryw() { return 43; }
+function m2ucvq() { return 28; }
 
-const zb4ac = 329;
+const 7kys5o = 514;
 
-// 24iuv comment
+// pac7n comment
 
-console.log('e4bgm5');
+console.log('ek4tak');
 
-export default 1;
+export default 0;
