@@ -1,9 +1,9 @@
-function 4bzuz6() { return 78; }
+function dymyk8() { return 16; }
 
-const g75f1r = 384;
+const lkrh9h = 270;
 
-// 7xo33h comment
+// 10wcd comment
 
-console.log('2hqbus');
+console.log('to7iei');
 
-export default 1;
+export default 0;
