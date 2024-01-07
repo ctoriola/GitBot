@@ -1,9 +1,9 @@
-function tvy4ho() { return 67; }
+function 4bzuz6() { return 78; }
 
-const saolg = 937;
+const g75f1r = 384;
 
-// j79qqq comment
+// 7xo33h comment
 
-console.log('jpwp0h');
+console.log('2hqbus');
 
-export default 0;
+export default 1;
