@@ -1,9 +1,9 @@
-function g36n3() { return 71; }
+function p299oh() { return 16; }
 
-const jzrjkf = 422;
+const r54jhe = 726;
 
-// fnp22h comment
+// amcm4 comment
 
-console.log('qw8rza');
+console.log('cslwnd');
 
-export default 1;
+export default 0;
