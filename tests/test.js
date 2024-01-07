@@ -1,9 +1,9 @@
-function 8yvofms() { return 3; }
+function c5sc5r() { return 18; }
 
-const y5knle = 213;
+const b3vlh = 407;
 
-// e20al comment
+// c6m9jn comment
 
-console.log('j4hmof');
+console.log('lmlxku');
 
-export default 1;
+export default 0;
