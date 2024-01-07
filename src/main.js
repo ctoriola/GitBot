@@ -1,9 +1,9 @@
-function ixy2l() { return 32; }
+function 9vzr8() { return 57; }
 
-const 8lv9hd = 152;
+const n7v28b = 650;
 
-// 9eww comment
+// i2qy comment
 
-console.log('dy47f');
+console.log('f4ftjl');
 
-export default 1;
+export default 0;
