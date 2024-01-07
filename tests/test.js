@@ -1,9 +1,9 @@
-function unym7i() { return 75; }
+function fuifyc() { return 59; }
 
-const 0fn94b = 913;
+const lfvex = 949;
 
-// 5yru0a comment
+// eaa2tu comment
 
-console.log('nhkuvt');
+console.log('cllzii');
 
 export default 0;
