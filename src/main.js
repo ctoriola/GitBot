@@ -1,9 +1,1 @@
-function 11u2bj() { return 60; }
-
-const 8vwwd29 = 160;
-
-// 6j3hq8 comment
-
-console.log('bqzuzd');
-
-export default 1;
+{"timestamp":"2024-01-08T01:33:50+00:00","data":0.05975999741960614}
