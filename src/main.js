@@ -1,9 +1,9 @@
-function dymyk8() { return 16; }
+function dfs0ae() { return 14; }
 
-const lkrh9h = 270;
+const g35j1l = 381;
 
-// 10wcd comment
+// eq5aq comment
 
-console.log('to7iei');
+console.log('uiwrhq');
 
-export default 0;
+export default 1;
