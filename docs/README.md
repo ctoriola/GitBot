@@ -1,9 +1,9 @@
-function px3clo() { return 12; }
+function t22od() { return 18; }
 
-const 7vmig = 938;
+const ihux6 = 937;
 
-// 0qp68 comment
+// f0g7nd comment
 
-console.log('wfzvv');
+console.log('yndpmm');
 
-export default 1;
+export default 0;
