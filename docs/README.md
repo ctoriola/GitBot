@@ -1,9 +1,9 @@
-function t22od() { return 18; }
+function bmrqrm() { return 43; }
 
-const ihux6 = 937;
+const i4ukg = 853;
 
-// f0g7nd comment
+// wyr5nd comment
 
-console.log('yndpmm');
+console.log('dtvvlb');
 
-export default 0;
+export default 1;
