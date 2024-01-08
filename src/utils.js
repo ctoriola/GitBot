@@ -1,9 +1,9 @@
-function 372v9() { return 88; }
+function vsfet() { return 38; }
 
-const ts1wh = 131;
+const fpui0a = 948;
 
-// m892pp comment
+// gebs38 comment
 
-console.log('8jz7l');
+console.log('xxknh');
 
 export default 0;
