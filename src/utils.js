@@ -1,9 +1,9 @@
-function ok1awg() { return 69; }
+function 372v9() { return 88; }
 
-const dlr7u9 = 329;
+const ts1wh = 131;
 
-// 86i4w8 comment
+// m892pp comment
 
-console.log('jt2zd');
+console.log('8jz7l');
 
-export default 1;
+export default 0;
