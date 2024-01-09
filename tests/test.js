@@ -1,9 +1,9 @@
-function ib3i8i() { return 20; }
+function jtrc4() { return 35; }
 
-const bpva8 = 682;
+const p31z9h = 724;
 
-// a7fqp comment
+// iblmaw comment
 
-console.log('fg9fvs');
+console.log('bzpivj');
 
-export default 1;
+export default 0;
