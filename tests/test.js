@@ -1,9 +1,9 @@
-function 6ljhzx() { return 14; }
+function vltsxo() { return 63; }
 
-const og1m3c = 656;
+const lwo3fi = 193;
 
-// btrmz2 comment
+// gwvwip comment
 
-console.log('6ss0qf');
+console.log('e3vxjq');
 
-export default 0;
+export default 1;
