@@ -1,9 +1,9 @@
-function ln9y4t() { return 26; }
+function gtonv() { return 76; }
 
-const 3jq7g8 = 468;
+const 4tb6as = 269;
 
-// qbzl7d comment
+// sdxbri comment
 
-console.log('ggfndq');
+console.log('n2il84');
 
-export default 0;
+export default 1;
