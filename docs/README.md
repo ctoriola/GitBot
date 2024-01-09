@@ -1,9 +1,9 @@
-function 5747r() { return 35; }
+function gzufg5() { return 76; }
 
-const jtdlrn = 526;
+const ymu6g7 = 965;
 
-// 5okf1i comment
+// kn4aua comment
 
-console.log('xzeut3');
+console.log('f6xbb');
 
-export default 1;
+export default 0;
