@@ -1,9 +1,9 @@
-function 0fscj8() { return 28; }
+function 2zpzul() { return 20; }
 
-const qnlu78 = 116;
+const bfg0fw = 417;
 
-// fwm4cq comment
+// 2vl9an comment
 
-console.log('hf94ak');
+console.log('ssb4ur');
 
 export default 0;
