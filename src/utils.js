@@ -1,9 +1,9 @@
-function 0fcjs2() { return 84; }
+function 9v5kqn() { return 45; }
 
-const bknygb = 453;
+const 48l1u9 = 266;
 
-// 5zkelm comment
+// ceri9l comment
 
-console.log('t1loxi');
+console.log('jbzs1');
 
-export default 1;
+export default 0;
