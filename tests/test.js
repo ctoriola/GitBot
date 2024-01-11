@@ -1,9 +1,9 @@
-function 99kier() { return 62; }
+function 2yy238() { return 65; }
 
-const 6hjgqt = 493;
+const wgxxdv = 161;
 
-// fppz0m comment
+// br7xl4 comment
 
-console.log('5vbmgq');
+console.log('dqt057');
 
-export default 1;
+export default 0;
