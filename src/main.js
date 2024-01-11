@@ -1,9 +1,9 @@
-function upsad() { return 88; }
+function 6rcf0j() { return 1; }
 
-const hb0cyb = 910;
+const nt5qsu = 704;
 
-// nn86h4 comment
+// saybz9 comment
 
-console.log('3ea6');
+console.log('1wdwpk');
 
-export default 0;
+export default 1;
