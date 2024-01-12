@@ -1,9 +1,9 @@
-function zeswuf() { return 48; }
+function 3iak2r() { return 44; }
 
-const 3huk2h = 134;
+const xt5vxg = 809;
 
-// asmch1 comment
+// aevbw comment
 
-console.log('p27wvp');
+console.log('7de0ap');
 
-export default 0;
+export default 1;
