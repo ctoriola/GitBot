@@ -1,9 +1,9 @@
-function rblf1q() { return 93; }
+function zeswuf() { return 48; }
 
-const iubmsl = 391;
+const 3huk2h = 134;
 
-// ekx1y8 comment
+// asmch1 comment
 
-console.log('xjy4u');
+console.log('p27wvp');
 
-export default 1;
+export default 0;
