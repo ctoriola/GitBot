@@ -1,9 +1,9 @@
-function 0pk6gh() { return 11; }
+function pmvpgf() { return 26; }
 
-const uc5mif = 681;
+const gnxt14a = 826;
 
-// a7n07 comment
+// owlhxh comment
 
-console.log('xj6sfk');
+console.log('se3u1c');
 
-export default 0;
+export default 1;
