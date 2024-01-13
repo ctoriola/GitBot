@@ -1,9 +1,9 @@
-function 3jpfhp() { return 21; }
+function 8vybbu() { return 88; }
 
-const vrukid = 387;
+const d1tdkk = 739;
 
-// b75gh8 comment
+// dngs7 comment
 
-console.log('9obzhm');
+console.log('xkfziy');
 
-export default 0;
+export default 1;
