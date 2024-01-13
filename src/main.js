@@ -1,9 +1,9 @@
-function gf3zro() { return 65; }
+function ahxsrp() { return 1; }
 
-const do58q9 = 371;
+const 8tufil = 474;
 
-// slnsvb comment
+// tvty32 comment
 
-console.log('vl8zih');
+console.log('bvz1ig');
 
-export default 0;
+export default 1;
