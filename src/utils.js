@@ -1,9 +1,9 @@
-function 5lsb8h() { return 40; }
+function 2g86k4() { return 32; }
 
-const q0llkq = 726;
+const d38ukj = 486;
 
-// rt31nc comment
+// ossgjl comment
 
-console.log('e646ci');
+console.log('54tmn8');
 
 export default 0;
