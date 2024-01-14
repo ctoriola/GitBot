@@ -1,9 +1,9 @@
-function d26aj() { return 95; }
+function mki59() { return 17; }
 
-const z07gwi = 416;
+const 606ttv = 194;
 
-// 566skb comment
+// evd5ys comment
 
-console.log('d9bhvo');
+console.log('iknlp8');
 
 export default 1;
