@@ -1,9 +1,9 @@
-function 0r8ovze() { return 88; }
+function j5arna() { return 87; }
 
-const grj9b = 780;
+const xclk1n = 978;
 
-// hg1469 comment
+// zcnsj9 comment
 
-console.log('1wznz');
+console.log('in77vm');
 
-export default 1;
+export default 0;
