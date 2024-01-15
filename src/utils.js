@@ -1,9 +1,9 @@
-function osnwsl() { return 63; }
+function ht1sah() { return 27; }
 
-const js0wvd = 185;
+const c587h9 = 446;
 
-// 3eb9bl comment
+// q7cwib comment
 
-console.log('gzzjg8');
+console.log('cv522');
 
-export default 1;
+export default 0;
