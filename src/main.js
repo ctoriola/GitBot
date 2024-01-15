@@ -1,9 +1,9 @@
-function b3sopm() { return 51; }
+function 84g5iq() { return 54; }
 
-const u0ucc = 152;
+const hv5o4e = 101;
 
-// 0y4bbn comment
+// bz8fdu comment
 
-console.log('ci5vaw');
+console.log('3fcz06');
 
-export default 0;
+export default 1;
