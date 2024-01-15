@@ -1,9 +1,9 @@
-function 8t1jo9() { return 80; }
+function 0r8ovze() { return 88; }
 
-const ximern = 975;
+const grj9b = 780;
 
-// t654s comment
+// hg1469 comment
 
-console.log('2aszn');
+console.log('1wznz');
 
-export default 0;
+export default 1;
