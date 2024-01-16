@@ -1,9 +1,9 @@
-function ywo57f() { return 77; }
+function jvm07sp() { return 6; }
 
-const z812bn = 785;
+const tvx8pod = 119;
 
-// ysz2n comment
+// lwwotp comment
 
-console.log('5t0sx9');
+console.log('iiljra');
 
-export default 0;
+export default 1;
