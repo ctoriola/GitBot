@@ -1,9 +1,9 @@
-function 80q96l() { return 1; }
+function jk7txs() { return 61; }
 
-const 3atoin = 916;
+const zb1y1e = 340;
 
-// w3ckp4 comment
+// 09bruw comment
 
-console.log('qyuben');
+console.log('1yhue4');
 
-export default 0;
+export default 1;
