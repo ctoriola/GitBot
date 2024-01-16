@@ -1,9 +1,9 @@
-function xc26bf() { return 42; }
+function u7uhr() { return 44; }
 
-const 9i7r7b = 944;
+const mvnh9u = 677;
 
-// x54vbg comment
+// qyuoou comment
 
-console.log('2kj2bd');
+console.log('cchl37');
 
-export default 1;
+export default 0;
