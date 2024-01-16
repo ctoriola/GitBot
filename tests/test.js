@@ -1,9 +1,9 @@
-function msjld4() { return 98; }
+function 6skcb() { return 87; }
 
-const e5bg08 = 247;
+const j73b6d = 720;
 
-// dktqq comment
+// tl68sa comment
 
-console.log('efslkz');
+console.log('2wiwan');
 
 export default 1;
