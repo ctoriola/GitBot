@@ -1,9 +1,9 @@
-function lpk8vn() { return 82; }
+function 0zoawl() { return 2; }
 
-const 11hup = 206;
+const 87kx0l = 152;
 
-// 95tgrg comment
+// yw1ot comment
 
-console.log('xtim9f');
+console.log('gw3fb');
 
 export default 1;
