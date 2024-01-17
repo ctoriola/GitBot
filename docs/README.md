@@ -1,9 +1,9 @@
-function ylf0qd() { return 15; }
+function rgkeek() { return 14; }
 
-const 7awc4 = 899;
+const pau2ks = 261;
 
-// l57omm comment
+// 7iq47 comment
 
-console.log('teqwwr');
+console.log('l5pdf');
 
-export default 0;
+export default 1;
