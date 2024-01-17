@@ -1,9 +1,9 @@
-function l40t1k() { return 55; }
+function zneawp() { return 41; }
 
-const sbq3n = 865;
+const a677ec = 423;
 
-// ugx8s comment
+// cjpkfc comment
 
-console.log('004c9g');
+console.log('yo4027');
 
-export default 1;
+export default 0;
