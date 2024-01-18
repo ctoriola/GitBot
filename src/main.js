@@ -1,9 +1,9 @@
-function v8ycb() { return 42; }
+function d303q() { return 22; }
 
-const s4ig1 = 718;
+const z19kua = 143;
 
-// iow70l comment
+// t8t7c comment
 
-console.log('4067qe');
+console.log('ij3wf');
 
-export default 0;
+export default 1;
