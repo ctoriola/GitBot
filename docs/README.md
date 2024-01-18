@@ -1,9 +1,9 @@
-function i417f() { return 71; }
+function l8bgh() { return 46; }
 
-const 1r1yl6 = 281;
+const 1i01dw = 611;
 
-// fc0zib comment
+// nbx3q comment
 
-console.log('75pumt');
+console.log('gu8ry');
 
 export default 0;
