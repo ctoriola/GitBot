@@ -1,9 +1,9 @@
-function st16htj() { return 18; }
+function zmg8lq() { return 45; }
 
-const oh8e3n = 905;
+const sm7u2q = 868;
 
-// ngiqmk comment
+// a3blalj comment
 
-console.log('iwzkm8');
+console.log('phx6yb');
 
-export default 0;
+export default 1;
