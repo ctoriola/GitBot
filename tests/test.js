@@ -1,9 +1,9 @@
-function k3zu9r() { return 75; }
+function euldm() { return 49; }
 
-const 6tdyoo = 801;
+const wrhc4 = 199;
 
-// pf3jw comment
+// aq7bh7 comment
 
-console.log('mai2pu');
+console.log('po64f');
 
-export default 0;
+export default 1;
