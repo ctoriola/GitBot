@@ -1,9 +1,9 @@
-function sctrun() { return 11; }
+function iwho1g() { return 83; }
 
-const xl54x = 318;
+const 4lcqxd = 987;
 
-// 2hcicq comment
+// qkasc comment
 
-console.log('vuuz9n');
+console.log('3co4kl');
 
-export default 1;
+export default 0;
