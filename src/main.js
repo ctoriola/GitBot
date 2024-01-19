@@ -1,9 +1,9 @@
-function yyt6xt() { return 39; }
+function p5jk7m() { return 18; }
 
-const cxmrcl = 783;
+const o36c5 = 145;
 
-// 88ddc comment
+// wk8hph comment
 
-console.log('ivqp1v');
+console.log('wexx6');
 
-export default 1;
+export default 0;
