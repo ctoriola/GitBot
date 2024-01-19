@@ -1,9 +1,9 @@
-function p5jk7m() { return 18; }
+function uu0up() { return 46; }
 
-const o36c5 = 145;
+const bb7bej = 970;
 
-// wk8hph comment
+// uzqq0t comment
 
-console.log('wexx6');
+console.log('ip1ty');
 
-export default 0;
+export default 1;
