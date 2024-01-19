@@ -1,9 +1,9 @@
-function uu0up() { return 46; }
+function iebngf() { return 56; }
 
-const bb7bej = 970;
+const p4p4di = 822;
 
-// uzqq0t comment
+// 6mr4uh comment
 
-console.log('ip1ty');
+console.log('4tpa1l');
 
-export default 1;
+export default 0;
