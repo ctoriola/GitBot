@@ -1,9 +1,9 @@
-function mvkmu() { return 74; }
+function yyt6xt() { return 39; }
 
-const sps7j = 586;
+const cxmrcl = 783;
 
-// 1so21g comment
+// 88ddc comment
 
-console.log('8zs3xt');
+console.log('ivqp1v');
 
 export default 1;
