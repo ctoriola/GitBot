@@ -1,9 +1,9 @@
-function qou5bi() { return 18; }
+function lt8qbr() { return 35; }
 
-const yyp797 = 461;
+const b8uqnb = 764;
 
-// s67nxl comment
+// tncyks comment
 
-console.log('gmp02n');
+console.log('lva40f');
 
-export default 1;
+export default 0;
