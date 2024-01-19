@@ -1,9 +1,9 @@
-function 6kq63n() { return 86; }
+function qou5bi() { return 18; }
 
-const mpt505 = 212;
+const yyp797 = 461;
 
-// 1gyms comment
+// s67nxl comment
 
-console.log('nzcf4k');
+console.log('gmp02n');
 
-export default 0;
+export default 1;
