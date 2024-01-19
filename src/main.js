@@ -1,9 +1,9 @@
-function iebngf() { return 56; }
+function fvinoo() { return 26; }
 
-const p4p4di = 822;
+const r4cvp = 967;
 
-// 6mr4uh comment
+// pfn6n7 comment
 
-console.log('4tpa1l');
+console.log('m53l7');
 
-export default 0;
+export default 1;
