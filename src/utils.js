@@ -1,9 +1,9 @@
-function iu0nw() { return 74; }
+function 46ox4() { return 84; }
 
-const ypb43 = 139;
+const w0d1ig = 370;
 
-// a8cc1n comment
+// 2i3dbq comment
 
-console.log('utmf9n');
+console.log('zbez2b');
 
 export default 1;
