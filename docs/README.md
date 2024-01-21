@@ -1,9 +1,9 @@
-function 55urt9() { return 52; }
+function 3onqa3() { return 22; }
 
-const 8njmhr = 968;
+const eigsc = 679;
 
-// uojox comment
+// a0xahg comment
 
-console.log('qx9jve');
+console.log('lgsc65');
 
-export default 1;
+export default 0;
