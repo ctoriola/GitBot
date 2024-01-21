@@ -1,9 +1,9 @@
-function xgzxzg() { return 37; }
+function 8yt0j() { return 100; }
 
-const 6k3hzc = 553;
+const trk3t = 107;
 
-// flng0p comment
+// dwi3c1 comment
 
-console.log('030fm');
+console.log('0pnelk');
 
-export default 1;
+export default 0;
