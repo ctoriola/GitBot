@@ -1,9 +1,9 @@
-function kjtjqp() { return 66; }
+function 228pkw() { return 91; }
 
-const rsgoq = 593;
+const fkfp1r = 613;
 
-// 2ddkt comment
+// ontf2y comment
 
-console.log('dtt0q7');
+console.log('ilnspb');
 
-export default 1;
+export default 0;
