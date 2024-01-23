@@ -1,9 +1,9 @@
-function i8ubp9() { return 19; }
+function 79u76() { return 83; }
 
-const eiuf29 = 885;
+const 1rjed = 128;
 
-// l3d9rp comment
+// 0rivnm comment
 
-console.log('dm999');
+console.log('n2onw29');
 
-export default 1;
+export default 0;
