@@ -1,9 +1,9 @@
-function 79u76() { return 83; }
+function x8x83() { return 21; }
 
-const 1rjed = 128;
+const 2yd3u = 969;
 
-// 0rivnm comment
+// x6l6wo comment
 
-console.log('n2onw29');
+console.log('rp81bj');
 
-export default 0;
+export default 1;
