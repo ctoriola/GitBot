@@ -1,9 +1,9 @@
-function dptvyh() { return 85; }
+function 17zza3() { return 90; }
 
-const deh0fx = 592;
+const jt4fsg = 923;
 
-// zg94o comment
+// pd9yi comment
 
-console.log('7x5zd');
+console.log('7q2qv7');
 
-export default 0;
+export default 1;
