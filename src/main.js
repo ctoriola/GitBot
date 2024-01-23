@@ -1,9 +1,9 @@
-function 5i0dxm() { return 66; }
+function j1fhl() { return 96; }
 
-const vksu7 = 337;
+const vdtq = 591;
 
-// o3hh0t comment
+// wlna3 comment
 
-console.log('yf365g');
+console.log('heu13c');
 
-export default 1;
+export default 0;
