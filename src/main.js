@@ -1,9 +1,9 @@
-function 7uipba() { return 97; }
+function kd87ef() { return 96; }
 
-const mw5iia = 414;
+const reim2m = 517;
 
-// g9u0n comment
+// fupnhq comment
 
-console.log('ji2527');
+console.log('sc3opj');
 
-export default 1;
+export default 0;
