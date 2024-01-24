@@ -1,9 +1,9 @@
-function f786s() { return 60; }
+function msbkyi() { return 38; }
 
-const olc19i = 607;
+const s57wl = 166;
 
-// 9qppej comment
+// yoas3c comment
 
-console.log('3g45o');
+console.log('dgzl9v');
 
-export default 0;
+export default 1;
