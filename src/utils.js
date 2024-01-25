@@ -1,9 +1,9 @@
-function uyo2e4() { return 88; }
+function 17e8bf() { return 65; }
 
-const aunqc = 668;
+const 0uoz5f = 904;
 
-// tbhhrf comment
+// jwqj comment
 
-console.log('9yi1n');
+console.log('ak9qad');
 
 export default 1;
