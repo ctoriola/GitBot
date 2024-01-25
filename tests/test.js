@@ -1,9 +1,9 @@
-function 57yns() { return 77; }
+function uli5od() { return 23; }
 
-const sggp9r = 326;
+const zdb7es = 192;
 
-// 9h41k comment
+// h59zi comment
 
-console.log('18zl7');
+console.log('cn4lx');
 
-export default 0;
+export default 1;
