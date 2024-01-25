@@ -1,9 +1,9 @@
-function q7sfxf() { return 87; }
+function zcqrin() { return 65; }
 
-const r9zpd8 = 428;
+const cswgdo = 155;
 
-// 2ok9s comment
+// 318yo comment
 
-console.log('xtn0ap');
+console.log('dkuk5');
 
-export default 0;
+export default 1;
