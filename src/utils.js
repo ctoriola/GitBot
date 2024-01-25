@@ -1,9 +1,9 @@
-function jgug9n() { return 28; }
+function htvkvy() { return 79; }
 
-const e0aa4 = 148;
+const qa0qt = 236;
 
-// 4g368 comment
+// sbysb comment
 
-console.log('4t0jbt');
+console.log('vsb8th');
 
-export default 1;
+export default 0;
