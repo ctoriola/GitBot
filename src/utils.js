@@ -1,9 +1,9 @@
-function zcqrin() { return 65; }
+function jgug9n() { return 28; }
 
-const cswgdo = 155;
+const e0aa4 = 148;
 
-// 318yo comment
+// 4g368 comment
 
-console.log('dkuk5');
+console.log('4t0jbt');
 
 export default 1;
