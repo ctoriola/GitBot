@@ -1,9 +1,9 @@
-function zm59bc() { return 32; }
+function mob6u5() { return 74; }
 
-const eq40mb = 917;
+const 3o4rzx = 994;
 
-// yb1k78 comment
+// qlumwf comment
 
-console.log('thxd6i');
+console.log('ogd0o8');
 
-export default 0;
+export default 1;
