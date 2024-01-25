@@ -1,9 +1,9 @@
-function gwcnqs() { return 18; }
+function zo3qc() { return 15; }
 
-const 2zlytx = 594;
+const gc83x9 = 634;
 
-// jfcrx comment
+// z5tora comment
 
-console.log('6bc2t');
+console.log('p4v5l');
 
-export default 0;
+export default 1;
