@@ -1,9 +1,9 @@
-function qjt88h() { return 34; }
+function 8ecvyg() { return 7; }
 
-const wrst07 = 122;
+const iuh0ds = 565;
 
-// nt628 comment
+// e1hlr comment
 
-console.log('mugc2');
+console.log('zz0eka');
 
-export default 0;
+export default 1;
