@@ -1,9 +1,9 @@
-function s2kon() { return 27; }
+function uldjs() { return 22; }
 
-const or4ze = 413;
+const fsndhf = 601;
 
-// kqcs0o comment
+// 15c6dl comment
 
-console.log('c3h4z');
+console.log('grj5hb');
 
-export default 1;
+export default 0;
