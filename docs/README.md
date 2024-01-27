@@ -1,9 +1,9 @@
-function 8cbzh() { return 89; }
+function f8pub() { return 87; }
 
-const a259hs = 420;
+const 7s08r = 201;
 
-// jsjrvg comment
+// e2vpp8 comment
 
-console.log('aicxlq');
+console.log('wetecp');
 
-export default 1;
+export default 0;
