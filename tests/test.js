@@ -1,9 +1,9 @@
-function 2lgphm() { return 51; }
+function if8kfp() { return 4; }
 
-const 4sqw6y = 927;
+const d1f6gb = 488;
 
-// ydq8to comment
+// 9ul85t comment
 
-console.log('kzw4hc');
+console.log('e4wol');
 
-export default 1;
+export default 0;
