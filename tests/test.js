@@ -1,9 +1,9 @@
-function ur2tmc() { return 32; }
+function nwmzt() { return 84; }
 
-const w6dx = 702;
+const 0fgke = 919;
 
-// co8oa comment
+// o2oh84 comment
 
-console.log('i2qz9');
+console.log('hgvet');
 
-export default 1;
+export default 0;
