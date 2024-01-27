@@ -1,9 +1,9 @@
-function v2u4ts() { return 9; }
+function 509cpi() { return 93; }
 
-const ligity = 167;
+const 7ur4j = 939;
 
-// 7g46t8 comment
+// jl32an comment
 
-console.log('c7jdqc');
+console.log('nu3s9m');
 
-export default 0;
+export default 1;
