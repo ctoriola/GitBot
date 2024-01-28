@@ -1,9 +1,9 @@
-function qq87dh() { return 27; }
+function psv7gn() { return 20; }
 
-const k5pqv = 594;
+const tqvnb = 223;
 
-// f9x6bi comment
+// 138wv comment
 
-console.log('gmjwf');
+console.log('w4cfpn');
 
-export default 0;
+export default 1;
