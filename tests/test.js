@@ -1,9 +1,9 @@
-function vaxtp() { return 70; }
+function j1mor() { return 78; }
 
-const oomc6m = 607;
+const tdyc9w = 364;
 
-// blyog2 comment
+// wtuhbs comment
 
-console.log('z08iv');
+console.log('tw2eor');
 
-export default 1;
+export default 0;
