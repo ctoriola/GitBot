@@ -1,9 +1,9 @@
-function ilzr0e() { return 37; }
+function bwfads() { return 22; }
 
-const tl9iq7 = 510;
+const 2o8o5 = 412;
 
-// 0tst1a comment
+// tla34q comment
 
-console.log('zdb0jk');
+console.log('qb8c3u');
 
-export default 1;
+export default 0;
