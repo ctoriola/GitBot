@@ -1,9 +1,9 @@
-function rpjbv() { return 80; }
+function nn2utt() { return 54; }
 
-const e9qhts = 875;
+const tzxb07 = 502;
 
-// egg3bim comment
+// lfuqc comment
 
-console.log('v26dos');
+console.log('uvuf4q');
 
-export default 1;
+export default 0;
