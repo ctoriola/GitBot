@@ -1,9 +1,9 @@
-function lkx0g() { return 18; }
+function 6rc7j() { return 49; }
 
-const k9u00j = 903;
+const ng1ao = 467;
 
-// wfbf5e comment
+// qjrtpf comment
 
-console.log('w613ar');
+console.log('f62xd');
 
-export default 1;
+export default 0;
