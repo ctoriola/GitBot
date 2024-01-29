@@ -1,9 +1,9 @@
-function nn2utt() { return 54; }
+function o76dxb() { return 32; }
 
-const tzxb07 = 502;
+const obn6pg = 265;
 
-// lfuqc comment
+// 1ys0sj comment
 
-console.log('uvuf4q');
+console.log('eo2lf');
 
 export default 0;
