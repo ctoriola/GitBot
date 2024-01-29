@@ -1,9 +1,9 @@
-function o76dxb() { return 32; }
+function eh25y() { return 13; }
 
-const obn6pg = 265;
+const bc5x9c = 219;
 
-// 1ys0sj comment
+// pkpa3 comment
 
-console.log('eo2lf');
+console.log('27s5q');
 
-export default 0;
+export default 1;
