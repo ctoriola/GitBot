@@ -1,9 +1,9 @@
-function qgzmg9() { return 59; }
+function got4qo() { return 16; }
 
-const kh1rnb = 774;
+const xy3d4 = 362;
 
-// 19tk6e comment
+// 8n2y comment
 
-console.log('n0yust');
+console.log('sp47y8');
 
-export default 1;
+export default 0;
