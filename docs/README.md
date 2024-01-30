@@ -1,9 +1,9 @@
-function 8qztll() { return 36; }
+function qgvkv4() { return 32; }
 
-const fwsqi = 469;
+const 9pwtqx = 822;
 
-// 8738g comment
+// 81j7e comment
 
-console.log('grme3v');
+console.log('7mf3l');
 
-export default 1;
+export default 0;
