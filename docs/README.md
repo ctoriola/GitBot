@@ -1,9 +1,9 @@
-function vmtxte() { return 78; }
+function u4z89e() { return 24; }
 
-const zyc05 = 966;
+const cv1q8s = 129;
 
-// dybe42 comment
+// 4ndbmt comment
 
-console.log('e474df');
+console.log('gmi5en');
 
-export default 1;
+export default 0;
