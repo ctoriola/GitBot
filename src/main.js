@@ -1,9 +1,9 @@
-function ltxwc() { return 9; }
+function jfpm4() { return 80; }
 
-const z12d7p = 668;
+const wyay7s = 898;
 
-// kek2d comment
+// rkky7o comment
 
-console.log('pm36d7');
+console.log('jr80i');
 
-export default 0;
+export default 1;
