@@ -1,9 +1,9 @@
-function 3pooem() { return 43; }
+function b5qpzg() { return 18; }
 
-const ytgiq = 803;
+const g2cce = 305;
 
-// aw8xnb comment
+// y7d53 comment
 
-console.log('6emi16');
+console.log('6sarep');
 
-export default 0;
+export default 1;
