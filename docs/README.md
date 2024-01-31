@@ -1,9 +1,9 @@
-function 9wrtwo() { return 83; }
+function r7wjha() { return 27; }
 
-const nmfut = 474;
+const yu5e8f = 986;
 
-// 9r9kao comment
+// vci8sk comment
 
-console.log('sof8h');
+console.log('li03qf');
 
-export default 1;
+export default 0;
