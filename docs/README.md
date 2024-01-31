@@ -1,9 +1,9 @@
-function gu0eop() { return 32; }
+function f9onu() { return 10; }
 
-const a9nb0j = 322;
+const f4uilo = 982;
 
-// mnem6t comment
+// zo0yea comment
 
-console.log('8xs06g');
+console.log('gsnoiv');
 
-export default 0;
+export default 1;
