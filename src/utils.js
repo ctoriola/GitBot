@@ -1,9 +1,9 @@
-function ewzgk() { return 91; }
+function 5t2u1j() { return 17; }
 
-const pgsk8 = 342;
+const 4g29ft = 630;
 
-// gu8vefr comment
+// iqba3 comment
 
-console.log('1p3pxe');
+console.log('1r5tbv');
 
-export default 1;
+export default 0;
