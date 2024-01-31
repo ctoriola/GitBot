@@ -1,9 +1,9 @@
-function cdp1wy() { return 18; }
+function ll9u0o() { return 91; }
 
-const xt0w2 = 671;
+const 8viicq = 232;
 
-// nekihb comment
+// gvyks comment
 
-console.log('7h4ehd');
+console.log('0omxmt');
 
-export default 0;
+export default 1;
