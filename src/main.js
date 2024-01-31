@@ -1,9 +1,9 @@
-function unzxyi() { return 97; }
+function ah4viv() { return 31; }
 
-const s74fgs = 449;
+const mzpcy4 = 178;
 
-// mje6ko comment
+// 1e22to comment
 
-console.log('69ub1l');
+console.log('5y9pw');
 
-export default 0;
+export default 1;
