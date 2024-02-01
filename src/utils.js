@@ -1,9 +1,9 @@
-function lko9ao() { return 31; }
+function arjn2h() { return 39; }
 
-const 787gnp = 677;
+const 2xx3k = 342;
 
-// jc2eav comment
+// 0ehy77 comment
 
-console.log('b74xk');
+console.log('5b9w8r');
 
-export default 0;
+export default 1;
