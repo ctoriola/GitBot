@@ -1,9 +1,9 @@
-function wxzk4j() { return 37; }
+function slbdrn() { return 6; }
 
-const 2y73tj = 761;
+const amkqt = 507;
 
-// 1afca4 comment
+// 15f55 comment
 
-console.log('mkuboe');
+console.log('v1anq');
 
 export default 0;
