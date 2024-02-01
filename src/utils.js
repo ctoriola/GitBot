@@ -1,9 +1,9 @@
-function 2hbg0j() { return 73; }
+function tazulj() { return 28; }
 
-const zsif46 = 710;
+const 4sd3f = 191;
 
-// 88uk3k comment
+// o397ba comment
 
-console.log('ceh7u4');
+console.log('lxml9w');
 
 export default 1;
