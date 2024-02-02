@@ -1,9 +1,9 @@
-function hfp74t() { return 21; }
+function 5n2go8() { return 52; }
 
-const zymrt = 924;
+const cik9e4 = 819;
 
-// ngzskj comment
+// b81te comment
 
-console.log('8xhj7');
+console.log('7t8f4');
 
-export default 1;
+export default 0;
