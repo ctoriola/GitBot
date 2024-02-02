@@ -1,9 +1,9 @@
-function 7z24ul() { return 56; }
+function pgjfal() { return 83; }
 
-const vkpbma = 109;
+const j97deq = 353;
 
-// nyf2mw comment
+// bev0sa comment
 
-console.log('0kr9ch');
+console.log('8oc5tn');
 
-export default 0;
+export default 1;
