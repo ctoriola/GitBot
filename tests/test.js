@@ -1,9 +1,9 @@
-function 9rm2b() { return 96; }
+function gh1bis() { return 31; }
 
-const 7y2thr = 259;
+const 7dlua = 721;
 
-// lw3oq comment
+// 197zdf comment
 
-console.log('q0bqmr');
+console.log('zygdcc');
 
-export default 1;
+export default 0;
