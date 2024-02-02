@@ -1,9 +1,9 @@
-function qhcv3() { return 1; }
+function 7ow12l() { return 11; }
 
-const 0vx07r = 930;
+const wq1efk = 399;
 
-// rk3lic comment
+// 6jp43k comment
 
-console.log('6llgd');
+console.log('yynmb7');
 
-export default 0;
+export default 1;
