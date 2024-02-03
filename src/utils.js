@@ -1,9 +1,9 @@
-function 4u085() { return 29; }
+function tl9os() { return 79; }
 
-const cseeyl = 150;
+const 7gjzts = 483;
 
-// 08vkgo comment
+// 5940ik comment
 
-console.log('rhi4w');
+console.log('x1ru1s');
 
-export default 1;
+export default 0;
