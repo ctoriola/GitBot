@@ -1,9 +1,9 @@
-function 9ec9g9() { return 79; }
+function 2ensr() { return 56; }
 
-const 28xsfw = 100;
+const 5bq5om = 908;
 
-// 7oakoc comment
+// 5e2vt6 comment
 
-console.log('9tkvh');
+console.log('ws87o');
 
-export default 0;
+export default 1;
