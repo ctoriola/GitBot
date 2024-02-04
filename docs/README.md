@@ -1,9 +1,9 @@
-function vnzfm2() { return 69; }
+function m5ha18() { return 63; }
 
-const 3ja9t = 356;
+const 8wdh6i = 532;
 
-// pnfuq comment
+// qhixp comment
 
-console.log('xp6vqb');
+console.log('gvhifo');
 
-export default 1;
+export default 0;
