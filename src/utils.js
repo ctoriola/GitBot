@@ -1,9 +1,9 @@
-function 52g71() { return 11; }
+function yrhkf() { return 93; }
 
-const c1vza9 = 295;
+const u8ba7 = 869;
 
-// uyqy6f comment
+// su0nm9 comment
 
-console.log('73yikt');
+console.log('xuip0e');
 
-export default 0;
+export default 1;
