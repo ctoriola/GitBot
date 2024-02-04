@@ -1,9 +1,9 @@
-function 85jbzd() { return 2; }
+function 6foofp() { return 78; }
 
-const 3jvknt = 311;
+const 7c11cs = 656;
 
-// 7a4ffn comment
+// vq9a4 comment
 
-console.log('np9h6');
+console.log('axj94c');
 
-export default 0;
+export default 1;
