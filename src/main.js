@@ -1,9 +1,9 @@
-function tzwe7n() { return 37; }
+function ypnbns() { return 62; }
 
-const bwyuti = 705;
+const jwy39j = 547;
 
-// qotrd comment
+// zn87jd comment
 
-console.log('hpnsge');
+console.log('1t1ntm');
 
-export default 1;
+export default 0;
