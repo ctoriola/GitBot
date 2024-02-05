@@ -1,9 +1,9 @@
-function yyco23() { return 14; }
+function k3py0o() { return 88; }
 
-const bzy2ok = 687;
+const k2l9j = 369;
 
-// nbvy1 comment
+// sqsblp comment
 
-console.log('lqcwy5');
+console.log('waiu6');
 
-export default 0;
+export default 1;
