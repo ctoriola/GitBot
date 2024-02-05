@@ -1,9 +1,9 @@
-function 0g48v() { return 93; }
+function 8jubd48() { return 28; }
 
-const shmjos = 102;
+const 1hulng = 202;
 
-// 3nvj4j comment
+// 92dsho comment
 
-console.log('zybjwi');
+console.log('zaoui9');
 
-export default 1;
+export default 0;
