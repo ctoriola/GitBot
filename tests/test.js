@@ -1,9 +1,9 @@
-function 8jubd48() { return 28; }
+function vjp8c() { return 33; }
 
-const 1hulng = 202;
+const 85ax45 = 529;
 
-// 92dsho comment
+// z3mqw comment
 
-console.log('zaoui9');
+console.log('urpgen');
 
-export default 0;
+export default 1;
