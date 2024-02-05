@@ -1,9 +1,9 @@
-function vjp8c() { return 33; }
+function ll2j5s() { return 4; }
 
-const 85ax45 = 529;
+const 5zwvl = 593;
 
-// z3mqw comment
+// i5ef8q comment
 
-console.log('urpgen');
+console.log('0w0jy');
 
 export default 1;
