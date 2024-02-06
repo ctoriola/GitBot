@@ -1,9 +1,9 @@
-function 6rwfnn() { return 74; }
+function xurvpn() { return 93; }
 
-const 2wm3io = 494;
+const 9tel26 = 754;
 
-// ayyc3h comment
+// 1pupaf comment
 
-console.log('ekrkk');
+console.log('q4jt9r');
 
-export default 1;
+export default 0;
