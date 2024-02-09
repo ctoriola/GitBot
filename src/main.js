@@ -1,9 +1,9 @@
-function tzbd5r() { return 10; }
+function mjj97() { return 26; }
 
-const b66bl = 935;
+const cgx2w = 403;
 
-// oqgpah comment
+// 2z5z2 comment
 
-console.log('hq9sx');
+console.log('xoqwvb');
 
-export default 1;
+export default 0;
