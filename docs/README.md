@@ -1,9 +1,9 @@
-function y50qag() { return 79; }
+function moi4vg() { return 33; }
 
-const p595v = 433;
+const p874wk = 338;
 
-// s0934 comment
+// 3rspuu comment
 
-console.log('kw5j5u');
+console.log('c6hgs');
 
-export default 0;
+export default 1;
