@@ -1,9 +1,9 @@
-function 866mfi() { return 5; }
+function yp1q0r() { return 27; }
 
-const pbftn = 720;
+const 9wbdk7 = 698;
 
-// pg1u0j comment
+// 70m9a comment
 
-console.log('d49mk');
+console.log('b8dlnb');
 
-export default 0;
+export default 1;
