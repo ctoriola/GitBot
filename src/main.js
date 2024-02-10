@@ -1,9 +1,9 @@
-function llpvon() { return 80; }
+function j2mlys() { return 97; }
 
-const st2qbr = 522;
+const b0gxanu = 340;
 
-// swjgen comment
+// dr7vf comment
 
-console.log('kmnoll');
+console.log('xyfbqn');
 
-export default 0;
+export default 1;
