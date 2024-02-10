@@ -1,9 +1,9 @@
-function nd6ebp() { return 48; }
+function ycb3c() { return 84; }
 
-const mcg1bu = 184;
+const izpkq = 745;
 
-// tbpt8m comment
+// 3vn4s comment
 
-console.log('aqz5u');
+console.log('sxakgd');
 
 export default 0;
