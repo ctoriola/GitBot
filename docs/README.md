@@ -1,9 +1,9 @@
-function ots7sc() { return 47; }
+function ibmjo7i() { return 28; }
 
-const coie3j = 130;
+const ca8lhn = 828;
 
-// 3lh9t comment
+// boy7kk comment
 
-console.log('6qnr38');
+console.log('8v6s3s');
 
-export default 0;
+export default 1;
