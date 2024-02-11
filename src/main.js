@@ -1,9 +1,9 @@
-function gwzdn5() { return 51; }
+function btaeon() { return 66; }
 
-const y7tuug = 928;
+const qsjiyqi = 597;
 
-// e9lfkp comment
+// kdmmoh comment
 
-console.log('j7cl6s');
+console.log('730li5');
 
-export default 1;
+export default 0;
