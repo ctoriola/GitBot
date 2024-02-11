@@ -1,9 +1,9 @@
-function cabz4() { return 62; }
+function tfd0gg() { return 41; }
 
-const 2e3i9 = 915;
+const yo889s = 336;
 
-// 24zfd7 comment
+// yan9wq comment
 
-console.log('u1x7kp');
+console.log('e6lsxf');
 
-export default 1;
+export default 0;
