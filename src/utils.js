@@ -1,9 +1,9 @@
-function 6jnvcm() { return 76; }
+function o620zb() { return 87; }
 
-const hp1or8 = 731;
+const gev8m8 = 724;
 
-// fteym8 comment
+// bn794 comment
 
-console.log('f7d4n9');
+console.log('jy7jof');
 
 export default 0;
