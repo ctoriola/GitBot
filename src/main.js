@@ -1,9 +1,9 @@
-function btaeon() { return 66; }
+function 8qxsdc() { return 26; }
 
-const qsjiyqi = 597;
+const rgckv9 = 160;
 
-// kdmmoh comment
+// 9mg9rs comment
 
-console.log('730li5');
+console.log('sl2d3f');
 
-export default 0;
+export default 1;
