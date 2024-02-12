@@ -1,9 +1,9 @@
-function qelaz() { return 82; }
+function hy5o2k() { return 28; }
 
-const ghhd3 = 309;
+const te89wh = 675;
 
-// wg4xze comment
+// vlo9k comment
 
-console.log('pkbsf8');
+console.log('s3v76d');
 
-export default 1;
+export default 0;
