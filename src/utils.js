@@ -1,9 +1,9 @@
-function trhuj() { return 84; }
+function 5tkrgk() { return 56; }
 
-const 7vqb28 = 278;
+const 4um5an = 484;
 
-// o7dwrd comment
+// 3nj7hp comment
 
-console.log('wky0wm');
+console.log('j1vitg');
 
-export default 0;
+export default 1;
