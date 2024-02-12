@@ -1,9 +1,9 @@
-function 8qxsdc() { return 26; }
+function 786rvo() { return 58; }
 
-const rgckv9 = 160;
+const brqt3 = 924;
 
-// 9mg9rs comment
+// s4zvc comment
 
-console.log('sl2d3f');
+console.log('t3yacc');
 
-export default 1;
+export default 0;
