@@ -1,9 +1,9 @@
-function yilql() { return 87; }
+function kgxdrn() { return 85; }
 
-const k8e4h4 = 545;
+const zup58 = 965;
 
-// b1ko8 comment
+// pqjvbt comment
 
-console.log('zp0fx7');
+console.log('350ay');
 
-export default 1;
+export default 0;
