@@ -1,9 +1,9 @@
-function 6ms4il() { return 88; }
+function j3dgqc() { return 86; }
 
-const 9b30fg = 462;
+const 0gz61t = 379;
 
-// 0f9v7 comment
+// cypyss comment
 
-console.log('pq29za');
+console.log('ammlx4');
 
-export default 1;
+export default 0;
