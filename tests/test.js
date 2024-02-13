@@ -1,9 +1,9 @@
-function aph0ua() { return 83; }
+function khbvf() { return 79; }
 
-const mjapym = 635;
+const 60xhsp = 797;
 
-// wrfowo comment
+// xx3kk9 comment
 
-console.log('0jf735');
+console.log('egt13n');
 
 export default 1;
