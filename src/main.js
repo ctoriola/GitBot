@@ -1,9 +1,9 @@
-function 51fmp() { return 41; }
+function b36rv() { return 63; }
 
-const ahz51j = 171;
+const b442hs = 943;
 
-// r6lcio comment
+// khr6pp comment
 
-console.log('l0776e');
+console.log('w0l1cb');
 
-export default 1;
+export default 0;
