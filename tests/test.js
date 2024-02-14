@@ -1,9 +1,9 @@
-function jn5td() { return 6; }
+function 5jl8d() { return 97; }
 
-const y40dn = 870;
+const z7gz1b = 886;
 
-// r118qh comment
+// detiue comment
 
-console.log('4xh46u');
+console.log('lyedcr');
 
-export default 1;
+export default 0;
