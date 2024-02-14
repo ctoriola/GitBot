@@ -1,9 +1,9 @@
-function ismil() { return 71; }
+function s743k() { return 20; }
 
-const ahzl1a = 846;
+const pjuag = 392;
 
-// twdlr comment
+// pwd08k comment
 
-console.log('4y46b');
+console.log('vtfgrs');
 
-export default 1;
+export default 0;
