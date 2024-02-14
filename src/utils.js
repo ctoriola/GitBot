@@ -1,9 +1,9 @@
-function buwkrg() { return 45; }
+function x7y34l() { return 14; }
 
-const 75v3nl = 830;
+const sxjqs = 365;
 
-// o0oahc comment
+// 12807 comment
 
-console.log('lq3hdb');
+console.log('uvpiid');
 
-export default 1;
+export default 0;
