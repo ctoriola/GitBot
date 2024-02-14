@@ -1,9 +1,9 @@
-function w1so5n() { return 100; }
+function 2j417a() { return 3; }
 
-const kx0li = 812;
+const oxksvn = 527;
 
-// iorwhi comment
+// 2e8snw comment
 
-console.log('x29nfj');
+console.log('l5ka56');
 
-export default 1;
+export default 0;
