@@ -1,9 +1,9 @@
-function iyhg37() { return 24; }
+function 0yikea() { return 36; }
 
-const paugq7 = 289;
+const 8hv2sk = 513;
 
-// fe686q comment
+// obdc3 comment
 
-console.log('f6rxn9');
+console.log('e1v6m');
 
-export default 0;
+export default 1;
