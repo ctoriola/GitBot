@@ -1,9 +1,9 @@
-function l3bzae() { return 5; }
+function nd473q() { return 72; }
 
-const r25ede = 619;
+const akfmtq = 599;
 
-// f3s47 comment
+// qc41nn comment
 
-console.log('tmmf8q');
+console.log('az3ckk');
 
-export default 0;
+export default 1;
