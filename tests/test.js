@@ -1,9 +1,9 @@
-function v3nty() { return 27; }
+function l3bzae() { return 5; }
 
-const 8wwjp = 265;
+const r25ede = 619;
 
-// hgui1n comment
+// f3s47 comment
 
-console.log('ipokn');
+console.log('tmmf8q');
 
-export default 1;
+export default 0;
