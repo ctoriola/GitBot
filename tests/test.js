@@ -1,9 +1,9 @@
-function 7m8jgr() { return 36; }
+function s9bljm() { return 62; }
 
-const xgs6t7 = 104;
+const r23pu = 264;
 
-// h01x2 comment
+// pmfr1t comment
 
-console.log('lc26rl');
+console.log('twx1cr');
 
-export default 0;
+export default 1;
