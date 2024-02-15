@@ -1,9 +1,9 @@
-function oy5ee() { return 81; }
+function 7m8jgr() { return 36; }
 
-const 1kq3ks = 434;
+const xgs6t7 = 104;
 
-// j14al comment
+// h01x2 comment
 
-console.log('jx1ypd');
+console.log('lc26rl');
 
-export default 1;
+export default 0;
