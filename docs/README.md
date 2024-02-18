@@ -1,9 +1,9 @@
-function lvzjsi() { return 91; }
+function hinrs() { return 12; }
 
-const 4p9i3o = 548;
+const gy38ir = 358;
 
-// 2dg71s comment
+// hby7bb comment
 
-console.log('znhozp');
+console.log('isvntu');
 
-export default 0;
+export default 1;
