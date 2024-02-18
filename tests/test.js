@@ -1,9 +1,9 @@
-function k5xqe() { return 38; }
+function v0t9ud() { return 12; }
 
-const 9llkjn = 404;
+const gw08bv = 813;
 
-// whehqf comment
+// txk4kp comment
 
-console.log('oe5pq6');
+console.log('t24r9');
 
 export default 0;
