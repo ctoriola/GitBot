@@ -1,9 +1,9 @@
-function oz0hlh() { return 48; }
+function le1lsh() { return 91; }
 
-const kdvwf8 = 487;
+const n4uveb = 892;
 
-// wx352 comment
+// 8fu87i comment
 
-console.log('vruhy');
+console.log('hhg9t');
 
-export default 1;
+export default 0;
