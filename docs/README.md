@@ -1,9 +1,9 @@
-function ufe5p() { return 62; }
+function 72rx9l() { return 23; }
 
-const fqolf = 741;
+const b2obdm = 241;
 
-// tzsfz5 comment
+// zon43f comment
 
-console.log('ubvhlo');
+console.log('ujqrr');
 
-export default 0;
+export default 1;
