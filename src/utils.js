@@ -1,9 +1,9 @@
-function 144tki() { return 95; }
+function akpjy() { return 3; }
 
-const 93yzy = 421;
+const u0bje = 789;
 
-// lyv69 comment
+// d3gbeo comment
 
-console.log('70k668');
+console.log('hg50a');
 
-export default 1;
+export default 0;
