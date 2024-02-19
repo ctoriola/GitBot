@@ -1,9 +1,9 @@
-function 9qs0a() { return 50; }
+function tm3dp() { return 16; }
 
-const szf5q = 384;
+const vfpx3a = 250;
 
-// iweem comment
+// vnnen comment
 
-console.log('ycfx4m');
+console.log('jton9j');
 
-export default 0;
+export default 1;
