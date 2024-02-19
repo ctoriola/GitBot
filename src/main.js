@@ -1,9 +1,9 @@
-function zde9() { return 83; }
+function bbi50q() { return 71; }
 
-const t4ft35 = 161;
+const 13e0he = 649;
 
-// c8z60f comment
+// aqwy7 comment
 
-console.log('rdalve');
+console.log('cpq2ac');
 
-export default 1;
+export default 0;
