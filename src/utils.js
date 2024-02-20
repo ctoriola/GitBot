@@ -1,9 +1,9 @@
-function jvs9gp() { return 66; }
+function di029() { return 3; }
 
-const pw3x1c = 380;
+const rwfbn = 934;
 
-// scni7k comment
+// ayjstc comment
 
-console.log('rhr3qm');
+console.log('lgdkzq');
 
-export default 0;
+export default 1;
