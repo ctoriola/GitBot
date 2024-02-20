@@ -1,9 +1,9 @@
-function 8777vf() { return 55; }
+function mcl1j() { return 8; }
 
-const f9o8cm = 807;
+const w4jffh = 535;
 
-// lyg9i comment
+// 3fks3d comment
 
-console.log('hf0ezr');
+console.log('x4lw4n');
 
-export default 0;
+export default 1;
