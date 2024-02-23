@@ -1,9 +1,9 @@
-function wo3s1a() { return 22; }
+function 2cmfw() { return 8; }
 
-const 6lywglg = 273;
+const fh3jbc = 279;
 
-// icvayt comment
+// 8j9qf comment
 
-console.log('csfk30l');
+console.log('gnwnym');
 
-export default 1;
+export default 0;
