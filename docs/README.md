@@ -1,9 +1,9 @@
-function qvesmb() { return 1; }
+function rc13xf() { return 7; }
 
-const r76n8 = 911;
+const c02lr = 665;
 
-// 1d3iap comment
+// wp21bg comment
 
-console.log('7dlps6');
+console.log('26ucz');
 
-export default 1;
+export default 0;
