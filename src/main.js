@@ -1,9 +1,9 @@
-function uldzws() { return 32; }
+function n8mc4() { return 84; }
 
-const kzz2il = 195;
+const n4vpx = 833;
 
-// xfpoqg comment
+// 4rfmi comment
 
-console.log('mt8yj');
+console.log('1z9hc');
 
-export default 1;
+export default 0;
