@@ -1,9 +1,9 @@
-function mppm5f() { return 45; }
+function 6ltll() { return 97; }
 
-const xi7ktm = 743;
+const diksr6 = 540;
 
-// 165tnj comment
+// wtas87 comment
 
-console.log('00vur');
+console.log('sskojj');
 
-export default 1;
+export default 0;
