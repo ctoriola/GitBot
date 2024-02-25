@@ -1,9 +1,9 @@
-function jkseb() { return 37; }
+function rv9iw() { return 44; }
 
-const pse9i2 = 977;
+const 78g92e = 153;
 
-// d1mbm8 comment
+// i4dc7m comment
 
-console.log('np2ivv');
+console.log('flta6j');
 
-export default 0;
+export default 1;
