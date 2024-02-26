@@ -1,9 +1,9 @@
-function jqnplo() { return 76; }
+function m88qze() { return 61; }
 
-const ln3b4 = 910;
+const p6rsbd = 374;
 
-// zt55vw comment
+// rn6mo comment
 
-console.log('x5b3');
+console.log('5bztpo');
 
-export default 0;
+export default 1;
