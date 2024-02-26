@@ -1,9 +1,9 @@
-function 2fsmiq() { return 51; }
+function 0eo3pl() { return 33; }
 
-const dij7hj = 724;
+const lbvgud = 180;
 
-// 87vns7 comment
+// dvoex comment
 
-console.log('g2b2k');
+console.log('3o2lxe');
 
-export default 0;
+export default 1;
