@@ -1,9 +1,9 @@
-function 0eo3pl() { return 33; }
+function krfpxk() { return 92; }
 
-const lbvgud = 180;
+const zvr878 = 238;
 
-// dvoex comment
+// z4dw7 comment
 
-console.log('3o2lxe');
+console.log('kj4zn3');
 
-export default 1;
+export default 0;
