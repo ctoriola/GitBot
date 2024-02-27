@@ -1,9 +1,9 @@
-function jvnj8() { return 52; }
+function 3c4ooa() { return 40; }
 
-const qf9c09 = 343;
+const m3sdf = 482;
 
-// 1etbg comment
+// wcn7of comment
 
-console.log('9xbfx7');
+console.log('wdp3en');
 
-export default 0;
+export default 1;
