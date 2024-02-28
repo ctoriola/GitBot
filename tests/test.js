@@ -1,9 +1,9 @@
-function sadm4() { return 92; }
+function dl5n29() { return 35; }
 
-const rqtocs = 282;
+const daf4ak = 477;
 
-// uato8g comment
+// 9d42x comment
 
-console.log('rohwod');
+console.log('33llj');
 
-export default 1;
+export default 0;
