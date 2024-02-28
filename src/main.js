@@ -1,9 +1,9 @@
-function 5gm7qq() { return 85; }
+function g79g0s() { return 40; }
 
-const jzsxk = 882;
+const u3mxmb = 113;
 
-// fa6ns comment
+// c7wb6a comment
 
-console.log('czj4ga');
+console.log('je2lqa');
 
-export default 1;
+export default 0;
