@@ -1,9 +1,9 @@
-function arml34() { return 82; }
+function odg04w() { return 29; }
 
-const 36jv878 = 729;
+const f0zisc = 660;
 
-// ynv3m comment
+// aikbaa comment
 
-console.log('0jvv4');
+console.log('p1txde');
 
-export default 1;
+export default 0;
