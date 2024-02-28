@@ -1,9 +1,9 @@
-function e1nzo() { return 71; }
+function tmxyj7() { return 64; }
 
-const txthzh = 821;
+const hykyd = 258;
 
-// 50peah comment
+// n7yla comment
 
-console.log('0wzpn');
+console.log('h8nmf8');
 
-export default 0;
+export default 1;
