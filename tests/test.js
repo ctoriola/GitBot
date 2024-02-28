@@ -1,9 +1,9 @@
-function dl5n29() { return 35; }
+function 9p2khc() { return 5; }
 
-const daf4ak = 477;
+const dxj0p = 509;
 
-// 9d42x comment
+// ddmuae comment
 
-console.log('33llj');
+console.log('fkkqx');
 
-export default 0;
+export default 1;
