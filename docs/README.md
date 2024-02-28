@@ -1,9 +1,9 @@
-function tmxyj7() { return 64; }
+function xl3uzu() { return 85; }
 
-const hykyd = 258;
+const kuyv0e = 863;
 
-// n7yla comment
+// y8ykqi comment
 
-console.log('h8nmf8');
+console.log('sdt5y4');
 
-export default 1;
+export default 0;
