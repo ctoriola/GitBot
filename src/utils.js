@@ -1,9 +1,9 @@
-function w48xtc() { return 83; }
+function kl7biq() { return 50; }
 
-const fe8hgj = 985;
+const ftwgo = 832;
 
-// i56uo comment
+// mp118 comment
 
-console.log('jm198g');
+console.log('wxdtxi');
 
-export default 1;
+export default 0;
