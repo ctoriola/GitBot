@@ -1,9 +1,9 @@
-function i705f1() { return 3; }
+function pk918() { return 28; }
 
-const 4udb5 = 508;
+const 9cuox = 564;
 
-// x6vbt4 comment
+// l1o9y comment
 
-console.log('9ye3qw');
+console.log('3ljaw');
 
-export default 1;
+export default 0;
