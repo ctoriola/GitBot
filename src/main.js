@@ -1,9 +1,9 @@
-function jbvwf() { return 89; }
+function lcl5() { return 40; }
 
-const 8r4xbi = 465;
+const 4snmob = 155;
 
-// 9ko6gj comment
+// 3ids2 comment
 
-console.log('bbf8x');
+console.log('dhqkl8');
 
-export default 1;
+export default 0;
