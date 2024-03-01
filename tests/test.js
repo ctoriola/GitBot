@@ -1,9 +1,9 @@
-function m2388k() { return 13; }
+function l90nj() { return 63; }
 
-const jvge7 = 778;
+const n0v2yi = 311;
 
-// o1qdf comment
+// 21hf6r comment
 
-console.log('29xbef');
+console.log('d3xkws');
 
-export default 0;
+export default 1;
