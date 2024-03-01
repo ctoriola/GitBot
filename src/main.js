@@ -1,9 +1,9 @@
-function veypat() { return 31; }
+function xzwvqb() { return 54; }
 
-const 2nwjj9 = 880;
+const 36ytdw = 449;
 
-// opyn8qv comment
+// qetkw comment
 
-console.log('j5ro3r');
+console.log('w5rbgd');
 
-export default 1;
+export default 0;
