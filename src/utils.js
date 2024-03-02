@@ -1,9 +1,9 @@
-function yp6tqs() { return 72; }
+function yxmyp7() { return 7; }
 
-const rv4ddl = 158;
+const 7q895 = 431;
 
-// bo69l comment
+// 0wjc6r comment
 
-console.log('33rimw');
+console.log('7lrq7');
 
 export default 0;
