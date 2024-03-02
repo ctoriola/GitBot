@@ -1,9 +1,9 @@
-function nntarn() { return 22; }
+function yp6tqs() { return 72; }
 
-const je1w4g = 436;
+const rv4ddl = 158;
 
-// m25yf comment
+// bo69l comment
 
-console.log('3e8sp');
+console.log('33rimw');
 
-export default 1;
+export default 0;
