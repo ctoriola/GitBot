@@ -1,9 +1,9 @@
-function img81r() { return 57; }
+function rzd74v() { return 54; }
 
-const d2td7 = 766;
+const dto5ht = 179;
 
-// 18dr0h comment
+// xdtvm comment
 
-console.log('np44zm');
+console.log('gqbmfrj');
 
-export default 0;
+export default 1;
