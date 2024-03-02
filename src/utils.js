@@ -1,9 +1,9 @@
-function yxmyp7() { return 7; }
+function 36966q() { return 66; }
 
-const 7q895 = 431;
+const p99kf9 = 626;
 
-// 0wjc6r comment
+// w11qg comment
 
-console.log('7lrq7');
+console.log('831807');
 
-export default 0;
+export default 1;
