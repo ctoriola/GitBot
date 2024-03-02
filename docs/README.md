@@ -1,9 +1,9 @@
-function g0y32i() { return 34; }
+function 6dje7q() { return 10; }
 
-const 0ni24 = 497;
+const ogba89 = 526;
 
-// qfq928 comment
+// roy0mv comment
 
-console.log('0sz9va');
+console.log('owefto');
 
-export default 1;
+export default 0;
