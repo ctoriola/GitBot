@@ -1,9 +1,9 @@
-function fycvje() { return 46; }
+function fln9wr() { return 23; }
 
-const 8ur417 = 548;
+const 32v3pr = 580;
 
-// m87tgg comment
+// cpvjw9 comment
 
-console.log('5lol74');
+console.log('qsm4yi');
 
-export default 1;
+export default 0;
