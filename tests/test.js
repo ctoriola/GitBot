@@ -1,9 +1,9 @@
-function cpv1pv() { return 62; }
+function img81r() { return 57; }
 
-const 6mq0nu = 939;
+const d2td7 = 766;
 
-// u47q4a comment
+// 18dr0h comment
 
-console.log('2wn1cf');
+console.log('np44zm');
 
-export default 1;
+export default 0;
