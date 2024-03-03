@@ -1,9 +1,9 @@
-function r5xbev() { return 22; }
+function yytw2() { return 69; }
 
-const 9g3276 = 966;
+const r6t8vn = 864;
 
-// op2qqk comment
+// m44xhf comment
 
-console.log('y0cxx');
+console.log('bckt1n');
 
-export default 0;
+export default 1;
