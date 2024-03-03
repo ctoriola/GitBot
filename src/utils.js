@@ -1,9 +1,9 @@
-function 9yma2() { return 15; }
+function cmci6k() { return 29; }
 
-const ir7lpj = 803;
+const p20ydbc = 243;
 
-// 8jq0y5 comment
+// 003npq comment
 
-console.log('mo8cqq');
+console.log('a0ffok');
 
-export default 0;
+export default 1;
