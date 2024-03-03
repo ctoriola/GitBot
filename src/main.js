@@ -1,9 +1,9 @@
-function xv21h2() { return 25; }
+function r5xbev() { return 22; }
 
-const keb8bu = 533;
+const 9g3276 = 966;
 
-// v9l8s comment
+// op2qqk comment
 
-console.log('fixr9v');
+console.log('y0cxx');
 
-export default 1;
+export default 0;
