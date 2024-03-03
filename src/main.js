@@ -1,9 +1,9 @@
-function hiwwrj() { return 70; }
+function 6odr1() { return 48; }
 
-const znuakc = 910;
+const xxfvh = 410;
 
-// 6kysg comment
+// gwendj comment
 
-console.log('jkea5');
+console.log('bftm7g');
 
-export default 1;
+export default 0;
