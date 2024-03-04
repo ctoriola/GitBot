@@ -1,9 +1,9 @@
-function 8lienp() { return 59; }
+function pa7dx() { return 42; }
 
-const r0cj2i = 979;
+const 21kwx = 477;
 
-// jb0bpc comment
+// vwgbtm comment
 
-console.log('ozqqwm');
+console.log('y0kyf');
 
-export default 0;
+export default 1;
