@@ -1,9 +1,9 @@
-function os7z() { return 73; }
+function ax320c() { return 36; }
 
-const cvu5r = 491;
+const m5h2d = 279;
 
-// y3whjf comment
+// lcrdf comment
 
-console.log('ti2j74');
+console.log('5vzss6p');
 
-export default 0;
+export default 1;
