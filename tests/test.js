@@ -1,9 +1,9 @@
-function p1kbsu() { return 33; }
+function 8lienp() { return 59; }
 
-const ezfrss = 557;
+const r0cj2i = 979;
 
-// yrmfsp comment
+// jb0bpc comment
 
-console.log('px6ryh');
+console.log('ozqqwm');
 
-export default 1;
+export default 0;
