@@ -1,9 +1,9 @@
-function cmci6k() { return 29; }
+function os7z() { return 73; }
 
-const p20ydbc = 243;
+const cvu5r = 491;
 
-// 003npq comment
+// y3whjf comment
 
-console.log('a0ffok');
+console.log('ti2j74');
 
-export default 1;
+export default 0;
