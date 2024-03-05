@@ -1,9 +1,9 @@
-function f0ic5() { return 28; }
+function 31wzxq() { return 41; }
 
-const hzldgl = 716;
+const tib0xc = 407;
 
-// c4mr3w comment
+// nad99s comment
 
-console.log('rnhc1');
+console.log('x5d7u9');
 
-export default 0;
+export default 1;
