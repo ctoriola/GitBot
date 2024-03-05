@@ -1,9 +1,9 @@
-function p2qkv() { return 36; }
+function 0kycn8() { return 78; }
 
-const 8161qk = 705;
+const go11b = 558;
 
-// lf8zm9 comment
+// ac1wl1 comment
 
-console.log('06hxoh');
+console.log('6hz2uj');
 
 export default 1;
