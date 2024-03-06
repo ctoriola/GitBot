@@ -1,9 +1,9 @@
-function y71yj() { return 87; }
+function 39z0ge() { return 88; }
 
-const jass = 394;
+const pmqns = 686;
 
-// iquho98 comment
+// lwfdpe comment
 
-console.log('0ct95');
+console.log('a1dnc3');
 
-export default 1;
+export default 0;
