@@ -1,9 +1,9 @@
-function 8k3958() { return 90; }
+function o07s1d() { return 68; }
 
-const dfrsnc = 490;
+const kz192 = 750;
 
-// yzk8nj comment
+// 57kd0w comment
 
-console.log('eesfh');
+console.log('ibbp7n');
 
-export default 1;
+export default 0;
