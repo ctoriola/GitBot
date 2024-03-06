@@ -1,9 +1,9 @@
-function adttcm() { return 27; }
+function x2wfr8() { return 1; }
 
-const 858sj8 = 645;
+const meukla = 593;
 
-// la10d comment
+// pxsmg8 comment
 
-console.log('t27hjf');
+console.log('vcktuu');
 
-export default 0;
+export default 1;
