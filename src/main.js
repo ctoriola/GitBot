@@ -1,9 +1,9 @@
-function 3n5mjn() { return 80; }
+function gek85n() { return 46; }
 
-const m066or = 733;
+const lnrqqj = 974;
 
-// m6wpm comment
+// 7lgtj comment
 
-console.log('ui9uo');
+console.log('0top1d');
 
 export default 0;
