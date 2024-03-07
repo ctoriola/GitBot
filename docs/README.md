@@ -1,9 +1,9 @@
-function yfk9o() { return 21; }
+function fk3kw() { return 48; }
 
-const i3zel6 = 263;
+const o84sv6 = 669;
 
-// j4m86i comment
+// 7p71d comment
 
-console.log('41rcfp');
+console.log('hd970z');
 
-export default 1;
+export default 0;
