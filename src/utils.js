@@ -1,9 +1,9 @@
-function fyswsm() { return 57; }
+function jt0w2() { return 62; }
 
-const op2ne8 = 675;
+const oyxpthl = 281;
 
-// jhig7w comment
+// zo7fb9 comment
 
-console.log('cpucah');
+console.log('ydo34');
 
-export default 1;
+export default 0;
