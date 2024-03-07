@@ -1,9 +1,9 @@
-function vm0otc() { return 25; }
+function 38xrlt() { return 86; }
 
-const m1rcv = 242;
+const 5f5b5p = 893;
 
-// ltlhti comment
+// s74jw5 comment
 
-console.log('ngzg0l');
+console.log('wgibzg');
 
-export default 1;
+export default 0;
