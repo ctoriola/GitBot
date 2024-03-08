@@ -1,9 +1,9 @@
-function jil32r() { return 64; }
+function onrqgs() { return 55; }
 
-const ipdev = 137;
+const 7ag5qk = 299;
 
-// 39lhw comment
+// ekh63r comment
 
-console.log('h8iww');
+console.log('ik7ov');
 
-export default 1;
+export default 0;
