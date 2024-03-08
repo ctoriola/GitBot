@@ -1,9 +1,9 @@
-function rgn4gs() { return 21; }
+function sqsfc() { return 19; }
 
-const lbqk6 = 988;
+const 060ctj = 188;
 
-// k6tkup comment
+// rypp6 comment
 
-console.log('hi0af');
+console.log('0v7a7c');
 
-export default 1;
+export default 0;
