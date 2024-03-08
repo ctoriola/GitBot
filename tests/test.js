@@ -1,9 +1,9 @@
-function x7cj7a() { return 65; }
+function lvorq8() { return 28; }
 
-const 6rmt5 = 882;
+const v57bz9 = 618;
 
-// bun0e comment
+// rk5fdt comment
 
-console.log('kdzrb9');
+console.log('tlamyi');
 
-export default 0;
+export default 1;
