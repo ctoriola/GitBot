@@ -1,9 +1,9 @@
-function jt0w2() { return 62; }
+function jil32r() { return 64; }
 
-const oyxpthl = 281;
+const ipdev = 137;
 
-// zo7fb9 comment
+// 39lhw comment
 
-console.log('ydo34');
+console.log('h8iww');
 
-export default 0;
+export default 1;
