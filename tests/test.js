@@ -1,9 +1,9 @@
-function 8quayr() { return 88; }
+function 3cwwxk() { return 100; }
 
-const x9gy6s = 332;
+const fp9lwl = 764;
 
-// hy65yq comment
+// m4pa6e comment
 
-console.log('jtmlt');
+console.log('m833gt');
 
-export default 0;
+export default 1;
