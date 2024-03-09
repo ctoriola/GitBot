@@ -1,9 +1,9 @@
-function 8vj1k() { return 19; }
+function xwrhfn() { return 8; }
 
-const wbgkgm = 244;
+const git48 = 220;
 
-// q235m comment
+// h8iuq comment
 
-console.log('ly9e1');
+console.log('29tmy');
 
 export default 0;
