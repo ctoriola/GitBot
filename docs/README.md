@@ -1,9 +1,9 @@
-function cd5ela() { return 61; }
+function jdu2un() { return 9; }
 
-const 7jyi94 = 487;
+const 7xajtj = 296;
 
-// i0xazq comment
+// nsavsc comment
 
-console.log('ordrv');
+console.log('z7iqg');
 
-export default 0;
+export default 1;
