@@ -1,9 +1,9 @@
-function jdu2un() { return 9; }
+function tiiacr() { return 91; }
 
-const 7xajtj = 296;
+const 1uot9n = 652;
 
-// nsavsc comment
+// qa4j05 comment
 
-console.log('z7iqg');
+console.log('iqdw1i');
 
-export default 1;
+export default 0;
