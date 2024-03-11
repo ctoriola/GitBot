@@ -1,9 +1,9 @@
-function tgljhr() { return 34; }
+function 985esd() { return 82; }
 
-const omwnxg = 778;
+const e50em = 488;
 
-// 1swab comment
+// 1gsmeg comment
 
-console.log('a1b3dy');
+console.log('jfjy6');
 
-export default 0;
+export default 1;
