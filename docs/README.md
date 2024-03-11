@@ -1,9 +1,9 @@
-function kn6s6() { return 90; }
+function drnhit() { return 97; }
 
-const 5zhn3k = 817;
+const qydd9l = 857;
 
-// u7e3lg comment
+// s2thd comment
 
-console.log('fm74o');
+console.log('8h30av');
 
-export default 1;
+export default 0;
