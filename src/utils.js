@@ -1,9 +1,9 @@
-function 6twikm() { return 16; }
+function 8tqqd() { return 28; }
 
-const b5prir = 620;
+const oas05l = 400;
 
-// tbpef comment
+// pbilr comment
 
-console.log('5081s7');
+console.log('pkwka6');
 
-export default 1;
+export default 0;
