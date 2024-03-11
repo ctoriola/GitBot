@@ -1,9 +1,9 @@
-function pjw2zo() { return 94; }
+function 2icpab() { return 26; }
 
-const z8brzn = 659;
+const ynb6h = 315;
 
-// fhhbt comment
+// 54kyc8 comment
 
-console.log('h8sa9i');
+console.log('j4eer6');
 
-export default 1;
+export default 0;
