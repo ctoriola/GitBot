@@ -1,9 +1,9 @@
-function ebthjq() { return 38; }
+function pc34e() { return 4; }
 
-const w1p9n5 = 612;
+const 2for7 = 232;
 
-// epkleh comment
+// qlgsmo comment
 
-console.log('np30dc');
+console.log('r148q');
 
-export default 1;
+export default 0;
