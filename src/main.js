@@ -1,9 +1,9 @@
-function 5psgt7() { return 47; }
+function dwxrjw() { return 9; }
 
-const 8eiadb = 214;
+const h9gjoa = 118;
 
-// tx31dc comment
+// iglurl comment
 
-console.log('lxqscg');
+console.log('vo7rrl');
 
 export default 0;
