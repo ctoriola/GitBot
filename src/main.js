@@ -1,9 +1,9 @@
-function is5cl() { return 36; }
+function zfi0h() { return 92; }
 
-const tpvvsp = 845;
+const w28lkn = 210;
 
-// 2lhzl comment
+// jt2wda comment
 
-console.log('nsxc4f');
+console.log('u51yv');
 
-export default 1;
+export default 0;
