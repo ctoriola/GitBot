@@ -1,9 +1,9 @@
-function 6nwieg() { return 28; }
+function 93gx6w() { return 4; }
 
-const pft9hd = 1000;
+const plsasp = 446;
 
-// 3p8kdf comment
+// yam2oj comment
 
-console.log('pn668g');
+console.log('u9cnb');
 
 export default 0;
