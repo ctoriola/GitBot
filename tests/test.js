@@ -1,9 +1,9 @@
-function pgr9aw() { return 23; }
+function 1r3v23() { return 21; }
 
-const mpkqo1 = 314;
+const 1ha5dw = 899;
 
-// dwaocx comment
+// p2ango comment
 
-console.log('e9yi');
+console.log('4abzla');
 
-export default 0;
+export default 1;
