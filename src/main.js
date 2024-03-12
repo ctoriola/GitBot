@@ -1,9 +1,9 @@
-function dwxrjw() { return 9; }
+function is5cl() { return 36; }
 
-const h9gjoa = 118;
+const tpvvsp = 845;
 
-// iglurl comment
+// 2lhzl comment
 
-console.log('vo7rrl');
+console.log('nsxc4f');
 
-export default 0;
+export default 1;
