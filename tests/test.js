@@ -1,9 +1,9 @@
-function 985esd() { return 82; }
+function dc7gl() { return 40; }
 
-const e50em = 488;
+const 6gd70p = 823;
 
-// 1gsmeg comment
+// 7yj11i comment
 
-console.log('jfjy6');
+console.log('0ugiq9');
 
 export default 1;
