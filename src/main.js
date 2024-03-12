@@ -1,9 +1,9 @@
-function b4oscq() { return 58; }
+function rouctc() { return 8; }
 
-const v6audt = 395;
+const zpccj = 531;
 
-// y2j4c8 comment
+// dx51oi comment
 
-console.log('ygmyg8');
+console.log('lggnvr');
 
-export default 0;
+export default 1;
