@@ -1,9 +1,9 @@
-function jehys3() { return 8; }
+function bpzptf() { return 38; }
 
-const blde3l = 900;
+const v244gk = 848;
 
-// nkpfke comment
+// ldm1m9 comment
 
-console.log('m5tcoi');
+console.log('skrf38');
 
-export default 0;
+export default 1;
