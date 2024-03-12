@@ -1,9 +1,9 @@
-function 3awxk6() { return 27; }
+function gkfddq() { return 6; }
 
-const 1fzcqn = 500;
+const pa59m = 283;
 
-// akidbj comment
+// ceszl comment
 
-console.log('6iurg9');
+console.log('xp768w');
 
-export default 1;
+export default 0;
