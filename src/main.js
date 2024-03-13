@@ -1,9 +1,9 @@
-function uuga7r() { return 86; }
+function b2xwy() { return 19; }
 
-const 87tm1 = 417;
+const ho3p4i = 377;
 
-// jjfaq6 comment
+// 70mzoa comment
 
-console.log('5inb8m');
+console.log('851097');
 
 export default 1;
