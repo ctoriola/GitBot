@@ -1,9 +1,9 @@
-function uixfg() { return 63; }
+function nbw28x() { return 73; }
 
-const u4k6l = 290;
+const wuejfm = 946;
 
-// n4u76d comment
+// a2k1ee comment
 
-console.log('flpz0b');
+console.log('vxcn6b');
 
-export default 1;
+export default 0;
