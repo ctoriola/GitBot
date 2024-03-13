@@ -1,9 +1,9 @@
-function 0jqtu() { return 13; }
+function 6nkdeg() { return 92; }
 
-const bmeuqf = 917;
+const no6mud = 700;
 
-// 9cg63e comment
+// 73izu7 comment
 
-console.log('nlltt');
+console.log('mszopr');
 
-export default 0;
+export default 1;
