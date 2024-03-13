@@ -1,9 +1,9 @@
-function 6nkdeg() { return 92; }
+function d5rxol() { return 21; }
 
-const no6mud = 700;
+const y37yh9 = 628;
 
-// 73izu7 comment
+// zet89h comment
 
-console.log('mszopr');
+console.log('aqmwt');
 
-export default 1;
+export default 0;
