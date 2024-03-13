@@ -1,9 +1,9 @@
-function 2eolgd() { return 41; }
+function 0jqtu() { return 13; }
 
-const xzgfaf = 360;
+const bmeuqf = 917;
 
-// ubx989 comment
+// 9cg63e comment
 
-console.log('3loqp');
+console.log('nlltt');
 
-export default 1;
+export default 0;
