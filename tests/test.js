@@ -1,9 +1,9 @@
-function 6gntc5() { return 97; }
+function jmci8a() { return 8; }
 
-const e9u3j8 = 711;
+const kvonnw4 = 837;
 
-// yvtlzr comment
+// dpjtcd comment
 
-console.log('cq6jpp');
+console.log('unkoln');
 
-export default 1;
+export default 0;
