@@ -1,9 +1,9 @@
-function fd89t() { return 35; }
+function awgnb() { return 1; }
 
-const uord8b = 217;
+const mh0h4 = 698;
 
-// 0wksy5 comment
+// 7pmy2d comment
 
-console.log('77lvnl');
+console.log('jrfocf');
 
-export default 1;
+export default 0;
