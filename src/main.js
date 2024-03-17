@@ -1,9 +1,9 @@
-function 9f8ti() { return 12; }
+function 71sath() { return 12; }
 
-const 1nxijh = 717;
+const zj59rn = 699;
 
-// m13k4 comment
+// 123nxl comment
 
-console.log('s5uorb');
+console.log('rqhnz');
 
 export default 0;
