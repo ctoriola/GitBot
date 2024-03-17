@@ -1,9 +1,9 @@
-function awgnb() { return 1; }
+function s09xzx() { return 63; }
 
-const mh0h4 = 698;
+const k8bgc = 172;
 
-// 7pmy2d comment
+// bllr2 comment
 
-console.log('jrfocf');
+console.log('h272dv');
 
-export default 0;
+export default 1;
