@@ -1,9 +1,9 @@
-function m1kl() { return 89; }
+function se6jw() { return 9; }
 
-const w2niwt = 767;
+const pj5etm = 232;
 
-// pfmi6 comment
+// jqpdh comment
 
-console.log('6s8fie');
+console.log('ih010u');
 
-export default 0;
+export default 1;
