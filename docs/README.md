@@ -1,9 +1,9 @@
-function ebx1q7() { return 96; }
+function 1mapz1() { return 68; }
 
-const 46lpof = 622;
+const 1p9xjs = 718;
 
-// k3foug comment
+// i6d484 comment
 
-console.log('36prhm');
+console.log('z12uyw');
 
-export default 1;
+export default 0;
