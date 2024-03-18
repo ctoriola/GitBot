@@ -1,9 +1,9 @@
-function se6jw() { return 9; }
+function 054j3() { return 91; }
 
-const pj5etm = 232;
+const 83g1h = 684;
 
-// jqpdh comment
+// 6c6m0u comment
 
-console.log('ih010u');
+console.log('48cjv');
 
-export default 1;
+export default 0;
