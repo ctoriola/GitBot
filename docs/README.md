@@ -1,9 +1,9 @@
-function djtiwr() { return 71; }
+function 433c48() { return 88; }
 
-const yrx6p = 893;
+const q1xufp = 176;
 
-// yxlcwk comment
+// 0i4ivw comment
 
-console.log('omegoq');
+console.log('cfd9cd');
 
-export default 1;
+export default 0;
