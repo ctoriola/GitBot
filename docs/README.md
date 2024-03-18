@@ -1,9 +1,9 @@
-function xl7bz() { return 67; }
+function i3b4hn() { return 89; }
 
-const myoozg = 408;
+const 01xt4tr6 = 190;
 
-// kjyyri comment
+// 1yuuxc comment
 
-console.log('czsocf');
+console.log('8xv9fj');
 
-export default 1;
+export default 0;
