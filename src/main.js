@@ -1,9 +1,9 @@
-function vuffd() { return 81; }
+function 755om8() { return 20; }
 
-const o420t = 617;
+const uj93jq = 630;
 
-// p5ft3p comment
+// 6ghk3 comment
 
-console.log('5hchga');
+console.log('19xwv');
 
 export default 1;
