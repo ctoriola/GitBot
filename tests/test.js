@@ -1,9 +1,9 @@
-function pvy4bv() { return 86; }
+function fth8d() { return 39; }
 
-const c1edps = 851;
+const j8f6q1 = 361;
 
-// n4m8e comment
+// wfh4nr comment
 
-console.log('948xvf');
+console.log('l4y4ji');
 
-export default 1;
+export default 0;
