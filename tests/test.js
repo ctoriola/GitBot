@@ -1,9 +1,9 @@
-function it6oz() { return 75; }
+function oqmgtl() { return 55; }
 
-const g9co6k = 443;
+const v3zelf = 166;
 
-// 1vlk9b comment
+// 1qs8g4 comment
 
-console.log('w87gm9');
+console.log('jm5bu');
 
-export default 1;
+export default 0;
