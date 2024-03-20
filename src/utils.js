@@ -1,9 +1,9 @@
-function nvlqub() { return 63; }
+function a1v8g() { return 78; }
 
-const osbfts = 336;
+const uvo6wg = 431;
 
-// 15rio comment
+// 2c3tg comment
 
-console.log('xqjiko');
+console.log('t690yn');
 
-export default 0;
+export default 1;
