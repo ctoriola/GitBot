@@ -1,9 +1,9 @@
-function x3xd3() { return 57; }
+function mvxw63() { return 48; }
 
-const 7ailx9 = 506;
+const zdylsb = 250;
 
-// 98286d comment
+// 33s6m comment
 
-console.log('ds6xs');
+console.log('6kgn6ii');
 
 export default 1;
