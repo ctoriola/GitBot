@@ -1,9 +1,9 @@
-function xpdwo() { return 77; }
+function l2k8tn() { return 81; }
 
-const iokpwf = 553;
+const 4y91nd = 134;
 
-// sxjf comment
+// 4dtc3f comment
 
-console.log('pywjo');
+console.log('okxdkpg');
 
-export default 0;
+export default 1;
