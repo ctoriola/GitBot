@@ -1,9 +1,9 @@
-function v6v6h() { return 86; }
+function pou2b3() { return 4; }
 
-const 394lnq = 614;
+const tkvpt7 = 530;
 
-// mcd8u comment
+// yfg82n comment
 
-console.log('bsvt3n');
+console.log('ubf7gl');
 
-export default 0;
+export default 1;
