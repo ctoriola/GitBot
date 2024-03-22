@@ -1,9 +1,9 @@
-function xm3ao() { return 81; }
+function oe353c() { return 37; }
 
-const ot67f = 249;
+const 8v9rg9 = 250;
 
-// 51ymy comment
+// uef92 comment
 
-console.log('kgssjj');
+console.log('cqle3n');
 
-export default 0;
+export default 1;
