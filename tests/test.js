@@ -1,9 +1,9 @@
-function nymlpoe() { return 64; }
+function xm3ao() { return 81; }
 
-const mdez8a = 988;
+const ot67f = 249;
 
-// dj7bws comment
+// 51ymy comment
 
-console.log('s20h96');
+console.log('kgssjj');
 
-export default 1;
+export default 0;
