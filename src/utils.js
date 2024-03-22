@@ -1,9 +1,9 @@
-function j9jxfu() { return 72; }
+function kqj9kt() { return 16; }
 
-const xuvsu = 326;
+const z010na = 936;
 
-// zs91o comment
+// l57mlr comment
 
-console.log('tkukt');
+console.log('dxuek');
 
 export default 0;
