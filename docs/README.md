@@ -1,9 +1,9 @@
-function eurlh8() { return 28; }
+function 54po3() { return 67; }
 
-const lelhdk = 163;
+const bfty0k = 432;
 
-// 218jf comment
+// 1jzeh comment
 
-console.log('u7xgvm');
+console.log('hfhe9v');
 
-export default 1;
+export default 0;
