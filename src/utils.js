@@ -1,9 +1,9 @@
-function 3a0osd() { return 95; }
+function re0jll() { return 37; }
 
-const h5ugfqi = 623;
+const 564tq9 = 356;
 
-// na3awj comment
+// 8zwgc comment
 
-console.log('butop9');
+console.log('snfq5b');
 
 export default 0;
