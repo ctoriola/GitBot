@@ -1,9 +1,9 @@
-function bvb0b() { return 30; }
+function qklyxe() { return 33; }
 
-const 0ye8ll = 452;
+const hu554w = 855;
 
-// 1ucbta comment
+// d2bgch comment
 
-console.log('dl0s0n');
+console.log('g31sj');
 
-export default 1;
+export default 0;
