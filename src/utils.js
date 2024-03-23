@@ -1,9 +1,9 @@
-function kflqx() { return 17; }
+function njd6n() { return 96; }
 
-const lu1sg = 851;
+const zw2729 = 518;
 
-// d4y228 comment
+// qu38gd comment
 
-console.log('865bu');
+console.log('cxig5');
 
-export default 1;
+export default 0;
