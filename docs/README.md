@@ -1,9 +1,9 @@
-function 5evnkw() { return 44; }
+function kbyh6f() { return 59; }
 
-const lknolr = 773;
+const fpydzl = 507;
 
-// a6kxo comment
+// 2b392g comment
 
-console.log('z0lzf5d');
+console.log('5tvi49');
 
-export default 0;
+export default 1;
