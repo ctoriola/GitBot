@@ -1,9 +1,9 @@
-function ilftaq() { return 6; }
+function l57tf() { return 92; }
 
-const hspbd = 205;
+const 86otwp = 138;
 
-// fsqpvt comment
+// avtq6q comment
 
-console.log('ou84jp');
+console.log('euxg3');
 
-export default 1;
+export default 0;
