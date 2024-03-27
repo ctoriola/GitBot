@@ -1,9 +1,9 @@
-function a70772c() { return 16; }
+function lyeb1c() { return 10; }
 
-const 641zfh = 289;
+const hbammd = 315;
 
-// xx5d5 comment
+// 1aswvg comment
 
-console.log('fq60wf');
+console.log('l8e4q');
 
-export default 0;
+export default 1;
