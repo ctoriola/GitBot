@@ -1,9 +1,9 @@
-function mpz0x() { return 57; }
+function hto29r() { return 18; }
 
-const 2we3fi = 572;
+const k2xfhl = 752;
 
-// tjxxa8 comment
+// 16u2hf comment
 
-console.log('0zynxq');
+console.log('n2zi4h');
 
-export default 1;
+export default 0;
