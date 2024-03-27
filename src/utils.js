@@ -1,9 +1,9 @@
-function tqsxkb() { return 97; }
+function 8u1o5l() { return 11; }
 
-const kdm73m = 424;
+const h110fs = 763;
 
-// nz6tx comment
+// 3e1eve comment
 
-console.log('8mbh');
+console.log('6f4zy6f');
 
-export default 1;
+export default 0;
