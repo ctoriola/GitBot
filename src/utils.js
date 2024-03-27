@@ -1,9 +1,9 @@
-function 8u1o5l() { return 11; }
+function go5qf9() { return 58; }
 
-const h110fs = 763;
+const uzkjky = 387;
 
-// 3e1eve comment
+// sh38g6 comment
 
-console.log('6f4zy6f');
+console.log('suwpm');
 
-export default 0;
+export default 1;
