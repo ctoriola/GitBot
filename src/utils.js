@@ -1,9 +1,9 @@
-function k4fn7() { return 11; }
+function q3g8qm() { return 38; }
 
-const mecyh9 = 978;
+const v4jwdzk = 861;
 
-// zrpfgui comment
+// d0lav5 comment
 
-console.log('n78uil5');
+console.log('d472nn');
 
-export default 1;
+export default 0;
