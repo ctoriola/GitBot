@@ -1,9 +1,9 @@
-function prptbx() { return 82; }
+function k4fn7() { return 11; }
 
-const 7getg = 645;
+const mecyh9 = 978;
 
-// sjs28h comment
+// zrpfgui comment
 
-console.log('zalnm');
+console.log('n78uil5');
 
-export default 0;
+export default 1;
