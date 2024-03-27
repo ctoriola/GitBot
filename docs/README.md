@@ -1,9 +1,9 @@
-function tlkrqc() { return 71; }
+function mpz0x() { return 57; }
 
-const z08o1u = 724;
+const 2we3fi = 572;
 
-// 0degjo comment
+// tjxxa8 comment
 
-console.log('g9vvs');
+console.log('0zynxq');
 
-export default 0;
+export default 1;
