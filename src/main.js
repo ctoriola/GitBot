@@ -1,9 +1,9 @@
-function q717ps() { return 17; }
+function nj9ph() { return 65; }
 
-const 83y9dw = 223;
+const 5eigy = 691;
 
-// mz4vec comment
+// 32un95 comment
 
-console.log('j7szpq');
+console.log('5qz0jy');
 
-export default 0;
+export default 1;
