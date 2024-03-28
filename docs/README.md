@@ -1,9 +1,9 @@
-function wyb5yf() { return 41; }
+function rc96si() { return 98; }
 
-const 37xce = 602;
+const idisgh = 110;
 
-// z7c34q comment
+// txqbmi comment
 
-console.log('tb8nr');
+console.log('gl0mk');
 
-export default 0;
+export default 1;
