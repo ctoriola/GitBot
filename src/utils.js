@@ -1,9 +1,9 @@
-function p2jobn() { return 80; }
+function hhrg2() { return 94; }
 
-const dijzoh = 791;
+const di1q42 = 594;
 
-// 72cwe comment
+// mmei7j comment
 
-console.log('p3rg4o');
+console.log('zgwhqf');
 
-export default 0;
+export default 1;
