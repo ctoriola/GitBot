@@ -1,9 +1,9 @@
-function hhgt5() { return 16; }
+function ibzzt() { return 88; }
 
-const fa38tn = 874;
+const lhl3o = 432;
 
-// l664df comment
+// o306l comment
 
-console.log('12iui');
+console.log('6s102a');
 
-export default 1;
+export default 0;
