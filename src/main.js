@@ -1,9 +1,9 @@
-function nj9ph() { return 65; }
+function xu1o4() { return 14; }
 
-const 5eigy = 691;
+const nzfktb = 849;
 
-// 32un95 comment
+// lohaci comment
 
-console.log('5qz0jy');
+console.log('hhv8wo');
 
-export default 1;
+export default 0;
