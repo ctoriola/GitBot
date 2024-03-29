@@ -1,9 +1,9 @@
-function 0dvnum() { return 92; }
+function u90839() { return 19; }
 
-const xst62 = 264;
+const fzl06h = 391;
 
-// njqelw comment
+// o7qbp comment
 
-console.log('kzvskf');
+console.log('xiiz3p');
 
-export default 0;
+export default 1;
