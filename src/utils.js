@@ -1,9 +1,9 @@
-function gf5yji() { return 39; }
+function pc9dnc() { return 73; }
 
-const p9a6y = 897;
+const 6zjqih = 353;
 
-// 8cyv3 comment
+// 6t0lk5 comment
 
-console.log('0vlyf');
+console.log('g5ge67');
 
-export default 1;
+export default 0;
