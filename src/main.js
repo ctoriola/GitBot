@@ -1,9 +1,9 @@
-function 559omc() { return 1; }
+function oq670t() { return 7; }
 
-const 5l9a95 = 247;
+const p7kj56 = 260;
 
-// hdw7a comment
+// h9ff6f comment
 
-console.log('mlugp');
+console.log('ujcwe');
 
-export default 0;
+export default 1;
