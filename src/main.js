@@ -1,9 +1,9 @@
-function oq670t() { return 7; }
+function fdv3ej() { return 19; }
 
-const p7kj56 = 260;
+const 5u69el = 718;
 
-// h9ff6f comment
+// 72tps comment
 
-console.log('ujcwe');
+console.log('6sza5n');
 
-export default 1;
+export default 0;
