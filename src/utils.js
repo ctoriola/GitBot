@@ -1,9 +1,9 @@
-function cvhfvn() { return 83; }
+function r5bmcs() { return 83; }
 
-const c8jef = 220;
+const gyf6wa = 411;
 
-// fqgw7p comment
+// fks18 comment
 
-console.log('baigco');
+console.log('b15ki');
 
-export default 0;
+export default 1;
