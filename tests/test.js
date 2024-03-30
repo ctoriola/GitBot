@@ -1,9 +1,9 @@
-function u90839() { return 19; }
+function 19s7ha() { return 3; }
 
-const fzl06h = 391;
+const ywqwu = 755;
 
-// o7qbp comment
+// 1mn38 comment
 
-console.log('xiiz3p');
+console.log('wqms3t');
 
-export default 1;
+export default 0;
