@@ -1,9 +1,9 @@
-function tx0ew() { return 40; }
+function e3e96() { return 41; }
 
-const vhkz8e = 892;
+const y0soh = 660;
 
-// 5lxf8f comment
+// aqbq8r comment
 
-console.log('omx838');
+console.log('n1nxef');
 
-export default 0;
+export default 1;
