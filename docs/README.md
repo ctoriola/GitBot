@@ -1,9 +1,9 @@
-function v23enr() { return 47; }
+function 9wjee() { return 86; }
 
-const p02aoj = 754;
+const h38sxk = 405;
 
-// i4t84 comment
+// ijvuqe comment
 
-console.log('y0j6m');
+console.log('dm5aac');
 
-export default 1;
+export default 0;
