@@ -1,9 +1,9 @@
-function qhs1jv() { return 73; }
+function 1ormd() { return 32; }
 
-const zx77gd = 179;
+const whimt = 321;
 
-// a4l12r comment
+// 4a7ma5 comment
 
-console.log('39o3ys');
+console.log('bh7fto');
 
-export default 1;
+export default 0;
