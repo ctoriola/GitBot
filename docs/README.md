@@ -1,9 +1,9 @@
-function v1vspi() { return 38; }
+function 42hij5() { return 2; }
 
-const 7ki9vt = 184;
+const cskhzs = 354;
 
-// 4x5f2m comment
+// l7io2 comment
 
-console.log('glz85e');
+console.log('h4xsja');
 
-export default 0;
+export default 1;
