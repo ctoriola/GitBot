@@ -1,9 +1,9 @@
-function ld9wtwi() { return 62; }
+function ik1o2i() { return 73; }
 
-const be79u6 = 680;
+const xvbot2 = 911;
 
-// m8rlpi comment
+// 0piaf comment
 
-console.log('2x1qsn');
+console.log('65w84p');
 
-export default 0;
+export default 1;
