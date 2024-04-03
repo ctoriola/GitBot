@@ -1,9 +1,9 @@
-function 480tpj() { return 35; }
+function cz6zg() { return 60; }
 
-const jfazm = 560;
+const ps188g = 832;
 
-// nsrxz8 comment
+// mgvq5a comment
 
-console.log('tm6lvw');
+console.log('jl4v8');
 
-export default 1;
+export default 0;
