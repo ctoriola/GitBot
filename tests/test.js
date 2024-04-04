@@ -1,9 +1,9 @@
-function k3tdt() { return 69; }
+function dge72e() { return 35; }
 
-const 9bzjde = 911;
+const dvsm9f = 899;
 
-// 5l7afb comment
+// j3bwyu comment
 
-console.log('c0vvxi');
+console.log('t3mrzb');
 
-export default 1;
+export default 0;
