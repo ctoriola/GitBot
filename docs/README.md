@@ -1,9 +1,9 @@
-function s1yog() { return 87; }
+function 98lb2() { return 41; }
 
-const 9jaxq = 196;
+const gpf3 = 493;
 
-// v53ayr comment
+// 5jaicc comment
 
-console.log('h5m14');
+console.log('h6wpqv');
 
-export default 1;
+export default 0;
