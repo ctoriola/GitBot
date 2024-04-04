@@ -1,9 +1,9 @@
-function 2rxx() { return 38; }
+function s1yog() { return 87; }
 
-const mc534a = 550;
+const 9jaxq = 196;
 
-// 8vwwxy comment
+// v53ayr comment
 
-console.log('36sl1g9');
+console.log('h5m14');
 
-export default 0;
+export default 1;
