@@ -1,9 +1,9 @@
-function co1x9() { return 95; }
+function tas7yn() { return 69; }
 
-const 4ekbee = 828;
+const d2krbu = 675;
 
-// 2co47h comment
+// ftovsi comment
 
-console.log('zw091');
+console.log('y07zc');
 
-export default 1;
+export default 0;
