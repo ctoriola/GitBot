@@ -1,9 +1,9 @@
-function ozrcph() { return 67; }
+function axg7f() { return 34; }
 
-const pwvw5f = 646;
+const gyzsy7 = 238;
 
-// muulb comment
+// omkre comment
 
-console.log('z4jnvd');
+console.log('15tk4g');
 
-export default 0;
+export default 1;
