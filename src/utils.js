@@ -1,9 +1,9 @@
-function y6u6ll() { return 53; }
+function aesrb() { return 57; }
 
-const 76uqtj = 767;
+const zfnka9 = 704;
 
-// e4rpsd comment
+// 5i6bys comment
 
-console.log('dhcqrm');
+console.log('d8qlef');
 
-export default 1;
+export default 0;
