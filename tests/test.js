@@ -1,9 +1,9 @@
-function q647rd() { return 91; }
+function jeiv6b() { return 9; }
 
-const ea44n = 125;
+const hghibh = 229;
 
-// pmuyn comment
+// qq5gd comment
 
-console.log('olyoxq');
+console.log('0ib7kl');
 
-export default 1;
+export default 0;
