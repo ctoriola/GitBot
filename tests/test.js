@@ -1,9 +1,9 @@
-function t0qmn() { return 54; }
+function g25dul() { return 71; }
 
-const 04fyuj = 976;
+const huxi0h = 972;
 
-// sxtdk comment
+// qyx2f comment
 
-console.log('uql1s');
+console.log('w3avo');
 
-export default 1;
+export default 0;
