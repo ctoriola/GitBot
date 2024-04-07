@@ -1,9 +1,9 @@
-function fi9in() { return 100; }
+function q647rd() { return 91; }
 
-const 515a7 = 238;
+const ea44n = 125;
 
-// rtvqjc comment
+// pmuyn comment
 
-console.log('w0x1xkj');
+console.log('olyoxq');
 
-export default 0;
+export default 1;
