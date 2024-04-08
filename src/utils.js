@@ -1,9 +1,9 @@
-function xthwd5() { return 13; }
+function loj52() { return 2; }
 
-const ecilyj = 199;
+const mharqf = 621;
 
-// 2hdrfe comment
+// drvvi comment
 
-console.log('e25xov');
+console.log('5ynru');
 
-export default 1;
+export default 0;
