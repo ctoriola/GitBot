@@ -1,9 +1,9 @@
-function gcgm2m() { return 70; }
+function q7rmug() { return 14; }
 
-const dx85o = 961;
+const 0dsl9or = 747;
 
-// a36612 comment
+// cy0jia comment
 
-console.log('wvq2rk');
+console.log('avg53');
 
-export default 1;
+export default 0;
