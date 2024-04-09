@@ -1,9 +1,9 @@
-function 32i1or() { return 2; }
+function v9rpnr() { return 73; }
 
-const frt657 = 821;
+const drrxbw = 309;
 
-// h685vn comment
+// lnbd59 comment
 
-console.log('i5mke');
+console.log('am8msi');
 
-export default 1;
+export default 0;
