@@ -1,9 +1,9 @@
-function rn0em() { return 58; }
+function ljrva() { return 94; }
 
-const r8otx = 541;
+const sizjjg = 233;
 
-// w54kuwm comment
+// ncn27x comment
 
-console.log('p47c8c');
+console.log('9u22aq');
 
 export default 0;
