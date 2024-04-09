@@ -1,9 +1,9 @@
-function y8wa98() { return 71; }
+function l686qn() { return 84; }
 
-const 916868 = 435;
+const z2opar = 557;
 
-// j8dv9f comment
+// d1748p comment
 
-console.log('36xn2n');
+console.log('lpabs');
 
-export default 0;
+export default 1;
