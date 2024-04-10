@@ -1,9 +1,9 @@
-function o4o7u() { return 1; }
+function ngmfj() { return 16; }
 
-const w2p8a = 971;
+const 69qlw8 = 242;
 
-// w7dat comment
+// q2bvl comment
 
-console.log('gf46di');
+console.log('49b5we');
 
-export default 1;
+export default 0;
