@@ -1,9 +1,9 @@
-function jvjge5() { return 87; }
+function 0vls7() { return 73; }
 
-const mz6p8k = 332;
+const jnd75b = 248;
 
-// ch0enp comment
+// 46ifi comment
 
-console.log('kwjp0r');
+console.log('aomlml');
 
 export default 1;
