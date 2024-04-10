@@ -1,9 +1,9 @@
-function 79re7s() { return 7; }
+function 4buiygg() { return 1; }
 
-const xml3k = 634;
+const 3znvxf = 114;
 
-// 44qt5b comment
+// iubax comment
 
-console.log('ne0vsn');
+console.log('o3n1mr');
 
-export default 0;
+export default 1;
