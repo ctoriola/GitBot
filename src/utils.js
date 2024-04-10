@@ -1,9 +1,9 @@
-function bsg5oa() { return 99; }
+function cbxz81() { return 38; }
 
-const iufifo = 924;
+const bpdaps = 608;
 
-// 3hkyrc comment
+// yb07n5 comment
 
-console.log('2b1gf');
+console.log('vz8xn4v');
 
-export default 0;
+export default 1;
