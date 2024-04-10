@@ -1,9 +1,9 @@
-function w4sl9() { return 47; }
+function cppn1n() { return 25; }
 
-const vhazf = 323;
+const h4i7il = 866;
 
-// lvmy4d comment
+// 8e7byo comment
 
-console.log('41q7zf');
+console.log('sic94d');
 
-export default 1;
+export default 0;
