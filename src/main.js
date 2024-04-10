@@ -1,9 +1,9 @@
-function v9rpnr() { return 73; }
+function 43uj9uj() { return 97; }
 
-const drrxbw = 309;
+const ra6z8p = 665;
 
-// lnbd59 comment
+// 04j258e comment
 
-console.log('am8msi');
+console.log('j7bszc');
 
-export default 0;
+export default 1;
