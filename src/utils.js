@@ -1,9 +1,9 @@
-function kfhdr() { return 76; }
+function qbeos7() { return 56; }
 
-const cruh8g = 982;
+const 7puifc = 433;
 
-// y3ng2x comment
+// g0k44w2 comment
 
-console.log('5bsvxo');
+console.log('a7nhqi');
 
-export default 0;
+export default 1;
