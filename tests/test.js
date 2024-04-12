@@ -1,9 +1,9 @@
-function 4buiygg() { return 1; }
+function eysvnb() { return 41; }
 
-const 3znvxf = 114;
+const jgga2e = 655;
 
-// iubax comment
+// 4o5u4g comment
 
-console.log('o3n1mr');
+console.log('4kvxb9');
 
-export default 1;
+export default 0;
