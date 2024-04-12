@@ -1,9 +1,9 @@
-function cbxz81() { return 38; }
+function sy35fx() { return 14; }
 
-const bpdaps = 608;
+const v37sh = 772;
 
-// yb07n5 comment
+// nyr0xv comment
 
-console.log('vz8xn4v');
+console.log('sxxby');
 
 export default 1;
