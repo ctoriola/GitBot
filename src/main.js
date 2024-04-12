@@ -1,9 +1,9 @@
-function edh37() { return 95; }
+function yj8hvr() { return 94; }
 
-const rwf5e = 143;
+const 1pl5ul = 597;
 
-// dwz4kj comment
+// h9wy78 comment
 
-console.log('19a5cp');
+console.log('8gf48i');
 
-export default 0;
+export default 1;
