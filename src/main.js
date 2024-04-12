@@ -1,9 +1,9 @@
-function 0vls7() { return 73; }
+function edh37() { return 95; }
 
-const jnd75b = 248;
+const rwf5e = 143;
 
-// 46ifi comment
+// dwz4kj comment
 
-console.log('aomlml');
+console.log('19a5cp');
 
-export default 1;
+export default 0;
