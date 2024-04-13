@@ -1,9 +1,9 @@
-function 0wd48() { return 35; }
+function nsnnid() { return 75; }
 
-const otrdm7 = 593;
+const sq5sij = 536;
 
-// 8o0npd comment
+// 5t43fi comment
 
-console.log('a9nb1p');
+console.log('oapvya');
 
-export default 0;
+export default 1;
