@@ -1,9 +1,9 @@
-function 87i0cm() { return 64; }
+function k8epmt() { return 96; }
 
-const gr1fm = 759;
+const az31ys = 793;
 
-// oncomq comment
+// jp656 comment
 
-console.log('8y7zto');
+console.log('w0lsn');
 
-export default 1;
+export default 0;
