@@ -1,9 +1,9 @@
-function kefzl() { return 7; }
+function 032pb() { return 57; }
 
-const v32hl9 = 286;
+const s34n3n = 395;
 
-// 17vv8 comment
+// mh8img comment
 
-console.log('p35rlca');
+console.log('2g7gvk');
 
-export default 1;
+export default 0;
