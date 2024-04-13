@@ -1,9 +1,9 @@
-function hfa8xb() { return 53; }
+function kefzl() { return 7; }
 
-const 8vl8x = 889;
+const v32hl9 = 286;
 
-// i9ssg9 comment
+// 17vv8 comment
 
-console.log('rlio6');
+console.log('p35rlca');
 
-export default 0;
+export default 1;
