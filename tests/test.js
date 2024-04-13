@@ -1,9 +1,9 @@
-function avcfzi() { return 86; }
+function 0wd48() { return 35; }
 
-const 58capm = 238;
+const otrdm7 = 593;
 
-// au0tf comment
+// 8o0npd comment
 
-console.log('gniw4c');
+console.log('a9nb1p');
 
-export default 1;
+export default 0;
