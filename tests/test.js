@@ -1,9 +1,9 @@
-function qjjqrn() { return 26; }
+function wzw4cm() { return 68; }
 
-const x2hu3f = 712;
+const s5oj66 = 824;
 
-// zdapfs comment
+// 39jkxm comment
 
-console.log('jsmutzcd');
+console.log('oghtnf');
 
-export default 1;
+export default 0;
