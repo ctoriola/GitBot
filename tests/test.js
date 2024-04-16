@@ -1,9 +1,9 @@
-function zo3ag() { return 74; }
+function d4afa() { return 66; }
 
-const hfuk5h = 626;
+const wkm89g = 138;
 
-// hara1l comment
+// qzhdx comment
 
-console.log('4r54w');
+console.log('a3ewrw');
 
-export default 1;
+export default 0;
