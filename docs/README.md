@@ -1,9 +1,9 @@
-function gp237k() { return 28; }
+function yxtnu9() { return 29; }
 
-const 295slp = 255;
+const ji2ar = 565;
 
-// 980rv8 comment
+// 81b0rp comment
 
-console.log('tu18qx');
+console.log('65pynq');
 
-export default 0;
+export default 1;
