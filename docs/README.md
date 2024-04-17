@@ -1,9 +1,9 @@
-function bz95f3() { return 22; }
+function imuhaj() { return 3; }
 
-const 32iuuk = 889;
+const mf2inb = 232;
 
-// 8szoxe comment
+// fvzv8d comment
 
-console.log('7nfjcw');
+console.log('cc0b7');
 
-export default 1;
+export default 0;
