@@ -1,9 +1,9 @@
-function avetds() { return 53; }
+function ph7e18() { return 10; }
 
-const d585ms = 189;
+const lpcwqs = 493;
 
-// awvbwo comment
+// 0zna6u comment
 
-console.log('73j0bz');
+console.log('84yg7g');
 
-export default 0;
+export default 1;
