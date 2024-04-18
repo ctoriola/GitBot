@@ -1,9 +1,9 @@
-function igvh9p() { return 68; }
+function stv9f() { return 14; }
 
-const jevmz8 = 364;
+const d2iano = 648;
 
-// 34kvb comment
+// ixcr3l comment
 
-console.log('pppxph');
+console.log('s2fru');
 
 export default 1;
