@@ -1,9 +1,9 @@
-function tzqdpk() { return 17; }
+function igvh9p() { return 68; }
 
-const aymr85 = 805;
+const jevmz8 = 364;
 
-// 4balb comment
+// 34kvb comment
 
-console.log('l5bd46');
+console.log('pppxph');
 
-export default 0;
+export default 1;
