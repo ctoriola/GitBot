@@ -1,9 +1,9 @@
-function 6tilzh() { return 15; }
+function mm06x() { return 69; }
 
-const gf39ym = 172;
+const zb2185 = 413;
 
-// jyz0y9 comment
+// rxojn9 comment
 
-console.log('w9hyo1');
+console.log('4mqcyk');
 
-export default 1;
+export default 0;
