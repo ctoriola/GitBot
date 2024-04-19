@@ -1,9 +1,9 @@
-function lt5gqf() { return 39; }
+function rucne() { return 24; }
 
-const znbyc25 = 732;
+const i6u0od = 308;
 
-// 6y7kud comment
+// uczi9 comment
 
-console.log('0pni0e');
+console.log('dgg6wq');
 
-export default 0;
+export default 1;
