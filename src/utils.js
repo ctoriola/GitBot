@@ -1,9 +1,9 @@
-function 19ufl() { return 31; }
+function bshnv() { return 9; }
 
-const dag7od = 273;
+const ghrhqo = 946;
 
-// qg5k9q comment
+// tuiwr8 comment
 
-console.log('5bkumi');
+console.log('qyj35');
 
-export default 0;
+export default 1;
