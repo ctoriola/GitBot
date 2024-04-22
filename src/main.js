@@ -1,9 +1,9 @@
-function eu672i() { return 18; }
+function 17mqz() { return 56; }
 
-const vehb9l = 684;
+const o03dh8 = 491;
 
-// 6t2fwm comment
+// bqjw8a comment
 
-console.log('430bk9');
+console.log('d1ep9j');
 
-export default 0;
+export default 1;
