@@ -1,9 +1,9 @@
-function d2pu3() { return 38; }
+function eu672i() { return 18; }
 
-const d4cgw4g = 804;
+const vehb9l = 684;
 
-// dqjsdm comment
+// 6t2fwm comment
 
-console.log('c7vtk');
+console.log('430bk9');
 
-export default 1;
+export default 0;
