@@ -1,9 +1,9 @@
-function 17mqz() { return 56; }
+function brwxno() { return 32; }
 
-const o03dh8 = 491;
+const ws7sk = 793;
 
-// bqjw8a comment
+// famyfm comment
 
-console.log('d1ep9j');
+console.log('i4atg');
 
-export default 1;
+export default 0;
