@@ -1,9 +1,9 @@
-function ybunhk() { return 60; }
+function a7hi89() { return 29; }
 
-const hncsxk = 482;
+const 5524h = 960;
 
-// jx7zsf comment
+// vlo3g comment
 
-console.log('ti8xv');
+console.log('nff4r');
 
-export default 1;
+export default 0;
