@@ -1,9 +1,9 @@
-function brwxno() { return 32; }
+function pqpive() { return 100; }
 
-const ws7sk = 793;
+const cvtng = 205;
 
-// famyfm comment
+// udxujd comment
 
-console.log('i4atg');
+console.log('z0z7g');
 
-export default 0;
+export default 1;
