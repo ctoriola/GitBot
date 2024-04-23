@@ -1,9 +1,9 @@
-function 45p9epg() { return 72; }
+function hua5c() { return 46; }
 
-const d24hp = 995;
+const bqsw3s = 635;
 
-// czdkmo comment
+// cdl1e8 comment
 
-console.log('1fgk3');
+console.log('n75xye');
 
-export default 0;
+export default 1;
