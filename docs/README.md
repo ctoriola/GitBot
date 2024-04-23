@@ -1,9 +1,9 @@
-function hue8f() { return 76; }
+function rft4fi() { return 76; }
 
-const 2gn54to = 708;
+const xmeo09 = 477;
 
-// imzhtq comment
+// kzvnwk comment
 
-console.log('n4ojo');
+console.log('up0186');
 
-export default 0;
+export default 1;
