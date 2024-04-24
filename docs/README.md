@@ -1,9 +1,9 @@
-function lbxs1k() { return 82; }
+function z1kie() { return 99; }
 
-const 8np3pa = 221;
+const uz344d = 729;
 
-// k0f2lj comment
+// sj1jpi comment
 
-console.log('c6lktu');
+console.log('lie7e');
 
-export default 0;
+export default 1;
