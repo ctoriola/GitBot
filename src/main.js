@@ -1,9 +1,9 @@
-function 3rq07() { return 3; }
+function e0t8y() { return 12; }
 
-const ls2mv = 702;
+const 5lcood = 186;
 
-// ppyl4e comment
+// 96312b comment
 
-console.log('d0za8s');
+console.log('r03178');
 
-export default 0;
+export default 1;
