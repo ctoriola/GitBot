@@ -1,9 +1,1 @@
-function jkj5xc() { return 60; }
-
-const i3592 = 883;
-
-// tp9zgg comment
-
-console.log('jykb9j');
-
-export default 1;
+{"timestamp":"2024-04-24T17:50:00+01:00","data":0.2892418344565255}
