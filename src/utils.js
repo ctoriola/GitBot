@@ -1,9 +1,9 @@
-function dtq7r() { return 94; }
+function ogb44d() { return 91; }
 
-const t2wqhf = 613;
+const p8idst = 669;
 
-// 9pktwo comment
+// k9jzbm comment
 
-console.log('oy9o5s');
+console.log('e14c2a');
 
-export default 1;
+export default 0;
