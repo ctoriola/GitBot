@@ -1,9 +1,9 @@
-function r0yuhr() { return 73; }
+function dtq7r() { return 94; }
 
-const 4ttra = 795;
+const t2wqhf = 613;
 
-// fy0ctj comment
+// 9pktwo comment
 
-console.log('w1wstn');
+console.log('oy9o5s');
 
 export default 1;
