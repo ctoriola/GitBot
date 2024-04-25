@@ -1,9 +1,9 @@
-function bq782q() { return 70; }
+function 2v1g7m() { return 14; }
 
-const q0oufb = 241;
+const uxa3y2 = 658;
 
-// biocas comment
+// 7qiiup comment
 
-console.log('2nwhzw');
+console.log('yxssn');
 
-export default 1;
+export default 0;
