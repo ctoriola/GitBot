@@ -1,9 +1,9 @@
-function 0ll30l() { return 12; }
+function hjt81a() { return 73; }
 
-const qz7523 = 714;
+const yspk2 = 223;
 
-// v4nqd comment
+// b5j515 comment
 
-console.log('puxgx4');
+console.log('7cl2ye');
 
-export default 0;
+export default 1;
