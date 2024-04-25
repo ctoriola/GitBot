@@ -1,9 +1,9 @@
-function q4faj() { return 95; }
+function 5ofhq6j() { return 95; }
 
-const ikn1vh = 702;
+const eu659c = 497;
 
-// mysg2g comment
+// z1p8c comment
 
-console.log('ue41xp');
+console.log('qfm3qn');
 
-export default 1;
+export default 0;
