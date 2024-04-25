@@ -1,9 +1,9 @@
-function bw5c5i() { return 52; }
+function g1jin() { return 62; }
 
-const c6rsp5 = 242;
+const 0xpj2 = 402;
 
-// k3j7t8 comment
+// 37ivf comment
 
-console.log('gsyyhd');
+console.log('admzrk');
 
-export default 0;
+export default 1;
