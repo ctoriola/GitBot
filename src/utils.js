@@ -1,9 +1,9 @@
-function g1jin() { return 62; }
+function 0ll30l() { return 12; }
 
-const 0xpj2 = 402;
+const qz7523 = 714;
 
-// 37ivf comment
+// v4nqd comment
 
-console.log('admzrk');
+console.log('puxgx4');
 
-export default 1;
+export default 0;
