@@ -1,9 +1,9 @@
-function jwjkxx() { return 68; }
+function bw5c5i() { return 52; }
 
-const hablq9 = 663;
+const c6rsp5 = 242;
 
-// 5nf6m6 comment
+// k3j7t8 comment
 
-console.log('jb1tdv');
+console.log('gsyyhd');
 
-export default 1;
+export default 0;
