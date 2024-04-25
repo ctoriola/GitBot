@@ -1,9 +1,9 @@
-function 0oc5b9() { return 6; }
+function l0yxym() { return 92; }
 
-const dim3jh = 825;
+const kvjc4 = 385;
 
-// s98k6 comment
+// m4w27 comment
 
-console.log('b3hlzp');
+console.log('a019j4');
 
-export default 1;
+export default 0;
