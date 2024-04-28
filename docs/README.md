@@ -1,9 +1,9 @@
-function wrq6gy() { return 22; }
+function 2wqvti() { return 18; }
 
-const kfaztd = 986;
+const p86usf = 767;
 
-// veh6he comment
+// henpkf comment
 
-console.log('zs5upw');
+console.log('vi8ct');
 
-export default 1;
+export default 0;
