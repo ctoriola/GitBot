@@ -1,9 +1,9 @@
-function t8piac() { return 93; }
+function zt9hg3() { return 93; }
 
-const l9wbon = 535;
+const tev9ef = 608;
 
-// wp0ha comment
+// tps2xs comment
 
-console.log('n6cf7z');
+console.log('30yllj');
 
-export default 0;
+export default 1;
