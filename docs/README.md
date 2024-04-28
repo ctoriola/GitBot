@@ -1,9 +1,9 @@
-function zt9hg3() { return 93; }
+function c5489a() { return 47; }
 
-const tev9ef = 608;
+const w2b3yf = 183;
 
-// tps2xs comment
+// a7owto comment
 
-console.log('30yllj');
+console.log('3vw485');
 
-export default 1;
+export default 0;
