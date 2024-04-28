@@ -1,9 +1,9 @@
-function irpij9() { return 73; }
+function t8piac() { return 93; }
 
-const qm5tg2 = 945;
+const l9wbon = 535;
 
-// d3tkqu comment
+// wp0ha comment
 
-console.log('57xilyb');
+console.log('n6cf7z');
 
-export default 1;
+export default 0;
