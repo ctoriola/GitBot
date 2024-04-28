@@ -1,9 +1,9 @@
-function c5489a() { return 47; }
+function wrq6gy() { return 22; }
 
-const w2b3yf = 183;
+const kfaztd = 986;
 
-// a7owto comment
+// veh6he comment
 
-console.log('3vw485');
+console.log('zs5upw');
 
-export default 0;
+export default 1;
