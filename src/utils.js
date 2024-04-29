@@ -1,9 +1,9 @@
-function rjvjnw() { return 86; }
+function kbkqf() { return 1; }
 
-const ajqm1 = 662;
+const nm4a1d = 943;
 
-// 1h8axkj comment
+// 4funtm comment
 
-console.log('n1xfi6');
+console.log('h6e9eg');
 
 export default 0;
