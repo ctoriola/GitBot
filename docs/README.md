@@ -1,9 +1,9 @@
-function 5jzhbf() { return 61; }
+function mklag() { return 39; }
 
-const uk7a1a = 754;
+const 7dbgso = 926;
 
-// g38a26 comment
+// 2t6ngi comment
 
-console.log('kg1reo');
+console.log('ty5f8s');
 
-export default 1;
+export default 0;
