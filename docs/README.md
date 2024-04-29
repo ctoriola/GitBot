@@ -1,9 +1,9 @@
-function 2wqvti() { return 18; }
+function tmswva() { return 18; }
 
-const p86usf = 767;
+const mcubz = 693;
 
-// henpkf comment
+// 9kt5qs comment
 
-console.log('vi8ct');
+console.log('ja0j9l');
 
-export default 0;
+export default 1;
