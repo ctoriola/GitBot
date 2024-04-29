@@ -1,9 +1,9 @@
-function tmswva() { return 18; }
+function rmbg5d() { return 28; }
 
-const mcubz = 693;
+const 2g56da = 508;
 
-// 9kt5qs comment
+// zckk4b comment
 
-console.log('ja0j9l');
+console.log('z0fn9');
 
-export default 1;
+export default 0;
