@@ -1,9 +1,9 @@
-function zzer8() { return 55; }
+function laf0co() { return 48; }
 
-const 11fueb = 459;
+const vi7z4 = 484;
 
-// ttriw comment
+// i5jslj comment
 
-console.log('5hfeo2');
+console.log('t83z2k');
 
 export default 1;
