@@ -1,9 +1,9 @@
-function bryq7g() { return 54; }
+function 6fqeoa() { return 13; }
 
-const 6wwllp = 859;
+const dbzsqk = 317;
 
-// qdzoe comment
+// 6ikerc comment
 
-console.log('bwngyb');
+console.log('wgr09h');
 
-export default 1;
+export default 0;
