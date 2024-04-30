@@ -1,9 +1,9 @@
-function l89law() { return 98; }
+function np9lvg() { return 45; }
 
-const grk1t2 = 896;
+const 2knci5 = 398;
 
-// ko9lu comment
+// 7kh6bo comment
 
-console.log('6nplje');
+console.log('huojym');
 
-export default 0;
+export default 1;
