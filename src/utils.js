@@ -1,9 +1,9 @@
-function laf0co() { return 48; }
+function x4l2vg() { return 92; }
 
-const vi7z4 = 484;
+const fsu5i = 767;
 
-// i5jslj comment
+// zrsvvn comment
 
-console.log('t83z2k');
+console.log('oc98vc');
 
-export default 1;
+export default 0;
