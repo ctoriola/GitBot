@@ -1,9 +1,9 @@
-function elr0xi() { return 84; }
+function hgaqng() { return 94; }
 
-const 4i8d7i = 396;
+const mku9j8 = 694;
 
-// 8ohcg5 comment
+// b7gywo comment
 
-console.log('j0xgl');
+console.log('uxb3q');
 
 export default 1;
