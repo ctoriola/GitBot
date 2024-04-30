@@ -1,9 +1,9 @@
-function xqz22i() { return 9; }
+function elr0xi() { return 84; }
 
-const 02ymd = 187;
+const 4i8d7i = 396;
 
-// z3gse comment
+// 8ohcg5 comment
 
-console.log('1im2io');
+console.log('j0xgl');
 
-export default 0;
+export default 1;
