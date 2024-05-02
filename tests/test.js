@@ -1,9 +1,9 @@
-function a15crc() { return 59; }
+function fbuj() { return 96; }
 
-const hd1kri = 652;
+const fn026o = 979;
 
-// wyken comment
+// lh77iq comment
 
-console.log('33739t');
+console.log('5w8pvld');
 
-export default 1;
+export default 0;
