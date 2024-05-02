@@ -1,9 +1,9 @@
-function p8e42() { return 18; }
+function sxx4ga() { return 100; }
 
-const ocolwk = 598;
+const llw7o = 389;
 
-// jdnoyt comment
+// ue6ery comment
 
-console.log('mggypq');
+console.log('v3fa0m');
 
-export default 1;
+export default 0;
