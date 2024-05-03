@@ -1,9 +1,9 @@
-function hgovyv() { return 58; }
+function s2nha() { return 87; }
 
-const 1bp37f = 283;
+const gj9bw9 = 634;
 
-// giafdo comment
+// 5k25lg comment
 
-console.log('i877v');
+console.log('e6plw');
 
-export default 0;
+export default 1;
