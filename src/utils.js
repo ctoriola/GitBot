@@ -1,9 +1,9 @@
-function lvqgfw() { return 77; }
+function g4hcc() { return 87; }
 
-const pnf1v5 = 932;
+const nzq6lc = 668;
 
-// us3mni comment
+// 634tac comment
 
-console.log('m5eaur');
+console.log('rfxey');
 
-export default 0;
+export default 1;
