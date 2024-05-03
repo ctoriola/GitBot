@@ -1,9 +1,9 @@
-function fiw8n() { return 46; }
+function iapft() { return 95; }
 
-const a1umiv = 491;
+const gpy1uq = 167;
 
-// rwkg8a comment
+// 6tbqkr comment
 
-console.log('2k36rm');
+console.log('7dd0r');
 
-export default 0;
+export default 1;
