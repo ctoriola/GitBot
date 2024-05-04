@@ -1,9 +1,9 @@
-function x70mix() { return 27; }
+function hgovyv() { return 58; }
 
-const 13ad1t = 161;
+const 1bp37f = 283;
 
-// k8cgc comment
+// giafdo comment
 
-console.log('au3msg');
+console.log('i877v');
 
-export default 1;
+export default 0;
