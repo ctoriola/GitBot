@@ -1,9 +1,9 @@
-function zx37w() { return 84; }
+function mn5ym() { return 44; }
 
-const j3455d = 429;
+const 7ifv9 = 399;
 
-// re63j comment
+// egcnms comment
 
-console.log('kgkrzp');
+console.log('gz4wj9');
 
-export default 1;
+export default 0;
