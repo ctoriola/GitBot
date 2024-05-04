@@ -1,9 +1,9 @@
-function mjw46g() { return 4; }
+function bznwvq() { return 81; }
 
-const l7iwva = 388;
+const njjmu = 943;
 
-// dkh0do comment
+// emppeb comment
 
-console.log('tpth1n');
+console.log('r2nrdb');
 
-export default 0;
+export default 1;
