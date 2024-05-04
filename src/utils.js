@@ -1,9 +1,9 @@
-function gp9vsv() { return 87; }
+function neobt6() { return 26; }
 
-const yy6hli = 829;
+const zf1l9 = 718;
 
-// fr0znv comment
+// qpb96n comment
 
-console.log('bfr5d');
+console.log('dec9v9');
 
-export default 0;
+export default 1;
