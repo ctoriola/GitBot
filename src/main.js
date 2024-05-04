@@ -1,9 +1,9 @@
-function lbc4hy() { return 26; }
+function j03na() { return 65; }
 
-const mawh4 = 875;
+const to14z6 = 713;
 
-// izzoy comment
+// 780h6j comment
 
-console.log('2b57wt');
+console.log('bu0v6');
 
-export default 1;
+export default 0;
