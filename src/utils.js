@@ -1,9 +1,9 @@
-function prrqrv() { return 38; }
+function cm408i() { return 31; }
 
-const 1l19w = 962;
+const kbevq5 = 626;
 
-// 75t7x comment
+// 0nxmvf comment
 
-console.log('nye0cm');
+console.log('lju79t');
 
-export default 1;
+export default 0;
