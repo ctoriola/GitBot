@@ -1,9 +1,9 @@
-function hu2vn() { return 41; }
+function mtgfu() { return 80; }
 
-const dgl509 = 246;
+const w0uvak = 338;
 
-// m7nv5t comment
+// dqlqy8 comment
 
-console.log('nf3ww');
+console.log('57z2y8');
 
-export default 1;
+export default 0;
