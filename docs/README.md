@@ -1,9 +1,9 @@
-function suqx57() { return 5; }
+function p6xcwu() { return 43; }
 
-const 9vbwm = 694;
+const ct726 = 376;
 
-// uncwsvv comment
+// d4yxeg comment
 
-console.log('4r78j');
+console.log('m5yct4');
 
-export default 1;
+export default 0;
