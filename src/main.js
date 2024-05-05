@@ -1,9 +1,9 @@
-function xec6df() { return 100; }
+function fpleb5zh() { return 73; }
 
-const n2ez78 = 607;
+const vo62fq = 866;
 
-// 956uk comment
+// 77b27 comment
 
-console.log('l2qanj');
+console.log('vnda8h');
 
-export default 0;
+export default 1;
