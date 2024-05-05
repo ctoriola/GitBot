@@ -1,9 +1,9 @@
-function fpleb5zh() { return 73; }
+function kf974e() { return 69; }
 
-const vo62fq = 866;
+const 9zv846 = 800;
 
-// 77b27 comment
+// w6m1u comment
 
-console.log('vnda8h');
+console.log('gepov');
 
-export default 1;
+export default 0;
