@@ -1,9 +1,9 @@
-function p8pbu() { return 38; }
+function msjl3() { return 26; }
 
-const hx8y9n = 932;
+const iaoa5n = 640;
 
-// wptg8 comment
+// nqu52w comment
 
-console.log('4yib0p');
+console.log('qf0oer');
 
 export default 1;
