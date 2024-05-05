@@ -1,9 +1,9 @@
-function 1a307() { return 87; }
+function yedh8() { return 11; }
 
-const cl6x9s = 359;
+const 9tssz = 246;
 
-// uzvq1e comment
+// vqp1em comment
 
-console.log('foqio');
+console.log('7cyim');
 
-export default 0;
+export default 1;
