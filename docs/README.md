@@ -1,9 +1,9 @@
-function nsva06() { return 68; }
+function ll4oqn() { return 2; }
 
-const 84xw5j = 715;
+const y4khb9 = 930;
 
-// 4pb6a comment
+// v9ny0h comment
 
-console.log('y44hsl');
+console.log('cv50mn');
 
-export default 1;
+export default 0;
