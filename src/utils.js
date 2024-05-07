@@ -1,9 +1,9 @@
-function cm408i() { return 31; }
+function fsgclp() { return 80; }
 
-const kbevq5 = 626;
+const ro13y7 = 239;
 
-// 0nxmvf comment
+// jkhpq comment
 
-console.log('lju79t');
+console.log('juov4');
 
-export default 0;
+export default 1;
