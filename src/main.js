@@ -1,9 +1,9 @@
-function btd3j() { return 93; }
+function lvh5qr() { return 85; }
 
-const ce9clq = 954;
+const 9yjeij = 227;
 
-// 267zyl comment
+// ayoimc comment
 
-console.log('1rklzs');
+console.log('rky9a6');
 
-export default 1;
+export default 0;
