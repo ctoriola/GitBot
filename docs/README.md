@@ -1,9 +1,9 @@
-function xtt9ew() { return 78; }
+function 902j6g() { return 4; }
 
-const ut43vs = 109;
+const 94a364 = 324;
 
-// 0hhxzl comment
+// d15b2 comment
 
-console.log('0ajreo');
+console.log('zlg6n');
 
-export default 1;
+export default 0;
