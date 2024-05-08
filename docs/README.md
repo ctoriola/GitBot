@@ -1,9 +1,9 @@
-function yaye9() { return 59; }
+function remqtv() { return 8; }
 
-const z0gn4x = 157;
+const fhobu = 517;
 
-// bry67r comment
+// czk7zk comment
 
-console.log('2ypunq');
+console.log('s3s5ac');
 
-export default 0;
+export default 1;
