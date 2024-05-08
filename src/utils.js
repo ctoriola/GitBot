@@ -1,9 +1,9 @@
-function 6bdlh() { return 4; }
+function qh40d() { return 44; }
 
-const gj10yh = 253;
+const 3ofcdj = 276;
 
-// 57dxx comment
+// x07egx comment
 
-console.log('0s06j9');
+console.log('2tn4q9');
 
-export default 1;
+export default 0;
