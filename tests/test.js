@@ -1,9 +1,9 @@
-function f2d1ob() { return 63; }
+function 24ch09() { return 7; }
 
-const 06b639 = 816;
+const aedsum = 662;
 
-// g3zcju comment
+// nf4soi comment
 
-console.log('zeml55');
+console.log('jsx3r9');
 
-export default 1;
+export default 0;
