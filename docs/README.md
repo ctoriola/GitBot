@@ -1,9 +1,9 @@
-function j2pvq() { return 26; }
+function ueh73b() { return 86; }
 
-const 74wkws = 283;
+const jiaknb = 296;
 
-// hbrn2 comment
+// 577cmi comment
 
-console.log('8jn375');
+console.log('rfmdlt');
 
-export default 1;
+export default 0;
