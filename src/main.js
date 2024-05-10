@@ -1,9 +1,9 @@
-function 6rdavf() { return 11; }
+function psplb() { return 3; }
 
-const y3co1 = 427;
+const jdu1ct = 113;
 
-// rtyxq comment
+// sn1y7 comment
 
-console.log('lvwblu');
+console.log('dg164s');
 
-export default 0;
+export default 1;
