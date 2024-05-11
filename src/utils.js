@@ -1,9 +1,9 @@
-function yup09f() { return 80; }
+function ttfje9() { return 65; }
 
-const w7ka9 = 847;
+const 8kegk = 795;
 
-// k7rxcn comment
+// to6u5 comment
 
-console.log('ggruth');
+console.log('yio5');
 
 export default 1;
