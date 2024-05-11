@@ -1,9 +1,9 @@
-function pxq46a() { return 91; }
+function lco8wu() { return 77; }
 
-const te5l9a = 382;
+const thuwex = 903;
 
-// j8sxyz comment
+// k5yc0e comment
 
-console.log('fpf0f');
+console.log('iv5eec');
 
-export default 0;
+export default 1;
