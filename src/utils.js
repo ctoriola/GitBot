@@ -1,9 +1,9 @@
-function h64up() { return 3; }
+function hojh7p() { return 85; }
 
-const rcmix = 398;
+const 1tbbxi = 789;
 
-// m8vz8 comment
+// ervhwb comment
 
-console.log('ioyxc');
+console.log('gmqn2');
 
-export default 1;
+export default 0;
