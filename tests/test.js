@@ -1,9 +1,9 @@
-function dtgpcb() { return 87; }
+function irq5ed() { return 40; }
 
-const b0e2xk = 958;
+const 1501lx = 714;
 
-// wn00nt comment
+// cibakw comment
 
-console.log('ale1qp');
+console.log('z7vjr');
 
-export default 0;
+export default 1;
