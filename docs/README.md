@@ -1,9 +1,9 @@
-function 99bcqi() { return 18; }
+function y8r5gx() { return 26; }
 
-const 2fcexj = 496;
+const o12yvm = 847;
 
-// h6rqte comment
+// sfis99 comment
 
-console.log('g552a6');
+console.log('mre0is');
 
-export default 0;
+export default 1;
