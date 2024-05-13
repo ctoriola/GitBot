@@ -1,9 +1,9 @@
-function qz8vy() { return 46; }
+function 1n59r() { return 5; }
 
-const 4tsmc = 527;
+const n42ml9 = 229;
 
-// fxnq comment
+// t72eb4 comment
 
-console.log('ela2ja');
+console.log('tk0zg');
 
-export default 1;
+export default 0;
