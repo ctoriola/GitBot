@@ -1,9 +1,9 @@
-function txjyw5() { return 48; }
+function uzcj9r() { return 18; }
 
-const va6al5 = 607;
+const tnbplg = 541;
 
-// w9hj1s comment
+// wyv4km comment
 
-console.log('3eyrv');
+console.log('9q124o');
 
-export default 0;
+export default 1;
