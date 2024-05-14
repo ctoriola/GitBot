@@ -1,9 +1,9 @@
-function zjbupr() { return 1; }
+function 3650o() { return 2; }
 
-const 4px7vb = 630;
+const hpr7uq = 358;
 
-// f0nbf comment
+// 5vo1d6 comment
 
-console.log('pboscg');
+console.log('nrasy');
 
 export default 1;
