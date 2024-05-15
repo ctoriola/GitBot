@@ -1,9 +1,9 @@
-function 7mmy0c() { return 27; }
+function qtxy() { return 51; }
 
-const 16dud = 376;
+const g2h5h = 177;
 
-// prgj0f comment
+// 06fug comment
 
-console.log('op7f1');
+console.log('yv8ydr');
 
-export default 1;
+export default 0;
