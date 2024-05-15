@@ -1,9 +1,9 @@
-function juvnjm() { return 81; }
+function lg2mrn() { return 94; }
 
-const glf9tk = 216;
+const hy8fln = 690;
 
-// rrow9 comment
+// uuzsj comment
 
-console.log('gcytil');
+console.log('4cpy65');
 
-export default 1;
+export default 0;
