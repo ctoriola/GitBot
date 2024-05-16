@@ -1,9 +1,9 @@
-function 6cg58j() { return 41; }
+function 0ag8am() { return 32; }
 
-const pqksbi = 430;
+const sayswc = 928;
 
-// zjkase comment
+// jd094t comment
 
-console.log('o1er7b');
+console.log('sh2oq');
 
-export default 0;
+export default 1;
