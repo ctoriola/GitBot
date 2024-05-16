@@ -1,9 +1,9 @@
-function dp8051g() { return 18; }
+function wh68n() { return 6; }
 
-const c1i0bj = 948;
+const 20qd3 = 938;
 
-// irdej comment
+// 007rs comment
 
-console.log('7fg69n');
+console.log('n2qaoh');
 
-export default 0;
+export default 1;
