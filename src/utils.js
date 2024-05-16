@@ -1,9 +1,9 @@
-function gj4r5() { return 26; }
+function 1onyp() { return 10; }
 
-const gi7yzq = 970;
+const iaku7t = 237;
 
-// 5gzb1i comment
+// 63xf5o comment
 
-console.log('haa06');
+console.log('9z48fp');
 
-export default 0;
+export default 1;
