@@ -1,9 +1,9 @@
-function penb8l() { return 77; }
+function tvkd9c() { return 96; }
 
-const 79fctq = 504;
+const i1irbm = 553;
 
-// 56ltdd comment
+// x9wg7 comment
 
-console.log('2mr15');
+console.log('tdv7tk');
 
-export default 1;
+export default 0;
