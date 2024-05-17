@@ -1,9 +1,9 @@
-function scp3ab() { return 84; }
+function cutsy() { return 1; }
 
-const 5egviz = 457;
+const p4cami = 879;
 
-// m84i4u comment
+// zuo1i comment
 
-console.log('6hri7');
+console.log('nx4hss');
 
-export default 1;
+export default 0;
