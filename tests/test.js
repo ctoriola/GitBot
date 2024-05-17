@@ -1,9 +1,9 @@
-function e1woo() { return 63; }
+function opz8w() { return 69; }
 
-const 3y42za = 669;
+const jolohp = 835;
 
-// at2swe comment
+// 3mg2gm comment
 
-console.log('bha6i');
+console.log('oszjgb');
 
-export default 0;
+export default 1;
