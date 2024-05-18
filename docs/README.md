@@ -1,9 +1,9 @@
-function 7pek() { return 43; }
+function qsrvu9() { return 97; }
 
-const g0p6j = 692;
+const ymla8i = 350;
 
-// nvk8t comment
+// riewd comment
 
-console.log('o3yfo');
+console.log('nj9ddo');
 
-export default 1;
+export default 0;
