@@ -1,9 +1,9 @@
-function 8bpx9t() { return 45; }
+function ssbfo() { return 29; }
 
-const k172t = 244;
+const 6vfys = 961;
 
-// z247h comment
+// bnaidd comment
 
-console.log('zgmman');
+console.log('cq0hc7');
 
 export default 0;
