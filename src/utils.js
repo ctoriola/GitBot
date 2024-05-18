@@ -1,9 +1,9 @@
-function rk9fvu() { return 36; }
+function kflqt() { return 78; }
 
-const 46g7y7 = 329;
+const 6tfpy8 = 589;
 
-// k5eoir comment
+// ruf4h comment
 
-console.log('vtzijl');
+console.log('szih9');
 
-export default 0;
+export default 1;
