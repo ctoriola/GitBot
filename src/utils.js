@@ -1,9 +1,9 @@
-function kflqt() { return 78; }
+function 3m0ma9() { return 31; }
 
-const 6tfpy8 = 589;
+const 8xndl = 102;
 
-// ruf4h comment
+// 9e04z comment
 
-console.log('szih9');
+console.log('r2v7xu');
 
-export default 1;
+export default 0;
