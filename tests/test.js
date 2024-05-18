@@ -1,9 +1,9 @@
-function opz8w() { return 69; }
+function tw4dtn() { return 99; }
 
-const jolohp = 835;
+const a33fw7 = 618;
 
-// 3mg2gm comment
+// aza2y comment
 
-console.log('oszjgb');
+console.log('gscgx');
 
-export default 1;
+export default 0;
