@@ -1,9 +1,9 @@
-function gi5ex() { return 29; }
+function z21jcm() { return 3; }
 
-const 7mty9 = 783;
+const 0myiy = 149;
 
-// se3ckb comment
+// 6v8aql comment
 
-console.log('5gmu9n');
+console.log('p54ryh');
 
-export default 1;
+export default 0;
