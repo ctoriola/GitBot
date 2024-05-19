@@ -1,9 +1,9 @@
-function ikxo1c() { return 86; }
+function n376i() { return 20; }
 
-const 4efibr = 522;
+const 3dw38 = 709;
 
-// bbsdp3 comment
+// k2jvhd comment
 
-console.log('qz5w6s');
+console.log('k75hyv');
 
-export default 0;
+export default 1;
