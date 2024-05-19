@@ -1,9 +1,9 @@
-function cqbbee() { return 87; }
+function gpkq9() { return 33; }
 
-const j8s5q = 493;
+const lk5ddr = 581;
 
-// p7tgdp comment
+// e4v3ya comment
 
-console.log('cl37n');
+console.log('wbqzvp');
 
-export default 0;
+export default 1;
