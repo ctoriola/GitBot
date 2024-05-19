@@ -1,9 +1,9 @@
-function lql0vn() { return 45; }
+function e0ibbl() { return 1; }
 
-const fgvh2tf = 958;
+const 3gh3wf = 655;
 
-// 77na4 comment
+// gedslb comment
 
-console.log('59bvkg');
+console.log('w4nmsax');
 
 export default 0;
