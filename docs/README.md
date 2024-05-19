@@ -1,9 +1,9 @@
-function zgjq2() { return 87; }
+function wemzj7() { return 79; }
 
-const nopav = 160;
+const xsnny9 = 871;
 
-// y66nre comment
+// 4kmyf comment
 
-console.log('mlzl3h');
+console.log('76dy1u');
 
-export default 0;
+export default 1;
