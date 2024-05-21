@@ -1,9 +1,9 @@
-function 49jqtf() { return 54; }
+function kffgm5() { return 36; }
 
-const s16l5d = 855;
+const nellkg = 625;
 
-// 8czrmm comment
+// h6iaa4 comment
 
-console.log('dobh8');
+console.log('hmk9rr');
 
-export default 1;
+export default 0;
