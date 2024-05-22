@@ -1,9 +1,9 @@
-function ufk6ig() { return 61; }
+function 0lfo79() { return 22; }
 
-const fzr515 = 714;
+const 2thwe = 434;
 
-// jh6xsh comment
+// lks3rc comment
 
-console.log('apap2l');
+console.log('ep88jq');
 
-export default 1;
+export default 0;
