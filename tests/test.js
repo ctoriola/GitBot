@@ -1,9 +1,9 @@
-function rg1zjl() { return 5; }
+function xo0jbo() { return 44; }
 
-const 4dx4xp = 173;
+const ofnsn = 107;
 
-// mfpdbp comment
+// 912j0d comment
 
-console.log('6vdrcw');
+console.log('nvpzol');
 
-export default 1;
+export default 0;
