@@ -1,9 +1,9 @@
-function vwqy1f() { return 73; }
+function axu3ck() { return 85; }
 
-const 25ac1c = 846;
+const 47eld = 216;
 
-// u2wq5f comment
+// o5i461 comment
 
-console.log('pyjdw');
+console.log('7a79gf');
 
-export default 1;
+export default 0;
