@@ -1,9 +1,9 @@
-function ged7el() { return 25; }
+function qtmf2d() { return 54; }
 
-const xsygsp = 571;
+const boi1zt = 597;
 
-// 1vo31c comment
+// xffbm comment
 
-console.log('6rgcgb');
+console.log('oozg2c');
 
-export default 1;
+export default 0;
