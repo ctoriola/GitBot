@@ -1,9 +1,9 @@
-function bibk1() { return 81; }
+function quh1a4() { return 80; }
 
-const 1sgctv = 677;
+const ecia4nh = 743;
 
-// qhyl0h comment
+// boocu comment
 
-console.log('l3ju9f');
+console.log('3mzcfb');
 
-export default 1;
+export default 0;
