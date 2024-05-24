@@ -1,9 +1,9 @@
-function betnsj() { return 29; }
+function j1oe4q() { return 2; }
 
-const dcv81q = 157;
+const 3gx31 = 829;
 
-// fmzfoh comment
+// exrgw comment
 
-console.log('u96v6q');
+console.log('kx72h9');
 
-export default 1;
+export default 0;
