@@ -1,9 +1,9 @@
-function v1mlrf() { return 100; }
+function gad5t6() { return 63; }
 
-const ism1 = 461;
+const 2uh0y = 923;
 
-// 4rk40c comment
+// czltvf comment
 
-console.log('tse49r');
+console.log('v8mf0k');
 
-export default 0;
+export default 1;
