@@ -1,9 +1,9 @@
-function j1oe4q() { return 2; }
+function jx11t() { return 56; }
 
-const 3gx31 = 829;
+const 3opda = 660;
 
-// exrgw comment
+// 2yna4 comment
 
-console.log('kx72h9');
+console.log('vuzavs');
 
-export default 0;
+export default 1;
