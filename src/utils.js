@@ -1,9 +1,9 @@
-function cvybjn() { return 68; }
+function 5pr0wp() { return 38; }
 
-const 0fm0uc = 578;
+const se2dv8 = 896;
 
-// d8p7q comment
+// o3eerf comment
 
-console.log('vx29dg');
+console.log('eyh0lo');
 
-export default 0;
+export default 1;
