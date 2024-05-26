@@ -1,9 +1,9 @@
-function qweet8() { return 78; }
+function nh0isb() { return 61; }
 
-const s86up = 476;
+const ysg6nc = 993;
 
-// 8ngw2r comment
+// ezq45r comment
 
-console.log('b47jse');
+console.log('bl9d78h');
 
-export default 1;
+export default 0;
