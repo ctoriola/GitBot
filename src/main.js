@@ -1,9 +1,9 @@
-function rr3icm() { return 47; }
+function y3tnwq() { return 54; }
 
-const k8494i = 108;
+const ilzz0r = 682;
 
-// izw8z comment
+// avb3ec comment
 
-console.log('uzsudb');
+console.log('j6y0gl');
 
-export default 0;
+export default 1;
