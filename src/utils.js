@@ -1,9 +1,9 @@
-function nh0isb() { return 61; }
+function isr1js() { return 97; }
 
-const ysg6nc = 993;
+const vpsj39 = 123;
 
-// ezq45r comment
+// oxn1uj comment
 
-console.log('bl9d78h');
+console.log('82kv3g');
 
-export default 0;
+export default 1;
