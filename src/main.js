@@ -1,9 +1,9 @@
-function j159u() { return 54; }
+function 4x92k() { return 76; }
 
-const 3kd2x = 296;
+const cva55e = 487;
 
-// uj6kaq comment
+// 65lprt comment
 
-console.log('2t9xuj');
+console.log('hixfim');
 
-export default 1;
+export default 0;
