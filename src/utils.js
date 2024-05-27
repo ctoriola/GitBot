@@ -1,9 +1,9 @@
-function 27y2r() { return 91; }
+function 7of2rk() { return 36; }
 
-const bbbi4n = 158;
+const codu1s = 941;
 
-// updcms comment
+// v4g3jh comment
 
-console.log('mijq3');
+console.log('sz269h');
 
-export default 1;
+export default 0;
