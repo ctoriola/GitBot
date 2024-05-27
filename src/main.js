@@ -1,9 +1,9 @@
-function djirr() { return 86; }
+function dro4ks() { return 70; }
 
-const wd74jm = 742;
+const 9dxmmb = 647;
 
-// mrg37q comment
+// x9b0wu comment
 
-console.log('jlm2c');
+console.log('zcby4j');
 
-export default 1;
+export default 0;
