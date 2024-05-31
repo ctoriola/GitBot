@@ -1,9 +1,9 @@
-function o9dkql() { return 73; }
+function 1of4lk() { return 37; }
 
-const p8oiv = 877;
+const aap11i = 179;
 
-// qegmo7 comment
+// co6lmf comment
 
-console.log('nbz39');
+console.log('fcsk6j');
 
-export default 0;
+export default 1;
