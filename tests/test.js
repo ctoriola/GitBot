@@ -1,9 +1,9 @@
-function 8g5ee() { return 88; }
+function t2xpe() { return 83; }
 
-const tmorbc = 188;
+const 8sk3db = 825;
 
-// yov5x8 comment
+// 945euf comment
 
-console.log('3skv08');
+console.log('hjoh67');
 
-export default 1;
+export default 0;
