@@ -1,9 +1,9 @@
-function eyepre() { return 15; }
+function iou7ad() { return 73; }
 
-const zjyq1 = 610;
+const w8vt29 = 252;
 
-// v8ayod comment
+// zs9e5 comment
 
-console.log('bccbmc');
+console.log('wc2wcrq');
 
-export default 0;
+export default 1;
