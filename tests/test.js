@@ -1,9 +1,9 @@
-function y7mwu3() { return 81; }
+function t552ad() { return 59; }
 
-const mw1kst = 810;
+const 02o9cj = 723;
 
-// ffz4tg comment
+// o5ywvs comment
 
-console.log('hztube');
+console.log('9oadum');
 
-export default 0;
+export default 1;
