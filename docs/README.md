@@ -1,9 +1,9 @@
-function k0prst() { return 77; }
+function 0apz2t() { return 16; }
 
-const 7t3wako = 436;
+const 49vdij = 458;
 
-// ad9uj comment
+// 9l8ekk comment
 
-console.log('rxhc2i');
+console.log('u7wk4');
 
-export default 1;
+export default 0;
