@@ -1,9 +1,9 @@
-function 0us4ls() { return 75; }
+function 1w9tym() { return 4; }
 
-const uapl9m = 996;
+const d4qhpl = 382;
 
-// moi0xc comment
+// mwx8lq comment
 
-console.log('oq6gh6');
+console.log('vs0np');
 
-export default 0;
+export default 1;
