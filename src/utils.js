@@ -1,9 +1,9 @@
-function b1nmsc() { return 10; }
+function esf72p() { return 14; }
 
-const nd54jq = 733;
+const m3gy6f = 350;
 
-// v6fsw comment
+// 2iouc comment
 
-console.log('0c9me');
+console.log('9u259v');
 
-export default 0;
+export default 1;
