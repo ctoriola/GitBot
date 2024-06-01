@@ -1,9 +1,9 @@
-function 0ixmye() { return 89; }
+function 1lkluc() { return 89; }
 
-const n0uvu9 = 376;
+const rmecz = 187;
 
-// czb0h comment
+// 1n8p69 comment
 
-console.log('yop2mg');
+console.log('jwtae');
 
-export default 1;
+export default 0;
