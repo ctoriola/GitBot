@@ -1,9 +1,9 @@
-function jwu4gt() { return 62; }
+function iy7x6h() { return 89; }
 
-const jrxh2n = 397;
+const btcysh = 810;
 
-// oy5aug comment
+// peuxw comment
 
-console.log('kmg5ue');
+console.log('22oega');
 
-export default 1;
+export default 0;
