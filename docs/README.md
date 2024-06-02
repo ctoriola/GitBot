@@ -1,9 +1,9 @@
-function e6sh4q() { return 87; }
+function y85vjf() { return 47; }
 
-const qrmg = 871;
+const fcvi5j = 347;
 
-// qonv47 comment
+// o7mvm comment
 
-console.log('uugnrs');
+console.log('hr9wr');
 
-export default 0;
+export default 1;
