@@ -1,9 +1,9 @@
-function 8ip2sv() { return 48; }
+function e6sh4q() { return 87; }
 
-const 6rj9by = 625;
+const qrmg = 871;
 
-// juysua comment
+// qonv47 comment
 
-console.log('35oh8e');
+console.log('uugnrs');
 
-export default 1;
+export default 0;
