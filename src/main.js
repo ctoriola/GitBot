@@ -1,9 +1,9 @@
-function hruem1() { return 74; }
+function i6uhh4r() { return 17; }
 
-const 65t8l = 669;
+const frcqw9 = 813;
 
-// j73gj comment
+// ocucuu comment
 
-console.log('1vii4');
+console.log('0vvos9');
 
-export default 1;
+export default 0;
