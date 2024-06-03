@@ -1,9 +1,9 @@
-function nu2428() { return 4; }
+function n5ydh() { return 1; }
 
-const gctb6p = 421;
+const aemzt = 839;
 
-// wlq5d comment
+// sbtsmg comment
 
-console.log('4wlaeg');
+console.log('1lx8h');
 
 export default 0;
