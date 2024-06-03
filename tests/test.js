@@ -1,9 +1,9 @@
-function nz618d() { return 68; }
+function r308w6n() { return 51; }
 
-const cn4j07 = 522;
+const 5qt7a = 391;
 
-// yt94bl comment
+// vldy7d comment
 
-console.log('ll8c7l');
+console.log('30nkeg');
 
-export default 1;
+export default 0;
