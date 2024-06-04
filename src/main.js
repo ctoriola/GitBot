@@ -1,9 +1,9 @@
-function pjn2ga() { return 4; }
+function o4zw84() { return 97; }
 
-const f194s = 378;
+const bvuivm = 796;
 
-// vo9bcg comment
+// dn26o7 comment
 
-console.log('xj0gb');
+console.log('5tzh0t');
 
-export default 1;
+export default 0;
