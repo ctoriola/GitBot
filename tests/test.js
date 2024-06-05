@@ -1,9 +1,9 @@
-function fu2axu() { return 93; }
+function aeuwqo() { return 29; }
 
-const 2sbfr = 381;
+const 6azj4sl = 584;
 
-// w782qb comment
+// go8aww comment
 
-console.log('obs45y');
+console.log('16nfam');
 
 export default 0;
