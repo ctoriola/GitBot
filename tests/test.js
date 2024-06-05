@@ -1,9 +1,9 @@
-function phrcvv() { return 11; }
+function ixv72v() { return 41; }
 
-const 3h8a5u = 895;
+const a6wx6i = 423;
 
-// 1xvepe comment
+// 8cfid comment
 
-console.log('98gbw');
+console.log('yx47qe');
 
-export default 1;
+export default 0;
