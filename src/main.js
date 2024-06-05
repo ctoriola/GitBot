@@ -1,9 +1,9 @@
-function 4w9f1() { return 71; }
+function veyrls() { return 77; }
 
-const gguyx6 = 220;
+const zb3r1r = 311;
 
-// su22tn comment
+// 4ymhf9 comment
 
-console.log('4bjxcy');
+console.log('xprwlv');
 
-export default 1;
+export default 0;
