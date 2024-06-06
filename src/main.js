@@ -1,9 +1,9 @@
-function ty2396() { return 68; }
+function h1f4se() { return 33; }
 
-const d0ou3 = 914;
+const 40m85 = 761;
 
-// lhsmv9 comment
+// mhnzs1h comment
 
-console.log('gpv1');
+console.log('4vqtxp');
 
-export default 1;
+export default 0;
