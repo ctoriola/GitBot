@@ -1,9 +1,9 @@
-function 931jje() { return 46; }
+function qir959() { return 80; }
 
-const t3pdkm = 655;
+const xronf8 = 467;
 
-// 6z24mi comment
+// 15d9i comment
 
-console.log('4fmt8');
+console.log('yqwtq4');
 
-export default 1;
+export default 0;
