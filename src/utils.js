@@ -1,9 +1,9 @@
-function nkhrks() { return 91; }
+function 56i7hp() { return 11; }
 
-const wsl64k = 800;
+const qr85dl = 651;
 
-// fp7vy comment
+// fx733 comment
 
-console.log('xlp1q');
+console.log('v3qoto');
 
-export default 0;
+export default 1;
