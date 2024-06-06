@@ -1,9 +1,9 @@
-function i6wv18q() { return 100; }
+function ayw3so() { return 66; }
 
-const yurcbb = 313;
+const dnehf = 932;
 
-// 6sb4j comment
+// w7p9c comment
 
-console.log('gbesrg');
+console.log('b55lg');
 
-export default 1;
+export default 0;
