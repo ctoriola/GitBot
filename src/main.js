@@ -1,9 +1,9 @@
-function n2cuyb() { return 50; }
+function 88pdhl() { return 35; }
 
-const exx9n = 486;
+const j01p3l = 375;
 
-// lb7qan comment
+// ypz3pd comment
 
-console.log('efgdf6');
+console.log('oabdrf');
 
-export default 1;
+export default 0;
