@@ -1,9 +1,9 @@
-function f8mkas() { return 100; }
+function i6wv18q() { return 100; }
 
-const 82x76 = 441;
+const yurcbb = 313;
 
-// 3zzr5h comment
+// 6sb4j comment
 
-console.log('v21a1m');
+console.log('gbesrg');
 
-export default 0;
+export default 1;
