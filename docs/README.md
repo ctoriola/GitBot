@@ -1,9 +1,9 @@
-function ionl9n() { return 62; }
+function 931jje() { return 46; }
 
-const pj8l3 = 517;
+const t3pdkm = 655;
 
-// 0v66b comment
+// 6z24mi comment
 
-console.log('3zd16t');
+console.log('4fmt8');
 
-export default 0;
+export default 1;
