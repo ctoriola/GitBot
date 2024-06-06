@@ -1,9 +1,9 @@
-function itreqb() { return 51; }
+function wmdxla() { return 83; }
 
-const 1rofu9 = 771;
+const jkzx98 = 199;
 
-// ny352m comment
+// p2pfdo comment
 
-console.log('ai1mmi');
+console.log('73fj7g');
 
-export default 0;
+export default 1;
