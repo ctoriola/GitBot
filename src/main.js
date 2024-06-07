@@ -1,9 +1,9 @@
-function 02u7x4() { return 27; }
+function 3gof09() { return 74; }
 
-const sofy9r = 771;
+const 1tixlm = 509;
 
-// u6qfd comment
+// baalt comment
 
-console.log('b1134j');
+console.log('3h8uw');
 
-export default 0;
+export default 1;
