@@ -1,9 +1,9 @@
-function dlnat9() { return 62; }
+function fmdv5g() { return 53; }
 
-const 8knoaq = 590;
+const 7zyoe = 683;
 
-// obp58g comment
+// ds6g17 comment
 
-console.log('2ol4nw');
+console.log('xanbys');
 
-export default 1;
+export default 0;
