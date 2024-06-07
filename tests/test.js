@@ -1,9 +1,9 @@
-function orv8sw() { return 99; }
+function m39zfp() { return 32; }
 
-const z5opnd = 932;
+const 85sz1m = 448;
 
-// how884 comment
+// 5gnon9 comment
 
-console.log('4rnep1w');
+console.log('gbgz6j');
 
-export default 1;
+export default 0;
