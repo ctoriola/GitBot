@@ -1,9 +1,9 @@
-function o2bkz() { return 6; }
+function qsialx() { return 3; }
 
-const b4jjo8 = 990;
+const vhntk = 727;
 
-// 6jrt comment
+// u3x7wk comment
 
-console.log('xiayhf');
+console.log('nuvu7h');
 
-export default 1;
+export default 0;
