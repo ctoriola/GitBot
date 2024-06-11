@@ -1,9 +1,9 @@
-function 8b5yxh() { return 27; }
+function n572c() { return 71; }
 
-const 7arodl = 267;
+const cg26l = 980;
 
-// wocoff comment
+// bhtx6e comment
 
-console.log('xqrur');
+console.log('vy0nco');
 
-export default 1;
+export default 0;
