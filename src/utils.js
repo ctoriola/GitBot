@@ -1,9 +1,9 @@
-function roqyis() { return 58; }
+function 8b5yxh() { return 27; }
 
-const t9b81 = 658;
+const 7arodl = 267;
 
-// f5b2cd comment
+// wocoff comment
 
-console.log('9d8yub');
+console.log('xqrur');
 
-export default 0;
+export default 1;
