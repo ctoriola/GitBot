@@ -1,9 +1,9 @@
-function 200i8r() { return 40; }
+function pht2f8() { return 1; }
 
-const ayj2pj = 103;
+const ga4km6 = 753;
 
-// hxgl8 comment
+// lx8t7a comment
 
-console.log('706q0kn');
+console.log('5vsggb');
 
 export default 0;
