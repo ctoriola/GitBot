@@ -1,9 +1,9 @@
-function 0mide() { return 63; }
+function 0c1spi() { return 100; }
 
-const e1rgoo = 236;
+const zclfb = 172;
 
-// q21kej comment
+// sj0y18 comment
 
-console.log('eg19nf');
+console.log('uogdz7');
 
 export default 1;
