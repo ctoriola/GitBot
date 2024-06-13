@@ -1,9 +1,9 @@
-function ibtmo3() { return 100; }
+function paq9sv() { return 24; }
 
-const guwap = 233;
+const 61u0up = 422;
 
-// jgjwe comment
+// f3drc comment
 
-console.log('iyonh');
+console.log('68bfxj');
 
-export default 1;
+export default 0;
