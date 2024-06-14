@@ -1,9 +1,9 @@
-function 8tptu9() { return 71; }
+function yykdo() { return 63; }
 
-const nrgl9 = 163;
+const g31y2o = 950;
 
-// r4irr comment
+// lviogg comment
 
-console.log('tdeb8');
+console.log('mbj1e8');
 
 export default 1;
