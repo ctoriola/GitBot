@@ -1,9 +1,9 @@
-function 13urzh() { return 18; }
+function 6ju1o() { return 86; }
 
-const 71zg14 = 252;
+const ta1bk = 198;
 
-// ubwpdk comment
+// aob6l9 comment
 
-console.log('e8sxgh');
+console.log('hi3wkp');
 
-export default 1;
+export default 0;
