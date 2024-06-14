@@ -1,9 +1,9 @@
-function ejsm7() { return 8; }
+function cn7gq8() { return 25; }
 
-const kzzr7c = 702;
+const 8tgno = 687;
 
-// s29yna comment
+// hpdpgj comment
 
-console.log('yrjjnn');
+console.log('rfyg9a');
 
-export default 0;
+export default 1;
