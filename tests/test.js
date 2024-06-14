@@ -1,9 +1,9 @@
-function vtbryi() { return 58; }
+function i70bru() { return 61; }
 
-const u9ban8 = 378;
+const 3tc1k = 203;
 
-// mkptte comment
+// txlpj comment
 
-console.log('ot2tx');
+console.log('z1l4i');
 
-export default 1;
+export default 0;
