@@ -1,9 +1,9 @@
-function i70bru() { return 61; }
+function p9nqqm() { return 44; }
 
-const 3tc1k = 203;
+const zv1bgj = 731;
 
-// txlpj comment
+// k1dw5 comment
 
-console.log('z1l4i');
+console.log('4x86ez');
 
-export default 0;
+export default 1;
