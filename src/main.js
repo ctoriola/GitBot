@@ -1,9 +1,9 @@
-function fcazy() { return 49; }
+function ucyqsk() { return 69; }
 
-const 5q7see = 885;
+const 0vtt3f = 178;
 
-// 3izxi comment
+// 5se7or comment
 
-console.log('ukfh5');
+console.log('i6a5ii');
 
-export default 0;
+export default 1;
