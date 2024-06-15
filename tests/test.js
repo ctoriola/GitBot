@@ -1,9 +1,9 @@
-function cj1ey() { return 95; }
+function csuo0k() { return 11; }
 
-const ogrmkp = 620;
+const zvue4n = 357;
 
-// iwktct comment
+// 0ry7br comment
 
-console.log('b8ihko');
+console.log('0a53c');
 
 export default 0;
