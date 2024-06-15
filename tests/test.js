@@ -1,9 +1,9 @@
-function p9nqqm() { return 44; }
+function dh32eq() { return 29; }
 
-const zv1bgj = 731;
+const uefxem = 341;
 
-// k1dw5 comment
+// gkfqkp comment
 
-console.log('4x86ez');
+console.log('0nz388');
 
-export default 1;
+export default 0;
