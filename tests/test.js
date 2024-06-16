@@ -1,9 +1,9 @@
-function 4wp67p() { return 52; }
+function hf2bsc() { return 45; }
 
-const funymf = 360;
+const fu7khv = 100;
 
-// aefyz comment
+// 3to46 comment
 
-console.log('yflegr');
+console.log('66jkyy');
 
-export default 0;
+export default 1;
