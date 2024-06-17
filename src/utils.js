@@ -1,9 +1,9 @@
-function j5re66() { return 70; }
+function oim5vq() { return 56; }
 
-const qxg7y = 127;
+const vjwvsl = 802;
 
-// 1gpi2e comment
+// 3x2lqc comment
 
-console.log('g6t38');
+console.log('0kq1km');
 
-export default 1;
+export default 0;
