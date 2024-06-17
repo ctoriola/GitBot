@@ -1,9 +1,9 @@
-function oim5vq() { return 56; }
+function f206nf() { return 33; }
 
-const vjwvsl = 802;
+const 6ljdh = 603;
 
-// 3x2lqc comment
+// o3m2iq comment
 
-console.log('0kq1km');
+console.log('6mx68');
 
-export default 0;
+export default 1;
