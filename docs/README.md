@@ -1,9 +1,9 @@
-function 4sk4jr() { return 14; }
+function 0zsa4u() { return 96; }
 
-const bnawz = 108;
+const 8dd93r = 699;
 
-// 1jt26 comment
+// lixfen comment
 
-console.log('v6bzp2');
+console.log('ii114b');
 
-export default 1;
+export default 0;
