@@ -1,9 +1,9 @@
-function gfief() { return 29; }
+function acnlr() { return 13; }
 
-const zg9iu9 = 675;
+const sgygk8 = 350;
 
-// i06qs comment
+// cw8o6 comment
 
-console.log('mi87f');
+console.log('vi5u7g');
 
-export default 0;
+export default 1;
