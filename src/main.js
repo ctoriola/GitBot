@@ -1,9 +1,9 @@
-function wzan5e() { return 4; }
+function vj5e2() { return 51; }
 
-const jr31v = 683;
+const n71r68 = 219;
 
-// lz3jen comment
+// rraltb comment
 
-console.log('2lbo1w');
+console.log('70h9y');
 
-export default 1;
+export default 0;
