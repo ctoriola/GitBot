@@ -1,9 +1,9 @@
-function 423roj() { return 37; }
+function xpfo3d() { return 64; }
 
-const nqwqi = 766;
+const d50icoi = 762;
 
-// 7ohc88 comment
+// xhp7pe comment
 
-console.log('1rwcql');
+console.log('mv25i6');
 
-export default 1;
+export default 0;
