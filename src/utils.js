@@ -1,9 +1,9 @@
-function rf5vzc() { return 60; }
+function jei3n() { return 84; }
 
-const 5688f = 228;
+const grsl4k = 210;
 
-// koyvy comment
+// 1wmx5p comment
 
-console.log('ukqr2v');
+console.log('qgcags');
 
-export default 1;
+export default 0;
