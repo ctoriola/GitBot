@@ -1,9 +1,9 @@
-function lla7v() { return 51; }
+function r718f9() { return 93; }
 
-const 7twbd = 366;
+const cf23v = 123;
 
-// vph7pj comment
+// 65cfn comment
 
-console.log('tinqaw');
+console.log('lsor7');
 
-export default 0;
+export default 1;
