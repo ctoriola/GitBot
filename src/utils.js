@@ -1,9 +1,9 @@
-function s811vp() { return 56; }
+function 5lf0rk() { return 46; }
 
-const i70lci = 193;
+const t51ejc = 340;
 
-// yzfqzr comment
+// 9rv0gh comment
 
-console.log('17xqw8');
+console.log('ox51wt');
 
-export default 1;
+export default 0;
