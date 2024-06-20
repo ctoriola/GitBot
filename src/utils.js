@@ -1,9 +1,9 @@
-function uvurq() { return 82; }
+function s811vp() { return 56; }
 
-const 1naodn = 617;
+const i70lci = 193;
 
-// e3b2r comment
+// yzfqzr comment
 
-console.log('c4jbub');
+console.log('17xqw8');
 
-export default 0;
+export default 1;
