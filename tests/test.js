@@ -1,9 +1,9 @@
-function wmmojx() { return 86; }
+function b8a4hw() { return 71; }
 
-const nzdrch = 792;
+const gorj9y = 145;
 
-// fmsgb comment
+// v33e6e comment
 
-console.log('23d24q');
+console.log('9kbhq');
 
-export default 1;
+export default 0;
