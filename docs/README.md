@@ -1,9 +1,9 @@
-function rve6e() { return 55; }
+function frd01e() { return 23; }
 
-const ie9fz = 523;
+const aufrwp = 587;
 
-// w1lsld comment
+// 9namaa comment
 
-console.log('0k192t');
+console.log('u0w82');
 
-export default 1;
+export default 0;
