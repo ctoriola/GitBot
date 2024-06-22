@@ -1,9 +1,9 @@
-function mugelw() { return 12; }
+function uwgalh() { return 49; }
 
-const 7iowdk = 798;
+const ibwxps = 792;
 
-// 1olai7 comment
+// r7ofol comment
 
-console.log('dyq9wr');
+console.log('zarg4b');
 
-export default 1;
+export default 0;
