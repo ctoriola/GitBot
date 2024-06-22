@@ -1,9 +1,9 @@
-function 480v5() { return 60; }
+function la3fdh() { return 62; }
 
-const owi395 = 232;
+const v8gtzj = 807;
 
-// 9n06jr comment
+// uom1dh comment
 
-console.log('li9do');
+console.log('jolle');
 
-export default 0;
+export default 1;
