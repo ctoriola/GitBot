@@ -1,9 +1,9 @@
-function fm89kn() { return 85; }
+function w3fcac() { return 40; }
 
-const arddzeh = 823;
+const auwftg = 597;
 
-// zns89w comment
+// n5b2w9 comment
 
-console.log('8vqrk8');
+console.log('qlefb');
 
-export default 1;
+export default 0;
