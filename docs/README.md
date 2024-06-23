@@ -1,9 +1,9 @@
-function hl5civ() { return 86; }
+function 2v6mej() { return 25; }
 
-const k8q11c = 263;
+const uznv2 = 810;
 
-// 90dmzu comment
+// zwth0p comment
 
-console.log('4o6ehn');
+console.log('zy2tgb');
 
-export default 1;
+export default 0;
