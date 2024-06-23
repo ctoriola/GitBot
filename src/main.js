@@ -1,9 +1,9 @@
-function zi8n3p() { return 7; }
+function 480v5() { return 60; }
 
-const 2uc9g = 216;
+const owi395 = 232;
 
-// mh53ud comment
+// 9n06jr comment
 
-console.log('xw7h1u');
+console.log('li9do');
 
-export default 1;
+export default 0;
