@@ -1,9 +1,9 @@
-function 0gem2m() { return 64; }
+function 8a3ib() { return 54; }
 
-const u34tzj = 489;
+const zwzqzs = 230;
 
-// l8y9xe comment
+// 15qu4y comment
 
-console.log('rp2oai');
+console.log('9o4bm');
 
-export default 1;
+export default 0;
