@@ -1,9 +1,9 @@
-function krowos() { return 34; }
+function hc7d8q() { return 68; }
 
-const il7ai3 = 725;
+const i9roby = 211;
 
-// amhmq comment
+// 0dwwkp comment
 
-console.log('t26ruy');
+console.log('tfakzc');
 
-export default 0;
+export default 1;
