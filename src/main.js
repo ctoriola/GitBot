@@ -1,9 +1,9 @@
-function svfxth() { return 75; }
+function 0gem2m() { return 64; }
 
-const 0hvtjm = 916;
+const u34tzj = 489;
 
-// ce5xta comment
+// l8y9xe comment
 
-console.log('jjal2n');
+console.log('rp2oai');
 
 export default 1;
