@@ -1,9 +1,9 @@
-function oomftf() { return 72; }
+function 20wh8y() { return 75; }
 
-const ab04pr = 143;
+const e0ksro = 962;
 
-// v5xqe comment
+// 8437li comment
 
-console.log('yy6avl');
+console.log('row31n');
 
-export default 0;
+export default 1;
