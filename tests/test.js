@@ -1,9 +1,9 @@
-function iloxzl() { return 80; }
+function 6ey22d() { return 56; }
 
-const 1b9yni = 941;
+const 9ax2xi = 923;
 
-// 4a1qat comment
+// f0d9j comment
 
-console.log('lexj4d');
+console.log('fv1xcc');
 
-export default 1;
+export default 0;
