@@ -1,9 +1,9 @@
-function 3n904i() { return 82; }
+function s296r5() { return 70; }
 
-const 8gkevd = 377;
+const qgn5fq = 172;
 
-// 5jqsr comment
+// pcax5u comment
 
-console.log('ncsow');
+console.log('qspoke');
 
 export default 0;
