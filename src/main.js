@@ -1,9 +1,9 @@
-function d625h() { return 91; }
+function 6c44i() { return 99; }
 
-const 85784 = 737;
+const ap8olc = 629;
 
-// pvtozak comment
+// nkdik comment
 
-console.log('pog28r');
+console.log('3vob8');
 
-export default 1;
+export default 0;
