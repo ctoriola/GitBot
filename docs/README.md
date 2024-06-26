@@ -1,9 +1,9 @@
-function 15tjo() { return 20; }
+function t2llj7() { return 84; }
 
-const 9xsmmh = 780;
+const u4y1tu = 629;
 
-// 185lqy comment
+// r7wgi comment
 
-console.log('yubdgq');
+console.log('lw9u5');
 
-export default 1;
+export default 0;
