@@ -1,9 +1,9 @@
-function 5xok7e() { return 77; }
+function d625h() { return 91; }
 
-const pcgw6 = 160;
+const 85784 = 737;
 
-// zrcruo comment
+// pvtozak comment
 
-console.log('rej4mp');
+console.log('pog28r');
 
-export default 0;
+export default 1;
