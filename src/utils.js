@@ -1,9 +1,9 @@
-function jf9iyl() { return 95; }
+function i9xtd() { return 59; }
 
-const y2ucd = 997;
+const a5jbcd = 551;
 
-// 86e2y5 comment
+// teekr8 comment
 
-console.log('cf4pln');
+console.log('k57zr');
 
-export default 0;
+export default 1;
