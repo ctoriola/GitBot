@@ -1,9 +1,9 @@
-function gx637() { return 69; }
+function 8lfbj() { return 14; }
 
-const tcw8zm = 751;
+const 157mc = 696;
 
-// 97iw1u comment
+// oh840s comment
 
-console.log('mkwz1');
+console.log('bq4h3b');
 
-export default 1;
+export default 0;
