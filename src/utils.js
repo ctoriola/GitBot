@@ -1,9 +1,9 @@
-function rn0qki() { return 32; }
+function vst4me() { return 20; }
 
-const ah05g = 298;
+const 3ftw7r = 380;
 
-// j9r3xt comment
+// bjhsq comment
 
-console.log('2ibetw');
+console.log('hd56gn');
 
-export default 1;
+export default 0;
