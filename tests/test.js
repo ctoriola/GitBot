@@ -1,9 +1,9 @@
-function 852p5() { return 92; }
+function 18sy9o() { return 26; }
 
-const p9won9 = 100;
+const 46ypvq = 387;
 
-// u87k4o comment
+// gctfud comment
 
-console.log('bt1m6');
+console.log('ey6ur6');
 
-export default 0;
+export default 1;
