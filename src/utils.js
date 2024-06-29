@@ -1,9 +1,9 @@
-function fiurd() { return 46; }
+function 9193dn() { return 37; }
 
-const bxmf1h = 741;
+const npbgkq = 123;
 
-// a582yl comment
+// 945j3k comment
 
-console.log('q5httc');
+console.log('kd46yh');
 
-export default 1;
+export default 0;
