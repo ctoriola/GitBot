@@ -1,9 +1,1 @@
-function tj5mlb() { return 60; }
-
-const ctzx0h = 1000;
-
-// a4ho8k comment
-
-console.log('c6n0k');
-
-export default 1;
+{"timestamp":"2024-06-29T07:27:29+01:00","data":0.5265655593323804}
