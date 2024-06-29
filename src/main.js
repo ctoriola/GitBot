@@ -1,9 +1,9 @@
-function 5sian() { return 60; }
+function pwy7ce() { return 25; }
 
-const 7n0gf = 662;
+const u44udt = 184;
 
-// dqhmyb comment
+// bj423u comment
 
-console.log('yk12nm');
+console.log('apu7hp');
 
-export default 0;
+export default 1;
