@@ -1,9 +1,9 @@
-function 00525() { return 90; }
+function 5sian() { return 60; }
 
-const esryg8 = 893;
+const 7n0gf = 662;
 
-// cyx60c comment
+// dqhmyb comment
 
-console.log('25y7mm');
+console.log('yk12nm');
 
 export default 0;
