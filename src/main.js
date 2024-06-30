@@ -1,9 +1,9 @@
-function vawhiy() { return 25; }
+function yh55rh() { return 22; }
 
-const 1enfbc = 880;
+const evyio = 489;
 
-// bbz8kd comment
+// vfu8cb comment
 
-console.log('rmz0h');
+console.log('b351u5');
 
-export default 0;
+export default 1;
