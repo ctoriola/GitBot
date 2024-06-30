@@ -1,9 +1,9 @@
-function oxk7lg() { return 30; }
+function yqp00xf() { return 57; }
 
-const ktm13b = 115;
+const i44i4g = 362;
 
-// gdy2k comment
+// unvnhl comment
 
-console.log('a2pqbt');
+console.log('xwtfth');
 
-export default 1;
+export default 0;
