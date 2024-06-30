@@ -1,9 +1,9 @@
-function mwb5cw() { return 14; }
+function rre1sg() { return 98; }
 
-const wniv5p = 751;
+const 40ty8m = 384;
 
-// szpy11 comment
+// 5k7179 comment
 
-console.log('c6hpy');
+console.log('s5hbi8');
 
-export default 0;
+export default 1;
