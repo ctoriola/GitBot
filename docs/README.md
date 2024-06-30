@@ -1,9 +1,9 @@
-function sifzbb() { return 71; }
+function oxk7lg() { return 30; }
 
-const 372he = 339;
+const ktm13b = 115;
 
-// skpn2 comment
+// gdy2k comment
 
-console.log('iot15b');
+console.log('a2pqbt');
 
-export default 0;
+export default 1;
