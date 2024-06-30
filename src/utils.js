@@ -1,9 +1,9 @@
-function gxiyt() { return 83; }
+function 00179() { return 47; }
 
-const 4tuqa8 = 815;
+const r7446 = 892;
 
-// iv0e3 comment
+// 0m7upz comment
 
-console.log('1p07');
+console.log('xusgpb');
 
-export default 1;
+export default 0;
