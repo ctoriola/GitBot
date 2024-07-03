@@ -1,9 +1,9 @@
-function ff946() { return 3; }
+function 6q7md() { return 51; }
 
-const ss99r = 149;
+const sxac68 = 682;
 
-// c8wlf comment
+// 50r2n comment
 
-console.log('r1ggsl');
+console.log('ukhlwi');
 
-export default 1;
+export default 0;
