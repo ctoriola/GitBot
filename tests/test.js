@@ -1,9 +1,9 @@
-function tkf083() { return 77; }
+function fuj5w() { return 46; }
 
-const fvyiwa = 911;
+const iajaz = 872;
 
-// jbn5cm comment
+// to68vr comment
 
-console.log('e7dvvp');
+console.log('dqc1zb');
 
-export default 0;
+export default 1;
