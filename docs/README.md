@@ -1,9 +1,9 @@
-function w30mf5() { return 2; }
+function dpubuf() { return 96; }
 
-const suyd7q = 177;
+const k3g5os = 122;
 
-// spjn2 comment
+// j3dgt comment
 
-console.log('4og53t');
+console.log('rjjyrh');
 
-export default 1;
+export default 0;
