@@ -1,9 +1,9 @@
-function y4ut44() { return 80; }
+function e5gih() { return 22; }
 
-const 2if43 = 721;
+const 77h0dk = 673;
 
-// fravt2 comment
+// io9vae comment
 
-console.log('c9wpg');
+console.log('9hxlvj');
 
-export default 1;
+export default 0;
