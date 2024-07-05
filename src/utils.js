@@ -1,9 +1,9 @@
-function t98a96() { return 81; }
+function r42ju() { return 63; }
 
-const xoakte = 249;
+const tb3kzo = 113;
 
-// z2u79m comment
+// 4wpg0k comment
 
-console.log('7ih4ba');
+console.log('9lzs2d');
 
 export default 1;
