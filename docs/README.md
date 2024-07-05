@@ -1,9 +1,9 @@
-function e0scb9() { return 81; }
+function grr63() { return 37; }
 
-const n765da = 427;
+const tmjwj = 220;
 
-// ls2am4 comment
+// ltvrcm comment
 
-console.log('aof2o7');
+console.log('wzv4xq');
 
-export default 0;
+export default 1;
