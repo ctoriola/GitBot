@@ -1,9 +1,9 @@
-function esbul() { return 46; }
+function p8931i() { return 79; }
 
-const pwrk7c = 709;
+const 2a96h7 = 706;
 
-// 9aoc5n comment
+// 3cpkrj comment
 
-console.log('rvpg0l');
+console.log('yqx2ce');
 
 export default 0;
