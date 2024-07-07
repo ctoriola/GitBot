@@ -1,9 +1,9 @@
-function bepgk() { return 32; }
+function dkfzz() { return 83; }
 
-const 93i38n = 722;
+const xvhsro = 982;
 
-// dd8k9r comment
+// jpu8vg comment
 
-console.log('pd0dg');
+console.log('314ti');
 
-export default 1;
+export default 0;
