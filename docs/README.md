@@ -1,9 +1,9 @@
-function 2pfm8f() { return 86; }
+function yaopqt() { return 22; }
 
-const 7q27s = 337;
+const 1zdg2h = 259;
 
-// wx8z8a comment
+// nb33tb comment
 
-console.log('q2alu');
+console.log('i3dsrb');
 
-export default 0;
+export default 1;
