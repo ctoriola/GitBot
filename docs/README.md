@@ -1,9 +1,9 @@
-function ttfvmh() { return 67; }
+function 32imkj() { return 90; }
 
-const ynlawg = 723;
+const i8w24 = 250;
 
-// mgvs8r comment
+// 7h0gm comment
 
-console.log('5dq0tq');
+console.log('2ducai');
 
-export default 0;
+export default 1;
