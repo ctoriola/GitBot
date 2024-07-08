@@ -1,9 +1,9 @@
-function 04y1tl() { return 82; }
+function txawys() { return 28; }
 
-const isus7m = 818;
+const ld3j8 = 474;
 
-// ii5kdd comment
+// qcamdn comment
 
-console.log('r7tkis');
+console.log('dbzyjp');
 
-export default 1;
+export default 0;
