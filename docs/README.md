@@ -1,9 +1,9 @@
-function vasl6k() { return 87; }
+function ttfvmh() { return 67; }
 
-const kw0k9t = 744;
+const ynlawg = 723;
 
-// 276pk comment
+// mgvs8r comment
 
-console.log('2anwqq');
+console.log('5dq0tq');
 
-export default 1;
+export default 0;
