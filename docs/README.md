@@ -1,9 +1,9 @@
-function 9athwj() { return 3; }
+function 2pfm8f() { return 86; }
 
-const mvlxqj = 759;
+const 7q27s = 337;
 
-// jvmz9k comment
+// wx8z8a comment
 
-console.log('6oe02a');
+console.log('q2alu');
 
-export default 1;
+export default 0;
