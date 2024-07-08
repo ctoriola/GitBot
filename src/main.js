@@ -1,9 +1,9 @@
-function 2bshks() { return 56; }
+function as6jpg() { return 44; }
 
-const ysl5sv = 956;
+const hi8lib = 314;
 
-// aae78a comment
+// wjp7xe comment
 
-console.log('jrzq1');
+console.log('e5mzi');
 
-export default 0;
+export default 1;
