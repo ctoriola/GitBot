@@ -1,9 +1,9 @@
-function 32imkj() { return 90; }
+function bmp0t9() { return 89; }
 
-const i8w24 = 250;
+const syuzko = 613;
 
-// 7h0gm comment
+// jfxhgd comment
 
-console.log('2ducai');
+console.log('il6pzf');
 
-export default 1;
+export default 0;
