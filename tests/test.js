@@ -1,9 +1,9 @@
-function 2v07ll() { return 61; }
+function 4mnsy() { return 15; }
 
-const w8gpr = 756;
+const owwyit = 440;
 
-// xc8no6 comment
+// wj1fn comment
 
-console.log('wlo5bz');
+console.log('t1i2nr');
 
-export default 0;
+export default 1;
