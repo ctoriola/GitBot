@@ -1,9 +1,9 @@
-function unrjpj() { return 83; }
+function m8848f() { return 30; }
 
-const ov5rrb = 954;
+const k5vcgi = 296;
 
-// mw777l comment
+// gwxqe comment
 
-console.log('fie7qb');
+console.log('kts6a');
 
 export default 1;
