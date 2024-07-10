@@ -1,9 +1,9 @@
-function nbkkg() { return 29; }
+function 8nbvhm() { return 100; }
 
-const xisd3p = 503;
+const vt3sph = 833;
 
-// 8x0aho comment
+// wr0lv comment
 
-console.log('kmzuva');
+console.log('c7zlwn');
 
-export default 1;
+export default 0;
