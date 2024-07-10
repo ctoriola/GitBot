@@ -1,9 +1,9 @@
-function 1o2z4y() { return 48; }
+function unrjpj() { return 83; }
 
-const wsprsm = 648;
+const ov5rrb = 954;
 
-// j2xv3k comment
+// mw777l comment
 
-console.log('ou14cs');
+console.log('fie7qb');
 
-export default 0;
+export default 1;
