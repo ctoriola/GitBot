@@ -1,9 +1,9 @@
-function 2kurue() { return 65; }
+function yk1ef() { return 6; }
 
-const hz5o5p = 534;
+const 3j7pvf = 322;
 
-// 6jqkz comment
+// az6h4a comment
 
-console.log('j9zdy2');
+console.log('6a6v5t');
 
-export default 1;
+export default 0;
