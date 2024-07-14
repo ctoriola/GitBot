@@ -1,9 +1,9 @@
-function envdij() { return 8; }
+function lc8vqz() { return 29; }
 
-const m1klyi = 685;
+const 3i74ud = 812;
 
-// 8euf6e comment
+// 7qkzl comment
 
-console.log('s4u0xm');
+console.log('hwetat');
 
-export default 0;
+export default 1;
