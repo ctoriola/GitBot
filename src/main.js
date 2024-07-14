@@ -1,9 +1,9 @@
-function u0c1ut() { return 1; }
+function zpuu8b() { return 22; }
 
-const 6oxjpq = 320;
+const zbppdg = 875;
 
-// 9gov24 comment
+// c40tni comment
 
-console.log('kbp3fd');
+console.log('rwdug');
 
-export default 0;
+export default 1;
