@@ -1,9 +1,9 @@
-function i2knrs() { return 83; }
+function ca9z6y() { return 24; }
 
-const y5gc6l = 931;
+const zz4kve = 700;
 
-// nckp87 comment
+// mp57hc comment
 
-console.log('cxfz0c');
+console.log('2t8qa6');
 
-export default 0;
+export default 1;
