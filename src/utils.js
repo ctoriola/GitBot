@@ -1,9 +1,9 @@
-function ir4kd() { return 14; }
+function 0a5yk() { return 22; }
 
-const du7xjn = 200;
+const r803ns = 231;
 
-// zw52fc comment
+// rkjmuh comment
 
-console.log('93h6gi');
+console.log('281bka');
 
-export default 1;
+export default 0;
