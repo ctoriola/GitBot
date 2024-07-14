@@ -1,9 +1,9 @@
-function x16rq() { return 41; }
+function 45hipl() { return 53; }
 
-const qbu8i = 748;
+const u0s11g = 807;
 
-// 6uic3 comment
+// yxqxa7 comment
 
-console.log('vfdx3g');
+console.log('hp1o2e');
 
-export default 1;
+export default 0;
