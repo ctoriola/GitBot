@@ -1,9 +1,9 @@
-function 0a5yk() { return 22; }
+function m5o3ee() { return 83; }
 
-const r803ns = 231;
+const 190jnb = 352;
 
-// rkjmuh comment
+// fwhoz comment
 
-console.log('281bka');
+console.log('spoqpe');
 
-export default 0;
+export default 1;
