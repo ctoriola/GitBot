@@ -1,9 +1,9 @@
-function jbbrr3() { return 93; }
+function jox5kt() { return 62; }
 
-const s0ibii = 647;
+const 03y97v = 135;
 
-// la5ox6 comment
+// 52zq7q comment
 
-console.log('hxuoqw');
+console.log('7azs4h');
 
-export default 1;
+export default 0;
