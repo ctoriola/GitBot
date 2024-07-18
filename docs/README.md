@@ -1,9 +1,9 @@
-function 7houve() { return 45; }
+function rvcsy() { return 18; }
 
-const 5e70rr = 683;
+const vyn0ik = 491;
 
-// zf9f75 comment
+// azd388 comment
 
-console.log('dpq1s7');
+console.log('0jjw9k');
 
-export default 1;
+export default 0;
