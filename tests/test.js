@@ -1,9 +1,9 @@
-function sesks() { return 52; }
+function 80o689() { return 91; }
 
-const yfrdfc = 516;
+const 4itv7w = 716;
 
-// ta88hg comment
+// 4e07x comment
 
-console.log('7v8mym');
+console.log('4sy0i2');
 
-export default 1;
+export default 0;
