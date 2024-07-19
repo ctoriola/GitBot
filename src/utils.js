@@ -1,9 +1,9 @@
-function cke9a() { return 48; }
+function do0d8v() { return 33; }
 
-const kn83v9 = 833;
+const t786we = 464;
 
-// 45b5ng comment
+// 44pval comment
 
-console.log('1aohg8');
+console.log('x0hbsf');
 
-export default 0;
+export default 1;
