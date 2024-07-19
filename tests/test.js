@@ -1,9 +1,9 @@
-function rcaj3w() { return 87; }
+function lt5xc6() { return 24; }
 
-const 1noqvf = 365;
+const vsmlz = 674;
 
-// oh0yi comment
+// adfct comment
 
-console.log('nuiwrwc');
+console.log('3aay1lq');
 
-export default 1;
+export default 0;
