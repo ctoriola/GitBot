@@ -1,9 +1,9 @@
-function mffc8() { return 94; }
+function 66648() { return 34; }
 
-const fcmqyv = 193;
+const t81fym = 805;
 
-// 0pdgc6 comment
+// c1d5v comment
 
-console.log('9e8pfb');
+console.log('jolps8');
 
-export default 0;
+export default 1;
