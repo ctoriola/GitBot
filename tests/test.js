@@ -1,9 +1,9 @@
-function q2955h() { return 54; }
+function rcaj3w() { return 87; }
 
-const p666ao = 849;
+const 1noqvf = 365;
 
-// 4gqk3 comment
+// oh0yi comment
 
-console.log('pu0t29');
+console.log('nuiwrwc');
 
-export default 0;
+export default 1;
