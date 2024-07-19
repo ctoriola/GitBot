@@ -1,9 +1,9 @@
-function xo6s1u() { return 100; }
+function bytuv() { return 37; }
 
-const n9jj4 = 575;
+const x7m5mr = 255;
 
-// to1699 comment
+// prdfoi comment
 
-console.log('1sccye');
+console.log('aw8ozi');
 
-export default 1;
+export default 0;
