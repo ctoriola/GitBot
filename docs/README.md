@@ -1,9 +1,9 @@
-function iooq0b() { return 39; }
+function oehywd() { return 59; }
 
-const 1emsuv = 465;
+const 2ddxs = 976;
 
-// 67sypq comment
+// aa5vr comment
 
-console.log('ia9j3o');
+console.log('p6pbyp');
 
-export default 0;
+export default 1;
