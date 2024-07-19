@@ -1,9 +1,9 @@
-function qxekbr() { return 26; }
+function q3qmsn() { return 67; }
 
-const i2kfhr = 661;
+const patf8e = 794;
 
-// ldjv0f comment
+// 2zryvo comment
 
-console.log('bqpbr5');
+console.log('uff29p');
 
-export default 1;
+export default 0;
