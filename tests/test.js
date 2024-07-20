@@ -1,9 +1,9 @@
-function xhpen() { return 81; }
+function aqdndg() { return 19; }
 
-const 37pj8m = 416;
+const av9xjo = 237;
 
-// ny4r3b comment
+// 79oau5 comment
 
-console.log('p0bk79');
+console.log('t0nfg');
 
-export default 0;
+export default 1;
