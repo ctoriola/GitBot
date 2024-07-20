@@ -1,9 +1,9 @@
-function o8nv1() { return 73; }
+function 05c5y() { return 7; }
 
-const 82cdfr = 551;
+const 1alrjbb = 391;
 
-// nfjdl8s comment
+// eqzvs comment
 
-console.log('wv8zfp');
+console.log('rxw125');
 
 export default 1;
