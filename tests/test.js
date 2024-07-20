@@ -1,9 +1,9 @@
-function dxsra() { return 90; }
+function xhpen() { return 81; }
 
-const mc8q1 = 842;
+const 37pj8m = 416;
 
-// 7qewy8 comment
+// ny4r3b comment
 
-console.log('ydfzk');
+console.log('p0bk79');
 
-export default 1;
+export default 0;
