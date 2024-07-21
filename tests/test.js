@@ -1,9 +1,9 @@
-function y4oz5() { return 77; }
+function k1ihco() { return 45; }
 
-const 86lvtm = 488;
+const cqchgg = 418;
 
-// mvz66i comment
+// pmzrdr comment
 
-console.log('y7ab4q');
+console.log('brr5iz');
 
-export default 0;
+export default 1;
