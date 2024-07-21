@@ -1,9 +1,9 @@
-function 3n1v8r() { return 84; }
+function y8a5sf() { return 14; }
 
-const w5lep = 311;
+const lhu322 = 395;
 
-// 9luvpa comment
+// zxednn comment
 
-console.log('pwrkhi');
+console.log('i4rlyf');
 
-export default 1;
+export default 0;
