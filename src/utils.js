@@ -1,9 +1,9 @@
-function tskbl3() { return 12; }
+function 8oj5r() { return 87; }
 
-const d0u389 = 878;
+const x5mtxo = 519;
 
-// zhgrhr comment
+// v9h3zx comment
 
-console.log('ie7sd1i');
+console.log('yi5go');
 
-export default 1;
+export default 0;
