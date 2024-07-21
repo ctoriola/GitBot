@@ -1,9 +1,9 @@
-function hfionm() { return 89; }
+function xw59od() { return 75; }
 
-const pqie3e = 965;
+const b8ei = 474;
 
-// uxbq4b comment
+// f7jwz9 comment
 
-console.log('v22opr');
+console.log('9oqj0t');
 
 export default 1;
