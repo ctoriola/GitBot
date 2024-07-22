@@ -1,9 +1,9 @@
-function 9iimdm() { return 75; }
+function pmoq0u() { return 63; }
 
-const px9kt9 = 331;
+const itsh7r = 507;
 
-// 9d949h comment
+// tp3aob comment
 
-console.log('umg96s');
+console.log('vu1c39');
 
-export default 0;
+export default 1;
