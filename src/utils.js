@@ -1,9 +1,9 @@
-function 4agwnq() { return 60; }
+function s4fkhd() { return 11; }
 
-const axbum = 964;
+const ksamf = 378;
 
-// 2ah6y75 comment
+// upnee4 comment
 
-console.log('a8awrb');
+console.log('pssmtc');
 
-export default 0;
+export default 1;
