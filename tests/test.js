@@ -1,9 +1,9 @@
-function wwtrs() { return 78; }
+function 1svdj8() { return 63; }
 
-const 7o1opu = 618;
+const 0o6lri = 597;
 
-// twgmda comment
+// gp0tue comment
 
-console.log('s73jg');
+console.log('mn0r0f');
 
-export default 0;
+export default 1;
