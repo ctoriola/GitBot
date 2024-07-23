@@ -1,9 +1,9 @@
-function 94lybo() { return 45; }
+function 2awz1v() { return 75; }
 
-const iz6xkm = 883;
+const 8zegv = 871;
 
-// u7ehbb comment
+// t8y77d comment
 
-console.log('naiqe');
+console.log('9uu7e');
 
-export default 0;
+export default 1;
