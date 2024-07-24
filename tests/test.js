@@ -1,9 +1,9 @@
-function o9vegp() { return 40; }
+function p334tc() { return 88; }
 
-const z1ncr = 715;
+const ggd5xd = 814;
 
-// 9bb3a3 comment
+// 51l9l comment
 
-console.log('7l928k');
+console.log('03iovb');
 
-export default 0;
+export default 1;
