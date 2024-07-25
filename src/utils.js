@@ -1,9 +1,9 @@
-function sdx1ks() { return 86; }
+function jt1f4d() { return 79; }
 
-const 3a1tst = 948;
+const y72tpn = 547;
 
-// 1mcuf3 comment
+// aqhu2e comment
 
-console.log('ln746e');
+console.log('970bhd');
 
-export default 1;
+export default 0;
