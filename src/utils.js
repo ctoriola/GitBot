@@ -1,9 +1,9 @@
-function x5au7q() { return 37; }
+function sc7twr() { return 93; }
 
-const hh1udf = 171;
+const csww76 = 782;
 
-// emf09g comment
+// 1gppmxl comment
 
-console.log('7fqwca');
+console.log('tt680w');
 
-export default 0;
+export default 1;
