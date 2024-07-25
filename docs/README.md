@@ -1,9 +1,9 @@
-function r5631p() { return 39; }
+function ic9z9i() { return 86; }
 
-const adrviv = 116;
+const 1cr32f = 393;
 
-// oh12pq comment
+// muw4fu comment
 
-console.log('7cdjv');
+console.log('5ht0b');
 
-export default 0;
+export default 1;
