@@ -1,9 +1,9 @@
-function wi7m09() { return 58; }
+function cz1me() { return 27; }
 
-const x8h0le = 207;
+const xcazlj = 434;
 
-// 3wpu7 comment
+// jgvmsv comment
 
-console.log('3qzy7');
+console.log('734xuy');
 
-export default 0;
+export default 1;
