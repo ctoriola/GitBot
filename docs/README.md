@@ -1,9 +1,9 @@
-function ic9z9i() { return 86; }
+function gz8ssr() { return 12; }
 
-const 1cr32f = 393;
+const oah83 = 370;
 
-// muw4fu comment
+// pz57t comment
 
-console.log('5ht0b');
+console.log('twv12k');
 
 export default 1;
