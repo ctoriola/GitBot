@@ -1,9 +1,9 @@
-function bba4q() { return 39; }
+function ej3m4() { return 19; }
 
-const z5om7s = 173;
+const 7x6gkg = 590;
 
-// x2xits comment
+// y6g7xh comment
 
-console.log('206qg');
+console.log('1vb6c');
 
-export default 0;
+export default 1;
