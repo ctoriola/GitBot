@@ -1,9 +1,9 @@
-function epzmuu() { return 81; }
+function ar3dit() { return 100; }
 
-const g8rez6 = 681;
+const 36x5sk = 555;
 
-// iv7fbo comment
+// 0yeo5 comment
 
-console.log('hoajm');
+console.log('kdp0hi');
 
-export default 0;
+export default 1;
