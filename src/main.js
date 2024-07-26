@@ -1,9 +1,9 @@
-function bur0u() { return 45; }
+function ksiznp() { return 94; }
 
-const a3v24i = 346;
+const iy6xdf = 304;
 
-// amghjb comment
+// av1rp comment
 
-console.log('deyr4l');
+console.log('fjpwzq');
 
-export default 0;
+export default 1;
