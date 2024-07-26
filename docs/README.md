@@ -1,9 +1,9 @@
-function 4434pl() { return 60; }
+function ipbtla() { return 57; }
 
-const nhrgni = 270;
+const h0yc1o = 844;
 
-// vuqzqc comment
+// geiwsp comment
 
-console.log('8arzy');
+console.log('zboyha');
 
-export default 1;
+export default 0;
