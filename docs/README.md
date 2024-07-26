@@ -1,9 +1,9 @@
-function 2cusz() { return 13; }
+function f596id() { return 47; }
 
-const 4ybhij = 436;
+const xb45b = 240;
 
-// z01y5k comment
+// kfzd2 comment
 
-console.log('fn8eyc');
+console.log('v6t57h');
 
-export default 0;
+export default 1;
