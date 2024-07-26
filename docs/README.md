@@ -1,9 +1,9 @@
-function cz1me() { return 27; }
+function 734fi() { return 3; }
 
-const xcazlj = 434;
+const is8rv8 = 316;
 
-// jgvmsv comment
+// tlywq3 comment
 
-console.log('734xuy');
+console.log('c0i7c');
 
-export default 1;
+export default 0;
