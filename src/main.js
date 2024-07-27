@@ -1,9 +1,9 @@
-function hom6zm() { return 9; }
+function 3j46o() { return 89; }
 
-const xedy1x = 368;
+const p4if09 = 754;
 
-// payxg comment
+// 28bkyl comment
 
-console.log('vko67h');
+console.log('5ljwah');
 
-export default 0;
+export default 1;
