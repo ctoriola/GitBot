@@ -1,9 +1,9 @@
-function bu6n6j() { return 78; }
+function hom6zm() { return 9; }
 
-const bqhspr = 741;
+const xedy1x = 368;
 
-// 4kqr3f comment
+// payxg comment
 
-console.log('quht9a');
+console.log('vko67h');
 
-export default 1;
+export default 0;
