@@ -1,9 +1,9 @@
-function 2fp2tt() { return 32; }
+function 7qjgl() { return 41; }
 
-const 2hixgm = 1000;
+const n1kgfp = 521;
 
-// gs36w comment
+// ttgbaa comment
 
-console.log('kyd31e');
+console.log('ahk84x');
 
-export default 1;
+export default 0;
