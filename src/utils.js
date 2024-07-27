@@ -1,9 +1,9 @@
-function q08o1a() { return 24; }
+function y120s6() { return 17; }
 
-const tteu6 = 703;
+const k12qgk = 477;
 
-// 85bzx comment
+// 3kf5rn comment
 
-console.log('mikzu');
+console.log('4l0vkd');
 
-export default 1;
+export default 0;
