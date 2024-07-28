@@ -1,9 +1,9 @@
-function v8g5fb() { return 45; }
+function lguffp() { return 37; }
 
-const zhar9o = 168;
+const c9mq3o = 745;
 
-// 5xud4 comment
+// ntjn7v comment
 
-console.log('tz36jq');
+console.log('69a5jq');
 
 export default 1;
