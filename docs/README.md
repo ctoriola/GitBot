@@ -1,9 +1,9 @@
-function h3b68g() { return 35; }
+function qz8phd() { return 55; }
 
-const 0gksfs = 643;
+const vj9tle = 438;
 
-// ct4lz7 comment
+// 84qah comment
 
-console.log('mlpqlj');
+console.log('99ayin');
 
-export default 1;
+export default 0;
