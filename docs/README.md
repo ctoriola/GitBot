@@ -1,9 +1,9 @@
-function n9b9g() { return 8; }
+function voryb3() { return 53; }
 
-const 95wzug = 259;
+const h3e9u = 886;
 
-// 7lkube comment
+// z7la8 comment
 
-console.log('ggw3ps');
+console.log('4vu267');
 
-export default 1;
+export default 0;
