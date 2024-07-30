@@ -1,9 +1,9 @@
-function vvnr0r() { return 21; }
+function mbxpqn() { return 77; }
 
-const emmudm = 209;
+const zi7oxc = 446;
 
-// kmbqs6 comment
+// 35dwf comment
 
-console.log('h03zt');
+console.log('ldcqk');
 
-export default 1;
+export default 0;
