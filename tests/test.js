@@ -1,9 +1,9 @@
-function 7qjgl() { return 41; }
+function xzds98() { return 77; }
 
-const n1kgfp = 521;
+const skvfmh = 260;
 
-// ttgbaa comment
+// m4sgfb comment
 
-console.log('ahk84x');
+console.log('yi5avk');
 
-export default 0;
+export default 1;
