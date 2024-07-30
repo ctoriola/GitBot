@@ -1,9 +1,9 @@
-function xzds98() { return 77; }
+function 6y7d4c() { return 88; }
 
-const skvfmh = 260;
+const ieyqzg = 602;
 
-// m4sgfb comment
+// d0ymph comment
 
-console.log('yi5avk');
+console.log('6v4l0l');
 
-export default 1;
+export default 0;
