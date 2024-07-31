@@ -1,9 +1,9 @@
-function gzsu9() { return 24; }
+function 5ycnf9() { return 8; }
 
-const ub23e = 274;
+const b6a8fq = 179;
 
-// iv5tsm comment
+// dtpuxq comment
 
-console.log('kiuj6l');
+console.log('uj3s2h');
 
-export default 0;
+export default 1;
