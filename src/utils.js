@@ -1,9 +1,9 @@
-function ncm6z8() { return 89; }
+function tghhy() { return 93; }
 
-const vpmta = 697;
+const 1kyrn = 544;
 
-// 89zank comment
+// 2zk7jr comment
 
-console.log('icjnmi');
+console.log('27z1nr');
 
-export default 1;
+export default 0;
