@@ -1,9 +1,9 @@
-function o7jt8a() { return 96; }
+function mdg2w() { return 11; }
 
-const lhdnsf = 611;
+const ieckfa = 610;
 
-// ofb7nm comment
+// udn8gq comment
 
-console.log('jtb5hq');
+console.log('a22j78');
 
-export default 0;
+export default 1;
