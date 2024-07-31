@@ -1,9 +1,9 @@
-function 5ycnf9() { return 8; }
+function p2gprf() { return 20; }
 
-const b6a8fq = 179;
+const vdbdk = 553;
 
-// dtpuxq comment
+// f6rcgo comment
 
-console.log('uj3s2h');
+console.log('ck9h8s');
 
-export default 1;
+export default 0;
