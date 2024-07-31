@@ -1,9 +1,9 @@
-function ppwnm7() { return 80; }
+function 921la() { return 36; }
 
-const ofv8xr = 528;
+const 7xpms7 = 988;
 
-// 6facx comment
+// e6kbed comment
 
-console.log('g2294s');
+console.log('qwpts');
 
-export default 1;
+export default 0;
