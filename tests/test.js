@@ -1,9 +1,9 @@
-function il56d() { return 91; }
+function iajx2() { return 62; }
 
-const zcdeha = 886;
+const ly3kg9 = 143;
 
-// g2e4d comment
+// 0ymkuq comment
 
-console.log('ll2sea');
+console.log('svd85d');
 
-export default 0;
+export default 1;
