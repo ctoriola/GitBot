@@ -1,9 +1,9 @@
-function c3tqds() { return 10; }
+function z7hqg() { return 41; }
 
-const dqh6zf = 935;
+const kokt0k = 590;
 
-// 7bfpxe comment
+// yuxboe comment
 
-console.log('x4qc4');
+console.log('qpa1x6');
 
-export default 0;
+export default 1;
