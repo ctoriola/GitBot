@@ -1,9 +1,9 @@
-function 9wn3o() { return 89; }
+function kut1ib() { return 31; }
 
-const 8ww0uf = 535;
+const ot3jgc = 740;
 
-// xi7rw comment
+// mmo37g comment
 
-console.log('g7e4we');
+console.log('iasokg');
 
-export default 0;
+export default 1;
