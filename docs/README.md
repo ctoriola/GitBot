@@ -1,9 +1,9 @@
-function m29egp() { return 57; }
+function zozwz() { return 50; }
 
-const px1jn = 356;
+const 0q4v5e = 891;
 
-// lswmi comment
+// skzzfq comment
 
-console.log('6z9i9r');
+console.log('gx4vhh');
 
-export default 1;
+export default 0;
