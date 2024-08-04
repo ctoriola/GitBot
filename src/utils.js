@@ -1,9 +1,9 @@
-function ij1g79() { return 79; }
+function e86wim() { return 78; }
 
-const 5mtu7e = 164;
+const 6t0chn = 875;
 
-// td2r0l comment
+// ikysce comment
 
-console.log('m1vkff');
+console.log('vmlgam');
 
-export default 0;
+export default 1;
