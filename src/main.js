@@ -1,9 +1,9 @@
-function omefbag() { return 61; }
+function 1r640m() { return 1; }
 
-const zzevq = 614;
+const p4o477 = 123;
 
-// klgebm comment
+// 03i1k comment
 
-console.log('od0h9');
+console.log('q7803g');
 
-export default 1;
+export default 0;
