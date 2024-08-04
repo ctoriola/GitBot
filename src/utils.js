@@ -1,9 +1,9 @@
-function e86wim() { return 78; }
+function 8g7fhf() { return 38; }
 
-const 6t0chn = 875;
+const yc6y5 = 148;
 
-// ikysce comment
+// iw3jb7 comment
 
-console.log('vmlgam');
+console.log('9f97rg');
 
-export default 1;
+export default 0;
