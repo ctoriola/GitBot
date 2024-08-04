@@ -1,9 +1,9 @@
-function h8i3jr() { return 22; }
+function kffwwf() { return 86; }
 
-const hvntah = 573;
+const 8y8018 = 615;
 
-// 5cmnik comment
+// hhjd2d comment
 
-console.log('6lygt7');
+console.log('06c4i');
 
-export default 1;
+export default 0;
