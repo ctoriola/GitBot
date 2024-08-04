@@ -1,9 +1,9 @@
-function hlhlqf() { return 82; }
+function 7vsz57() { return 38; }
 
-const 8m4pnk = 720;
+const u7cm5t = 418;
 
-// ut2eor comment
+// lxc4v comment
 
-console.log('x8fxxo');
+console.log('q3rpzq');
 
-export default 1;
+export default 0;
