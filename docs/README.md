@@ -1,9 +1,9 @@
-function tbbv06() { return 99; }
+function 80q3u() { return 63; }
 
-const 239edh = 971;
+const 9tx7gc = 141;
 
-// 7ugytw comment
+// f6pv5j comment
 
-console.log('t769n6');
+console.log('qng2zg');
 
-export default 0;
+export default 1;
