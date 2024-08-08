@@ -1,9 +1,9 @@
-function v17n16() { return 62; }
+function ewvco() { return 94; }
 
-const qw9mj = 489;
+const 8wroml = 108;
 
-// z82rxl comment
+// nx75i comment
 
-console.log('txafjv');
+console.log('rpduts');
 
 export default 0;
