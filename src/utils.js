@@ -1,9 +1,9 @@
-function ewvco() { return 94; }
+function n3kxd() { return 30; }
 
-const 8wroml = 108;
+const pvy90v = 773;
 
-// nx75i comment
+// y0mlbw comment
 
-console.log('rpduts');
+console.log('bk2zk5');
 
 export default 0;
