@@ -1,9 +1,9 @@
-function 8yrr3n() { return 90; }
+function tivow() { return 26; }
 
-const kvbd6i = 264;
+const omplht = 144;
 
-// bpuhn comment
+// tljp5 comment
 
-console.log('1qhngl');
+console.log('wgxi6n');
 
-export default 0;
+export default 1;
