@@ -1,9 +1,9 @@
-function tuwoyh() { return 30; }
+function tm26dr() { return 28; }
 
-const 3z157s = 500;
+const t8ega = 192;
 
-// xblzjr comment
+// xv2rnm comment
 
-console.log('3m6wc');
+console.log('02bq7');
 
-export default 0;
+export default 1;
