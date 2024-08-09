@@ -1,9 +1,9 @@
-function pp5gp() { return 60; }
+function jlzb9() { return 11; }
 
-const c0bpgm = 569;
+const 26he1a = 219;
 
-// iu3pqp comment
+// 7ljpsw comment
 
-console.log('dkqiya');
+console.log('f4bo1i');
 
 export default 1;
