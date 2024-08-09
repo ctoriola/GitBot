@@ -1,9 +1,9 @@
-function euo0qp() { return 37; }
+function nhuw9o() { return 50; }
 
-const oaa3e8 = 311;
+const hjqg7k = 198;
 
-// awv679 comment
+// izbvmd comment
 
-console.log('fiv4a');
+console.log('npggv');
 
-export default 1;
+export default 0;
