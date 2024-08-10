@@ -1,9 +1,9 @@
-function x9x6xo() { return 80; }
+function msuohq() { return 7; }
 
-const nj9zac = 340;
+const n36rw = 272;
 
-// xlwd7s comment
+// w00cii comment
 
-console.log('t7pnd');
+console.log('tr6yiu');
 
-export default 1;
+export default 0;
