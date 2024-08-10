@@ -1,9 +1,9 @@
-function r7tp8() { return 61; }
+function nfrzp9() { return 30; }
 
-const gm5u7 = 988;
+const uhsbdb = 864;
 
-// 91rt37 comment
+// h2wig comment
 
-console.log('wu5u8s');
+console.log('whl2ip');
 
-export default 1;
+export default 0;
