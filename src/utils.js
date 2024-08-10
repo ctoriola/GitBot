@@ -1,9 +1,9 @@
-function 8nt7() { return 92; }
+function oy45se() { return 30; }
 
-const 90hkak = 747;
+const s3hvpm = 570;
 
-// nrygpd comment
+// fmlsy comment
 
-console.log('aagnca');
+console.log('3k844f');
 
-export default 1;
+export default 0;
