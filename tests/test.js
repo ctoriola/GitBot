@@ -1,9 +1,9 @@
-function suhw5() { return 13; }
+function 5xx82() { return 19; }
 
-const rs8sq = 763;
+const 5z01hm = 739;
 
-// iczr9h comment
+// u6po comment
 
-console.log('d1r6j');
+console.log('g3054x');
 
-export default 1;
+export default 0;
