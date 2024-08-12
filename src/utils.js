@@ -1,9 +1,9 @@
-function tyqym() { return 77; }
+function i4iqa() { return 38; }
 
-const is10de = 820;
+const gj26zc = 465;
 
-// rxk9pf comment
+// 4ox04c comment
 
-console.log('exj9on');
+console.log('3e9i6p');
 
-export default 0;
+export default 1;
