@@ -1,9 +1,9 @@
-function 7jqk4() { return 34; }
+function fw31ek() { return 96; }
 
-const zcnxyn = 129;
+const oae9n9 = 844;
 
-// sxtuk comment
+// sl0fts comment
 
-console.log('8aia2w');
+console.log('2d0q1o');
 
-export default 0;
+export default 1;
