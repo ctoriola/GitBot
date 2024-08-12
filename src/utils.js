@@ -1,9 +1,9 @@
-function t5zxh4() { return 100; }
+function tyqym() { return 77; }
 
-const 3esnv = 469;
+const is10de = 820;
 
-// rg1za comment
+// rxk9pf comment
 
-console.log('gzsztm');
+console.log('exj9on');
 
-export default 1;
+export default 0;
