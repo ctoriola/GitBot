@@ -1,9 +1,9 @@
-function rtr4ai() { return 12; }
+function qt83wo() { return 41; }
 
-const r0jdpv = 310;
+const 0ydfqn = 424;
 
-// 1aw20a comment
+// 81hazh comment
 
-console.log('64tjr');
+console.log('jahl12');
 
-export default 1;
+export default 0;
