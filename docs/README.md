@@ -1,9 +1,9 @@
-function 22u6ld() { return 34; }
+function esojb() { return 99; }
 
-const evrwhl = 647;
+const ctppxr = 465;
 
-// fjzeuk comment
+// gzv02 comment
 
-console.log('o3irvk');
+console.log('yc5ti');
 
-export default 0;
+export default 1;
