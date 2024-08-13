@@ -1,9 +1,9 @@
-function fxriys() { return 1; }
+function 574m8a() { return 11; }
 
-const ka65iua = 498;
+const j3vo1d = 131;
 
-// cszdja comment
+// fmd75lk comment
 
-console.log('0qxybr');
+console.log('d9h94k');
 
-export default 1;
+export default 0;
