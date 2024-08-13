@@ -1,9 +1,9 @@
-function itemt() { return 70; }
+function fxriys() { return 1; }
 
-const nqhrrh = 806;
+const ka65iua = 498;
 
-// aiq0kp comment
+// cszdja comment
 
-console.log('l9s00l');
+console.log('0qxybr');
 
-export default 0;
+export default 1;
