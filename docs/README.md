@@ -1,9 +1,9 @@
-function 9w2hmi() { return 44; }
+function f0tng() { return 32; }
 
-const f46kt = 322;
+const s9i3qc = 502;
 
-// 5msczdv comment
+// amlsa comment
 
-console.log('7y8cye');
+console.log('hw3d0k');
 
-export default 0;
+export default 1;
