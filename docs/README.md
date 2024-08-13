@@ -1,9 +1,9 @@
-function j0frb() { return 65; }
+function 5ujl67() { return 59; }
 
-const b88a1e = 823;
+const gxmgtk = 223;
 
-// m61i4 comment
+// dcqiy comment
 
-console.log('k451x');
+console.log('4dcwma');
 
-export default 0;
+export default 1;
