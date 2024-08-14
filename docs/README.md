@@ -1,9 +1,9 @@
-function 33etv9() { return 34; }
+function q0hqeh() { return 94; }
 
-const effie = 690;
+const z4y4d = 388;
 
-// enasuf comment
+// 6q1do comment
 
-console.log('sb61vn');
+console.log('qrx1yh');
 
-export default 1;
+export default 0;
