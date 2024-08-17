@@ -1,9 +1,9 @@
-function m4dt37() { return 4; }
+function 9nnlrh() { return 28; }
 
-const njbori = 553;
+const rmj4xs = 585;
 
-// 9way4p comment
+// bgwq0g comment
 
-console.log('4xbnng');
+console.log('zckepu');
 
-export default 0;
+export default 1;
