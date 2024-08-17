@@ -1,9 +1,9 @@
-function 9nnlrh() { return 28; }
+function 5ovqu() { return 32; }
 
-const rmj4xs = 585;
+const xj7nk = 269;
 
-// bgwq0g comment
+// qfwced comment
 
-console.log('zckepu');
+console.log('9l8uy5');
 
-export default 1;
+export default 0;
