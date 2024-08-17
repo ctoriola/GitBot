@@ -1,9 +1,9 @@
-function j0e5qn() { return 97; }
+function 5yyxy() { return 92; }
 
-const hehyme = 944;
+const eyk2lw = 624;
 
-// 1cghn comment
+// c7w27d comment
 
-console.log('c5qq38');
+console.log('3iyjs');
 
-export default 1;
+export default 0;
