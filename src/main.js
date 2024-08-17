@@ -1,9 +1,9 @@
-function 5ovqu() { return 32; }
+function sv1pg() { return 30; }
 
-const xj7nk = 269;
+const f0m4ho = 984;
 
-// qfwced comment
+// 61xur comment
 
-console.log('9l8uy5');
+console.log('92p55i');
 
-export default 0;
+export default 1;
