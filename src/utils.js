@@ -1,9 +1,9 @@
-function 5yyxy() { return 92; }
+function j41nmq() { return 100; }
 
-const eyk2lw = 624;
+const ptw80r = 851;
 
-// c7w27d comment
+// 0oxyr comment
 
-console.log('3iyjs');
+console.log('6dck5o');
 
-export default 0;
+export default 1;
