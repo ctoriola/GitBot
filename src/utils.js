@@ -1,9 +1,9 @@
-function brhjj() { return 13; }
+function jhgd1g() { return 53; }
 
-const 1luaqb = 191;
+const 6flv9t = 873;
 
-// 1jlrf comment
+// kku5u4 comment
 
-console.log('m3yqh');
+console.log('lxntt');
 
-export default 1;
+export default 0;
