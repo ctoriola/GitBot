@@ -1,9 +1,9 @@
-function dfr0km() { return 84; }
+function 30vthm() { return 59; }
 
-const 5g77ui = 396;
+const lbx1bj = 113;
 
-// u3tqf comment
+// yutztd comment
 
-console.log('wkhf7v');
+console.log('aqp2vg');
 
-export default 0;
+export default 1;
