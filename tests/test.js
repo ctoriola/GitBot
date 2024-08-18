@@ -1,9 +1,9 @@
-function omizap() { return 29; }
+function u9hdwm() { return 29; }
 
-const ui5rx = 864;
+const x8430m = 633;
 
-// 8x1355 comment
+// 8buixe comment
 
-console.log('281f75');
+console.log('quxz1d');
 
-export default 0;
+export default 1;
