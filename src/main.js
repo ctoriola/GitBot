@@ -1,9 +1,9 @@
-function iupeev() { return 44; }
+function crzxdv() { return 23; }
 
-const zlbxw4 = 386;
+const xfr45j = 103;
 
-// ewoejo comment
+// g0e6ci comment
 
-console.log('ypmrjo');
+console.log('d6ik7l');
 
-export default 1;
+export default 0;
