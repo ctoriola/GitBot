@@ -1,9 +1,9 @@
-function zbipzv() { return 27; }
+function cazp8w() { return 51; }
 
-const g8c64 = 567;
+const 6o7xdn = 230;
 
-// 0ww5qj comment
+// 0yfnpk comment
 
-console.log('v3uhbk');
+console.log('4m3vwc');
 
-export default 1;
+export default 0;
