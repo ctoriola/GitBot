@@ -1,9 +1,9 @@
-function y88nd() { return 60; }
+function xydgh() { return 97; }
 
-const qmtqw8 = 655;
+const bqdfe = 410;
 
-// qp8skm8 comment
+// pazocf comment
 
-console.log('mn15mn');
+console.log('wkqkxa');
 
-export default 1;
+export default 0;
