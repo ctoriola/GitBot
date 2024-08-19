@@ -1,9 +1,9 @@
-function b39x8p() { return 82; }
+function b6mix() { return 47; }
 
-const jwqcl = 123;
+const 6m80e8 = 366;
 
-// w90nkh comment
+// ezntb comment
 
-console.log('xafo7a');
+console.log('iydg7t');
 
-export default 1;
+export default 0;
