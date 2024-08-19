@@ -1,9 +1,9 @@
-function tx7gtp() { return 5; }
+function 0kk46() { return 97; }
 
-const ib6dqv = 556;
+const jotif = 385;
 
-// u4qovh comment
+// 6imf9l comment
 
-console.log('bpijv9');
+console.log('3rpyci');
 
-export default 0;
+export default 1;
