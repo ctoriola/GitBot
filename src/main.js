@@ -1,9 +1,9 @@
-function n9qpsp() { return 72; }
+function 2cnhwb() { return 67; }
 
-const soz8l = 296;
+const l4tk77 = 706;
 
-// 8d144c comment
+// ahzw6 comment
 
-console.log('6qfw5j');
+console.log('tqk72n');
 
-export default 0;
+export default 1;
