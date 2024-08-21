@@ -1,9 +1,9 @@
-function rjk8z6() { return 18; }
+function bylc6f() { return 95; }
 
-const 8df1t = 423;
+const igk9fam = 860;
 
-// qkppcl comment
+// sx20vw comment
 
-console.log('vc8pq9');
+console.log('l0qle');
 
-export default 0;
+export default 1;
