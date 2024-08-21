@@ -1,9 +1,9 @@
-function b7bgjj() { return 50; }
+function 3fkub() { return 5; }
 
-const uhzixu = 839;
+const a9dibm = 397;
 
-// 9j2y92 comment
+// 5ysqt comment
 
-console.log('int9u4');
+console.log('5kyb99');
 
-export default 0;
+export default 1;
