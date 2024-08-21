@@ -1,9 +1,9 @@
-function 2cnhwb() { return 67; }
+function r8kwv() { return 77; }
 
-const l4tk77 = 706;
+const oryl0g = 950;
 
-// ahzw6 comment
+// fq2htc comment
 
-console.log('tqk72n');
+console.log('t8e4o');
 
-export default 1;
+export default 0;
