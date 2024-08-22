@@ -1,9 +1,9 @@
-function exiwl() { return 43; }
+function woknv5() { return 70; }
 
-const s5svzg = 234;
+const jwv8gdgr = 106;
 
-// pxq08h comment
+// is29dw comment
 
-console.log('4phe2f');
+console.log('r97kc8');
 
-export default 1;
+export default 0;
