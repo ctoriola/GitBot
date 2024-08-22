@@ -1,9 +1,9 @@
-function 0ogaur() { return 77; }
+function ksog5j() { return 16; }
 
-const s05w2b = 838;
+const pj40tp = 568;
 
-// 8gg3ti comment
+// ns6z4c comment
 
-console.log('o41hz');
+console.log('7tfyj');
 
-export default 0;
+export default 1;
