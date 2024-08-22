@@ -1,9 +1,9 @@
-function mbfq2a() { return 71; }
+function el9bie() { return 68; }
 
-const 48icc = 729;
+const rd35zi = 103;
 
-// jerhl comment
+// shftum comment
 
-console.log('r8lwra');
+console.log('e7wguo');
 
-export default 0;
+export default 1;
