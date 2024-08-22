@@ -1,9 +1,9 @@
-function tgeo1l() { return 40; }
+function sztvxj() { return 46; }
 
-const mrx5xx = 247;
+const y63dy8 = 189;
 
-// iwim4l comment
+// 3o165 comment
 
-console.log('hkd0gn');
+console.log('qihqbs');
 
-export default 1;
+export default 0;
