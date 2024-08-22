@@ -1,9 +1,9 @@
-function 12nrr9() { return 81; }
+function 9uo3k() { return 56; }
 
-const xqyj8e = 870;
+const kpmhkf = 696;
 
-// uxi0x9 comment
+// k09ah2 comment
 
-console.log('6urf3e');
+console.log('1gf22h');
 
 export default 1;
