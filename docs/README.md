@@ -1,9 +1,9 @@
-function eltz9c() { return 52; }
+function hl4vzt() { return 99; }
 
-const 4zv1su = 704;
+const 4k9st6 = 195;
 
-// h611mlm comment
+// tbb37 comment
 
-console.log('a7tgyi');
+console.log('s4fdo');
 
-export default 0;
+export default 1;
