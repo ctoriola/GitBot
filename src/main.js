@@ -1,9 +1,9 @@
-function m61q1h() { return 7; }
+function 8o61q7() { return 47; }
 
-const 7awl4j = 805;
+const 7xog3p = 395;
 
-// cummkp comment
+// ophrun comment
 
-console.log('m5y7t');
+console.log('bhhhvg');
 
-export default 1;
+export default 0;
