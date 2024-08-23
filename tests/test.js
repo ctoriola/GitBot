@@ -1,9 +1,9 @@
-function t8wax8() { return 33; }
+function mob20o() { return 84; }
 
-const b542l = 172;
+const idrumv = 842;
 
-// tl6bbd comment
+// rbd258 comment
 
-console.log('i5mk');
+console.log('73lpv');
 
-export default 1;
+export default 0;
