@@ -1,9 +1,9 @@
-function 8o61q7() { return 47; }
+function kpfzo() { return 71; }
 
-const 7xog3p = 395;
+const 0yz2k = 889;
 
-// ophrun comment
+// gibkx comment
 
-console.log('bhhhvg');
+console.log('3vati');
 
-export default 0;
+export default 1;
