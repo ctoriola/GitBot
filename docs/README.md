@@ -1,9 +1,9 @@
-function zji7e() { return 44; }
+function ims0xf() { return 30; }
 
-const g506s = 592;
+const 32clkg = 986;
 
-// btxexe comment
+// com2iv comment
 
-console.log('jck0ps');
+console.log('e0hxti');
 
-export default 1;
+export default 0;
