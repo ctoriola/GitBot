@@ -1,9 +1,9 @@
-function j72ga() { return 80; }
+function zji7e() { return 44; }
 
-const qahrmp = 450;
+const g506s = 592;
 
-// suv0h comment
+// btxexe comment
 
-console.log('gfu27');
+console.log('jck0ps');
 
-export default 0;
+export default 1;
