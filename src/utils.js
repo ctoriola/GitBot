@@ -1,9 +1,9 @@
-function gugpmb() { return 8; }
+function 7lq9ta() { return 65; }
 
-const jk0v1h = 471;
+const mxvno3 = 482;
 
-// 03non comment
+// ocgzd comment
 
-console.log('rqyh1n');
+console.log('b2v8ed');
 
-export default 1;
+export default 0;
