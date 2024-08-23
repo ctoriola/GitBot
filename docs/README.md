@@ -1,9 +1,9 @@
-function jpsw3f() { return 9; }
+function j72ga() { return 80; }
 
-const f2l2ev = 331;
+const qahrmp = 450;
 
-// zv637a comment
+// suv0h comment
 
-console.log('7om3g');
+console.log('gfu27');
 
-export default 1;
+export default 0;
