@@ -1,9 +1,9 @@
-function zue8d8() { return 31; }
+function ad2b6u() { return 80; }
 
-const larmuw = 886;
+const 8ld2lm = 121;
 
-// mp9v5k comment
+// tagzl comment
 
-console.log('28m5is');
+console.log('mvn18o');
 
-export default 1;
+export default 0;
