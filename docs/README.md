@@ -1,9 +1,9 @@
-function ubz5f() { return 84; }
+function 2pyb9() { return 8; }
 
-const m8d3h8 = 480;
+const 1k72je = 613;
 
-// dp95t comment
+// 3gtax comment
 
-console.log('vyl538');
+console.log('rk5phc');
 
-export default 0;
+export default 1;
