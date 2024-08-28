@@ -1,9 +1,9 @@
-function cezh5b() { return 25; }
+function kdfyn7() { return 34; }
 
-const 4qcqhy = 378;
+const 4kkjyd = 928;
 
-// v2xxrh comment
+// w845a comment
 
-console.log('1spp6j');
+console.log('5dcnim');
 
-export default 1;
+export default 0;
