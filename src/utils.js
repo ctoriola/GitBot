@@ -1,9 +1,9 @@
-function jta86m() { return 7; }
+function 3ii9pi() { return 93; }
 
-const 3p3ofk = 281;
+const wimw2k = 251;
 
-// st7wb6 comment
+// 8340ad comment
 
-console.log('zsg23p');
+console.log('dswnh5');
 
-export default 1;
+export default 0;
