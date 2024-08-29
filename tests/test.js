@@ -1,9 +1,9 @@
-function 690ks8() { return 24; }
+function pz0d3cj() { return 21; }
 
-const u2fqb = 866;
+const xgptp = 589;
 
-// o1jbz comment
+// rlmf1a comment
 
-console.log('6vpllf');
+console.log('7vglq');
 
-export default 0;
+export default 1;
