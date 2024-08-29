@@ -1,9 +1,9 @@
-function c9pdhb() { return 81; }
+function fwedaj() { return 1; }
 
-const bmgn1w = 588;
+const 0rbcho = 942;
 
-// axt35v comment
+// 7n8cud comment
 
-console.log('wymv1');
+console.log('s4e0qg');
 
-export default 0;
+export default 1;
