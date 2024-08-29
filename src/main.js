@@ -1,9 +1,9 @@
-function jlddkt() { return 76; }
+function 855co5() { return 5; }
 
-const ult0ek = 942;
+const 1zjnxn = 180;
 
-// x2veb comment
+// wp7cgr comment
 
-console.log('o87xsm');
+console.log('6ua8ms');
 
 export default 1;
