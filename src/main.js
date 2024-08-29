@@ -1,9 +1,9 @@
-function 2mqg5() { return 19; }
+function jlddkt() { return 76; }
 
-const 3ukxqm = 186;
+const ult0ek = 942;
 
-// hfawa comment
+// x2veb comment
 
-console.log('88jswc');
+console.log('o87xsm');
 
-export default 0;
+export default 1;
