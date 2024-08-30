@@ -1,9 +1,9 @@
-function prydo8() { return 65; }
+function y4klj() { return 39; }
 
-const s2t42s = 594;
+const qgvk98 = 807;
 
-// ceg3s comment
+// mbvcg6 comment
 
-console.log('7ztc7f');
+console.log('dxiuac');
 
-export default 1;
+export default 0;
