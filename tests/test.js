@@ -1,9 +1,9 @@
-function wwjfsb() { return 64; }
+function 1pgm18() { return 17; }
 
-const 4wk18w = 585;
+const jd89cu = 147;
 
-// yv0xz comment
+// ixrmr9 comment
 
-console.log('6z3p6s');
+console.log('rgfmj');
 
-export default 1;
+export default 0;
