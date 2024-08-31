@@ -1,9 +1,9 @@
-function u44dle() { return 89; }
+function qkg3e() { return 76; }
 
-const 103ecn = 298;
+const klni3 = 684;
 
-// 8lghz comment
+// vdecu comment
 
-console.log('bmlag');
+console.log('dro6y');
 
-export default 0;
+export default 1;
