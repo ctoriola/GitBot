@@ -1,9 +1,9 @@
-function rpeca9() { return 35; }
+function 38gazo() { return 6; }
 
-const i6fmuk = 847;
+const k8au7e = 196;
 
-// tbjh9e comment
+// zfmqac comment
 
-console.log('rh0p7h');
+console.log('tddr1');
 
-export default 1;
+export default 0;
