@@ -1,9 +1,9 @@
-function 38gazo() { return 6; }
+function eoa9ia() { return 83; }
 
-const k8au7e = 196;
+const du8ww = 796;
 
-// zfmqac comment
+// jfs3kx comment
 
-console.log('tddr1');
+console.log('gow15');
 
-export default 0;
+export default 1;
