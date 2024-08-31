@@ -1,9 +1,9 @@
-function blmhos() { return 33; }
+function 1y6w9j() { return 97; }
 
-const qzgw8 = 679;
+const 4yw4s = 114;
 
-// 27hwye comment
+// 3vre8f comment
 
-console.log('o2ki6');
+console.log('uj0iul');
 
-export default 0;
+export default 1;
