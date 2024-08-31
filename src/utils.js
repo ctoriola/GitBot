@@ -1,9 +1,9 @@
-function eoa9ia() { return 83; }
+function p361th() { return 21; }
 
-const du8ww = 796;
+const xhgupw = 606;
 
-// jfs3kx comment
+// 9m95l comment
 
-console.log('gow15');
+console.log('stnv5xi');
 
 export default 1;
