@@ -1,9 +1,9 @@
-function rzgamf() { return 6; }
+function xqler() { return 64; }
 
-const px8oq2 = 247;
+const uln1i = 196;
 
-// amco0b comment
+// lwxnxc comment
 
-console.log('cz49so');
+console.log('6w1c1');
 
 export default 1;
