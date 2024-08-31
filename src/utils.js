@@ -1,9 +1,9 @@
-function 62rtvu() { return 22; }
+function rzgamf() { return 6; }
 
-const 6slkd = 604;
+const px8oq2 = 247;
 
-// kg5xvk comment
+// amco0b comment
 
-console.log('7caqdw');
+console.log('cz49so');
 
 export default 1;
