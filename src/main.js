@@ -1,9 +1,9 @@
-function lsd6qo() { return 42; }
+function pozsdsx() { return 21; }
 
-const 35jesa = 305;
+const lbu2rh = 961;
 
-// zn4oi comment
+// fnww4 comment
 
-console.log('jr633');
+console.log('1krn6s');
 
-export default 0;
+export default 1;
