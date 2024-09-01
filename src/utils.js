@@ -1,9 +1,9 @@
-function p86x4d() { return 60; }
+function yahl0u() { return 2; }
 
-const n65209 = 438;
+const qfxf5p = 430;
 
-// bi7kpq comment
+// nqvy9rx comment
 
-console.log('tbo59');
+console.log('984zk8');
 
-export default 0;
+export default 1;
