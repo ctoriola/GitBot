@@ -1,9 +1,9 @@
-function 1ianuu() { return 35; }
+function o3qep() { return 7; }
 
-const zhrn3 = 494;
+const vldh9 = 938;
 
-// ghpkcp comment
+// 38pehs comment
 
-console.log('f9p2gh');
+console.log('uev0o3');
 
-export default 0;
+export default 1;
