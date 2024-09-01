@@ -1,9 +1,9 @@
-function xgtq1r() { return 87; }
+function ocwhl() { return 93; }
 
-const mewfhv = 130;
+const lb2qr3 = 733;
 
-// mogcd9 comment
+// 37tno comment
 
-console.log('inrntp');
+console.log('3hleuj');
 
 export default 1;
