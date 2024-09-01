@@ -1,9 +1,9 @@
-function rl49s() { return 59; }
+function mprn3h() { return 43; }
 
-const z4r4ka = 636;
+const 2g0vv = 838;
 
-// sqz6o9 comment
+// a7yc8m comment
 
-console.log('g7gcrj');
+console.log('2ttgck');
 
-export default 1;
+export default 0;
