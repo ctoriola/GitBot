@@ -1,9 +1,9 @@
-function o3qep() { return 7; }
+function lsd6qo() { return 42; }
 
-const vldh9 = 938;
+const 35jesa = 305;
 
-// 38pehs comment
+// zn4oi comment
 
-console.log('uev0o3');
+console.log('jr633');
 
-export default 1;
+export default 0;
