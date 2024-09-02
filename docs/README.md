@@ -1,9 +1,9 @@
-function mprn3h() { return 43; }
+function 0go0h() { return 65; }
 
-const 2g0vv = 838;
+const oaihn = 424;
 
-// a7yc8m comment
+// 07hdr7 comment
 
-console.log('2ttgck');
+console.log('26892k');
 
-export default 0;
+export default 1;
