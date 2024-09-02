@@ -1,9 +1,9 @@
-function 0go0h() { return 65; }
+function 2sodok() { return 67; }
 
-const oaihn = 424;
+const q8dcsc = 174;
 
-// 07hdr7 comment
+// 79wytk comment
 
-console.log('26892k');
+console.log('bxhbp');
 
-export default 1;
+export default 0;
