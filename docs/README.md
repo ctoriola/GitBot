@@ -1,9 +1,9 @@
-function m1o6et() { return 77; }
+function t87rb9() { return 24; }
 
-const nzd3l = 707;
+const pb2n2 = 807;
 
-// cirq48 comment
+// 2e3dga comment
 
-console.log('lu9cp');
+console.log('7kma8m');
 
-export default 0;
+export default 1;
