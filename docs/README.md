@@ -1,9 +1,9 @@
-function 5ivkiur() { return 71; }
+function pjxxrr() { return 47; }
 
-const w0qcx = 823;
+const 42iziq = 226;
 
-// tonrfd comment
+// szzmei comment
 
-console.log('2ytyul');
+console.log('5u0ytvd');
 
-export default 0;
+export default 1;
