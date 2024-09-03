@@ -1,9 +1,9 @@
-function xc7i3() { return 35; }
+function 4ip2kfb() { return 21; }
 
-const 5en9kp = 658;
+const 4dugum = 421;
 
-// oflw7k comment
+// kekmh comment
 
-console.log('8ns11r');
+console.log('xhm2ql');
 
-export default 0;
+export default 1;
