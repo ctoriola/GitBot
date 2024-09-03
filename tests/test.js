@@ -1,9 +1,9 @@
-function fgy9ts() { return 8; }
+function eklrpb() { return 38; }
 
-const e26hl = 231;
+const h6rpcj = 174;
 
-// mldg5at comment
+// 2fsyyv comment
 
-console.log('y4vbuf');
+console.log('rtwet2');
 
-export default 1;
+export default 0;
