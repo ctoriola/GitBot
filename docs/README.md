@@ -1,9 +1,9 @@
-function 4bf2l5() { return 31; }
+function 7prp3c() { return 1; }
 
-const fbfezf = 584;
+const p4ntmm = 977;
 
-// wvborl comment
+// aaajh comment
 
-console.log('0z49o');
+console.log('gj98t');
 
-export default 1;
+export default 0;
