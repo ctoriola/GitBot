@@ -1,9 +1,9 @@
-function gd5fkd() { return 6; }
+function 8908wn() { return 91; }
 
-const nwuzl = 428;
+const 9obas7 = 763;
 
-// ktdzhw comment
+// 2k70id comment
 
-console.log('mvl6fu');
+console.log('25bhvr');
 
-export default 1;
+export default 0;
