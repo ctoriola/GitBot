@@ -1,9 +1,9 @@
-function iaq53() { return 91; }
+function 49gyk() { return 10; }
 
-const bdseef = 191;
+const xyc73 = 989;
 
-// btf4b comment
+// 4xrd2i comment
 
-console.log('ef4qqi');
+console.log('jlckcg');
 
-export default 1;
+export default 0;
