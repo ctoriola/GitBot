@@ -1,9 +1,9 @@
-function 193sb() { return 55; }
+function 8fg1q() { return 2; }
 
-const 5ljewg = 701;
+const 52e48 = 314;
 
-// q48s2k comment
+// ua11id comment
 
-console.log('n90x2');
+console.log('1p4n2sb');
 
-export default 0;
+export default 1;
