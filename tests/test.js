@@ -1,9 +1,9 @@
-function owryil() { return 33; }
+function dw1o8c() { return 62; }
 
-const ez9px = 138;
+const twvjfq = 956;
 
-// 55mnip comment
+// n9f5v9 comment
 
-console.log('76ziqn');
+console.log('3j42d');
 
-export default 1;
+export default 0;
