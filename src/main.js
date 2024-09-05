@@ -1,9 +1,9 @@
-function i4rgan() { return 23; }
+function lwzvrw() { return 48; }
 
-const vvggqn = 655;
+const x6grw = 397;
 
-// da6m0b comment
+// i6ww52 comment
 
-console.log('b7eicg');
+console.log('o4qi4');
 
-export default 1;
+export default 0;
