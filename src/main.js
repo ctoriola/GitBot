@@ -1,9 +1,9 @@
-function kj046o() { return 11; }
+function 193sb() { return 55; }
 
-const u8iabl = 744;
+const 5ljewg = 701;
 
-// avdoe comment
+// q48s2k comment
 
-console.log('nlvucq');
+console.log('n90x2');
 
-export default 1;
+export default 0;
