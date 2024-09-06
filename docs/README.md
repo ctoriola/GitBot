@@ -1,9 +1,9 @@
-function kdhir() { return 86; }
+function 9dwu33i() { return 88; }
 
-const 94py58 = 945;
+const bl9nz = 131;
 
-// 0uicri comment
+// o86w4 comment
 
-console.log('q9m5uo');
+console.log('cqywtl');
 
-export default 1;
+export default 0;
