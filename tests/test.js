@@ -1,9 +1,9 @@
-function fenzr() { return 98; }
+function rf8zrg() { return 65; }
 
-const giu25 = 774;
+const 93xev = 131;
 
-// fsrxa9 comment
+// hvsxd comment
 
-console.log('3tb1ep');
+console.log('wrjkid');
 
-export default 0;
+export default 1;
