@@ -1,9 +1,9 @@
-function m4t7g() { return 78; }
+function tqw6d() { return 2; }
 
-const q4mtop = 106;
+const xhx9to = 734;
 
-// 2hkyji comment
+// xd7t comment
 
-console.log('k4nze');
+console.log('736wm8');
 
-export default 1;
+export default 0;
