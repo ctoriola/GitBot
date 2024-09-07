@@ -1,9 +1,9 @@
-function 33ha6() { return 64; }
+function u0oj1v() { return 89; }
 
-const zr4cug = 881;
+const s66mfh = 853;
 
-// lp4gxi comment
+// 87pbz comment
 
-console.log('6wlta');
+console.log('0tj2rc');
 
-export default 1;
+export default 0;
