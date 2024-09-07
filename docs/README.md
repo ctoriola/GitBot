@@ -1,9 +1,9 @@
-function ey4ize() { return 75; }
+function i0aq8n() { return 25; }
 
-const 7dt38 = 233;
+const ex2c17 = 798;
 
-// aozdz comment
+// mae3r7 comment
 
-console.log('2a6g7');
+console.log('3v9857');
 
 export default 1;
