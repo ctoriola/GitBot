@@ -1,9 +1,9 @@
-function bnqh8h() { return 5; }
+function m7puw5() { return 82; }
 
-const 33x17 = 221;
+const 0z8wz = 162;
 
-// lv8iz7 comment
+// 85xjs0g comment
 
-console.log('1suoop');
+console.log('mhi4xg');
 
-export default 0;
+export default 1;
