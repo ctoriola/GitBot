@@ -1,9 +1,9 @@
-function 7u4tsp() { return 48; }
+function qa6imm() { return 42; }
 
-const 1oiro = 279;
+const 0yark = 717;
 
-// l9lo9b comment
+// 4z62tb comment
 
-console.log('7shaee');
+console.log('85xcir');
 
-export default 1;
+export default 0;
