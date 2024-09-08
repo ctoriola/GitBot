@@ -1,9 +1,9 @@
-function t91btg() { return 89; }
+function lo7cfs() { return 51; }
 
-const 0nzfw = 418;
+const 8clb1 = 735;
 
-// tvm78 comment
+// 7txs6p comment
 
-console.log('s5oka');
+console.log('twtxf');
 
-export default 1;
+export default 0;
