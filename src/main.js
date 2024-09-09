@@ -1,9 +1,9 @@
-function 5ruqa6() { return 69; }
+function 49dwd() { return 7; }
 
-const pp9igo = 569;
+const adkdfs = 375;
 
-// p9i9v comment
+// p07pgo comment
 
-console.log('ylfoww');
+console.log('3qlwt9');
 
-export default 1;
+export default 0;
