@@ -1,9 +1,9 @@
-function exgs7g() { return 71; }
+function onknnc() { return 48; }
 
-const cwxijr = 622;
+const 2j5zxy = 1000;
 
-// ck4dfh comment
+// ijuvwa comment
 
-console.log('gtbkd');
+console.log('oxvtm');
 
-export default 1;
+export default 0;
