@@ -1,9 +1,9 @@
-function 4yk3wd() { return 64; }
+function 12orpe() { return 68; }
 
-const ps6fhf = 378;
+const h5xwj = 932;
 
-// 33yypi comment
+// s9nlwf comment
 
-console.log('n1rnko');
+console.log('gvxfvn');
 
-export default 0;
+export default 1;
