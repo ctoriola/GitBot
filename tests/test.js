@@ -1,9 +1,9 @@
-function mmq1j5() { return 24; }
+function mk5dba() { return 97; }
 
-const 0b6kmp = 278;
+const 5jrp4 = 120;
 
-// hl93mi comment
+// saumdm comment
 
-console.log('9erym4');
+console.log('8wkpxv');
 
-export default 1;
+export default 0;
