@@ -1,9 +1,9 @@
-function 12orpe() { return 68; }
+function xnylwg() { return 27; }
 
-const h5xwj = 932;
+const df02z = 807;
 
-// s9nlwf comment
+// 3225d comment
 
-console.log('gvxfvn');
+console.log('ca3qwd');
 
-export default 1;
+export default 0;
