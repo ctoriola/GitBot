@@ -1,9 +1,9 @@
-function k0pe5i() { return 95; }
+function ghwgem() { return 38; }
 
-const cdu7qh = 548;
+const 8chnji = 300;
 
-// smg9nm comment
+// gw561b comment
 
-console.log('exjjso');
+console.log('ggn63f');
 
-export default 0;
+export default 1;
