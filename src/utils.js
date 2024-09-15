@@ -1,9 +1,9 @@
-function 5p70rc() { return 51; }
+function svhdl5() { return 82; }
 
-const hrnclo = 738;
+const ezwr7j = 428;
 
-// k1p2ao comment
+// 2a5z07 comment
 
-console.log('updvs');
+console.log('toy53s');
 
-export default 1;
+export default 0;
