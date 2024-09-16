@@ -1,9 +1,9 @@
-function kfi4xq() { return 26; }
+function n27vof() { return 12; }
 
-const djfs8 = 712;
+const yk0tw = 940;
 
-// jn2nf5 comment
+// x3hdx7 comment
 
-console.log('bmxage');
+console.log('y4akdi');
 
 export default 0;
