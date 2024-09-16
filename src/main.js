@@ -1,9 +1,9 @@
-function mm221j() { return 95; }
+function adba62() { return 37; }
 
-const nvcdcl = 981;
+const kj7nptg = 651;
 
-// cqyuh9 comment
+// yyluxu comment
 
-console.log('phf0g7');
+console.log('j7a97u');
 
-export default 1;
+export default 0;
