@@ -1,9 +1,9 @@
-function 0b08t() { return 45; }
+function emboqd() { return 17; }
 
-const m9ktcd = 818;
+const ko3pam = 671;
 
-// 4vpwxl comment
+// 8aiyo comment
 
-console.log('tfzdw5');
+console.log('duza38');
 
-export default 1;
+export default 0;
