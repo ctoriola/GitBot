@@ -1,9 +1,9 @@
-function pswech() { return 28; }
+function 2z5fu() { return 2; }
 
-const l5rz3 = 303;
+const t9mvq = 440;
 
-// gg0bia comment
+// ktobyth comment
 
-console.log('qqalh');
+console.log('savxbj');
 
-export default 1;
+export default 0;
