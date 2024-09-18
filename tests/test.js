@@ -1,9 +1,9 @@
-function 4g6cml() { return 55; }
+function i1an() { return 17; }
 
-const owi3g = 523;
+const 3hyf99 = 812;
 
-// qjd0mc comment
+// 56ujsu comment
 
-console.log('x1rdy');
+console.log('hfnwqi');
 
-export default 1;
+export default 0;
