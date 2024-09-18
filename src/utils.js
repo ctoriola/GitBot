@@ -1,9 +1,9 @@
-function 5jo539() { return 16; }
+function pkf0z() { return 55; }
 
-const po0n9u = 240;
+const 8gvuf9 = 634;
 
-// 6xd2ym comment
+// ux84wg comment
 
-console.log('ymli5');
+console.log('oecdhr');
 
-export default 1;
+export default 0;
