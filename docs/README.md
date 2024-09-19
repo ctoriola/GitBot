@@ -1,9 +1,9 @@
-function jcezbo() { return 100; }
+function szae1s() { return 6; }
 
-const trfdfo = 174;
+const s92sxm = 193;
 
-// kjd8kr comment
+// q2vgy5 comment
 
-console.log('q5bjnb');
+console.log('fnw0gg');
 
-export default 1;
+export default 0;
