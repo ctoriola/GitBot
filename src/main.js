@@ -1,9 +1,9 @@
-function tes91c() { return 68; }
+function sznw7n() { return 72; }
 
-const szywp8 = 736;
+const rub485 = 998;
 
-// ift9v comment
+// y67vtt comment
 
-console.log('1md3');
+console.log('51yqx');
 
-export default 1;
+export default 0;
