@@ -1,9 +1,9 @@
-function sznw7n() { return 72; }
+function m3r388() { return 29; }
 
-const rub485 = 998;
+const gnobdmk = 167;
 
-// y67vtt comment
+// zg4e8a comment
 
-console.log('51yqx');
+console.log('ujzq1');
 
-export default 0;
+export default 1;
