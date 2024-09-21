@@ -1,9 +1,9 @@
-function 43jj4() { return 41; }
+function a0qf2j() { return 55; }
 
-const mllplib = 818;
+const sn8b7 = 676;
 
-// 593ndi comment
+// ah89sp comment
 
-console.log('srbnt');
+console.log('h61j6');
 
-export default 1;
+export default 0;
