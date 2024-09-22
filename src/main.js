@@ -1,9 +1,9 @@
-function qoa25m() { return 14; }
+function 84fvrr() { return 59; }
 
-const dl7s9q = 707;
+const 00go6nm = 891;
 
-// oqtzy comment
+// crshlf comment
 
-console.log('8v1az5');
+console.log('e2sdft');
 
-export default 0;
+export default 1;
