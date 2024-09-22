@@ -1,9 +1,9 @@
-function qalav8() { return 42; }
+function qny0q() { return 55; }
 
-const dfox3 = 438;
+const nxfe5 = 273;
 
-// 2i3o3c comment
+// wkkt5s comment
 
-console.log('jv9n3d');
+console.log('in1z9k');
 
-export default 1;
+export default 0;
