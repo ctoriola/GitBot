@@ -1,9 +1,9 @@
-function doexs9() { return 2; }
+function io70bh() { return 95; }
 
-const 0mqupj = 282;
+const 48h61w = 133;
 
-// 29b6c8 comment
+// e6dxye comment
 
-console.log('jw2jj');
+console.log('p87a9p');
 
-export default 1;
+export default 0;
