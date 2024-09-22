@@ -1,9 +1,9 @@
-function p1r7ro() { return 36; }
+function 73bmbn() { return 59; }
 
-const m6co9m = 908;
+const 5ma7zc = 991;
 
-// azqmn comment
+// awr4bq comment
 
-console.log('8u5hvo');
+console.log('7gnosv');
 
-export default 1;
+export default 0;
