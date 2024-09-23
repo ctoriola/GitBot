@@ -1,9 +1,9 @@
-function lye03r() { return 55; }
+function chstyf() { return 8; }
 
-const 14rjiy = 582;
+const 0bt7i = 131;
 
-// grh7mh comment
+// usd3sr comment
 
-console.log('sgsxgu');
+console.log('pxzq3');
 
-export default 1;
+export default 0;
