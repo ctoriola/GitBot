@@ -1,9 +1,9 @@
-function 6xwkmp() { return 92; }
+function doexs9() { return 2; }
 
-const 3a75kk = 232;
+const 0mqupj = 282;
 
-// fd2ijp comment
+// 29b6c8 comment
 
-console.log('qindo');
+console.log('jw2jj');
 
-export default 0;
+export default 1;
