@@ -1,9 +1,9 @@
-function rk5f0j() { return 96; }
+function jkwud() { return 42; }
 
-const 58da0p = 446;
+const 04jn4k = 716;
 
-// 1jq6ll comment
+// jppd4 comment
 
-console.log('khm3of');
+console.log('ka45yi');
 
-export default 0;
+export default 1;
