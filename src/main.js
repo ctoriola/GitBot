@@ -1,9 +1,9 @@
-function v2zmgo() { return 83; }
+function pbt7bn() { return 48; }
 
-const rpddko = 837;
+const 7fzzvq = 643;
 
-// 50g0yq comment
+// 6hbdoo comment
 
-console.log('zgvm17');
+console.log('2jk1oa');
 
-export default 1;
+export default 0;
