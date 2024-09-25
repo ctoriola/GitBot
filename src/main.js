@@ -1,9 +1,9 @@
-function k7txr() { return 97; }
+function ayekq() { return 41; }
 
-const cmdv8 = 555;
+const 5hv1qp = 289;
 
-// ny8dmv comment
+// d9ww7 comment
 
-console.log('pr35gd');
+console.log('5j0tt');
 
-export default 1;
+export default 0;
