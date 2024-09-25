@@ -1,9 +1,9 @@
-function tusock() { return 47; }
+function baz5up() { return 19; }
 
-const 96vqt = 593;
+const b9fvh7 = 223;
 
-// 84zcfm comment
+// 15697l comment
 
-console.log('qm0w0e');
+console.log('zo5mp2');
 
-export default 1;
+export default 0;
