@@ -1,9 +1,9 @@
-function y03n3l() { return 64; }
+function nexyla() { return 71; }
 
-const x1ynqr = 541;
+const dcs9ps = 973;
 
-// wj25vs comment
+// xggmc9 comment
 
-console.log('mbwxx');
+console.log('f6oeub');
 
-export default 1;
+export default 0;
