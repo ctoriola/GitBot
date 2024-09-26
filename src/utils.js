@@ -1,9 +1,9 @@
-function q5p8o() { return 97; }
+function cfi4d() { return 22; }
 
-const v9e2z = 758;
+const e1573i = 497;
 
-// trgfsv comment
+// 1nhq0o comment
 
-console.log('3op04');
+console.log('ohw3c');
 
-export default 1;
+export default 0;
