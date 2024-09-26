@@ -1,9 +1,9 @@
-function rafy() { return 9; }
+function u2za() { return 40; }
 
-const y95v9w = 790;
+const bo0vid = 308;
 
-// yyai1q comment
+// 9dz8fw comment
 
-console.log('s1kuhb');
+console.log('rgxi1');
 
-export default 1;
+export default 0;
