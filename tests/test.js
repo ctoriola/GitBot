@@ -1,9 +1,9 @@
-function iuo6z8() { return 15; }
+function pry9x() { return 20; }
 
-const ojhly = 542;
+const idnky = 157;
 
-// lo75u comment
+// deg28b comment
 
-console.log('lf65k');
+console.log('ivjo3i');
 
-export default 1;
+export default 0;
