@@ -1,9 +1,9 @@
-function mu2sgj() { return 31; }
+function 54xox7() { return 76; }
 
-const ndlb4 = 829;
+const 8njedr = 464;
 
-// y1hrl6 comment
+// q54uw comment
 
-console.log('fmk4cd');
+console.log('4ohyi9');
 
-export default 1;
+export default 0;
