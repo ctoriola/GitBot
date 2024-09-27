@@ -1,9 +1,9 @@
-function t9deq() { return 65; }
+function h3kxxf() { return 92; }
 
-const ovrevq = 229;
+const bw6h98 = 627;
 
-// onual9 comment
+// 914vf3 comment
 
-console.log('r8a1jt');
+console.log('cqw38');
 
-export default 1;
+export default 0;
