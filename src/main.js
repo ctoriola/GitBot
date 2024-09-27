@@ -1,9 +1,9 @@
-function u2za() { return 40; }
+function bxlp3t() { return 38; }
 
-const bo0vid = 308;
+const 9wr8fq = 426;
 
-// 9dz8fw comment
+// 012fvs comment
 
-console.log('rgxi1');
+console.log('nxv1lg');
 
-export default 0;
+export default 1;
