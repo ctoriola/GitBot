@@ -1,9 +1,9 @@
-function h3kxxf() { return 92; }
+function spdlwp() { return 67; }
 
-const bw6h98 = 627;
+const gukdt = 895;
 
-// 914vf3 comment
+// bdu62 comment
 
-console.log('cqw38');
+console.log('iik9f7');
 
-export default 0;
+export default 1;
