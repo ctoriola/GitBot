@@ -1,9 +1,9 @@
-function 527bvh() { return 97; }
+function isc6eb() { return 60; }
 
-const 7j7im8 = 675;
+const mvovth = 968;
 
-// in3rz comment
+// 0u3bqa comment
 
-console.log('0g7ian');
+console.log('rk8zju');
 
-export default 0;
+export default 1;
