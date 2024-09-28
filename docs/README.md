@@ -1,9 +1,9 @@
-function v6zogs() { return 10; }
+function vqde5s() { return 77; }
 
-const ag67ki = 586;
+const 18cc1 = 750;
 
-// c8xnh9 comment
+// 7o0iwn comment
 
-console.log('3dclzr');
+console.log('5fsn8v');
 
-export default 1;
+export default 0;
