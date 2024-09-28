@@ -1,9 +1,9 @@
-function l1sb48() { return 18; }
+function czqbe9() { return 1; }
 
-const d1ntub = 376;
+const ezsrbg = 599;
 
-// uznq4r comment
+// jli1lv comment
 
-console.log('oyk2');
+console.log('outugv');
 
 export default 0;
