@@ -1,9 +1,9 @@
-function 2n1xih() { return 64; }
+function 527bvh() { return 97; }
 
-const w72wub = 998;
+const 7j7im8 = 675;
 
-// i0ozkh comment
+// in3rz comment
 
-console.log('261lbkr');
+console.log('0g7ian');
 
-export default 1;
+export default 0;
