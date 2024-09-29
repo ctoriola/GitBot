@@ -1,9 +1,9 @@
-function dbj3z8() { return 81; }
+function m4pat() { return 22; }
 
-const jxai5 = 698;
+const nvwjmt = 531;
 
-// ejlpf8 comment
+// ki4v4o comment
 
-console.log('4qd2se');
+console.log('8okqpa');
 
-export default 1;
+export default 0;
