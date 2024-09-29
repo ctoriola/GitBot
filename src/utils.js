@@ -1,9 +1,9 @@
-function czqbe9() { return 1; }
+function 1pmgv() { return 43; }
 
-const ezsrbg = 599;
+const gcxqbq = 725;
 
-// jli1lv comment
+// zhjj39 comment
 
-console.log('outugv');
+console.log('wqw7ge');
 
-export default 0;
+export default 1;
