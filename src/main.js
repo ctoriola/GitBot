@@ -1,9 +1,9 @@
-function zsp4i() { return 86; }
+function 1iw8ag() { return 89; }
 
-const mrefq = 644;
+const h8jw7 = 776;
 
-// im12y9 comment
+// 0elwgk comment
 
-console.log('rnrj2l');
+console.log('qzh3u');
 
-export default 1;
+export default 0;
