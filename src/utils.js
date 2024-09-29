@@ -1,9 +1,9 @@
-function 0ciyxt() { return 22; }
+function nep2hw() { return 89; }
 
-const 0ks62c = 567;
+const cikznj = 304;
 
-// ffld1m comment
+// rkylbvd comment
 
-console.log('e0p49pa');
+console.log('drminf');
 
-export default 1;
+export default 0;
