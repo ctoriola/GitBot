@@ -1,9 +1,9 @@
-function sx148n() { return 38; }
+function yaa7id() { return 19; }
 
-const yrwsxs = 211;
+const 6q42ze = 578;
 
-// 45kzeh comment
+// j51i5 comment
 
-console.log('iqf8ds');
+console.log('am9ix');
 
-export default 0;
+export default 1;
