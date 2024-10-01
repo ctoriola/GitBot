@@ -1,9 +1,9 @@
-function ly3u1() { return 98; }
+function bmqhhy() { return 32; }
 
-const einnc = 710;
+const 97t6ew = 982;
 
-// 6iue8k comment
+// oewv58 comment
 
-console.log('a3wfbk');
+console.log('2hyw2b');
 
-export default 0;
+export default 1;
