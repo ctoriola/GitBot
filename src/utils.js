@@ -1,9 +1,9 @@
-function bmqhhy() { return 32; }
+function fo3p0ki() { return 98; }
 
-const 97t6ew = 982;
+const ryan4b = 446;
 
-// oewv58 comment
+// vbegkv comment
 
-console.log('2hyw2b');
+console.log('mj0gib');
 
-export default 1;
+export default 0;
