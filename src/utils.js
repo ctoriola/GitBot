@@ -1,9 +1,9 @@
-function 8a6gi() { return 84; }
+function sx148n() { return 38; }
 
-const 2wrxq = 860;
+const yrwsxs = 211;
 
-// qm026 comment
+// 45kzeh comment
 
-console.log('2h5wrd');
+console.log('iqf8ds');
 
-export default 1;
+export default 0;
