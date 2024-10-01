@@ -1,9 +1,9 @@
-function ukppu() { return 76; }
+function zbhnh() { return 34; }
 
-const xrcw0v = 207;
+const 3lnhbu = 198;
 
-// nshxmbc comment
+// qx7si comment
 
-console.log('3bv42l');
+console.log('7buhk7');
 
-export default 0;
+export default 1;
