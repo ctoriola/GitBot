@@ -1,9 +1,9 @@
-function 31qrz() { return 97; }
+function klr2bo() { return 12; }
 
-const w0zb7y = 355;
+const 1sesl = 798;
 
-// swaydh comment
+// 6fda44 comment
 
-console.log('u5yji');
+console.log('v8mzoj');
 
-export default 0;
+export default 1;
