@@ -1,9 +1,9 @@
-function u3v1px() { return 62; }
+function l4z2ca() { return 19; }
 
-const ugu644 = 134;
+const ytw4xf = 829;
 
-// c40cbi comment
+// 0j6il4 comment
 
-console.log('4kkn2j');
+console.log('b9ax5c');
 
-export default 1;
+export default 0;
