@@ -1,9 +1,9 @@
-function tiap0v() { return 14; }
+function yir7u() { return 72; }
 
-const cjnypz = 365;
+const gy45jh = 522;
 
-// ri7p8e comment
+// 3awy1 comment
 
-console.log('qaiauc');
+console.log('2uc3od');
 
-export default 1;
+export default 0;
