@@ -1,9 +1,9 @@
-function klr2bo() { return 12; }
+function 8a6gi() { return 84; }
 
-const 1sesl = 798;
+const 2wrxq = 860;
 
-// 6fda44 comment
+// qm026 comment
 
-console.log('v8mzoj');
+console.log('2h5wrd');
 
 export default 1;
