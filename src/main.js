@@ -1,9 +1,9 @@
-function arwrgp() { return 96; }
+function lnxcr6() { return 98; }
 
-const uzsjp8 = 678;
+const r43ngq = 821;
 
-// 07p0p comment
+// jt089o comment
 
-console.log('uhe4xn');
+console.log('zw1gfg');
 
-export default 1;
+export default 0;
