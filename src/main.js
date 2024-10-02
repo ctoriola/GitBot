@@ -1,9 +1,9 @@
-function 10hyqcc() { return 71; }
+function arwrgp() { return 96; }
 
-const pbzaw = 630;
+const uzsjp8 = 678;
 
-// d47ouo comment
+// 07p0p comment
 
-console.log('nr03eq');
+console.log('uhe4xn');
 
-export default 0;
+export default 1;
