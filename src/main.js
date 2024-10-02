@@ -1,9 +1,9 @@
-function 0w841l() { return 3; }
+function 10hyqcc() { return 71; }
 
-const wtu3f7 = 801;
+const pbzaw = 630;
 
-// oyy0p comment
+// d47ouo comment
 
-console.log('qhgm1l');
+console.log('nr03eq');
 
-export default 1;
+export default 0;
