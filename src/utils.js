@@ -1,9 +1,9 @@
-function eorb4o() { return 91; }
+function s2nogm() { return 40; }
 
-const frok4t = 965;
+const u01v6 = 282;
 
-// aefv4b comment
+// vvkubd comment
 
-console.log('2lii46c');
+console.log('04m8po');
 
-export default 1;
+export default 0;
