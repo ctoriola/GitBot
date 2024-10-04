@@ -1,9 +1,9 @@
-function urx88w() { return 58; }
+function hy0pp() { return 6; }
 
-const 95769 = 471;
+const yiy4ly = 500;
 
-// 2kdp5 comment
+// s983p comment
 
-console.log('4uvma5');
+console.log('3sofe');
 
-export default 1;
+export default 0;
