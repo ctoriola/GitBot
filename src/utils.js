@@ -1,9 +1,9 @@
-function s2nogm() { return 40; }
+function kan373() { return 80; }
 
-const u01v6 = 282;
+const e0w67l = 535;
 
-// vvkubd comment
+// m2agoy comment
 
-console.log('04m8po');
+console.log('p568uo');
 
-export default 0;
+export default 1;
