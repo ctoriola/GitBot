@@ -1,9 +1,9 @@
-function kan373() { return 80; }
+function 9m8pi() { return 18; }
 
-const e0w67l = 535;
+const o694bf = 174;
 
-// m2agoy comment
+// iy1i9j comment
 
-console.log('p568uo');
+console.log('aqp9ey');
 
-export default 1;
+export default 0;
