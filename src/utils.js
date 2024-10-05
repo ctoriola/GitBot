@@ -1,9 +1,9 @@
-function jy82ib() { return 41; }
+function 84zmfq() { return 8; }
 
-const 41lr2 = 242;
+const jx0mm = 804;
 
-// 0glinb comment
+// b5tftw comment
 
-console.log('3r7m3s');
+console.log('c96ob');
 
-export default 0;
+export default 1;
