@@ -1,9 +1,9 @@
-function r08pzl() { return 54; }
+function l372zi() { return 80; }
 
-const pk98jk = 214;
+const h6e3wl = 530;
 
-// 54pr2t comment
+// en1lkd comment
 
-console.log('zdy07d');
+console.log('bmfov');
 
-export default 1;
+export default 0;
