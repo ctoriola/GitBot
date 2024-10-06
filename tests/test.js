@@ -1,9 +1,9 @@
-function 8ic0ba() { return 55; }
+function w0odla() { return 60; }
 
-const 8fdhts = 232;
+const r9ay7n = 177;
 
-// 3qld5s comment
+// 6on0cl comment
 
-console.log('iczsp8');
+console.log('wujzf');
 
-export default 0;
+export default 1;
