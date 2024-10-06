@@ -1,9 +1,9 @@
-function 60ce59() { return 100; }
+function vmk8() { return 34; }
 
-const ocu0v4 = 979;
+const jlhyui = 662;
 
-// h3f10v comment
+// ak060v comment
 
-console.log('zegaa4');
+console.log('22lqf9');
 
-export default 1;
+export default 0;
