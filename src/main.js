@@ -1,9 +1,9 @@
-function am5iu() { return 66; }
+function iy15cg() { return 63; }
 
-const 1l5s2k = 702;
+const wphm7o = 655;
 
-// ma1h3 comment
+// i274r7 comment
 
-console.log('9c9p9');
+console.log('oj3gl');
 
-export default 1;
+export default 0;
