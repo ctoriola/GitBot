@@ -1,9 +1,9 @@
-function t0boye() { return 67; }
+function rwplfv() { return 8; }
 
-const 1hw8ua = 190;
+const pjbect = 727;
 
-// 5k954c comment
+// 3k56jab comment
 
-console.log('13w7zb');
+console.log('rudjyr');
 
-export default 1;
+export default 0;
