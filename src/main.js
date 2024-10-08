@@ -1,9 +1,9 @@
-function iy15cg() { return 63; }
+function zxudse() { return 8; }
 
-const wphm7o = 655;
+const 1yyww = 324;
 
-// i274r7 comment
+// 9hwin42 comment
 
-console.log('oj3gl');
+console.log('fiigp2');
 
-export default 0;
+export default 1;
