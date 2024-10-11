@@ -1,9 +1,9 @@
-function dlsshh() { return 12; }
+function in22zs() { return 26; }
 
-const ankym = 444;
+const gh87kw = 339;
 
-// vvggng comment
+// 0ldtsm comment
 
-console.log('bmwiw');
+console.log('mnx13h');
 
-export default 0;
+export default 1;
