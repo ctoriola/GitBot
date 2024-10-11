@@ -1,9 +1,9 @@
-function 90s7q() { return 84; }
+function dlsshh() { return 12; }
 
-const x1omis = 830;
+const ankym = 444;
 
-// md3rk9 comment
+// vvggng comment
 
-console.log('btshh8');
+console.log('bmwiw');
 
-export default 1;
+export default 0;
