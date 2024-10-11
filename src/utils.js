@@ -1,9 +1,9 @@
-function efxki() { return 10; }
+function 90s7q() { return 84; }
 
-const yx5hj = 637;
+const x1omis = 830;
 
-// zyr8jjg comment
+// md3rk9 comment
 
-console.log('p5ydzh');
+console.log('btshh8');
 
-export default 0;
+export default 1;
