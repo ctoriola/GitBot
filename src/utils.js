@@ -1,9 +1,9 @@
-function szr60w9() { return 30; }
+function kk503e() { return 69; }
 
-const vc6g6t = 193;
+const 6066nh = 435;
 
-// dtua8s comment
+// 7ou6ns comment
 
-console.log('9rnys');
+console.log('5940h7');
 
-export default 1;
+export default 0;
