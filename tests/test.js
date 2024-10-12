@@ -1,9 +1,9 @@
-function n0bgkl() { return 28; }
+function sscomq() { return 98; }
 
-const uqz55i = 151;
+const mhz8v = 478;
 
-// 9q90vq comment
+// fh9zr comment
 
-console.log('zx8kr7');
+console.log('vb59af');
 
-export default 1;
+export default 0;
