@@ -1,9 +1,9 @@
-function fcvga() { return 94; }
+function wors7() { return 49; }
 
-const v0ti5p = 1000;
+const zsmcn9 = 511;
 
-// 4ud8hu comment
+// lfzj84 comment
 
-console.log('8toko1');
+console.log('b16ia');
 
-export default 1;
+export default 0;
