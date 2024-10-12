@@ -1,9 +1,9 @@
-function rvzzmf() { return 11; }
+function yipoqd() { return 11; }
 
-const lexsv = 173;
+const jsb6e = 820;
 
-// tojh1g comment
+// rrqlcd comment
 
-console.log('78xl1c');
+console.log('q9w23f');
 
-export default 1;
+export default 0;
