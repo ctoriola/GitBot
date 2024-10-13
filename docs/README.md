@@ -1,9 +1,9 @@
-function 212idj() { return 73; }
+function zmtbn7() { return 9; }
 
-const sm0qg = 361;
+const uy5im6 = 290;
 
-// njh758 comment
+// wea6bk comment
 
-console.log('l754jh');
+console.log('f1qwme');
 
-export default 0;
+export default 1;
