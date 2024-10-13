@@ -1,9 +1,9 @@
-function yy8gqn() { return 90; }
+function 7vm0et() { return 66; }
 
-const siwekf = 493;
+const e7ze0v = 207;
 
-// ykd1em comment
+// kcjkr comment
 
-console.log('ngrmx');
+console.log('n6zyqe');
 
 export default 1;
