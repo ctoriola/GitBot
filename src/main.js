@@ -1,9 +1,9 @@
-function 35926i() { return 65; }
+function u4iy() { return 4; }
 
-const shdbr = 798;
+const zzb8r8 = 235;
 
-// qzvn5 comment
+// a9qu6o comment
 
-console.log('9xzete');
+console.log('qmpck');
 
 export default 0;
