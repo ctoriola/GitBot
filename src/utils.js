@@ -1,9 +1,9 @@
-function ddut9g() { return 56; }
+function 5qjja() { return 1; }
 
-const 60ndd = 895;
+const pp6zqk = 215;
 
-// vitx7 comment
+// 5fjuqg comment
 
-console.log('ylt5ud');
+console.log('0abam');
 
-export default 1;
+export default 0;
