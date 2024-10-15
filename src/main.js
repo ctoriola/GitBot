@@ -1,9 +1,9 @@
-function u4iy() { return 4; }
+function pbbuxr() { return 88; }
 
-const zzb8r8 = 235;
+const nlll5d = 800;
 
-// a9qu6o comment
+// 0xx7ct comment
 
-console.log('qmpck');
+console.log('sa1ez');
 
-export default 0;
+export default 1;
