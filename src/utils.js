@@ -1,9 +1,9 @@
-function nodc3() { return 43; }
+function mu9h1j() { return 41; }
 
-const qcc5l = 442;
+const 7pp74s = 868;
 
-// i33ybb comment
+// i9sjva comment
 
-console.log('tg29k7');
+console.log('fqt9hn');
 
-export default 0;
+export default 1;
