@@ -1,9 +1,9 @@
-function 6vqgo6() { return 72; }
+function kethchh() { return 90; }
 
-const xvpvdi = 391;
+const e646dg = 956;
 
-// p9p3in comment
+// iu3ei comment
 
-console.log('5a6jp');
+console.log('gobsyw');
 
-export default 0;
+export default 1;
