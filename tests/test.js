@@ -1,9 +1,9 @@
-function ct734r() { return 59; }
+function 9yxvdu() { return 81; }
 
-const oqkno = 832;
+const b4zad = 474;
 
-// jsirbq comment
+// 11eh4b comment
 
-console.log('084jp8');
+console.log('8a6pa');
 
-export default 1;
+export default 0;
