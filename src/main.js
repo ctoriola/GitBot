@@ -1,9 +1,9 @@
-function 1vai5() { return 41; }
+function nr06jt() { return 68; }
 
-const xe95kk = 487;
+const m69a3i = 758;
 
-// j2irfd comment
+// pf1qt comment
 
-console.log('4ddu89');
+console.log('lnql09');
 
-export default 1;
+export default 0;
