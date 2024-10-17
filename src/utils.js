@@ -1,9 +1,9 @@
-function dw3hpk() { return 81; }
+function x8cfna() { return 90; }
 
-const 904g1r = 918;
+const k637i = 525;
 
-// 8pkogb comment
+// zb9at comment
 
-console.log('2fbqp');
+console.log('958dc');
 
-export default 1;
+export default 0;
