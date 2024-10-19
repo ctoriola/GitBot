@@ -1,9 +1,9 @@
-function t7bfz() { return 76; }
+function 6rnlh() { return 3; }
 
-const 2jhqvh = 714;
+const qmh7p8 = 907;
 
-// zngo9 comment
+// retvtc comment
 
-console.log('bncf7');
+console.log('gdzrpe');
 
-export default 0;
+export default 1;
