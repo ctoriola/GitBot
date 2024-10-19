@@ -1,9 +1,9 @@
-function tp57lj() { return 90; }
+function rxaznc() { return 77; }
 
-const z2gi3n = 235;
+const sjnrxg = 886;
 
-// bshqoe comment
+// tdn1l comment
 
-console.log('jqrq5h');
+console.log('ikgnie');
 
-export default 0;
+export default 1;
