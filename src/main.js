@@ -1,9 +1,9 @@
-function nr06jt() { return 68; }
+function t9o8t() { return 44; }
 
-const m69a3i = 758;
+const utrxxi = 593;
 
-// pf1qt comment
+// tlu76g comment
 
-console.log('lnql09');
+console.log('5ltlib');
 
-export default 0;
+export default 1;
