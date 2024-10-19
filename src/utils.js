@@ -1,9 +1,9 @@
-function x08g1tq() { return 52; }
+function p1r8rg() { return 54; }
 
-const 8vxb7i = 288;
+const 7s7ucr = 205;
 
-// s8h2sl comment
+// bohvcn comment
 
-console.log('9frn0p');
+console.log('mkj9rb');
 
-export default 0;
+export default 1;
