@@ -1,9 +1,9 @@
-function 5tz1jx() { return 53; }
+function jgxi7() { return 7; }
 
-const s4dpak = 982;
+const t6x97r = 759;
 
-// ystx8x comment
+// mr2xd comment
 
-console.log('0omlg6');
+console.log('1reiip');
 
-export default 1;
+export default 0;
