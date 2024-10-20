@@ -1,9 +1,9 @@
-function 1z7k8() { return 27; }
+function bosftl() { return 8; }
 
-const izyyf9 = 630;
+const 2b1jnd = 621;
 
-// 3jw7e comment
+// xvgt5g comment
 
-console.log('elr8zk');
+console.log('v52bvp');
 
-export default 1;
+export default 0;
