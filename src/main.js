@@ -1,9 +1,9 @@
-function qvc1e() { return 41; }
+function b3emhx() { return 7; }
 
-const cd4ycd = 373;
+const bv5iyd = 685;
 
-// ibawea comment
+// x50mjn comment
 
-console.log('2y7qgb');
+console.log('35ip6r');
 
-export default 0;
+export default 1;
