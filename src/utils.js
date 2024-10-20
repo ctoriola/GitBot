@@ -1,9 +1,9 @@
-function bgbb0r() { return 11; }
+function 1z7k8() { return 27; }
 
-const le2n4 = 392;
+const izyyf9 = 630;
 
-// p9ju3i comment
+// 3jw7e comment
 
-console.log('s0cta8');
+console.log('elr8zk');
 
-export default 0;
+export default 1;
