@@ -1,9 +1,9 @@
-function wb64m6() { return 74; }
+function qio6z() { return 12; }
 
-const 6pf257 = 732;
+const f3ehe = 926;
 
-// zsloy comment
+// eba0p comment
 
-console.log('x1t3pk');
+console.log('scagirt');
 
-export default 0;
+export default 1;
