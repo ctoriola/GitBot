@@ -1,9 +1,9 @@
-function 6kcrs() { return 91; }
+function vvtxr4() { return 69; }
 
-const r56t0g = 357;
+const oq2h3fb = 830;
 
-// ys108r comment
+// rqf7rf comment
 
-console.log('esfzje');
+console.log('g2zyx');
 
-export default 1;
+export default 0;
