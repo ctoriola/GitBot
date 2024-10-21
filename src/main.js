@@ -1,9 +1,9 @@
-function jxvwe() { return 73; }
+function um2qci() { return 7; }
 
-const bn30vp = 341;
+const j1f0q = 398;
 
-// ip5usg comment
+// j8zce comment
 
-console.log('dnueo');
+console.log('2foogl');
 
 export default 1;
