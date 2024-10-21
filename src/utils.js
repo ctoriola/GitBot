@@ -1,9 +1,9 @@
-function acj6wc() { return 65; }
+function tpgmd8() { return 31; }
 
-const 28425j = 764;
+const 92qof = 865;
 
-// bnesya comment
+// vgu3wr comment
 
-console.log('64tvyc');
+console.log('yadmvv');
 
-export default 1;
+export default 0;
