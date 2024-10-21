@@ -1,9 +1,9 @@
-function vvtxr4() { return 69; }
+function 93naqa() { return 89; }
 
-const oq2h3fb = 830;
+const n22fd1 = 832;
 
-// rqf7rf comment
+// colbxo comment
 
-console.log('g2zyx');
+console.log('kjk3j');
 
-export default 0;
+export default 1;
