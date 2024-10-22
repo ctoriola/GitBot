@@ -1,9 +1,9 @@
-function kbzars() { return 3; }
+function 1piywd() { return 86; }
 
-const hf3tcd = 814;
+const zeaa6e = 664;
 
-// q7c5ta comment
+// g43vrp comment
 
-console.log('scanxi');
+console.log('oz3883');
 
-export default 0;
+export default 1;
