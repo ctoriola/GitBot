@@ -1,9 +1,9 @@
-function d7dmy4() { return 19; }
+function 7wyxkr() { return 50; }
 
-const i17j1 = 382;
+const 3f15rb = 279;
 
-// 9gst7n comment
+// gxjnaf comment
 
-console.log('tbi62e');
+console.log('gelqaf');
 
-export default 1;
+export default 0;
