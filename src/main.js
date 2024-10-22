@@ -1,9 +1,9 @@
-function wcz8tm() { return 45; }
+function a2xf9() { return 8; }
 
-const 04k8sz = 628;
+const x2ary = 768;
 
-// ly6zk comment
+// dmx6js comment
 
-console.log('3wnpnv');
+console.log('5ziu8h');
 
-export default 0;
+export default 1;
