@@ -1,9 +1,9 @@
-function 19hbbq() { return 87; }
+function j7uua() { return 94; }
 
-const e14blm = 454;
+const a6zqir = 154;
 
-// sywojj comment
+// is99ws comment
 
-console.log('pole27');
+console.log('qtyy9b');
 
-export default 0;
+export default 1;
