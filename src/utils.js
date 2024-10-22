@@ -1,9 +1,9 @@
-function eojpu() { return 47; }
+function 5u4dh9() { return 58; }
 
-const t6gc7 = 871;
+const c9ouaao = 760;
 
-// 72bqwg comment
+// czvzv comment
 
-console.log('5qozwk');
+console.log('1tyfab');
 
-export default 1;
+export default 0;
