@@ -1,9 +1,9 @@
-function jps85() { return 5; }
+function k5thnz() { return 88; }
 
-const lhzbu8 = 145;
+const k0pd2 = 334;
 
-// 6ul4ht comment
+// 73juv comment
 
-console.log('3mruei');
+console.log('bkznbq');
 
-export default 1;
+export default 0;
