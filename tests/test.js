@@ -1,9 +1,9 @@
-function dgn5xq() { return 70; }
+function miqqok() { return 11; }
 
-const vx4th1 = 450;
+const bi6q2i = 358;
 
-// 5iydt7 comment
+// 7nkqcn comment
 
-console.log('duykwb');
+console.log('3pwzlw');
 
-export default 1;
+export default 0;
