@@ -1,9 +1,9 @@
-function 2i5rg() { return 20; }
+function 2ggvdq() { return 37; }
 
-const a3y90v = 943;
+const 2cp5r = 363;
 
-// 2y8ea5 comment
+// wnkp7b comment
 
-console.log('1wwjqg');
+console.log('nuakx');
 
-export default 0;
+export default 1;
