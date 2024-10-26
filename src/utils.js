@@ -1,9 +1,9 @@
-function tkvkww() { return 70; }
+function txwsq() { return 56; }
 
-const bhvho = 770;
+const rh51yo = 834;
 
-// wkhvg comment
+// g8cwk comment
 
-console.log('zh4mjs');
+console.log('c8efdn');
 
-export default 0;
+export default 1;
