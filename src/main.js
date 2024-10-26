@@ -1,9 +1,9 @@
-function 4pp2gc() { return 46; }
+function 5mvr2f() { return 9; }
 
-const s9dixm = 432;
+const ll7wy = 336;
 
-// deuzch comment
+// wwefwh comment
 
-console.log('rkily');
+console.log('3zmil');
 
 export default 1;
