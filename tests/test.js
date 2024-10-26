@@ -1,9 +1,9 @@
-function y4zi8h() { return 33; }
+function 4sch3() { return 73; }
 
-const 20r4nc = 246;
+const 8duv3p = 715;
 
-// wfm98c comment
+// sqmsq comment
 
-console.log('i7cmr');
+console.log('ympfw7');
 
-export default 1;
+export default 0;
