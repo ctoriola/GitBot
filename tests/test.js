@@ -1,9 +1,9 @@
-function 4sch3() { return 73; }
+function f3a75l() { return 50; }
 
-const 8duv3p = 715;
+const bsca6 = 572;
 
-// sqmsq comment
+// yzt73 comment
 
-console.log('ympfw7');
+console.log('dlcdxk');
 
-export default 0;
+export default 1;
