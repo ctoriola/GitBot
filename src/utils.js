@@ -1,9 +1,9 @@
-function aqjx41() { return 93; }
+function h84ju() { return 68; }
 
-const vf6aq = 127;
+const cotiv = 181;
 
-// bozupa comment
+// 8madpa comment
 
-console.log('quyn38');
+console.log('ypt23l');
 
-export default 0;
+export default 1;
