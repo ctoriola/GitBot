@@ -1,9 +1,9 @@
-function 8jd2r9() { return 10; }
+function ppuy2f() { return 38; }
 
-const r5a949 = 860;
+const n2icji = 372;
 
-// 1u2n8 comment
+// rdpm7l comment
 
-console.log('ysh4ex');
+console.log('50fzb');
 
-export default 0;
+export default 1;
