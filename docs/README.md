@@ -1,9 +1,9 @@
-function wpmzoe() { return 17; }
+function h41cd() { return 16; }
 
-const 7bydpg = 171;
+const kklhd = 942;
 
-// zdkxa comment
+// vz7of comment
 
-console.log('cqx6asv');
+console.log('gcuz3j');
 
-export default 1;
+export default 0;
