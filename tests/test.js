@@ -1,9 +1,9 @@
-function 5evm0t() { return 14; }
+function y75t8l() { return 65; }
 
-const 4nmf4f = 553;
+const zizwpo = 933;
 
-// af9ie comment
+// 48obl comment
 
-console.log('22i317');
+console.log('sctgbh');
 
-export default 0;
+export default 1;
