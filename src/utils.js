@@ -1,9 +1,9 @@
-function tctgy() { return 66; }
+function 1kamfs() { return 3; }
 
-const fiedsr = 472;
+const neb0qt = 340;
 
-// mgdwzkh comment
+// 8has1 comment
 
-console.log('kwumeb');
+console.log('2crol');
 
-export default 1;
+export default 0;
