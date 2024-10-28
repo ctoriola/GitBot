@@ -1,9 +1,9 @@
-function i1kpr() { return 90; }
+function 3fg0yb() { return 64; }
 
-const 84a68 = 672;
+const 8r57k = 475;
 
-// nxevm comment
+// ugbtg3 comment
 
-console.log('n2zeu');
+console.log('1sbzrj');
 
-export default 1;
+export default 0;
