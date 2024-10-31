@@ -1,9 +1,9 @@
-function zzpw31() { return 75; }
+function f70wv() { return 9; }
 
-const kfv504 = 230;
+const 25tquc = 128;
 
-// qpvwl comment
+// 12r2la comment
 
-console.log('5o10nb');
+console.log('k3pg76');
 
-export default 1;
+export default 0;
