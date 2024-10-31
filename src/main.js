@@ -1,9 +1,9 @@
-function tg0ga() { return 6; }
+function l43x1() { return 73; }
 
-const 7tbauh = 947;
+const 1178p9i = 745;
 
-// gggql comment
+// 1vrb2o comment
 
-console.log('v3k7su');
+console.log('afzbv');
 
-export default 1;
+export default 0;
