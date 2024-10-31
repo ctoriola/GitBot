@@ -1,9 +1,9 @@
-function fzxbdk() { return 96; }
+function e8g3o() { return 30; }
 
-const b1x1od = 391;
+const zy7i9r = 868;
 
-// t5sqcf comment
+// zbyemh comment
 
-console.log('0i0x5');
+console.log('fjvjz4');
 
-export default 1;
+export default 0;
