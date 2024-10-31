@@ -1,9 +1,9 @@
-function f70wv() { return 9; }
+function wt4ba() { return 24; }
 
-const 25tquc = 128;
+const r732l = 564;
 
-// 12r2la comment
+// ac2hlq comment
 
-console.log('k3pg76');
+console.log('5o7f59');
 
-export default 0;
+export default 1;
