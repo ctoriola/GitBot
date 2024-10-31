@@ -1,9 +1,9 @@
-function 1hwoo() { return 94; }
+function n2537() { return 29; }
 
-const 1xjjs = 848;
+const j6248o = 482;
 
-// pk9fdq comment
+// ga4t4 comment
 
-console.log('kw64i5');
+console.log('ismygv');
 
-export default 1;
+export default 0;
