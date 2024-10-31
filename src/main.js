@@ -1,9 +1,9 @@
-function mssw8b() { return 28; }
+function f8fcoq() { return 33; }
 
-const cd7gt = 154;
+const lw84lq = 880;
 
-// d86u09 comment
+// 0h0qge comment
 
-console.log('68ee8e');
+console.log('vtiwy');
 
-export default 1;
+export default 0;
