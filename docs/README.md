@@ -1,9 +1,9 @@
-function n2537() { return 29; }
+function 9h6rdd() { return 51; }
 
-const j6248o = 482;
+const gqmcqc = 557;
 
-// ga4t4 comment
+// g9q9l5 comment
 
-console.log('ismygv');
+console.log('ucdc3');
 
-export default 0;
+export default 1;
