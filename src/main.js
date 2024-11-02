@@ -1,9 +1,9 @@
-function 6x70qb() { return 50; }
+function jkksr() { return 44; }
 
-const 5hvcf = 924;
+const x3ss97 = 340;
 
-// cca25t comment
+// fijjvn comment
 
-console.log('2ev7oo');
+console.log('eq6n2d');
 
-export default 1;
+export default 0;
