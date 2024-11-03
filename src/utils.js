@@ -1,9 +1,9 @@
-function v0gdf() { return 21; }
+function 8go5x() { return 2; }
 
-const btt41k = 988;
+const le4ws = 166;
 
-// 8c46eh comment
+// hb1z5 comment
 
-console.log('zz0nrj');
+console.log('lxag0m');
 
 export default 1;
