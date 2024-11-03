@@ -1,9 +1,9 @@
-function bfk3k() { return 14; }
+function qv3tg8() { return 83; }
 
-const wtkwn7 = 508;
+const r0pxob = 722;
 
-// lsod5k comment
+// 92s5vm comment
 
-console.log('nzoj1a');
+console.log('s8bmk');
 
-export default 0;
+export default 1;
