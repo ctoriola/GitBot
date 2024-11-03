@@ -1,9 +1,9 @@
-function c3efwpq() { return 7; }
+function xoznyk() { return 95; }
 
-const 43x9jn = 858;
+const jvk3q = 251;
 
-// puzdn comment
+// bpm2eo comment
 
-console.log('7fvis0g');
+console.log('536ee');
 
-export default 0;
+export default 1;
