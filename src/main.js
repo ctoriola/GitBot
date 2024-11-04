@@ -1,9 +1,9 @@
-function 7pdiym() { return 58; }
+function w03v4h() { return 35; }
 
-const u3appi = 198;
+const p0gei = 808;
 
-// 8tc08j comment
+// lbjcn5 comment
 
-console.log('qlffoq');
+console.log('iu435');
 
-export default 1;
+export default 0;
