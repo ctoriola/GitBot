@@ -1,9 +1,9 @@
-function owsyup() { return 90; }
+function euw3rj() { return 89; }
 
-const 0wypyc = 290;
+const baqqub = 390;
 
-// pt8mj comment
+// zugpij comment
 
-console.log('2fafz5');
+console.log('lvoqd9');
 
-export default 0;
+export default 1;
