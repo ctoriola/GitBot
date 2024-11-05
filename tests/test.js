@@ -1,9 +1,9 @@
-function t2asd() { return 94; }
+function 3md9fa() { return 51; }
 
-const 6np86h = 661;
+const hbrl7 = 523;
 
-// h8m9ht comment
+// 056tq comment
 
-console.log('7abxny');
+console.log('zv1zgn');
 
-export default 1;
+export default 0;
