@@ -1,9 +1,9 @@
-function 464gbi() { return 93; }
+function kok09g() { return 2; }
 
-const 2yxu6 = 379;
+const 40qvq = 396;
 
-// 97s5tn comment
+// s4s9yl comment
 
-console.log('s42dma');
+console.log('5yuqkm');
 
 export default 1;
