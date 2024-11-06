@@ -1,9 +1,9 @@
-function ygn0fk() { return 34; }
+function sagzv() { return 8; }
 
-const h6fzgn = 780;
+const 8v8qj2 = 872;
 
-// lqso7 comment
+// rbqmnq comment
 
-console.log('asafcf');
+console.log('jfo2ui');
 
-export default 0;
+export default 1;
