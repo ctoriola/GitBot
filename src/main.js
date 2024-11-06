@@ -1,9 +1,9 @@
-function e3pd0c() { return 16; }
+function ygn0fk() { return 34; }
 
-const tmftfi = 921;
+const h6fzgn = 780;
 
-// zfnw4 comment
+// lqso7 comment
 
-console.log('jhbqr4');
+console.log('asafcf');
 
-export default 1;
+export default 0;
