@@ -1,9 +1,9 @@
-function bqv6dd() { return 37; }
+function 80x6w4() { return 31; }
 
-const 7hdjr4 = 947;
+const h40jai = 917;
 
-// ohl73r comment
+// nmjwa comment
 
-console.log('ctuo4');
+console.log('7kvael');
 
-export default 0;
+export default 1;
