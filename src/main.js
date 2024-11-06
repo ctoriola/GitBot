@@ -1,9 +1,9 @@
-function uzch6a() { return 13; }
+function swlmca() { return 87; }
 
-const f6ntw7 = 613;
+const bpoe3 = 190;
 
-// dx84mq comment
+// tgro2 comment
 
-console.log('qv6fdt');
+console.log('fkp6ub');
 
-export default 0;
+export default 1;
