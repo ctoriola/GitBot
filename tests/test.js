@@ -1,9 +1,9 @@
-function jb85un() { return 96; }
+function r3kday() { return 70; }
 
-const 3odmm = 435;
+const 6h203f = 353;
 
-// 92e1oz comment
+// 6vuy2p comment
 
-console.log('eu1ao');
+console.log('zoarn8');
 
-export default 1;
+export default 0;
