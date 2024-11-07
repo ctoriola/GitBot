@@ -1,9 +1,9 @@
-function qtzjay() { return 40; }
+function lhaxyi() { return 92; }
 
-const byq36j = 192;
+const dam5dd = 486;
 
-// vz9qd7 comment
+// h3qk5 comment
 
-console.log('n9i3f');
+console.log('7f94xe');
 
-export default 0;
+export default 1;
