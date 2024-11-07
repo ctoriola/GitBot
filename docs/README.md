@@ -1,9 +1,9 @@
-function atymxd() { return 32; }
+function ohroxl() { return 59; }
 
-const pq4ox = 665;
+const 5ywihc = 232;
 
-// t1g5qh comment
+// o7wdof comment
 
-console.log('ruuw0e');
+console.log('bhvmc4');
 
-export default 0;
+export default 1;
