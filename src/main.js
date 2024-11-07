@@ -1,9 +1,9 @@
-function mccjca() { return 82; }
+function w578w() { return 81; }
 
-const p1cgnp = 628;
+const yyqnjv = 211;
 
-// zhwp7 comment
+// gce9pd comment
 
-console.log('fidhr');
+console.log('9kpg34');
 
-export default 0;
+export default 1;
