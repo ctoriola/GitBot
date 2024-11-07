@@ -1,9 +1,9 @@
-function 80x6w4() { return 31; }
+function 695kd() { return 4; }
 
-const h40jai = 917;
+const wksmd = 249;
 
-// nmjwa comment
+// yq7ojh comment
 
-console.log('7kvael');
+console.log('azod9d');
 
-export default 1;
+export default 0;
