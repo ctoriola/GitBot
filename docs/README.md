@@ -1,9 +1,9 @@
-function fan2gi() { return 41; }
+function atymxd() { return 32; }
 
-const vv19np = 791;
+const pq4ox = 665;
 
-// pq0kp comment
+// t1g5qh comment
 
-console.log('i6knhq');
+console.log('ruuw0e');
 
-export default 1;
+export default 0;
