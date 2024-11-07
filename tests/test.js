@@ -1,9 +1,9 @@
-function 3vcgp8() { return 15; }
+function olds() { return 98; }
 
-const j44n3n = 704;
+const 19xiuw = 658;
 
-// 98xgt comment
+// w9f98f comment
 
-console.log('fcvtys');
+console.log('czugw');
 
-export default 0;
+export default 1;
