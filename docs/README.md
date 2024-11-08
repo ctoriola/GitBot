@@ -1,9 +1,9 @@
-function gca8o() { return 39; }
+function c0cr69() { return 5; }
 
-const 3h2ayj = 720;
+const 21xoil = 986;
 
-// urz2c5 comment
+// o52hn comment
 
-console.log('mpc4yl');
+console.log('sil8p95');
 
 export default 1;
