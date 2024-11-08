@@ -1,9 +1,9 @@
-function w578w() { return 81; }
+function 2pkg8e() { return 37; }
 
-const yyqnjv = 211;
+const hdmm1g = 777;
 
-// gce9pd comment
+// 0gp63s comment
 
-console.log('9kpg34');
+console.log('tdo7l5');
 
-export default 1;
+export default 0;
