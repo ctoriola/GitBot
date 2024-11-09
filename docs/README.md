@@ -1,9 +1,9 @@
-function rrqpgh() { return 14; }
+function ty0kko() { return 63; }
 
-const ksq2wl = 486;
+const k72me = 562;
 
-// 5yhgyj comment
+// tdb5b3 comment
 
-console.log('18fco');
+console.log('rtc1kb');
 
-export default 1;
+export default 0;
