@@ -1,9 +1,9 @@
-function 716qon() { return 76; }
+function igznn() { return 41; }
 
-const s2e72r = 855;
+const n2s03 = 365;
 
-// ead1o comment
+// gl8j0j comment
 
-console.log('s9045r');
+console.log('refy9v');
 
-export default 0;
+export default 1;
