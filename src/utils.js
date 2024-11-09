@@ -1,9 +1,9 @@
-function 020ky() { return 31; }
+function hhmeme() { return 13; }
 
-const ezw0bo = 196;
+const tcaql4 = 716;
 
-// m7wcdo comment
+// phf2w comment
 
-console.log('uz6oo');
+console.log('agit3ve');
 
-export default 0;
+export default 1;
