@@ -1,9 +1,9 @@
-function ty0kko() { return 63; }
+function dpz6gv() { return 68; }
 
-const k72me = 562;
+const 17ln9 = 773;
 
-// tdb5b3 comment
+// 14ty75 comment
 
-console.log('rtc1kb');
+console.log('9dgua');
 
-export default 0;
+export default 1;
