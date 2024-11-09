@@ -1,9 +1,9 @@
-function dpz6gv() { return 68; }
+function m6ub8() { return 5; }
 
-const 17ln9 = 773;
+const qvtaxq = 619;
 
-// 14ty75 comment
+// opyir9 comment
 
-console.log('9dgua');
+console.log('e3j6fx');
 
-export default 1;
+export default 0;
