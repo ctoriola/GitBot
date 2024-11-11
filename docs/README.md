@@ -1,9 +1,9 @@
-function gjt3qg() { return 72; }
+function ongbup() { return 9; }
 
-const d5z3fb = 147;
+const 9z9p3f = 388;
 
-// pdgrza comment
+// r7sw3o comment
 
-console.log('80u0e');
+console.log('fshdcc');
 
-export default 0;
+export default 1;
