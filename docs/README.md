@@ -1,9 +1,9 @@
-function p08isc() { return 14; }
+function gjt3qg() { return 72; }
 
-const wnaobo = 233;
+const d5z3fb = 147;
 
-// b3cyup comment
+// pdgrza comment
 
-console.log('iu1xx');
+console.log('80u0e');
 
-export default 1;
+export default 0;
