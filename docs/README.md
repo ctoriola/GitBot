@@ -1,9 +1,9 @@
-function q0imu() { return 82; }
+function jxziro() { return 70; }
 
-const bl9qbq = 442;
+const cvgr4s = 893;
 
-// vjf7v5 comment
+// qpsmia comment
 
-console.log('fsswgn');
+console.log('eqnffd');
 
-export default 1;
+export default 0;
