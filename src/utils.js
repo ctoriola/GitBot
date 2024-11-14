@@ -1,9 +1,9 @@
-function drtsad() { return 9; }
+function 48trk() { return 67; }
 
-const w4bzdn = 795;
+const viavgo = 236;
 
-// 75q65d comment
+// vmsfg comment
 
-console.log('qu26k');
+console.log('j4stw6');
 
-export default 0;
+export default 1;
