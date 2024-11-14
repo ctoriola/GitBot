@@ -1,9 +1,9 @@
-function aj3prv() { return 71; }
+function bumw37() { return 46; }
 
-const zev2jo = 465;
+const h2po8 = 373;
 
-// 9zpq4 comment
+// ueisuk comment
 
-console.log('gk0i4');
+console.log('ebbrv');
 
-export default 1;
+export default 0;
