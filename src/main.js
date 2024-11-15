@@ -1,9 +1,9 @@
-function nfzgra() { return 12; }
+function yny5i3() { return 14; }
 
-const c6loxp = 707;
+const m723kn = 483;
 
-// rmvoqj comment
+// wjszoi comment
 
-console.log('u42ba');
+console.log('f64im');
 
-export default 1;
+export default 0;
