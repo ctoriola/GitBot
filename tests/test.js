@@ -1,9 +1,9 @@
-function es65re() { return 51; }
+function 7nua6aa() { return 69; }
 
-const lowgb = 585;
+const s6ad7q = 155;
 
-// 4glzko comment
+// tke2ed comment
 
-console.log('e3p7t4');
+console.log('ro3uv');
 
-export default 1;
+export default 0;
