@@ -1,9 +1,9 @@
-function b9tcw() { return 16; }
+function b9yfao() { return 84; }
 
-const u16q2e = 488;
+const dicwh4 = 592;
 
-// e7ooab comment
+// nefr2a comment
 
-console.log('jmmrtk');
+console.log('agzncp');
 
 export default 0;
