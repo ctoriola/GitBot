@@ -1,9 +1,9 @@
-function yny5i3() { return 14; }
+function 08hv0f() { return 80; }
 
-const m723kn = 483;
+const 504khw = 232;
 
-// wjszoi comment
+// kpw6mi comment
 
-console.log('f64im');
+console.log('ayc6xx');
 
-export default 0;
+export default 1;
