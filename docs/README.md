@@ -1,9 +1,9 @@
-function w6mej5() { return 13; }
+function b9tcw() { return 16; }
 
-const dm3l3 = 608;
+const u16q2e = 488;
 
-// d000ub comment
+// e7ooab comment
 
-console.log('evpspfl');
+console.log('jmmrtk');
 
-export default 1;
+export default 0;
