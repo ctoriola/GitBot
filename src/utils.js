@@ -1,9 +1,9 @@
-function q33h() { return 12; }
+function vkj26e() { return 87; }
 
-const sqwe7 = 980;
+const rho80d = 129;
 
-// bfto6bq comment
+// sesq7f comment
 
-console.log('7pt8c');
+console.log('n8k95i');
 
-export default 0;
+export default 1;
