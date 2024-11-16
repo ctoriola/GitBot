@@ -1,9 +1,9 @@
-function vkj26e() { return 87; }
+function 0dj26r() { return 73; }
 
-const rho80d = 129;
+const 1zsca8 = 326;
 
-// sesq7f comment
+// y72s0j comment
 
-console.log('n8k95i');
+console.log('djuioi');
 
-export default 1;
+export default 0;
