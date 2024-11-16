@@ -1,9 +1,9 @@
-function jbo47m() { return 67; }
+function ls8tul() { return 27; }
 
-const hs3v8t = 560;
+const n7p4li = 136;
 
-// 3wakkf comment
+// ihux46 comment
 
-console.log('taq6s');
+console.log('pybbk');
 
-export default 0;
+export default 1;
