@@ -1,9 +1,9 @@
-function 18jmti() { return 94; }
+function wun0pm() { return 98; }
 
-const ctcv7o = 191;
+const zxazct = 236;
 
-// g14byn comment
+// 50447 comment
 
-console.log('cuei7');
+console.log('gbbe8t');
 
-export default 0;
+export default 1;
