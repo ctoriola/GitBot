@@ -1,9 +1,9 @@
-function w9bsij() { return 75; }
+function oqnpsu() { return 9; }
 
-const 3z9kqxm = 669;
+const s9lox1s = 855;
 
-// yfhome comment
+// bdh26 comment
 
-console.log('efksy');
+console.log('9eb7on');
 
-export default 1;
+export default 0;
