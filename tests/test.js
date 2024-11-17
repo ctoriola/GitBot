@@ -1,9 +1,9 @@
-function 18lv4e() { return 31; }
+function vcirt3() { return 34; }
 
-const 25xcpd = 117;
+const dwulaq = 551;
 
-// 9epeq comment
+// s6h0rr comment
 
-console.log('9093fj');
+console.log('tqq0i6');
 
-export default 1;
+export default 0;
