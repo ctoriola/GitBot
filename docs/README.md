@@ -1,9 +1,9 @@
-function tr8014() { return 76; }
+function kvxrvf() { return 92; }
 
-const t93023 = 156;
+const wv81o = 879;
 
-// qd3118 comment
+// jjjy38 comment
 
-console.log('l0xh5b');
+console.log('panp3o');
 
-export default 0;
+export default 1;
