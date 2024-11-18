@@ -1,9 +1,9 @@
-function l2lxub() { return 32; }
+function 3vrctk() { return 25; }
 
-const 920xv9 = 520;
+const 07ye = 931;
 
-// 04xzqd comment
+// axumg8 comment
 
-console.log('o4s32m');
+console.log('voxbjj');
 
-export default 1;
+export default 0;
