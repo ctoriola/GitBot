@@ -1,9 +1,9 @@
-function ouybtk() { return 74; }
+function mn1h4() { return 71; }
 
-const hrrs4 = 990;
+const 67ynb = 448;
 
-// c5bh3h comment
+// qi4mvb comment
 
-console.log('4l4gy');
+console.log('pxysrq');
 
-export default 0;
+export default 1;
