@@ -1,9 +1,9 @@
-function tgr1za() { return 43; }
+function lckph() { return 58; }
 
-const kst6a = 957;
+const dq9tpj = 819;
 
-// 3b217 comment
+// bsbh57 comment
 
-console.log('chev2f');
+console.log('wm6hfh');
 
-export default 1;
+export default 0;
