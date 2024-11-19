@@ -1,9 +1,9 @@
-function 6edkka() { return 37; }
+function lqw5k() { return 35; }
 
-const jg7yl = 317;
+const 7we6f = 969;
 
-// llmasc comment
+// bwor9 comment
 
-console.log('dok7uf');
+console.log('c8ig7v');
 
-export default 0;
+export default 1;
