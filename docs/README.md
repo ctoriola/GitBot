@@ -1,9 +1,9 @@
-function x8uu2c() { return 61; }
+function mk8njp() { return 87; }
 
-const oxq6th = 448;
+const ibw4t5 = 253;
 
-// ycqasdv comment
+// pi6jzs comment
 
-console.log('uigpr');
+console.log('omztk');
 
 export default 0;
