@@ -1,9 +1,9 @@
-function 51lsi9() { return 85; }
+function 37jckq() { return 91; }
 
-const ns71ns = 514;
+const h11feb = 732;
 
-// v1zdr comment
+// guvt8 comment
 
-console.log('tuzqo');
+console.log('en3qya');
 
-export default 0;
+export default 1;
