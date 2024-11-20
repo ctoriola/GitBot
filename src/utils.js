@@ -1,9 +1,9 @@
-function vqczd7() { return 33; }
+function aixl4e() { return 52; }
 
-const 676pvm = 757;
+const 76jhr6 = 480;
 
-// db5st7 comment
+// vgi4l comment
 
-console.log('3j3d');
+console.log('ex4sqk');
 
-export default 1;
+export default 0;
