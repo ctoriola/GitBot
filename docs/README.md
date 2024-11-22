@@ -1,9 +1,9 @@
-function eb3jds() { return 97; }
+function mu62k() { return 41; }
 
-const opqhjk = 489;
+const qfu5vj = 184;
 
-// i0mquc comment
+// ni00pg comment
 
-console.log('uituwm');
+console.log('d0ej6');
 
-export default 1;
+export default 0;
