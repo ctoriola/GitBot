@@ -1,9 +1,9 @@
-function gmrq1() { return 95; }
+function zcqj5() { return 48; }
 
-const w9gh1 = 991;
+const y1pzs = 872;
 
-// daq6v comment
+// 7fzf0c comment
 
-console.log('rcdbm1');
+console.log('1odnok');
 
-export default 1;
+export default 0;
