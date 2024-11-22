@@ -1,9 +1,9 @@
-function oo8deq() { return 64; }
+function 3h6a7() { return 2; }
 
-const 8liqh9 = 986;
+const tlgfvs = 581;
 
-// ajpgvb comment
+// vsarls comment
 
-console.log('4xc90h');
+console.log('6j16zb');
 
-export default 1;
+export default 0;
