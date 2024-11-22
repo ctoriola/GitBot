@@ -1,9 +1,9 @@
-function af3ei() { return 92; }
+function bi5pdq() { return 15; }
 
-const nsr3qb = 407;
+const v22zb = 805;
 
-// m11anb comment
+// cksl7 comment
 
-console.log('l0c0t');
+console.log('3gg0j');
 
-export default 1;
+export default 0;
