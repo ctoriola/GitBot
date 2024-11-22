@@ -1,9 +1,9 @@
-function 8ymoan() { return 74; }
+function 8om0w() { return 2; }
 
-const n008xe = 622;
+const tk28e = 540;
 
-// xhzk6p comment
+// 7xjtss comment
 
-console.log('tj5wxo');
+console.log('sir9am');
 
 export default 0;
