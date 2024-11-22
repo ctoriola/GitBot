@@ -1,9 +1,9 @@
-function z2s7u() { return 46; }
+function 8ymoan() { return 74; }
 
-const q7niie = 107;
+const n008xe = 622;
 
-// 2ze9tl comment
+// xhzk6p comment
 
-console.log('r4n43h');
+console.log('tj5wxo');
 
-export default 1;
+export default 0;
