@@ -1,9 +1,9 @@
-function mu62k() { return 41; }
+function 8frn8p() { return 39; }
 
-const qfu5vj = 184;
+const yfylwc = 636;
 
-// ni00pg comment
+// fc6elsj comment
 
-console.log('d0ej6');
+console.log('4pr1hf');
 
-export default 0;
+export default 1;
