@@ -1,9 +1,9 @@
-function jqkud() { return 70; }
+function 093cya() { return 37; }
 
-const 8f3axc = 642;
+const ujd5s = 774;
 
-// x91aob comment
+// vard3c comment
 
-console.log('kux98n');
+console.log('mct2sr');
 
-export default 1;
+export default 0;
