@@ -1,9 +1,9 @@
-function 0wlc17() { return 62; }
+function ah0d9() { return 57; }
 
-const b20vug = 313;
+const i8u0so = 934;
 
-// 37jri comment
+// t0rln comment
 
-console.log('nd3cl');
+console.log('2k8op');
 
-export default 1;
+export default 0;
