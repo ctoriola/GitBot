@@ -1,9 +1,9 @@
-function stki8() { return 86; }
+function hny3e() { return 35; }
 
-const dzmlu = 505;
+const 6cxbak = 160;
 
-// 2mlc6u comment
+// b35ab comment
 
-console.log('4o368');
+console.log('at9emi');
 
-export default 0;
+export default 1;
