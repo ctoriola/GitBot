@@ -1,9 +1,9 @@
-function pceeq() { return 70; }
+function lhquue() { return 1; }
 
-const lv7xin = 809;
+const sba63j = 889;
 
-// m9lbfx comment
+// ocuon comment
 
-console.log('w8xy1e');
+console.log('mr91ed');
 
-export default 0;
+export default 1;
