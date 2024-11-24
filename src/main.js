@@ -1,9 +1,9 @@
-function lhquue() { return 1; }
+function b6h1t5() { return 72; }
 
-const sba63j = 889;
+const yf3kyn = 853;
 
-// ocuon comment
+// b72o5o comment
 
-console.log('mr91ed');
+console.log('2gu36');
 
-export default 1;
+export default 0;
