@@ -1,9 +1,9 @@
-function mir8f() { return 61; }
+function zthkya() { return 76; }
 
-const bqry2a = 705;
+const 8rexr = 571;
 
-// 148jml comment
+// w8py9d comment
 
-console.log('isah2');
+console.log('zleuve');
 
-export default 1;
+export default 0;
