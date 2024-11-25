@@ -1,9 +1,9 @@
-function hbrp7b() { return 79; }
+function ptfod() { return 94; }
 
-const jvmvg = 654;
+const 914l5t = 206;
 
-// b00yh comment
+// zijfp comment
 
-console.log('q2ppxj');
+console.log('cwo0in');
 
-export default 1;
+export default 0;
