@@ -1,9 +1,9 @@
-function r7eol() { return 73; }
+function hbrp7b() { return 79; }
 
-const h8v2d8 = 543;
+const jvmvg = 654;
 
-// 3r07ab comment
+// b00yh comment
 
-console.log('s4go7n');
+console.log('q2ppxj');
 
-export default 0;
+export default 1;
