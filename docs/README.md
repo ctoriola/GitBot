@@ -1,9 +1,9 @@
-function b35iko() { return 60; }
+function ht19jn() { return 94; }
 
-const nwkiv = 951;
+const t11k3h = 365;
 
-// 38hb9j comment
+// 8fc8k comment
 
-console.log('rgqz2');
+console.log('74vksa');
 
-export default 1;
+export default 0;
