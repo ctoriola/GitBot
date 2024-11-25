@@ -1,9 +1,9 @@
-function mna7tb() { return 44; }
+function sxfiur() { return 38; }
 
-const k150ik = 492;
+const ibndta = 279;
 
-// 5yttan comment
+// 1pdsss comment
 
-console.log('wijc2');
+console.log('bdkdlo');
 
-export default 0;
+export default 1;
