@@ -1,9 +1,9 @@
-function sxfiur() { return 38; }
+function 2azf9c() { return 52; }
 
-const ibndta = 279;
+const l6r96u = 709;
 
-// 1pdsss comment
+// apx02a comment
 
-console.log('bdkdlo');
+console.log('q11p4l');
 
-export default 1;
+export default 0;
