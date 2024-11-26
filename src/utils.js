@@ -1,9 +1,9 @@
-function x2b5c7() { return 88; }
+function 9urdid() { return 40; }
 
-const m8cuur = 580;
+const pipc5h = 115;
 
-// b8sell comment
+// i4lkr comment
 
-console.log('30h91');
+console.log('873gh');
 
-export default 0;
+export default 1;
