@@ -1,9 +1,9 @@
-function 27ca1s() { return 94; }
+function esdp2c() { return 71; }
 
-const 7y6l9h = 162;
+const tgsqc4 = 987;
 
-// 94tpms comment
+// 4p5eee comment
 
-console.log('5efci');
+console.log('04gi5s');
 
-export default 1;
+export default 0;
