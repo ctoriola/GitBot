@@ -1,9 +1,9 @@
-function nclqq6() { return 86; }
+function nr46h6() { return 90; }
 
-const y4ls84 = 529;
+const iv111 = 360;
 
-// lshhr6 comment
+// 9cekp7 comment
 
-console.log('avemlm');
+console.log('svwb4j');
 
-export default 0;
+export default 1;
