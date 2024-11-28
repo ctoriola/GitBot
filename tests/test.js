@@ -1,9 +1,9 @@
-function xq0j2() { return 20; }
+function 8hgx25() { return 27; }
 
-const n35ke = 937;
+const gk37sl = 617;
 
-// u93ny comment
+// 1o96zl comment
 
-console.log('hdk27b');
+console.log('giwjf');
 
-export default 1;
+export default 0;
