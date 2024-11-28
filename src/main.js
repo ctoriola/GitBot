@@ -1,9 +1,9 @@
-function obapp() { return 20; }
+function 47pn8r() { return 61; }
 
-const qb5dw = 538;
+const upt0an = 854;
 
-// 92ggmo comment
+// 9t93nf comment
 
-console.log('dqgwpb');
+console.log('o218f');
 
-export default 1;
+export default 0;
