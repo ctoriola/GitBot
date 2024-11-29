@@ -1,9 +1,9 @@
-function 47pn8r() { return 61; }
+function nzwi3() { return 47; }
 
-const upt0an = 854;
+const ida9gwc = 200;
 
-// 9t93nf comment
+// eoxl4c comment
 
-console.log('o218f');
+console.log('pmss5g');
 
-export default 0;
+export default 1;
