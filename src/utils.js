@@ -1,9 +1,9 @@
-function ozhua() { return 67; }
+function worogq() { return 14; }
 
-const ek82r9 = 668;
+const hoogzp = 848;
 
-// 7xnt2c comment
+// oyyw2 comment
 
-console.log('wnpio0a');
+console.log('23pkz');
 
-export default 0;
+export default 1;
