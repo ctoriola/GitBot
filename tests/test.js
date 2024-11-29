@@ -1,9 +1,9 @@
-function f5e27() { return 4; }
+function ptahkp() { return 26; }
 
-const qu3ca4 = 371;
+const u8v5xh = 757;
 
-// zawk0n comment
+// goqgi comment
 
-console.log('8ttur4');
+console.log('czog3c');
 
 export default 1;
