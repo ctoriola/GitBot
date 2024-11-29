@@ -1,9 +1,9 @@
-function v3cio() { return 47; }
+function xgkqr() { return 4; }
 
-const 8tl3dn = 177;
+const 6zenub = 418;
 
-// zzdns comment
+// ioz1b4 comment
 
-console.log('k6a32i');
+console.log('1bzr0q');
 
-export default 1;
+export default 0;
