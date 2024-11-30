@@ -1,9 +1,9 @@
-function jcfz9d() { return 6; }
+function j0237cv() { return 32; }
 
-const rm0k9l = 505;
+const dv4oao = 929;
 
-// bq6it5 comment
+// ealptj comment
 
-console.log('67lh78');
+console.log('8wbhgi');
 
-export default 0;
+export default 1;
