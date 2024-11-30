@@ -1,9 +1,9 @@
-function j0237cv() { return 32; }
+function sw8vbu() { return 50; }
 
-const dv4oao = 929;
+const fzpu09 = 486;
 
-// ealptj comment
+// zxesd comment
 
-console.log('8wbhgi');
+console.log('v0uh2h');
 
-export default 1;
+export default 0;
