@@ -1,9 +1,9 @@
-function l2tjk8() { return 43; }
+function c6cdvo() { return 80; }
 
-const 3rpjr8 = 484;
+const sk0mxf = 386;
 
-// 44h044 comment
+// ggmvr comment
 
-console.log('butd5i');
+console.log('gcdbt');
 
 export default 0;
