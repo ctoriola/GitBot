@@ -1,9 +1,9 @@
-function rfr87o() { return 97; }
+function yor6() { return 68; }
 
-const wrf22m = 149;
+const yjsid = 939;
 
-// 8rqxi8 comment
+// lbnthw comment
 
-console.log('ngeix4');
+console.log('u5ysl');
 
-export default 0;
+export default 1;
