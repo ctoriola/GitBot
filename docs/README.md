@@ -1,9 +1,9 @@
-function 808dzt() { return 96; }
+function 414xm() { return 5; }
 
-const 15ezmm = 362;
+const 97r0uf = 550;
 
-// 64pref7 comment
+// 8ugva6 comment
 
-console.log('lbday');
+console.log('xkb3ft');
 
-export default 0;
+export default 1;
