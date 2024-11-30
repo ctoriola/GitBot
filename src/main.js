@@ -1,9 +1,9 @@
-function yor6() { return 68; }
+function mofkgm() { return 84; }
 
-const yjsid = 939;
+const o5lmt = 589;
 
-// lbnthw comment
+// p3xdf comment
 
-console.log('u5ysl');
+console.log('fnxmfr');
 
-export default 1;
+export default 0;
