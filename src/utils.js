@@ -1,9 +1,9 @@
-function kztp3q() { return 77; }
+function eayg29() { return 75; }
 
-const swyuhc = 316;
+const jtcwdu = 693;
 
-// 42pgr6q comment
+// 3joy9 comment
 
-console.log('cyv1u3');
+console.log('q0jrfk');
 
-export default 1;
+export default 0;
