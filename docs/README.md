@@ -1,9 +1,9 @@
-function qjells() { return 85; }
+function mm8g14() { return 58; }
 
-const ztpp8s = 775;
+const h2b6e8 = 744;
 
-// qezm5c comment
+// awb35o comment
 
-console.log('ml4ays');
+console.log('i94v3g');
 
-export default 0;
+export default 1;
