@@ -1,9 +1,9 @@
-function ixquak() { return 88; }
+function koushd() { return 58; }
 
-const 2uv4pt = 993;
+const dtdk7g = 730;
 
-// 3icall comment
+// 3thnss comment
 
-console.log('i7h3f');
+console.log('5mz6ag');
 
-export default 0;
+export default 1;
