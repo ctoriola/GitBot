@@ -1,9 +1,9 @@
-function 8qmjeg() { return 74; }
+function nid2tr() { return 48; }
 
-const chfocj = 564;
+const ilp2zs = 927;
 
-// osly comment
+// 9vt29n comment
 
-console.log('qf6jtx');
+console.log('vsszxt');
 
-export default 0;
+export default 1;
