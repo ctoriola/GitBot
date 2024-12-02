@@ -1,9 +1,9 @@
-function mm8g14() { return 58; }
+function zrzm98() { return 100; }
 
-const h2b6e8 = 744;
+const nw5cvq = 814;
 
-// awb35o comment
+// lp7skj comment
 
-console.log('i94v3g');
+console.log('t2kyjd');
 
-export default 1;
+export default 0;
