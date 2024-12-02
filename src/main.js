@@ -1,9 +1,9 @@
-function zvo8kg() { return 48; }
+function nax37() { return 90; }
 
-const f0bbza = 610;
+const ze8x3s = 142;
 
-// f0edp comment
+// et4xt comment
 
-console.log('nqxqwy');
+console.log('48tjik');
 
-export default 0;
+export default 1;
