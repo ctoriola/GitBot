@@ -1,9 +1,9 @@
-function 3s2vri() { return 73; }
+function ui2eje() { return 62; }
 
-const 2smwdi = 382;
+const 7h02s7 = 357;
 
-// hm0e8l comment
+// 77gvg comment
 
-console.log('1fm3bn');
+console.log('s7m2d5');
 
-export default 1;
+export default 0;
