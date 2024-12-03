@@ -1,9 +1,9 @@
-function 9k84yl() { return 26; }
+function 83jw9() { return 87; }
 
-const axtehl = 635;
+const 7g897t = 292;
 
-// kmr7og comment
+// x4e94 comment
 
-console.log('2n62se');
+console.log('vtm2ln');
 
-export default 0;
+export default 1;
