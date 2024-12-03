@@ -1,9 +1,9 @@
-function wc1m9() { return 66; }
+function 0lzoia() { return 70; }
 
-const tymo1p = 730;
+const dgqe4a = 211;
 
-// gfjqo comment
+// vy5jgin comment
 
-console.log('n786sp');
+console.log('ysthpm');
 
-export default 0;
+export default 1;
