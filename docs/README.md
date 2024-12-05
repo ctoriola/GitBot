@@ -1,9 +1,9 @@
-function bbame() { return 79; }
+function 7b0a7a() { return 75; }
 
-const dx5zng = 720;
+const 7igu0v = 404;
 
-// 0xlgnp comment
+// sv5xw comment
 
-console.log('jafr0q');
+console.log('s7xq5l');
 
-export default 0;
+export default 1;
