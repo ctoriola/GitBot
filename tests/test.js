@@ -1,9 +1,9 @@
-function 06xtn6() { return 47; }
+function yu1q1u() { return 25; }
 
-const vhs4yl = 763;
+const y506ys = 363;
 
-// 253t98 comment
+// 1v8nu comment
 
-console.log('za9cxb');
+console.log('4wgo7');
 
-export default 0;
+export default 1;
