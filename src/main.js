@@ -1,9 +1,9 @@
-function wpsr9l() { return 91; }
+function ks3hsp() { return 32; }
 
-const gwdkdr = 692;
+const 4b1yb = 296;
 
-// 10z3ig comment
+// lm4z9h comment
 
-console.log('118xg');
+console.log('8jbmwn');
 
 export default 0;
