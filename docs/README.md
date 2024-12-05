@@ -1,9 +1,9 @@
-function fo0nb() { return 100; }
+function oc52pyl() { return 62; }
 
-const oa9cv = 533;
+const 0o8e2u = 695;
 
-// 0x8gya comment
+// astya comment
 
-console.log('4glewk');
+console.log('i5uu2u');
 
-export default 1;
+export default 0;
