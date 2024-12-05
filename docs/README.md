@@ -1,9 +1,9 @@
-function lolhdo() { return 43; }
+function fjky7l() { return 25; }
 
-const tiu7o9 = 186;
+const njbuyf = 530;
 
-// auieua comment
+// 49f1es comment
 
-console.log('1u757');
+console.log('r4a5wpg');
 
-export default 0;
+export default 1;
