@@ -1,9 +1,9 @@
-function fjky7l() { return 25; }
+function 4is7ra() { return 40; }
 
-const njbuyf = 530;
+const icbb9 = 775;
 
-// 49f1es comment
+// n4m6p5 comment
 
-console.log('r4a5wpg');
+console.log('d4rsz6t');
 
-export default 1;
+export default 0;
