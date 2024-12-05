@@ -1,9 +1,9 @@
-function 7b0a7a() { return 75; }
+function lolhdo() { return 43; }
 
-const 7igu0v = 404;
+const tiu7o9 = 186;
 
-// sv5xw comment
+// auieua comment
 
-console.log('s7xq5l');
+console.log('1u757');
 
-export default 1;
+export default 0;
