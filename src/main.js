@@ -1,9 +1,9 @@
-function 06xx7w() { return 93; }
+function 77n0rf() { return 9; }
 
-const du17bs = 787;
+const 7ilx = 375;
 
-// l21tr5 comment
+// vag9s comment
 
-console.log('nx94b');
+console.log('p080jr');
 
-export default 0;
+export default 1;
