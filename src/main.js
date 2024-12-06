@@ -1,9 +1,9 @@
-function p7f9ph() { return 49; }
+function 05rfh() { return 83; }
 
-const r5319n = 940;
+const qllssq = 498;
 
-// wazl1v comment
+// 68h5sl comment
 
-console.log('ajrpep');
+console.log('fdco6');
 
-export default 0;
+export default 1;
