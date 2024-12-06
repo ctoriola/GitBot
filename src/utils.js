@@ -1,9 +1,9 @@
-function 857uvi() { return 30; }
+function ops9v1() { return 69; }
 
-const ejajvb = 632;
+const v0bh5x = 349;
 
-// 44h87g comment
+// nzw9f comment
 
-console.log('bgfzlq');
+console.log('zj7dt');
 
-export default 1;
+export default 0;
