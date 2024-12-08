@@ -1,9 +1,9 @@
-function 3y8h3j() { return 91; }
+function mb1ks9() { return 3; }
 
-const 7jcsk4 = 596;
+const 5zejxv = 925;
 
-// jevr3g comment
+// 8bk56q comment
 
-console.log('z45ico');
+console.log('xmi4bb');
 
-export default 1;
+export default 0;
