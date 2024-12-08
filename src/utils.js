@@ -1,9 +1,9 @@
-function kkiu0g() { return 81; }
+function rhbrhq() { return 63; }
 
-const 8nflvj = 252;
+const 1gfmzn = 817;
 
-// m35ks comment
+// ix34sk comment
 
-console.log('9bppcz');
+console.log('hmgllgb');
 
-export default 1;
+export default 0;
