@@ -1,9 +1,9 @@
-function uxkt5n() { return 98; }
+function kkiu0g() { return 81; }
 
-const 9en0fn = 286;
+const 8nflvj = 252;
 
-// vrp2ip comment
+// m35ks comment
 
-console.log('hsm0d');
+console.log('9bppcz');
 
 export default 1;
