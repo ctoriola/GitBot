@@ -1,9 +1,9 @@
-function rhbrhq() { return 63; }
+function zkkipz() { return 69; }
 
-const 1gfmzn = 817;
+const ej1ix = 571;
 
-// ix34sk comment
+// g5515t comment
 
-console.log('hmgllgb');
+console.log('rrndym');
 
-export default 0;
+export default 1;
