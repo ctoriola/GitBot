@@ -1,9 +1,9 @@
-function roy6iy() { return 85; }
+function 36gbva() { return 84; }
 
-const mbc8u = 249;
+const c1h0d = 632;
 
-// pde36w comment
+// 26xpty comment
 
-console.log('3ln2am');
+console.log('mvzuks');
 
-export default 0;
+export default 1;
