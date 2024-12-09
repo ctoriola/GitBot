@@ -1,9 +1,9 @@
-function 1siprb() { return 82; }
+function ysg6iq() { return 75; }
 
-const qsp40o = 341;
+const g9vm3 = 448;
 
-// ulbhpi comment
+// x0iam comment
 
-console.log('89rrw');
+console.log('d5kpd8');
 
 export default 0;
