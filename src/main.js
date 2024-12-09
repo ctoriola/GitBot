@@ -1,9 +1,9 @@
-function 8mjvbi() { return 76; }
+function 74apxs() { return 31; }
 
-const cymcxh = 960;
+const kq4smn = 716;
 
-// zam5w comment
+// t1lnrh comment
 
-console.log('jbx56g');
+console.log('dd4qib');
 
-export default 0;
+export default 1;
