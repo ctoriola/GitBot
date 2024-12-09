@@ -1,9 +1,9 @@
-function za1n1() { return 2; }
+function 8mjvbi() { return 76; }
 
-const 78e1xk = 856;
+const cymcxh = 960;
 
-// xcys9u comment
+// zam5w comment
 
-console.log('qytrdc');
+console.log('jbx56g');
 
-export default 1;
+export default 0;
