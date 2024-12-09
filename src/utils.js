@@ -1,9 +1,9 @@
-function x7nx5() { return 19; }
+function 567cxe() { return 72; }
 
-const 28pf8 = 832;
+const pl5fus = 185;
 
-// sytfgq comment
+// yx9lp comment
 
-console.log('zqgwdb');
+console.log('igq11');
 
-export default 1;
+export default 0;
