@@ -1,9 +1,9 @@
-function 0eek9m() { return 94; }
+function 1siprb() { return 82; }
 
-const lutmym = 355;
+const qsp40o = 341;
 
-// 8jzxu6 comment
+// ulbhpi comment
 
-console.log('ng9dwi');
+console.log('89rrw');
 
-export default 1;
+export default 0;
