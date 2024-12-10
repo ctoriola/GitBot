@@ -1,9 +1,9 @@
-function 32iafz() { return 36; }
+function gd8wf() { return 51; }
 
-const 8xg99n = 340;
+const fbgwei = 378;
 
-// 2d8umpb comment
+// 3kgrnu comment
 
-console.log('xbdoen');
+console.log('35k8vx');
 
-export default 0;
+export default 1;
