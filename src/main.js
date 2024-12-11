@@ -1,9 +1,9 @@
-function 06tqw6() { return 73; }
+function wt79uk() { return 43; }
 
-const 01ueuo = 609;
+const opi2or = 821;
 
-// gbcdq comment
+// s0x5ym comment
 
-console.log('av8ntu');
+console.log('8bqts');
 
-export default 0;
+export default 1;
