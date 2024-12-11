@@ -1,9 +1,9 @@
-function wt79uk() { return 43; }
+function 3mxx9o() { return 83; }
 
-const opi2or = 821;
+const dv6jo5 = 835;
 
-// s0x5ym comment
+// 4105uf comment
 
-console.log('8bqts');
+console.log('80o8v');
 
-export default 1;
+export default 0;
