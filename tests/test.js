@@ -1,9 +1,9 @@
-function aoalz() { return 27; }
+function qnod7n() { return 80; }
 
-const 6lvxd = 706;
+const kqdtm = 164;
 
-// wby7oqo comment
+// qvvfd comment
 
-console.log('32sr9');
+console.log('9br3hv');
 
-export default 1;
+export default 0;
