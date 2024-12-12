@@ -1,9 +1,9 @@
-function 0uzayq() { return 40; }
+function scqwjr() { return 9; }
 
-const 3pwjjm = 662;
+const obpq9j = 154;
 
-// eflox comment
+// vf17o comment
 
-console.log('vg2n6q');
+console.log('cw5fbn');
 
-export default 1;
+export default 0;
