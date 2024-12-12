@@ -1,9 +1,9 @@
-function z1pwmoj() { return 66; }
+function 0d7k6r() { return 57; }
 
-const 3ones = 297;
+const bt93ft = 203;
 
-// zldg33 comment
+// uz3p3p comment
 
-console.log('yx8cd');
+console.log('691onn');
 
-export default 0;
+export default 1;
