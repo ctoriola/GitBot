@@ -1,9 +1,9 @@
-function n9jg77() { return 56; }
+function wl9ycs() { return 98; }
 
-const wotmu = 452;
+const rct1ge = 350;
 
-// a99mq2 comment
+// nbi0f9 comment
 
-console.log('1l7zcp');
+console.log('xitr1g');
 
-export default 1;
+export default 0;
