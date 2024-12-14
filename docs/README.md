@@ -1,9 +1,9 @@
-function g14c() { return 59; }
+function ytursq() { return 35; }
 
-const fkx59d = 659;
+const 0wlo0l = 137;
 
-// qwco8g comment
+// 49v87n comment
 
-console.log('6q5co');
+console.log('h5emll');
 
-export default 1;
+export default 0;
