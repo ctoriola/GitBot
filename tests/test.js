@@ -1,9 +1,9 @@
-function tzwxib() { return 14; }
+function gqupl() { return 11; }
 
-const 3j5pnx = 615;
+const n67phr = 873;
 
-// gk995q comment
+// wfhq3 comment
 
-console.log('i0gbtr');
+console.log('8gukuw');
 
-export default 1;
+export default 0;
