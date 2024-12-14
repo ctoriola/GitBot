@@ -1,9 +1,9 @@
-function at6bxk() { return 32; }
+function h95w3() { return 48; }
 
-const 4ct9cf = 660;
+const pexz1i = 192;
 
-// vh6j0s comment
+// gk765 comment
 
-console.log('7anvgv');
+console.log('8nuwfw');
 
 export default 1;
