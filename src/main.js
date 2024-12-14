@@ -1,9 +1,9 @@
-function u95dg() { return 9; }
+function gzi8nr() { return 85; }
 
-const hr3nzp = 302;
+const ztgbma = 295;
 
-// 0pgip7 comment
+// 9w4eed comment
 
-console.log('gx9w1');
+console.log('m2wwo7');
 
-export default 1;
+export default 0;
