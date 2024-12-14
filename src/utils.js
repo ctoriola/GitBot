@@ -1,9 +1,9 @@
-function c8lnqm() { return 35; }
+function ptbrr() { return 33; }
 
-const f265a = 508;
+const r9kxcu = 380;
 
-// bpt5i comment
+// nli5wa comment
 
-console.log('iinda6');
+console.log('e1zfpb');
 
-export default 0;
+export default 1;
