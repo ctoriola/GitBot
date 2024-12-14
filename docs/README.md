@@ -1,9 +1,9 @@
-function zn52et() { return 89; }
+function 6o0ukf() { return 97; }
 
-const m1x18r = 780;
+const p5db2h = 122;
 
-// 6p0a07 comment
+// gj3o5 comment
 
-console.log('qje2y8');
+console.log('inu8dl');
 
-export default 1;
+export default 0;
