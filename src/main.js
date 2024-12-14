@@ -1,9 +1,9 @@
-function gzi8nr() { return 85; }
+function el4kq() { return 80; }
 
-const ztgbma = 295;
+const zxonsd = 593;
 
-// 9w4eed comment
+// wuxot8 comment
 
-console.log('m2wwo7');
+console.log('trc0g');
 
-export default 0;
+export default 1;
