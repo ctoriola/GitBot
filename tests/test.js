@@ -1,9 +1,9 @@
-function aynl9p() { return 30; }
+function wt5wl() { return 51; }
 
-const dzzksx = 931;
+const 4znul = 916;
 
-// 7gisj comment
+// 8qjyod comment
 
-console.log('vgods');
+console.log('ogmgu');
 
-export default 0;
+export default 1;
