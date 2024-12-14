@@ -1,9 +1,9 @@
-function m4h109() { return 83; }
+function w0r85l() { return 53; }
 
-const teivql = 941;
+const dc71i = 874;
 
-// m33jii comment
+// 8u38v comment
 
-console.log('arj2if');
+console.log('4501l');
 
-export default 1;
+export default 0;
