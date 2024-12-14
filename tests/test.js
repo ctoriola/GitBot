@@ -1,9 +1,9 @@
-function y3wun() { return 100; }
+function m4h109() { return 83; }
 
-const k6lroa = 748;
+const teivql = 941;
 
-// h7hboa comment
+// m33jii comment
 
-console.log('ev6a1u');
+console.log('arj2if');
 
-export default 0;
+export default 1;
