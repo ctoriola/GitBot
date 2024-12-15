@@ -1,9 +1,9 @@
-function f1q1jg() { return 84; }
+function as2v79() { return 60; }
 
-const 3cerf = 154;
+const pobw1p = 644;
 
-// jz9wyj comment
+// g1zdyg comment
 
-console.log('nnvkt');
+console.log('bifo7');
 
-export default 1;
+export default 0;
