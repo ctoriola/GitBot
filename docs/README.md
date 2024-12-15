@@ -1,9 +1,9 @@
-function as2v79() { return 60; }
+function y55ae9() { return 31; }
 
-const pobw1p = 644;
+const lsjnd = 806;
 
-// g1zdyg comment
+// vgxfun comment
 
-console.log('bifo7');
+console.log('qqvzkq');
 
-export default 0;
+export default 1;
