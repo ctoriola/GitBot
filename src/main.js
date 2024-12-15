@@ -1,9 +1,9 @@
-function ky7ii() { return 53; }
+function 9an8g() { return 57; }
 
-const vep3ui = 370;
+const azsz8o = 698;
 
-// 6ukhwp comment
+// umy7rl comment
 
-console.log('72aoqo');
+console.log('vjoel');
 
-export default 1;
+export default 0;
