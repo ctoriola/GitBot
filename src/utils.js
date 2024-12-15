@@ -1,9 +1,9 @@
-function cb0jf8() { return 28; }
+function 9m9dox() { return 21; }
 
-const efeiir = 737;
+const q70ust = 349;
 
-// i9hel comment
+// 8cbxva comment
 
-console.log('z25rjf');
+console.log('pz03bl');
 
-export default 0;
+export default 1;
