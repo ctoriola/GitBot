@@ -1,9 +1,9 @@
-function gjslu9() { return 58; }
+function rsrgc() { return 73; }
 
-const afhnu = 497;
+const 3rymn = 656;
 
-// j10m1 comment
+// pj3d1 comment
 
-console.log('ui2kqk');
+console.log('bvs0il');
 
-export default 1;
+export default 0;
