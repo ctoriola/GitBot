@@ -1,9 +1,9 @@
-function obpgbq() { return 49; }
+function v9wx3r() { return 63; }
 
-const c16o25 = 581;
+const meavtj = 541;
 
-// 2h3lfr comment
+// ic2h comment
 
-console.log('2vg1j9');
+console.log('r3lfc');
 
-export default 0;
+export default 1;
