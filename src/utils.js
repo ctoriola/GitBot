@@ -1,9 +1,9 @@
-function fgmtn2() { return 32; }
+function obpgbq() { return 49; }
 
-const 741e9i = 377;
+const c16o25 = 581;
 
-// ke397k comment
+// 2h3lfr comment
 
-console.log('latieo');
+console.log('2vg1j9');
 
-export default 1;
+export default 0;
