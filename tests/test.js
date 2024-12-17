@@ -1,9 +1,9 @@
-function 0aphib() { return 72; }
+function mn2ej9() { return 7; }
 
-const 94d2xr = 170;
+const 880gk = 669;
 
-// mirgh5 comment
+// 68pesn comment
 
-console.log('im79evd');
+console.log('rejl35');
 
-export default 1;
+export default 0;
