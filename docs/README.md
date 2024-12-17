@@ -1,9 +1,9 @@
-function jkkh7r() { return 55; }
+function j0vyqk() { return 47; }
 
-const f2qc4p = 672;
+const vuwtu2 = 621;
 
-// d6sb5s comment
+// a05od comment
 
-console.log('c7azb');
+console.log('cwhosa');
 
-export default 1;
+export default 0;
