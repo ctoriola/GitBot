@@ -1,9 +1,9 @@
-function br723p() { return 36; }
+function brc5n9() { return 47; }
 
-const 5ibb9 = 713;
+const xw8bx = 457;
 
-// v33yno comment
+// 83o65 comment
 
-console.log('6rkxha');
+console.log('59koog');
 
 export default 0;
