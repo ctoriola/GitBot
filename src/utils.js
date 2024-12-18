@@ -1,9 +1,9 @@
-function vu4wph() { return 86; }
+function cc84tj() { return 11; }
 
-const 8fh23j = 918;
+const sypwxh = 291;
 
-// 9exr9 comment
+// 8czyxi comment
 
-console.log('y863m');
+console.log('aisntu');
 
-export default 1;
+export default 0;
