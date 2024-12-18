@@ -1,9 +1,9 @@
-function i9k38n() { return 69; }
+function fimogd() { return 9; }
 
-const 6zhdfo = 351;
+const i35rlu = 116;
 
-// 5qfqq9 comment
+// sp8f9a comment
 
-console.log('xaga7p');
+console.log('c98rgf');
 
-export default 0;
+export default 1;
