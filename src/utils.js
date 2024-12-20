@@ -1,9 +1,9 @@
-function sp9y89() { return 51; }
+function eyl6am() { return 51; }
 
-const 43rzrb = 360;
+const jpbrt = 444;
 
-// 6mlsud comment
+// 4ai0q comment
 
-console.log('5rqz9c');
+console.log('j2xtk8');
 
-export default 1;
+export default 0;
