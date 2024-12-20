@@ -1,9 +1,9 @@
-function w8gtvd() { return 35; }
+function 94fbo() { return 46; }
 
-const pbtx4 = 110;
+const k5u7ai = 649;
 
-// b2et7 comment
+// fnm8e comment
 
-console.log('ky6ga');
+console.log('w1vwk');
 
-export default 1;
+export default 0;
