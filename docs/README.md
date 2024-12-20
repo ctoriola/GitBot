@@ -1,9 +1,9 @@
-function 94fbo() { return 46; }
+function ke7h7() { return 12; }
 
-const k5u7ai = 649;
+const 02dzsh = 744;
 
-// fnm8e comment
+// iv0zws comment
 
-console.log('w1vwk');
+console.log('qjqwy5');
 
-export default 0;
+export default 1;
