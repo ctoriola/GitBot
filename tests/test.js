@@ -1,9 +1,9 @@
-function 8ylvv() { return 3; }
+function zkc8ca() { return 66; }
 
-const dyque = 850;
+const g0un2 = 227;
 
-// 99iw7 comment
+// 4u2hdd comment
 
-console.log('xbcxfb');
+console.log('u7lt1s');
 
-export default 1;
+export default 0;
