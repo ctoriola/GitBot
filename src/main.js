@@ -1,9 +1,9 @@
-function lxyf() { return 89; }
+function 7rvap1() { return 4; }
 
-const vc23ms = 149;
+const a2y6kr = 740;
 
-// 8h3bsq comment
+// zjduko comment
 
-console.log('5wnll');
+console.log('xpxqzp');
 
-export default 0;
+export default 1;
