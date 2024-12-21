@@ -1,9 +1,9 @@
-function sccpmc() { return 41; }
+function ogo9hd() { return 4; }
 
-const jf739r = 990;
+const 1bej = 102;
 
-// br4as comment
+// 5oi0r comment
 
-console.log('eo5k0q');
+console.log('55bykq');
 
-export default 1;
+export default 0;
