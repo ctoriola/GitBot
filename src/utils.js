@@ -1,9 +1,9 @@
-function 7vq1t8() { return 19; }
+function pw167k() { return 47; }
 
-const f3e7im = 586;
+const g115ca = 210;
 
-// rwjxtn comment
+// u3wm65 comment
 
-console.log('d8bsgb');
+console.log('1j9qo9');
 
-export default 1;
+export default 0;
