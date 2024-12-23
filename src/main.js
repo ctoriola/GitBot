@@ -1,9 +1,9 @@
-function x79e2d() { return 8; }
+function cgupvr() { return 43; }
 
-const h1tize = 869;
+const uaemkd = 107;
 
-// avorm comment
+// wjse99 comment
 
-console.log('j9sljid');
+console.log('eewgol');
 
-export default 0;
+export default 1;
