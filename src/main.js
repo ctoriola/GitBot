@@ -1,9 +1,9 @@
-function cgupvr() { return 43; }
+function 8w1k28() { return 81; }
 
-const uaemkd = 107;
+const eitwko = 926;
 
-// wjse99 comment
+// 820kn comment
 
-console.log('eewgol');
+console.log('s1zmsd');
 
-export default 1;
+export default 0;
