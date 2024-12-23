@@ -1,9 +1,9 @@
-function 943542() { return 3; }
+function ewxs5() { return 77; }
 
-const b8pccm = 594;
+const 67vmrt = 555;
 
-// 8k1gpk comment
+// ls3isd comment
 
-console.log('9q5vih');
+console.log('vn1kzd');
 
-export default 1;
+export default 0;
