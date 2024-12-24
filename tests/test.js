@@ -1,9 +1,9 @@
-function 1l59ft() { return 59; }
+function ow2yz8() { return 14; }
 
-const mwefr = 138;
+const g3swo8 = 573;
 
-// epaq1k comment
+// 3pd6tp comment
 
-console.log('uw2jcw');
+console.log('bd6dja');
 
-export default 0;
+export default 1;
