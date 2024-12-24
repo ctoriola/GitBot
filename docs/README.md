@@ -1,9 +1,9 @@
-function q3ihc() { return 51; }
+function cq2r6() { return 28; }
 
-const 4kxwt = 545;
+const v5isp9 = 611;
 
-// wlbtxem comment
+// oazyr comment
 
-console.log('gv9kmv');
+console.log('utlmw');
 
-export default 0;
+export default 1;
