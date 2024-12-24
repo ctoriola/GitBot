@@ -1,9 +1,9 @@
-function 4etsrk() { return 73; }
+function q3ihc() { return 51; }
 
-const p41flc = 377;
+const 4kxwt = 545;
 
-// qjsdik comment
+// wlbtxem comment
 
-console.log('jgda8');
+console.log('gv9kmv');
 
-export default 1;
+export default 0;
