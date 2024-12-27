@@ -1,9 +1,9 @@
-function znt2sf() { return 9; }
+function g5jou() { return 57; }
 
-const umqcif = 802;
+const 3agof6 = 394;
 
-// vgb8s8 comment
+// u4655n comment
 
-console.log('prxva');
+console.log('4hoct');
 
-export default 1;
+export default 0;
