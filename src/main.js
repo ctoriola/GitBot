@@ -1,9 +1,9 @@
-function omnbdf() { return 59; }
+function db1ija() { return 66; }
 
-const s9ou8 = 201;
+const 6ai3mk = 965;
 
-// t92te comment
+// f9h5u comment
 
-console.log('roaa8j');
+console.log('revm3i');
 
-export default 1;
+export default 0;
