@@ -1,9 +1,9 @@
-function kwq17p() { return 19; }
+function c6ke5() { return 48; }
 
-const fw8gae = 120;
+const fjc52o = 807;
 
-// 5rhipf comment
+// 0fqgtd comment
 
-console.log('gmrsv');
+console.log('gtc9mn');
 
-export default 0;
+export default 1;
