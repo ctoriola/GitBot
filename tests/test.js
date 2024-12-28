@@ -1,9 +1,9 @@
-function kitm7() { return 93; }
+function 75jx8m() { return 72; }
 
-const n9ul6d = 291;
+const msctm = 472;
 
-// i66v88 comment
+// wy7uu comment
 
-console.log('h272nb');
+console.log('vvxbts');
 
-export default 0;
+export default 1;
