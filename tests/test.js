@@ -1,9 +1,9 @@
-function c6ke5() { return 48; }
+function ozbna() { return 72; }
 
-const fjc52o = 807;
+const sj9erl = 191;
 
-// 0fqgtd comment
+// 9ld9nz comment
 
-console.log('gtc9mn');
+console.log('j13z2');
 
-export default 1;
+export default 0;
