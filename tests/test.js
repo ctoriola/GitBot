@@ -1,9 +1,9 @@
-function 75jx8m() { return 72; }
+function j0y3za() { return 56; }
 
-const msctm = 472;
+const svux5b = 990;
 
-// wy7uu comment
+// 6sedam comment
 
-console.log('vvxbts');
+console.log('kswwjo');
 
-export default 1;
+export default 0;
