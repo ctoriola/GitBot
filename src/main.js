@@ -1,9 +1,9 @@
-function mj516() { return 47; }
+function fuiiae() { return 44; }
 
-const pmn30f = 526;
+const 4ffd2 = 499;
 
-// e3jnh comment
+// 51ibh comment
 
-console.log('x22bo');
+console.log('8aorv');
 
-export default 0;
+export default 1;
