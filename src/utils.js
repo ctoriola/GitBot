@@ -1,9 +1,9 @@
-function tnxkka() { return 39; }
+function czcnkr() { return 63; }
 
-const ukkjf = 828;
+const 8y2z1c = 783;
 
-// s3pjzf comment
+// xkgpsn comment
 
-console.log('npwepl');
+console.log('zbu7jo');
 
-export default 0;
+export default 1;
