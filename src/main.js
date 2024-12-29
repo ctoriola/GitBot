@@ -1,9 +1,9 @@
-function 67gh0x() { return 37; }
+function or6ax() { return 27; }
 
-const 59798k = 923;
+const wn3029 = 990;
 
-// imnpz comment
+// d3mcgj comment
 
-console.log('ht45s');
+console.log('l6pjrp');
 
-export default 1;
+export default 0;
