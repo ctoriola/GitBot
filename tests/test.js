@@ -1,9 +1,9 @@
-function qnav1() { return 77; }
+function qo7bhl() { return 67; }
 
-const 5aug3h = 166;
+const jwbk = 739;
 
-// 5kmjb comment
+// lekwuj comment
 
-console.log('4qytrl');
+console.log('w5lvr');
 
-export default 1;
+export default 0;
