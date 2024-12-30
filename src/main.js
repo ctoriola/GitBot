@@ -1,9 +1,9 @@
-function uvtp6m() { return 43; }
+function 3t8wa2() { return 64; }
 
-const zv5lvi = 232;
+const toik25 = 402;
 
-// 4z80mo comment
+// vj5onq comment
 
-console.log('0wcrj');
+console.log('qhahub');
 
-export default 0;
+export default 1;
