@@ -1,9 +1,9 @@
-function hpcjqm() { return 59; }
+function xqr45h() { return 5; }
 
-const bj585h = 552;
+const txj8dr = 309;
 
-// oez7jh comment
+// qrnv1r comment
 
-console.log('nvsxkg');
+console.log('wdkiko');
 
-export default 0;
+export default 1;
