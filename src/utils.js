@@ -1,9 +1,9 @@
-function z3hns4() { return 86; }
+function 7zb0jf() { return 56; }
 
-const o1wnaj = 896;
+const juty0n = 646;
 
-// cce6r comment
+// ace16x comment
 
-console.log('805dio');
+console.log('60jqre');
 
-export default 0;
+export default 1;
