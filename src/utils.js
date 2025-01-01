@@ -1,9 +1,9 @@
-function jwpqfq() { return 84; }
+function ki18hr() { return 33; }
 
-const 2vpm4b = 732;
+const dc2cnq = 947;
 
-// hg2vq9 comment
+// qxvhz comment
 
-console.log('aa2wfg');
+console.log('zhorql');
 
-export default 1;
+export default 0;
