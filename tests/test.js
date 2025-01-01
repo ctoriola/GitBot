@@ -1,9 +1,9 @@
-function i5tnaj() { return 14; }
+function 2rvfdi() { return 58; }
 
-const tdoao = 730;
+const 7d70gj = 497;
 
-// e0x1y5 comment
+// afy0qf comment
 
-console.log('8cnqgh');
+console.log('0gh0lc');
 
-export default 0;
+export default 1;
