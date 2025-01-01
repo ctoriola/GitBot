@@ -1,9 +1,9 @@
-function iqaydu() { return 97; }
+function pl3mxc() { return 13; }
 
-const olevt = 848;
+const 9cfs6q = 877;
 
-// ugwgmn comment
+// 8qwy5g comment
 
-console.log('ldnlqp');
+console.log('cgqt1');
 
-export default 1;
+export default 0;
