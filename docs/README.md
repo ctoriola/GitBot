@@ -1,9 +1,9 @@
-function truwj() { return 57; }
+function yxux4() { return 50; }
 
-const n4v0mt = 279;
+const 47u39t = 148;
 
-// 9jw4mo comment
+// 4sxg7 comment
 
-console.log('1qme92');
+console.log('o1m0zb');
 
 export default 1;
