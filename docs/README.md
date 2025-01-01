@@ -1,9 +1,9 @@
-function j1gjci() { return 60; }
+function t95zw2() { return 73; }
 
-const 3j28 = 804;
+const 5ge7x = 773;
 
-// ehezm comment
+// je1nyc comment
 
-console.log('jjlupw');
+console.log('651buf');
 
-export default 0;
+export default 1;
