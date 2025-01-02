@@ -1,9 +1,9 @@
-function flxlna() { return 10; }
+function jp7l89() { return 25; }
 
-const zv8i58 = 118;
+const 1kzt6c = 994;
 
-// frckp comment
+// lkda1 comment
 
-console.log('ucoh45i');
+console.log('5q1e');
 
-export default 1;
+export default 0;
