@@ -1,9 +1,9 @@
-function 2lavxb() { return 16; }
+function pquqyfj() { return 33; }
 
-const 0r7gu = 871;
+const 66wls1b = 324;
 
-// 4bewi3e comment
+// ibvzav comment
 
-console.log('fkg15t');
+console.log('etgo7');
 
-export default 0;
+export default 1;
