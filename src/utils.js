@@ -1,9 +1,9 @@
-function 90nk78() { return 92; }
+function b39rp() { return 39; }
 
-const b45fod = 725;
+const kzbees = 227;
 
-// gxxcbr comment
+// 7tszt comment
 
-console.log('awxivi');
+console.log('hiskqs');
 
-export default 1;
+export default 0;
