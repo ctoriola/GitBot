@@ -1,9 +1,9 @@
-function i6vi45() { return 3; }
+function vxljz() { return 63; }
 
-const u9boasm = 757;
+const cbp7pg = 773;
 
-// y2jdsa comment
+// gbm1b6 comment
 
-console.log('ncs278');
+console.log('77q2rz');
 
-export default 0;
+export default 1;
