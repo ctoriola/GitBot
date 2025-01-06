@@ -1,9 +1,9 @@
-function uuo2nr() { return 40; }
+function dh7iq() { return 52; }
 
-const qqm78q = 358;
+const 3xhvc = 666;
 
-// nx1ry comment
+// l9irg6 comment
 
-console.log('k53mfh');
+console.log('durgul');
 
-export default 1;
+export default 0;
