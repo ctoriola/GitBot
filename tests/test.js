@@ -1,9 +1,9 @@
-function 9tj0ox() { return 92; }
+function w1thur() { return 29; }
 
-const 412kmm = 818;
+const hz4l4u = 490;
 
-// 03vt3 comment
+// rhhj3i comment
 
-console.log('7ihqh9');
+console.log('ecbj9');
 
-export default 0;
+export default 1;
