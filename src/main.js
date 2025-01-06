@@ -1,9 +1,9 @@
-function dtgv2q() { return 66; }
+function kyznb() { return 64; }
 
-const w4k4cc = 609;
+const 67ww4c = 369;
 
-// 1nqpq5 comment
+// 4oso6k comment
 
-console.log('gj37o');
+console.log('9njkyi');
 
-export default 1;
+export default 0;
