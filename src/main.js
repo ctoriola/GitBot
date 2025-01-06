@@ -1,9 +1,9 @@
-function 15p7() { return 22; }
+function hjjb0l() { return 46; }
 
-const o3dzc9 = 633;
+const wwbomc = 490;
 
-// shjdpp comment
+// v8ci8 comment
 
-console.log('l1l4wc');
+console.log('42ivhi');
 
-export default 0;
+export default 1;
