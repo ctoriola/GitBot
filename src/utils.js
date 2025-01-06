@@ -1,9 +1,9 @@
-function ty21rq() { return 75; }
+function j3lf5p() { return 43; }
 
-const janyx = 232;
+const e0bqoe = 100;
 
-// t37edn comment
+// d3c9hh comment
 
-console.log('dudqupl');
+console.log('gq7pxb');
 
-export default 1;
+export default 0;
