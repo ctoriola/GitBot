@@ -1,9 +1,9 @@
-function r8mphh() { return 87; }
+function gbky6n() { return 77; }
 
-const ly4wvf = 782;
+const fgdhk = 874;
 
-// minw4p comment
+// vlugkb comment
 
-console.log('a44hu');
+console.log('2juogd');
 
-export default 0;
+export default 1;
