@@ -1,9 +1,9 @@
-function tfxar() { return 73; }
+function omfhzz4() { return 63; }
 
-const kn03pn = 196;
+const qcjlbp = 186;
 
-// 33g43f comment
+// us48xg comment
 
-console.log('6vj8c');
+console.log('6jakf');
 
 export default 0;
