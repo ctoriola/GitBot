@@ -1,9 +1,9 @@
-function leg0fl() { return 52; }
+function r8mphh() { return 87; }
 
-const z33x9s = 776;
+const ly4wvf = 782;
 
-// 0fwcw comment
+// minw4p comment
 
-console.log('46deti');
+console.log('a44hu');
 
-export default 1;
+export default 0;
