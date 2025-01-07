@@ -1,9 +1,9 @@
-function gbky6n() { return 77; }
+function nyklq() { return 46; }
 
-const fgdhk = 874;
+const m53y5e = 743;
 
-// vlugkb comment
+// vys7zk comment
 
-console.log('2juogd');
+console.log('7gu5oi');
 
-export default 1;
+export default 0;
