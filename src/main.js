@@ -1,9 +1,9 @@
-function omfhzz4() { return 63; }
+function jwtkm() { return 32; }
 
-const qcjlbp = 186;
+const lvxcrq = 694;
 
-// us48xg comment
+// bnqbv5 comment
 
-console.log('6jakf');
+console.log('g7di9k');
 
-export default 0;
+export default 1;
