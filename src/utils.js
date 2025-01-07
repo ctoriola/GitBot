@@ -1,9 +1,9 @@
-function 310r7o() { return 66; }
+function b4brxv() { return 52; }
 
-const qe2aipd = 516;
+const xvxf7l = 329;
 
-// q4k4qw comment
+// 2924vi comment
 
-console.log('da4yljg');
+console.log('1faa5k');
 
-export default 0;
+export default 1;
