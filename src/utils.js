@@ -1,9 +1,9 @@
-function h6mk3j() { return 28; }
+function iw22vp() { return 31; }
 
-const vp8gfj = 780;
+const jhi8yo = 819;
 
-// 9zd44n comment
+// idijcb comment
 
-console.log('4qvhyk');
+console.log('x2mm3');
 
-export default 1;
+export default 0;
