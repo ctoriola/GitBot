@@ -1,9 +1,9 @@
-function 6x4nm() { return 40; }
+function oo2s79() { return 90; }
 
-const 40jkzo = 903;
+const 1ugvmt = 290;
 
-// 5ijlv comment
+// 93ezhs comment
 
-console.log('2vh8s');
+console.log('62cuxs');
 
-export default 0;
+export default 1;
