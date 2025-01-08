@@ -1,9 +1,9 @@
-function fpi9ce() { return 97; }
+function c6if9h() { return 58; }
 
-const h0gpz9 = 970;
+const zuj96 = 170;
 
-// mj4nhv comment
+// vyltq comment
 
-console.log('exj7jg');
+console.log('tae0vl');
 
-export default 0;
+export default 1;
