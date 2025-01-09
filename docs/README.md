@@ -1,9 +1,9 @@
-function mfon4c() { return 68; }
+function 9a6cah() { return 8; }
 
-const 1iunws = 595;
+const ix633h = 984;
 
-// 71v8pk comment
+// comosn comment
 
-console.log('esomjk');
+console.log('5xjq48');
 
-export default 0;
+export default 1;
