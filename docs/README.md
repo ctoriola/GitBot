@@ -1,9 +1,9 @@
-function kd3zoj() { return 3; }
+function e320bs() { return 59; }
 
-const gctdpc = 534;
+const chy959 = 463;
 
-// un35z comment
+// bipj2k comment
 
-console.log('vmaz2');
+console.log('x7cpdu');
 
-export default 1;
+export default 0;
