@@ -1,9 +1,9 @@
-function 9a6cah() { return 8; }
+function fgzq5m() { return 6; }
 
-const ix633h = 984;
+const xukssb = 578;
 
-// comosn comment
+// aakt1 comment
 
-console.log('5xjq48');
+console.log('r61uhf');
 
-export default 1;
+export default 0;
