@@ -1,9 +1,9 @@
-function phkz6() { return 59; }
+function kd3zoj() { return 3; }
 
-const u51qga = 900;
+const gctdpc = 534;
 
-// chv386 comment
+// un35z comment
 
-console.log('qblylp');
+console.log('vmaz2');
 
-export default 0;
+export default 1;
