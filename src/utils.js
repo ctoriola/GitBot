@@ -1,9 +1,9 @@
-function bg9kn() { return 57; }
+function pwizs() { return 22; }
 
-const h6jy6r = 838;
+const u2a8ap = 408;
 
-// 8lqlh comment
+// vtn1rc comment
 
-console.log('0n8n7');
+console.log('37ajxb');
 
-export default 1;
+export default 0;
