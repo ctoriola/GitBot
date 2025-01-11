@@ -1,9 +1,9 @@
-function qxn8k() { return 67; }
+function zsbyk4() { return 62; }
 
-const atpkl = 492;
+const db0ith = 879;
 
-// pn4px comment
+// iyomr9 comment
 
-console.log('se1u9l');
+console.log('cc9j5b');
 
-export default 1;
+export default 0;
