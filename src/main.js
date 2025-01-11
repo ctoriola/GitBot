@@ -1,9 +1,9 @@
-function lt8hgw() { return 8; }
+function mqai5() { return 80; }
 
-const 0zsi1 = 985;
+const 6oiha = 505;
 
-// vbh8y comment
+// 4pxgt comment
 
-console.log('0bqjg');
+console.log('3slqq');
 
 export default 1;
