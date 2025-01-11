@@ -1,9 +1,9 @@
-function opihxb() { return 65; }
+function cq8ycj() { return 15; }
 
-const 3kocb8 = 700;
+const bz9a8 = 881;
 
-// 39hvee comment
+// 2w7hl1 comment
 
-console.log('dhvsde');
+console.log('poxv8p');
 
-export default 1;
+export default 0;
