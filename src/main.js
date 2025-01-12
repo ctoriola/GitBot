@@ -1,9 +1,9 @@
-function 58d778h() { return 79; }
+function 8qeds() { return 98; }
 
-const dsr95e = 799;
+const kgolen = 136;
 
-// vklckn comment
+// 51htm9 comment
 
-console.log('6lmeab');
+console.log('sreo2c');
 
-export default 1;
+export default 0;
