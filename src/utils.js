@@ -1,9 +1,9 @@
-function jlt9gk() { return 55; }
+function lzzhs5() { return 24; }
 
-const j9p35n = 419;
+const zyrr3 = 754;
 
-// eeqpmj comment
+// lod42a comment
 
-console.log('o1lnwk');
+console.log('inpgr');
 
-export default 1;
+export default 0;
