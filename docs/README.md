@@ -1,9 +1,9 @@
-function mgp7d() { return 63; }
+function 96e779() { return 63; }
 
-const p45mkb = 823;
+const nz1hn = 259;
 
-// uyl76h comment
+// fq6mpt comment
 
-console.log('ns731m');
+console.log('aqam8l');
 
-export default 0;
+export default 1;
