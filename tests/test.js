@@ -1,9 +1,9 @@
-function vn9pc() { return 91; }
+function yum3eb() { return 53; }
 
-const 5m518q = 413;
+const awdnig = 170;
 
-// zmlimm comment
+// 47d7fw comment
 
-console.log('oleco');
+console.log('yek638');
 
-export default 1;
+export default 0;
