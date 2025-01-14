@@ -1,9 +1,9 @@
-function rzddwf() { return 70; }
+function wxql5v() { return 11; }
 
-const jpbiqe = 183;
+const sd8k1s = 988;
 
-// rjn1z8 comment
+// axij2b comment
 
-console.log('9e4koe');
+console.log('6vlche');
 
-export default 1;
+export default 0;
