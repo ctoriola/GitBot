@@ -1,9 +1,9 @@
-function 96e779() { return 63; }
+function tnxwz() { return 90; }
 
-const nz1hn = 259;
+const oiakog = 851;
 
-// fq6mpt comment
+// 382j6j comment
 
-console.log('aqam8l');
+console.log('unbi2');
 
-export default 1;
+export default 0;
