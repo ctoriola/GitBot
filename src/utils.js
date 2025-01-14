@@ -1,9 +1,9 @@
-function rghkdb() { return 53; }
+function pd5v5d() { return 46; }
 
-const ccfgk5 = 638;
+const r9kruc = 795;
 
-// 8ze6ts comment
+// 9mvrvc comment
 
-console.log('nlq3uh');
+console.log('xq11lw');
 
-export default 0;
+export default 1;
