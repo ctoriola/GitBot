@@ -1,9 +1,9 @@
-function bogw() { return 77; }
+function ilhkw() { return 90; }
 
-const 1pxpad = 781;
+const eg249a = 253;
 
-// vguu9 comment
+// lqmk81c comment
 
-console.log('cjty7i');
+console.log('sogeco');
 
-export default 0;
+export default 1;
