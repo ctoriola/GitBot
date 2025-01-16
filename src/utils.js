@@ -1,9 +1,9 @@
-function ija1ab() { return 89; }
+function bogw() { return 77; }
 
-const s0jl6i = 856;
+const 1pxpad = 781;
 
-// y3fmg comment
+// vguu9 comment
 
-console.log('gwsfxi');
+console.log('cjty7i');
 
-export default 1;
+export default 0;
