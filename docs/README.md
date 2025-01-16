@@ -1,9 +1,9 @@
-function 98shoo() { return 58; }
+function iv3eyh() { return 12; }
 
-const l3nju8 = 851;
+const j94qse = 558;
 
-// 43cw7r comment
+// moxrr4 comment
 
-console.log('ulhnfc');
+console.log('khogg4');
 
 export default 0;
