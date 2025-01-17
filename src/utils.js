@@ -1,9 +1,9 @@
-function upptn() { return 46; }
+function i649fa() { return 52; }
 
-const 27fxu = 934;
+const l9x3y = 764;
 
-// m1sc0o comment
+// wjcgjd comment
 
-console.log('e1pi6');
+console.log('0obsji');
 
 export default 1;
