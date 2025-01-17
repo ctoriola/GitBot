@@ -1,9 +1,9 @@
-function i649fa() { return 52; }
+function xw335d() { return 73; }
 
-const l9x3y = 764;
+const 1b90ac = 915;
 
-// wjcgjd comment
+// ked2sh comment
 
-console.log('0obsji');
+console.log('rzofdf');
 
-export default 1;
+export default 0;
