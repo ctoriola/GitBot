@@ -1,9 +1,9 @@
-function 3sm209() { return 29; }
+function vdd4bj() { return 46; }
 
-const j1fujm = 217;
+const v3p75p = 335;
 
-// uta4g8 comment
+// fojitt comment
 
-console.log('t7vazn');
+console.log('l114un');
 
-export default 0;
+export default 1;
