@@ -1,9 +1,9 @@
-function ziuarm() { return 75; }
+function v6px3() { return 74; }
 
-const av2lhl = 135;
+const hp6wz = 945;
 
-// 2mquy8 comment
+// wzi9j8 comment
 
-console.log('b11fy');
+console.log('835i1a');
 
-export default 1;
+export default 0;
