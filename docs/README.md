@@ -1,9 +1,9 @@
-function 7euxw() { return 63; }
+function fy5zwg() { return 22; }
 
-const 61dbrnd = 911;
+const kqgx9b = 102;
 
-// 5c3whf comment
+// vhbpid comment
 
-console.log('febgof');
+console.log('ocb63');
 
-export default 0;
+export default 1;
