@@ -1,9 +1,9 @@
-function f0si() { return 86; }
+function 5erhjn() { return 37; }
 
-const k861km = 342;
+const jsg3iv = 873;
 
-// grdpp comment
+// zy6prw comment
 
-console.log('5ez2a');
+console.log('6v8zc');
 
-export default 1;
+export default 0;
