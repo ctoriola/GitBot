@@ -1,9 +1,9 @@
-function 5erhjn() { return 37; }
+function wvmfs8() { return 40; }
 
-const jsg3iv = 873;
+const oa1ex = 620;
 
-// zy6prw comment
+// 5pc528 comment
 
-console.log('6v8zc');
+console.log('xust');
 
-export default 0;
+export default 1;
