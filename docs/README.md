@@ -1,9 +1,9 @@
-function aj972s() { return 64; }
+function yuzptf() { return 83; }
 
-const 9s1wz7 = 956;
+const jx863e = 547;
 
-// ntfkxp comment
+// g1cw5g comment
 
-console.log('fs44ic');
+console.log('p3sbpy');
 
-export default 1;
+export default 0;
