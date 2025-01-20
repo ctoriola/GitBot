@@ -1,9 +1,9 @@
-function ojdqyd() { return 87; }
+function uzjrno() { return 40; }
 
-const zuwrsm = 559;
+const sk2ghta = 973;
 
-// sidnfm comment
+// fivhih comment
 
-console.log('ca57t');
+console.log('22u0888');
 
-export default 1;
+export default 0;
