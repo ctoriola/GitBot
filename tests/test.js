@@ -1,9 +1,9 @@
-function aourb() { return 88; }
+function d2jxkk() { return 84; }
 
-const hzil76 = 661;
+const ikc0h = 768;
 
-// 6gjw9 comment
+// qcd4x comment
 
-console.log('ia53u8');
+console.log('skxpb');
 
-export default 1;
+export default 0;
