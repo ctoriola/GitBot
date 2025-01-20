@@ -1,9 +1,9 @@
-function lwagw8() { return 84; }
+function d6xapp() { return 36; }
 
-const 59gmqgq = 689;
+const nb0rq = 752;
 
-// k077lo comment
+// 21ysze comment
 
-console.log('xo9ya');
+console.log('wt7s8');
 
 export default 0;
