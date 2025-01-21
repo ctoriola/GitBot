@@ -1,9 +1,9 @@
-function oqunte() { return 97; }
+function bckscl() { return 11; }
 
-const 4v7m3c = 188;
+const 2u64k = 309;
 
-// 8wwjm3 comment
+// 3aaejh comment
 
-console.log('0ochkp');
+console.log('xhaqvk');
 
-export default 1;
+export default 0;
