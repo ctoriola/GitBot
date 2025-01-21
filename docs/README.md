@@ -1,9 +1,9 @@
-function 0zn6z() { return 70; }
+function o1lq4a() { return 74; }
 
-const 454 = 897;
+const 0yp4hi = 257;
 
-// mycmar comment
+// v3bgzd comment
 
-console.log('j8hsns');
+console.log('tpbk3r');
 
-export default 1;
+export default 0;
