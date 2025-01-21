@@ -1,9 +1,9 @@
-function 2ffd5() { return 99; }
+function k9nl() { return 100; }
 
-const z5v1l = 568;
+const n0epro = 440;
 
-// mpazot comment
+// gf8h5j comment
 
-console.log('fmnlx9');
+console.log('skpajh');
 
-export default 1;
+export default 0;
