@@ -1,9 +1,9 @@
-function cittj8() { return 81; }
+function g5vdsi() { return 45; }
 
-const otjvp = 236;
+const f5ovm8 = 101;
 
-// ajs4d comment
+// 3r1w8g comment
 
-console.log('zvkiok4');
+console.log('b69kqv');
 
-export default 1;
+export default 0;
