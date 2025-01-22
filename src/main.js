@@ -1,9 +1,9 @@
-function kf2r54() { return 39; }
+function kx1j8d() { return 64; }
 
-const i6dhfl = 975;
+const cav65a = 142;
 
-// dhsmug comment
+// ypi3ac comment
 
-console.log('pip5l');
+console.log('9yve2');
 
-export default 1;
+export default 0;
