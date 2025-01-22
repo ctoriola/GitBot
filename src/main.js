@@ -1,9 +1,9 @@
-function kx1j8d() { return 64; }
+function r95avt() { return 12; }
 
-const cav65a = 142;
+const 0tex3l = 785;
 
-// ypi3ac comment
+// 8vyokt comment
 
-console.log('9yve2');
+console.log('x567l');
 
-export default 0;
+export default 1;
