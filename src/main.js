@@ -1,9 +1,9 @@
-function chb22s() { return 52; }
+function ih2dz() { return 6; }
 
-const d4lxur = 888;
+const f0kol1 = 252;
 
-// pl6uqm comment
+// ewgp0d comment
 
-console.log('sg6fr6');
+console.log('k80jt');
 
 export default 1;
