@@ -1,9 +1,9 @@
-function t00rc() { return 91; }
+function prrfk() { return 89; }
 
-const g2ipj = 763;
+const 72zmhc = 286;
 
-// 5tuy1n comment
+// z17hx4 comment
 
-console.log('ng7jho');
+console.log('29f4ep');
 
-export default 1;
+export default 0;
