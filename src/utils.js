@@ -1,9 +1,9 @@
-function 2u0nub() { return 11; }
+function pha9() { return 96; }
 
-const gu81mm = 105;
+const 3c6cxo = 827;
 
-// c6wmi comment
+// f4umtc comment
 
-console.log('cvp1i');
+console.log('u9gln');
 
-export default 1;
+export default 0;
