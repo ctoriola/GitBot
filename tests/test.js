@@ -1,9 +1,9 @@
-function pzbr2() { return 79; }
+function qj87id() { return 68; }
 
-const 4rofmug = 342;
+const 1ltch = 411;
 
-// 0s7tdb comment
+// s8ivu comment
 
-console.log('o32msz');
+console.log('7b2ei9');
 
-export default 1;
+export default 0;
