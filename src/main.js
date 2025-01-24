@@ -1,9 +1,9 @@
-function s34yrm() { return 75; }
+function 6xvj7() { return 68; }
 
-const 1augo = 139;
+const ap13dk = 377;
 
-// s3v6is comment
+// qmyof comment
 
-console.log('9504s');
+console.log('8y04rs');
 
-export default 1;
+export default 0;
