@@ -1,9 +1,9 @@
-function 6xvj7() { return 68; }
+function chb22s() { return 52; }
 
-const ap13dk = 377;
+const d4lxur = 888;
 
-// qmyof comment
+// pl6uqm comment
 
-console.log('8y04rs');
+console.log('sg6fr6');
 
-export default 0;
+export default 1;
