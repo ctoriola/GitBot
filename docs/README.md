@@ -1,9 +1,9 @@
-function 47s6en() { return 86; }
+function p4vgo7() { return 88; }
 
-const ifjqt = 454;
+const epzlwx = 896;
 
-// yk97k8 comment
+// 5cn27 comment
 
-console.log('daf2l');
+console.log('grba9c');
 
-export default 0;
+export default 1;
