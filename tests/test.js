@@ -1,9 +1,9 @@
-function maom0g() { return 77; }
+function bhroev() { return 83; }
 
-const 6mue2 = 195;
+const dgfdkp = 995;
 
-// m9jbx comment
+// i5ixg comment
 
-console.log('x5vlbk');
+console.log('p8x26n');
 
-export default 0;
+export default 1;
