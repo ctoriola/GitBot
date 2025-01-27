@@ -1,9 +1,9 @@
-function z0wiaf() { return 35; }
+function cpyqb() { return 36; }
 
-const 7jdra = 313;
+const v7cv = 449;
 
-// 2n0mta comment
+// inr4fx comment
 
-console.log('uzptlp');
+console.log('j1j3p');
 
-export default 1;
+export default 0;
