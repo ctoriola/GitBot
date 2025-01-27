@@ -1,9 +1,9 @@
-function eamic() { return 14; }
+function 3pve9h() { return 7; }
 
-const xwkbvq = 863;
+const nb6c3p = 910;
 
-// ffst4b comment
+// xehttq comment
 
-console.log('7cr6sxq');
+console.log('5qs4pf');
 
-export default 1;
+export default 0;
