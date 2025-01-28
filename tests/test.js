@@ -1,9 +1,9 @@
-function s7uyl() { return 43; }
+function wunwzq() { return 21; }
 
-const 1ogpge = 811;
+const udivx = 744;
 
-// 6zs7ci comment
+// sj8lpd comment
 
-console.log('cbxdz9');
+console.log('qzfad');
 
-export default 1;
+export default 0;
