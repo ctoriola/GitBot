@@ -1,9 +1,9 @@
-function gpemr() { return 74; }
+function qu3c79() { return 28; }
 
-const umy9kw = 247;
+const 4nnvxd = 414;
 
-// evfhsr comment
+// q57bbc comment
 
-console.log('q6h21q');
+console.log('b7b9nb');
 
 export default 1;
