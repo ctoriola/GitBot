@@ -1,9 +1,9 @@
-function bqde7() { return 37; }
+function kq7w5c() { return 93; }
 
-const vcgqs5 = 660;
+const ca9p9m = 447;
 
-// 080rl comment
+// c0oht comment
 
-console.log('x1km8o');
+console.log('c82gis');
 
-export default 0;
+export default 1;
