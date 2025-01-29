@@ -1,9 +1,9 @@
-function 5yj809() { return 64; }
+function zmhjtr() { return 56; }
 
-const atxn29 = 721;
+const rdn69 = 500;
 
-// s8dwun comment
+// opr5qg comment
 
-console.log('6mx1nn');
+console.log('llvf7m');
 
-export default 1;
+export default 0;
