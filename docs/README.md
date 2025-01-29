@@ -1,9 +1,9 @@
-function rrnsrk() { return 32; }
+function d19x96() { return 98; }
 
-const t8v8pr = 198;
+const lp8wcg = 138;
 
-// uonka comment
+// jb6ovq comment
 
-console.log('lk3n0q');
+console.log('nirjcb');
 
-export default 1;
+export default 0;
