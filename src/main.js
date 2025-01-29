@@ -1,9 +1,9 @@
-function gnpi6n() { return 60; }
+function gpemr() { return 74; }
 
-const b9hhml = 785;
+const umy9kw = 247;
 
-// u9quve comment
+// evfhsr comment
 
-console.log('kkw15e');
+console.log('q6h21q');
 
-export default 0;
+export default 1;
