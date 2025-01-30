@@ -1,9 +1,9 @@
-function ae4xt() { return 16; }
+function efkskq() { return 39; }
 
-const 1ferqa = 710;
+const 0s26dd = 579;
 
-// m2u52x comment
+// ow1x9w comment
 
-console.log('mm61ib');
+console.log('8jpvkr');
 
-export default 1;
+export default 0;
