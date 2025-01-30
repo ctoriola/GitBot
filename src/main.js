@@ -1,9 +1,9 @@
-function 2kx40c() { return 50; }
+function xu8gbf() { return 80; }
 
-const x1xbdg = 830;
+const tr6y = 724;
 
-// spxr4r comment
+// 2kvev6 comment
 
-console.log('syjr3');
+console.log('ry1tz');
 
-export default 1;
+export default 0;
