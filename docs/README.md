@@ -1,9 +1,9 @@
-function xkgzz() { return 31; }
+function vrjp9l() { return 2; }
 
-const 65ga92 = 200;
+const balpih = 414;
 
-// qbkack comment
+// t4ynu comment
 
-console.log('6nkosbf');
+console.log('z2qcaj');
 
-export default 0;
+export default 1;
