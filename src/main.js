@@ -1,9 +1,9 @@
-function efkskq() { return 39; }
+function g8o0jp() { return 19; }
 
-const 0s26dd = 579;
+const kdikdj = 992;
 
-// ow1x9w comment
+// ar5e4 comment
 
-console.log('8jpvkr');
+console.log('6gfxa9');
 
-export default 0;
+export default 1;
