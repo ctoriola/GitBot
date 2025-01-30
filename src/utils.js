@@ -1,9 +1,9 @@
-function 8iyx1m() { return 67; }
+function ywt99() { return 18; }
 
-const euy3g4 = 790;
+const 4e873 = 454;
 
-// zybpp comment
+// xt4hdn comment
 
-console.log('ilmxlj');
+console.log('f7tvf');
 
-export default 0;
+export default 1;
