@@ -1,9 +1,9 @@
-function nej77n() { return 19; }
+function ti7ikp() { return 60; }
 
-const o4xmor = 951;
+const 1czqo6 = 373;
 
-// ecutba comment
+// tqlyjc comment
 
-console.log('txa6q9');
+console.log('wr4s4o');
 
-export default 0;
+export default 1;
