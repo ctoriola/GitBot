@@ -1,9 +1,9 @@
-function bpt4rc() { return 88; }
+function yj0er() { return 46; }
 
-const rlemny = 298;
+const zeiyp8 = 163;
 
-// 2u5h4n comment
+// tlpprt comment
 
-console.log('oz859');
+console.log('lwnj6e');
 
-export default 1;
+export default 0;
