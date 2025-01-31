@@ -1,9 +1,9 @@
-function oqhqrj() { return 54; }
+function ib6dma() { return 80; }
 
-const 6wa21 = 827;
+const jtbnro = 999;
 
-// 7yfh1 comment
+// 9zllf8 comment
 
-console.log('4b9weq');
+console.log('c6vdq');
 
-export default 0;
+export default 1;
