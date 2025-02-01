@@ -1,9 +1,9 @@
-function vge2er() { return 44; }
+function fvqv2() { return 5; }
 
-const 5jkr1a = 227;
+const lnfbhf = 656;
 
-// 71thuo comment
+// z309h7 comment
 
-console.log('ri1uyl');
+console.log('jyjb5c');
 
-export default 1;
+export default 0;
