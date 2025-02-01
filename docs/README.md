@@ -1,9 +1,9 @@
-function 966ii() { return 48; }
+function kki6wi() { return 94; }
 
-const wa7te = 788;
+const g86yt3 = 928;
 
-// wrx1xa comment
+// bdkwb comment
 
-console.log('4g4lh');
+console.log('nb46wn');
 
 export default 1;
