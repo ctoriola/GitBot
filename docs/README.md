@@ -1,9 +1,9 @@
-function kki6wi() { return 94; }
+function hdnlml() { return 12; }
 
-const g86yt3 = 928;
+const ehimm = 272;
 
-// bdkwb comment
+// 2mlrvi comment
 
-console.log('nb46wn');
+console.log('8j31x');
 
-export default 1;
+export default 0;
