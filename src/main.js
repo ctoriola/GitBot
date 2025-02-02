@@ -1,9 +1,9 @@
-function k3xtg() { return 72; }
+function n6uks() { return 81; }
 
-const 21i55d = 499;
+const wvgtce = 661;
 
-// r2c57r comment
+// 0vn6wc comment
 
-console.log('f75pan');
+console.log('5w9kkv');
 
-export default 0;
+export default 1;
