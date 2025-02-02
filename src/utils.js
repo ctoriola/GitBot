@@ -1,9 +1,9 @@
-function ssuxe() { return 39; }
+function frzhy() { return 45; }
 
-const 3wwqgj = 228;
+const zr6dhp = 414;
 
-// rw00k comment
+// 0s4f9o comment
 
-console.log('e229i');
+console.log('bc46i');
 
-export default 0;
+export default 1;
