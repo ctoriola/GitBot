@@ -1,9 +1,9 @@
-function n6uks() { return 81; }
+function 3bsi1c() { return 9; }
 
-const wvgtce = 661;
+const 5arlym = 249;
 
-// 0vn6wc comment
+// 3c943s comment
 
-console.log('5w9kkv');
+console.log('c3jf7');
 
 export default 1;
