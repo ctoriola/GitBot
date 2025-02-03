@@ -1,9 +1,9 @@
-function bgx6mc() { return 80; }
+function ggidov() { return 76; }
 
-const 7mxvki = 742;
+const rya0ef = 138;
 
-// nrmjo comment
+// 8xq6th comment
 
-console.log('pfxxyi');
+console.log('uz92ml');
 
-export default 0;
+export default 1;
