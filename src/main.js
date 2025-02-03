@@ -1,9 +1,9 @@
-function erebu8() { return 49; }
+function bgx6mc() { return 80; }
 
-const uhomfa = 258;
+const 7mxvki = 742;
 
-// tors2r comment
+// nrmjo comment
 
-console.log('ogn15');
+console.log('pfxxyi');
 
-export default 1;
+export default 0;
