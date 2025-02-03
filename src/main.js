@@ -1,9 +1,9 @@
-function ddbuw() { return 64; }
+function 01o9mj() { return 59; }
 
-const 0fqco = 104;
+const 61zu6k = 471;
 
-// snvp6v comment
+// tls5z8 comment
 
-console.log('flxglc');
+console.log('qs3gyq');
 
-export default 0;
+export default 1;
