@@ -1,9 +1,9 @@
-function 5fk90k() { return 82; }
+function fi3j9() { return 44; }
 
-const 8okdyi = 783;
+const k827sd = 133;
 
-// d45wp8 comment
+// 6vr4i5i comment
 
-console.log('kdo8zp');
+console.log('gf3ia');
 
-export default 1;
+export default 0;
