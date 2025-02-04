@@ -1,9 +1,9 @@
-function fwdjrg() { return 22; }
+function r404wp() { return 27; }
 
-const c2424 = 846;
+const qn9ofa = 171;
 
-// 03trtj comment
+// z8ckgq comment
 
-console.log('n7qnaq');
+console.log('lcreg8');
 
-export default 0;
+export default 1;
