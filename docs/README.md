@@ -1,9 +1,9 @@
-function 210sgc() { return 61; }
+function rkflx9() { return 33; }
 
-const lgceq = 521;
+const a3bpad = 129;
 
-// d7jhnb comment
+// ax93w comment
 
-console.log('ld969k');
+console.log('90hgwj');
 
-export default 0;
+export default 1;
