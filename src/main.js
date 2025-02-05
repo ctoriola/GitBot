@@ -1,9 +1,9 @@
-function yvj6o() { return 62; }
+function u8t66() { return 24; }
 
-const 7hpfrz = 190;
+const uzfoun = 323;
 
-// 1f7r3 comment
+// uuw9ge comment
 
-console.log('u5qy8j');
+console.log('manu1');
 
-export default 1;
+export default 0;
