@@ -1,9 +1,9 @@
-function ldfukw() { return 53; }
+function kcsfhe() { return 12; }
 
-const jgrf3 = 799;
+const ls3slu = 813;
 
-// c30l4 comment
+// 36g1o comment
 
-console.log('gtpzh');
+console.log('jc1vmc');
 
-export default 0;
+export default 1;
