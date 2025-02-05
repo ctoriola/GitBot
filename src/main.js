@@ -1,9 +1,9 @@
-function r7l2xi() { return 41; }
+function dyigmh() { return 83; }
 
-const ypb8bw = 155;
+const 5estvy = 441;
 
-// 2atgud comment
+// 1166os comment
 
-console.log('tim9h');
+console.log('yzoode');
 
-export default 1;
+export default 0;
