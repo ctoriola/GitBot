@@ -1,9 +1,9 @@
-function fo0tca() { return 71; }
+function gl87nk() { return 11; }
 
-const ozo04 = 742;
+const w67ha = 566;
 
-// 4xaxrh comment
+// s48j89 comment
 
-console.log('ceb6gk');
+console.log('nk6pyq');
 
-export default 1;
+export default 0;
