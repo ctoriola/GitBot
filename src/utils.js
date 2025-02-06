@@ -1,9 +1,9 @@
-function ur5d29() { return 8; }
+function e2qguuk() { return 18; }
 
-const ludfkh = 224;
+const 8mq22e = 682;
 
-// i4s83 comment
+// idx8q3 comment
 
-console.log('hl68o');
+console.log('s2rhl');
 
-export default 0;
+export default 1;
