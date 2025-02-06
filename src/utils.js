@@ -1,9 +1,9 @@
-function qr3tbo() { return 99; }
+function ur5d29() { return 8; }
 
-const mtfnbb = 436;
+const ludfkh = 224;
 
-// qzbdvp comment
+// i4s83 comment
 
-console.log('nsyn2');
+console.log('hl68o');
 
-export default 1;
+export default 0;
