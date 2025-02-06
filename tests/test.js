@@ -1,9 +1,9 @@
-function kcvyygj() { return 22; }
+function s2juvj() { return 93; }
 
-const uz9y87 = 680;
+const urf33l = 402;
 
-// 3oc2e9 comment
+// rfu9if comment
 
-console.log('f6s5f');
+console.log('ddofzd');
 
-export default 0;
+export default 1;
