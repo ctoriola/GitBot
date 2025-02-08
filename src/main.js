@@ -1,9 +1,9 @@
-function xhekdu() { return 34; }
+function 7xrft7() { return 20; }
 
-const k9ncte = 625;
+const 2kkfdf = 403;
 
-// nvn12h comment
+// 5d83de comment
 
-console.log('wri1tt');
+console.log('pgrt5s');
 
-export default 1;
+export default 0;
