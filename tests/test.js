@@ -1,9 +1,9 @@
-function 41dal5() { return 96; }
+function hdwg7f() { return 89; }
 
-const udz846 = 391;
+const jcr0jj = 798;
 
-// izh9q comment
+// ps7szm comment
 
-console.log('zjduv');
+console.log('5b106');
 
-export default 1;
+export default 0;
