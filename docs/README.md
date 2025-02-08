@@ -1,9 +1,9 @@
-function zztly7() { return 31; }
+function j85npd() { return 80; }
 
-const alb029 = 322;
+const u10ilo = 505;
 
-// c6siqb comment
+// 18hxc4 comment
 
-console.log('n98fp');
+console.log('lyb0e9');
 
-export default 1;
+export default 0;
