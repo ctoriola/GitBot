@@ -1,9 +1,9 @@
-function j85npd() { return 80; }
+function v98vri() { return 2; }
 
-const u10ilo = 505;
+const fnc6qi = 526;
 
-// 18hxc4 comment
+// gvlrqtr comment
 
-console.log('lyb0e9');
+console.log('gwgc1');
 
-export default 0;
+export default 1;
