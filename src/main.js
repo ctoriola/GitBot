@@ -1,9 +1,9 @@
-function d5kbx() { return 31; }
+function xhekdu() { return 34; }
 
-const k0eyre = 612;
+const k9ncte = 625;
 
-// 1iwq7c comment
+// nvn12h comment
 
-console.log('qp2jq5');
+console.log('wri1tt');
 
-export default 0;
+export default 1;
