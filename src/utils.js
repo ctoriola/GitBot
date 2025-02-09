@@ -1,9 +1,9 @@
-function 0s5fz() { return 49; }
+function fna723() { return 45; }
 
-const epfrko = 978;
+const qazayk = 119;
 
-// 3sg5j comment
+// f1dazf comment
 
-console.log('u126bjc');
+console.log('onftuo');
 
-export default 1;
+export default 0;
