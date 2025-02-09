@@ -1,9 +1,9 @@
-function cj8ynk() { return 20; }
+function aubw3i() { return 2; }
 
-const baxvwb = 509;
+const fzz7ksi = 451;
 
-// i1licw comment
+// p55hm8 comment
 
-console.log('k0rwk3');
+console.log('6yn9z');
 
-export default 0;
+export default 1;
