@@ -1,9 +1,9 @@
-function x8gc5r() { return 37; }
+function 0s5fz() { return 49; }
 
-const xi90f6 = 256;
+const epfrko = 978;
 
-// s5mkzo comment
+// 3sg5j comment
 
-console.log('egrol7');
+console.log('u126bjc');
 
-export default 0;
+export default 1;
