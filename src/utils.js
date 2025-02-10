@@ -1,9 +1,9 @@
-function o39kji() { return 32; }
+function dxd19v() { return 90; }
 
-const wz5dh = 460;
+const gp5zoh = 681;
 
-// igngwn comment
+// ajyot comment
 
-console.log('o8apn');
+console.log('g5lyzb');
 
-export default 0;
+export default 1;
