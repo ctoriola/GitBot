@@ -1,9 +1,9 @@
-function 5ereo() { return 29; }
+function 7vlsco() { return 58; }
 
-const ondofi = 607;
+const 0bcdxl = 164;
 
-// sjwy4g comment
+// 6a1tdg comment
 
-console.log('y8o239');
+console.log('ayph0o');
 
-export default 0;
+export default 1;
