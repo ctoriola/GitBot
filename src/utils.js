@@ -1,9 +1,9 @@
-function hz2rb() { return 97; }
+function e8u9ex() { return 12; }
 
-const kkx5og = 439;
+const v0vph9 = 623;
 
-// sq6aji comment
+// 93f5wq comment
 
-console.log('0xy1s');
+console.log('tfplip');
 
-export default 1;
+export default 0;
