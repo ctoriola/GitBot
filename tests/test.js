@@ -1,9 +1,9 @@
-function 4es1ip() { return 85; }
+function cfc4de() { return 4; }
 
-const l1v9gb = 852;
+const 8nfcei = 284;
 
-// vgyt0b comment
+// nqvrhd comment
 
-console.log('v2glvw');
+console.log('8vi8i');
 
-export default 1;
+export default 0;
