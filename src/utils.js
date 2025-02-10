@@ -1,9 +1,9 @@
-function ijm2ny() { return 48; }
+function 1b7ghp() { return 76; }
 
-const o9myan = 812;
+const h7iywd = 165;
 
-// gcgwz comment
+// 1a3i0k comment
 
-console.log('xq3wfl');
+console.log('dcoyh');
 
-export default 1;
+export default 0;
