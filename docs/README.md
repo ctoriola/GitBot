@@ -1,9 +1,9 @@
-function jwmime() { return 100; }
+function bnzrko() { return 57; }
 
-const ptzc0i = 357;
+const aewcqm = 593;
 
-// 60q0bb comment
+// zh0sne comment
 
-console.log('bftbuh');
+console.log('ia77x');
 
-export default 0;
+export default 1;
