@@ -1,9 +1,9 @@
-function 3ngx() { return 10; }
+function 9s7tyr() { return 10; }
 
-const fhxswj = 846;
+const 9vodgn = 525;
 
-// g7f94g comment
+// ynq70e comment
 
-console.log('xzkzy');
+console.log('vxsaia');
 
-export default 1;
+export default 0;
