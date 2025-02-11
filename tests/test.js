@@ -1,9 +1,9 @@
-function myyf2s() { return 40; }
+function zdkgo() { return 14; }
 
-const 39l1h = 626;
+const 58ha6v = 625;
 
-// wvb0k comment
+// d7sswq comment
 
-console.log('xx5z58');
+console.log('zfp0xe');
 
-export default 0;
+export default 1;
