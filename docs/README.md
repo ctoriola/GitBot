@@ -1,9 +1,9 @@
-function b4zl() { return 73; }
+function pih2pn() { return 53; }
 
-const 2fxpu = 422;
+const wpdzhn = 634;
 
-// 0ypxn comment
+// 5yzm9a comment
 
-console.log('vbiuko');
+console.log('3av3u');
 
-export default 0;
+export default 1;
