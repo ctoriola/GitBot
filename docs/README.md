@@ -1,9 +1,9 @@
-function 9hut8l() { return 12; }
+function jwmime() { return 100; }
 
-const o8fj2p = 643;
+const ptzc0i = 357;
 
-// wmx7bm comment
+// 60q0bb comment
 
-console.log('1mlxq');
+console.log('bftbuh');
 
-export default 1;
+export default 0;
