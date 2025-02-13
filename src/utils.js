@@ -1,9 +1,9 @@
-function aoaxm() { return 7; }
+function 2l66u() { return 19; }
 
-const tsvoy = 541;
+const 9h2gji = 902;
 
-// awmyrb comment
+// rf5888 comment
 
-console.log('yyrr2');
+console.log('hbybad');
 
-export default 1;
+export default 0;
