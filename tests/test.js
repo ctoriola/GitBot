@@ -1,9 +1,9 @@
-function 458g0i() { return 75; }
+function darv7i() { return 14; }
 
-const hfu3wc = 924;
+const ca0hgr = 759;
 
-// c3dktb comment
+// kuokfcn comment
 
-console.log('zq7i3');
+console.log('v2v2lf');
 
-export default 1;
+export default 0;
