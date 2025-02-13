@@ -1,9 +1,9 @@
-function conebr() { return 96; }
+function mn483p() { return 4; }
 
-const hmplwh = 883;
+const ppqnvd = 559;
 
-// h1znx comment
+// 1ch4c comment
 
-console.log('5ij2ua');
+console.log('eaxuqq');
 
-export default 0;
+export default 1;
