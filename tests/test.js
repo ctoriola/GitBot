@@ -1,9 +1,9 @@
-function darv7i() { return 14; }
+function dojt7k() { return 58; }
 
-const ca0hgr = 759;
+const 7egsv = 480;
 
-// kuokfcn comment
+// d2wdel comment
 
-console.log('v2v2lf');
+console.log('9yl7n');
 
 export default 0;
