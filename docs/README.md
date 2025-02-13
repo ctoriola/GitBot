@@ -1,9 +1,9 @@
-function bgrp5l() { return 53; }
+function conebr() { return 96; }
 
-const ubd2d = 229;
+const hmplwh = 883;
 
-// d24po comment
+// h1znx comment
 
-console.log('ym5yoh');
+console.log('5ij2ua');
 
-export default 1;
+export default 0;
