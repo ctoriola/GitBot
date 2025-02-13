@@ -1,9 +1,9 @@
-function mn483p() { return 4; }
+function g1pbix() { return 5; }
 
-const ppqnvd = 559;
+const jt1yz6 = 503;
 
-// 1ch4c comment
+// p2c8ng comment
 
-console.log('eaxuqq');
+console.log('85c5ib');
 
-export default 1;
+export default 0;
