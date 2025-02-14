@@ -1,9 +1,9 @@
-function wuz44() { return 52; }
+function 5touih() { return 17; }
 
-const dbilua = 674;
+const 0nla3d = 188;
 
-// 0nehpu comment
+// d0y7u comment
 
-console.log('1xfax');
+console.log('krty4m');
 
-export default 0;
+export default 1;
