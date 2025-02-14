@@ -1,9 +1,9 @@
-function gxuduc() { return 66; }
+function x7o0nh() { return 69; }
 
-const vjuej = 961;
+const ysdanm = 695;
 
-// 7z23r comment
+// t8o5j9 comment
 
-console.log('5hnfye');
+console.log('pdvagv');
 
-export default 1;
+export default 0;
