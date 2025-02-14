@@ -1,9 +1,9 @@
-function ni4eph() { return 17; }
+function nxzdi6() { return 36; }
 
-const 43av5c = 779;
+const l6zxrj = 276;
 
-// fv405 comment
+// 2a323r comment
 
-console.log('93cjls');
+console.log('ntvt8q');
 
-export default 1;
+export default 0;
