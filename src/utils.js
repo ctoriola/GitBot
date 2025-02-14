@@ -1,9 +1,9 @@
-function s5zrrj() { return 64; }
+function fgi14m() { return 64; }
 
-const 8xdawk = 264;
+const dehj0t = 673;
 
-// v7y6th comment
+// onahp7 comment
 
-console.log('cezik');
+console.log('8y99ix');
 
-export default 0;
+export default 1;
