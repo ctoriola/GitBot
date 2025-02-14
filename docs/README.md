@@ -1,9 +1,9 @@
-function i2ixrl() { return 11; }
+function gej4sg() { return 81; }
 
-const 629csc = 304;
+const y3ec1 = 728;
 
-// qypyvf comment
+// 90042u comment
 
-console.log('9vr16');
+console.log('64znsq');
 
-export default 0;
+export default 1;
