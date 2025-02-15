@@ -1,9 +1,9 @@
-function a2awcn() { return 50; }
+function p0tr4p() { return 48; }
 
-const cdtt2w = 149;
+const z5lsam = 171;
 
-// ynvwke comment
+// 1ldxa comment
 
-console.log('agf09l');
+console.log('kedvrg');
 
-export default 1;
+export default 0;
