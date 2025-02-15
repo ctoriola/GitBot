@@ -1,9 +1,9 @@
-function p0tr4p() { return 48; }
+function qeabjf() { return 23; }
 
-const z5lsam = 171;
+const it6mar = 977;
 
-// 1ldxa comment
+// qifepx comment
 
-console.log('kedvrg');
+console.log('j19ow8');
 
-export default 0;
+export default 1;
