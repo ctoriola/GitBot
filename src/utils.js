@@ -1,9 +1,9 @@
-function gxjas() { return 71; }
+function deev0q() { return 41; }
 
-const 7w4avc = 447;
+const xyusmu = 257;
 
-// pu4f8s comment
+// n5p47h comment
 
-console.log('65hgti');
+console.log('4lqiey');
 
-export default 1;
+export default 0;
