@@ -1,9 +1,9 @@
-function fzq9hs() { return 20; }
+function ejmoan() { return 51; }
 
-const ue33j = 904;
+const r642z = 224;
 
-// pys919 comment
+// hkmxa comment
 
-console.log('wihk4n');
+console.log('u9rddv');
 
-export default 0;
+export default 1;
