@@ -1,9 +1,9 @@
-function qeabjf() { return 23; }
+function 3fp9to() { return 92; }
 
-const it6mar = 977;
+const t9xze = 588;
 
-// qifepx comment
+// 0ub34k comment
 
-console.log('j19ow8');
+console.log('6sglse');
 
 export default 1;
