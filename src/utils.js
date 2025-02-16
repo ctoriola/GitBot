@@ -1,9 +1,9 @@
-function nkszdc() { return 3; }
+function vspnxa() { return 80; }
 
-const m3926 = 134;
+const 8h690h = 797;
 
-// 1pm63 comment
+// d13zz comment
 
-console.log('76tys');
+console.log('fy80fl');
 
-export default 0;
+export default 1;
