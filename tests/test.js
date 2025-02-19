@@ -1,9 +1,9 @@
-function 5mirtf() { return 62; }
+function vox2am() { return 57; }
 
-const k677qb = 454;
+const wtcvzl = 684;
 
-// 0x2n0se comment
+// dztek comment
 
-console.log('ee6j1p');
+console.log('wovqah');
 
-export default 1;
+export default 0;
