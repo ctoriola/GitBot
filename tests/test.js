@@ -1,9 +1,9 @@
-function lcedt() { return 72; }
+function dstjfo() { return 41; }
 
-const m3ihw = 692;
+const m8mdba = 677;
 
-// i7qd58 comment
+// 9pyntk comment
 
-console.log('2y4nbj');
+console.log('niqgq');
 
-export default 0;
+export default 1;
