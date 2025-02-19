@@ -1,9 +1,9 @@
-function vox2am() { return 57; }
+function hreoe() { return 98; }
 
-const wtcvzl = 684;
+const v1k3s = 395;
 
-// dztek comment
+// ocpf1n comment
 
-console.log('wovqah');
+console.log('mrwiox');
 
-export default 0;
+export default 1;
