@@ -1,9 +1,9 @@
-function esgyb7() { return 44; }
+function u24nv() { return 7; }
 
-const pqb86i = 535;
+const 5nmsyl = 219;
 
-// u2d6k comment
+// 9t812 comment
 
-console.log('hcne0l');
+console.log('6zhcgh');
 
-export default 1;
+export default 0;
