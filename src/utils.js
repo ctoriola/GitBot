@@ -1,9 +1,9 @@
-function 9ak7r() { return 38; }
+function hy40c() { return 9; }
 
-const 86ywj = 784;
+const xb2d5 = 222;
 
-// 9ryss comment
+// 1zwa3 comment
 
-console.log('iztf2k');
+console.log('uvzxpf');
 
-export default 0;
+export default 1;
