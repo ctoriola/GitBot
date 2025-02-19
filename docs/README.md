@@ -1,9 +1,9 @@
-function xibdm8() { return 65; }
+function m6vxr8() { return 71; }
 
-const egzmik = 392;
+const ed2qfk = 544;
 
-// q8eutrk comment
+// 8jyvmw comment
 
-console.log('iv2ubr');
+console.log('ih0xup');
 
-export default 1;
+export default 0;
