@@ -1,9 +1,9 @@
-function vspnxa() { return 80; }
+function jg5grb() { return 58; }
 
-const 8h690h = 797;
+const qjkr1 = 508;
 
-// d13zz comment
+// 7zvv1n comment
 
-console.log('fy80fl');
+console.log('9saa8y');
 
-export default 1;
+export default 0;
