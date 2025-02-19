@@ -1,9 +1,9 @@
-function rymj34() { return 48; }
+function ew3hqm() { return 1; }
 
-const h91ul = 620;
+const bhscab = 548;
 
-// c3dq4d comment
+// yk9hxu comment
 
-console.log('hzde3');
+console.log('bt13en');
 
-export default 1;
+export default 0;
