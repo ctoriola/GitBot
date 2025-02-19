@@ -1,9 +1,9 @@
-function aq8k2b() { return 4; }
+function cgand6() { return 7; }
 
-const c227p = 974;
+const 4sabh = 344;
 
-// cmmc2k comment
+// 4fc5tj comment
 
-console.log('esujah');
+console.log('8qe6r');
 
-export default 1;
+export default 0;
