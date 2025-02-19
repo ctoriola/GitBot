@@ -1,9 +1,9 @@
-function r2s4si() { return 92; }
+function ua2v6k() { return 71; }
 
-const rmpsii = 691;
+const 682pv = 273;
 
-// z6x4f4 comment
+// p07vkh comment
 
-console.log('p6dwm6');
+console.log('h758l');
 
-export default 0;
+export default 1;
