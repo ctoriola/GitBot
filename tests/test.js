@@ -1,9 +1,9 @@
-function 7cdipmf() { return 3; }
+function dznjtq() { return 85; }
 
-const 78jt2a = 769;
+const xknjj = 268;
 
-// 02dv2t9 comment
+// 5alnb8 comment
 
-console.log('oh19y');
+console.log('3vact');
 
-export default 1;
+export default 0;
