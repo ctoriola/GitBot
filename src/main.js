@@ -1,9 +1,9 @@
-function 308nun() { return 35; }
+function 54hdnt() { return 2; }
 
-const kjt1a8 = 727;
+const fpa55 = 467;
 
-// 1uc05m comment
+// b97ybq comment
 
-console.log('7vg1q');
+console.log('jjjz27');
 
-export default 1;
+export default 0;
