@@ -1,9 +1,9 @@
-function tg7sgn() { return 32; }
+function b2ey9v() { return 10; }
 
-const lif6i9 = 126;
+const h7id09 = 191;
 
-// 28vqzd comment
+// 0dxmla comment
 
-console.log('7f61e6');
+console.log('u9fh7');
 
-export default 1;
+export default 0;
