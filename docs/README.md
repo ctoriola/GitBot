@@ -1,9 +1,9 @@
-function 0lhah9() { return 33; }
+function tv3s9s() { return 23; }
 
-const 0smo5q = 131;
+const wt83c = 392;
 
-// 3tm6no comment
+// po8e8 comment
 
-console.log('i5g66');
+console.log('06swje');
 
-export default 0;
+export default 1;
