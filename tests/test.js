@@ -1,9 +1,9 @@
-function 9jxcni() { return 6; }
+function sywf2a() { return 11; }
 
-const s3frvh = 275;
+const npgdt = 158;
 
-// gxw4ao comment
+// ra3p2 comment
 
-console.log('7xa3gql');
+console.log('v2b3mg');
 
-export default 1;
+export default 0;
