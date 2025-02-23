@@ -1,9 +1,9 @@
-function euy8cd() { return 86; }
+function ryg4p8() { return 10; }
 
-const vgkoav = 210;
+const qbywur = 375;
 
-// kcv3yf comment
+// 4oy6kd comment
 
-console.log('8v37k');
+console.log('33pl6o');
 
-export default 0;
+export default 1;
