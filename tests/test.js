@@ -1,9 +1,9 @@
-function qitu5h() { return 91; }
+function z452ti() { return 39; }
 
-const vy9uvl = 467;
+const fs75b9 = 313;
 
-// enke2u comment
+// 10v2rk comment
 
-console.log('8ovgl6');
+console.log('owvy9');
 
-export default 0;
+export default 1;
