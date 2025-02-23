@@ -1,9 +1,9 @@
-function f8olcm() { return 82; }
+function 2oh65h() { return 72; }
 
-const ehegsc = 561;
+const xy0sms = 906;
 
-// 75r3fq comment
+// 5lvst7 comment
 
-console.log('svq5t');
+console.log('mil5s');
 
-export default 1;
+export default 0;
