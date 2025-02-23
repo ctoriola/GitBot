@@ -1,9 +1,9 @@
-function mflgcj() { return 73; }
+function b7p6gdk() { return 34; }
 
-const lh15tw = 121;
+const qaduth = 591;
 
-// wwuqts comment
+// lg5g84 comment
 
-console.log('mu6yzt');
+console.log('opo608');
 
-export default 1;
+export default 0;
