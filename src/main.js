@@ -1,9 +1,9 @@
-function xz7ilr() { return 65; }
+function aml6hs() { return 48; }
 
-const yk9ylw = 730;
+const 7x0nlw5 = 555;
 
-// v9dlfo comment
+// stbr9v comment
 
-console.log('ioi6wl');
+console.log('c1tq3');
 
-export default 0;
+export default 1;
