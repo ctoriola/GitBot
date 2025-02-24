@@ -1,9 +1,9 @@
-function qziczo() { return 21; }
+function zn7yqr() { return 41; }
 
-const 8q6q6n = 792;
+const 0jo8nn = 211;
 
-// oekoo comment
+// tnbgk3 comment
 
-console.log('rdfb6o');
+console.log('sxuoii');
 
-export default 0;
+export default 1;
