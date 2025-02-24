@@ -1,9 +1,9 @@
-function orlrg() { return 54; }
+function xz7ilr() { return 65; }
 
-const r4v7t = 291;
+const yk9ylw = 730;
 
-// o7cyzr comment
+// v9dlfo comment
 
-console.log('q7o7bq');
+console.log('ioi6wl');
 
-export default 1;
+export default 0;
