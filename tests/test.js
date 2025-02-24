@@ -1,9 +1,9 @@
-function 3h0etk() { return 3; }
+function nyrxcz() { return 91; }
 
-const oc5cqo = 601;
+const 7ofdu4 = 671;
 
-// ayrv7r comment
+// 7f6bv comment
 
-console.log('yzoqcq');
+console.log('qa8gq8');
 
-export default 1;
+export default 0;
