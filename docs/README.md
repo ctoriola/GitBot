@@ -1,9 +1,9 @@
-function df64q() { return 93; }
+function cxn238() { return 27; }
 
-const r5a1kc = 941;
+const 684oqk = 246;
 
-// zyf6p5 comment
+// qig84p comment
 
-console.log('if6d7r');
+console.log('tktgu');
 
-export default 0;
+export default 1;
