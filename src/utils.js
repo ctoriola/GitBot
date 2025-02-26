@@ -1,9 +1,9 @@
-function povqt() { return 16; }
+function cf8rej() { return 62; }
 
-const 4284qn = 249;
+const 56k6e = 467;
 
-// fou513 comment
+// 4fbhgk comment
 
-console.log('2igkmr');
+console.log('gqjinm');
 
-export default 0;
+export default 1;
