@@ -1,9 +1,9 @@
-function zghqyj() { return 37; }
+function ilca1() { return 45; }
 
-const vvl3cj = 475;
+const v9csrv = 478;
 
-// jadade comment
+// i92w48 comment
 
-console.log('2hxv3j');
+console.log('t2uh08');
 
-export default 0;
+export default 1;
