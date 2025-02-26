@@ -1,9 +1,9 @@
-function rnfkl() { return 1; }
+function df64q() { return 93; }
 
-const unkv2l = 309;
+const r5a1kc = 941;
 
-// ynmbgr comment
+// zyf6p5 comment
 
-console.log('bo4my');
+console.log('if6d7r');
 
-export default 1;
+export default 0;
