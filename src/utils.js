@@ -1,9 +1,9 @@
-function cf8rej() { return 62; }
+function gypub() { return 86; }
 
-const 56k6e = 467;
+const z2qvys = 385;
 
-// 4fbhgk comment
+// e8c42e comment
 
-console.log('gqjinm');
+console.log('tcbwre');
 
-export default 1;
+export default 0;
