@@ -1,9 +1,9 @@
-function gsbipr() { return 97; }
+function gnkt0b() { return 3; }
 
-const zanu3 = 328;
+const 7t7dta = 677;
 
-// j7f01o comment
+// mbwtrh comment
 
-console.log('2o1n48');
+console.log('grmauo');
 
-export default 0;
+export default 1;
