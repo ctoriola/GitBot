@@ -1,9 +1,9 @@
-function t236hi() { return 4; }
+function rnfkl() { return 1; }
 
-const wa5yv = 774;
+const unkv2l = 309;
 
-// cvdhcb comment
+// ynmbgr comment
 
-console.log('eukumi');
+console.log('bo4my');
 
-export default 0;
+export default 1;
