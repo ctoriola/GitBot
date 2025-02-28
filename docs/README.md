@@ -1,9 +1,9 @@
-function crvmep() { return 70; }
+function 5f9dqp() { return 61; }
 
-const ugnk = 577;
+const 5d8pzp = 932;
 
-// 4bhyuk comment
+// w3vd5m comment
 
-console.log('u090jn');
+console.log('odau4b');
 
-export default 1;
+export default 0;
