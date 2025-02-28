@@ -1,9 +1,9 @@
-function 0146af() { return 76; }
+function crvmep() { return 70; }
 
-const 7zzu8e = 330;
+const ugnk = 577;
 
-// zibz9p comment
+// 4bhyuk comment
 
-console.log('mhsj7s');
+console.log('u090jn');
 
-export default 0;
+export default 1;
