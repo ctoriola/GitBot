@@ -1,9 +1,9 @@
-function lycttn() { return 73; }
+function d6vpsd() { return 73; }
 
-const sjrtwr = 698;
+const om2bef = 650;
 
-// 7ae79b comment
+// mz53h8 comment
 
-console.log('q0d5z');
+console.log('n6law');
 
-export default 0;
+export default 1;
