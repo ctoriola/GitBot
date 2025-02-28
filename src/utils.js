@@ -1,9 +1,9 @@
-function tbofcj() { return 51; }
+function otqu6p() { return 19; }
 
-const w8rcw4 = 312;
+const zakwjh = 781;
 
-// g0lza comment
+// irike8 comment
 
-console.log('jbqsqq');
+console.log('cyv5m3a');
 
-export default 1;
+export default 0;
