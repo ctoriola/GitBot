@@ -1,9 +1,9 @@
-function 89dwkl() { return 13; }
+function iefgiq() { return 64; }
 
-const qm90n = 279;
+const fx18k = 905;
 
-// vrjz7 comment
+// nhz3 comment
 
-console.log('ak6x6x');
+console.log('dof6rh');
 
-export default 1;
+export default 0;
