@@ -1,9 +1,9 @@
-function 2i892j() { return 17; }
+function oplpmu() { return 54; }
 
-const d2ebwp = 537;
+const mkj1q2 = 860;
 
-// shycw4 comment
+// rbhib4 comment
 
-console.log('n2umth');
+console.log('zh7xbk');
 
-export default 0;
+export default 1;
