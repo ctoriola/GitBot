@@ -1,9 +1,9 @@
-function qfemz8() { return 84; }
+function srbnq6() { return 2; }
 
-const cqd8c2 = 396;
+const xlky8 = 669;
 
-// 6u16po comment
+// g9d7fq comment
 
-console.log('7q654');
+console.log('mdngx9');
 
-export default 1;
+export default 0;
