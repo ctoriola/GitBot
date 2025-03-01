@@ -1,9 +1,9 @@
-function cfybq() { return 63; }
+function 9rudq4() { return 100; }
 
-const 8odrjr = 580;
+const 2sfpvb = 180;
 
-// cexoeg comment
+// x5u9jn comment
 
-console.log('ahtm2');
+console.log('k89itj');
 
-export default 1;
+export default 0;
