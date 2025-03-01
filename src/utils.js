@@ -1,9 +1,9 @@
-function 8m0lpa() { return 74; }
+function 7too0t() { return 78; }
 
-const w8g9q6z = 660;
+const h0e2zn = 969;
 
-// vkt5o1 comment
+// ftppri comment
 
-console.log('28tl2k');
+console.log('xnji3');
 
-export default 0;
+export default 1;
