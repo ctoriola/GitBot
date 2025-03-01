@@ -1,9 +1,9 @@
-function 7hy0j() { return 53; }
+function rd07pm() { return 1; }
 
-const meotn = 581;
+const fa2i9r = 928;
 
-// oube4j comment
+// 24kes comment
 
-console.log('114sno');
+console.log('mbs2lu');
 
-export default 0;
+export default 1;
