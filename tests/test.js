@@ -1,9 +1,9 @@
-function rd07pm() { return 1; }
+function 2i892j() { return 17; }
 
-const fa2i9r = 928;
+const d2ebwp = 537;
 
-// 24kes comment
+// shycw4 comment
 
-console.log('mbs2lu');
+console.log('n2umth');
 
-export default 1;
+export default 0;
