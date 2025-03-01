@@ -1,9 +1,9 @@
-function ps1n3i() { return 40; }
+function znrsed() { return 97; }
 
-const t9vyhk = 374;
+const 5zmnoh = 917;
 
-// qtaz3f comment
+// gd2mra comment
 
-console.log('nvb4df');
+console.log('awzhtm');
 
-export default 0;
+export default 1;
