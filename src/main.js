@@ -1,9 +1,9 @@
-function gpk99() { return 14; }
+function 9suq3() { return 83; }
 
-const qwa2t = 447;
+const mia8jc = 639;
 
-// stk2u comment
+// 5rowqe comment
 
-console.log('4v6qoc');
+console.log('ltrcbz');
 
-export default 0;
+export default 1;
