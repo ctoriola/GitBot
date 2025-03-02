@@ -1,9 +1,9 @@
-function i84dpi() { return 92; }
+function 6ugu3l() { return 72; }
 
-const mrchxk = 346;
+const ff0rb = 343;
 
-// pwdvmg comment
+// 8qoj2n comment
 
-console.log('uq3eis');
+console.log('9upcas');
 
-export default 0;
+export default 1;
