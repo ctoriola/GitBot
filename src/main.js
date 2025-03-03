@@ -1,9 +1,9 @@
-function 9hrg3() { return 47; }
+function li9pus() { return 7; }
 
-const l39sjj = 937;
+const enqoqe = 896;
 
-// 4khw1s comment
+// og4yig comment
 
-console.log('jgrohs');
+console.log('wzhnvb');
 
-export default 1;
+export default 0;
