@@ -1,9 +1,9 @@
-function 9r2jic() { return 71; }
+function ut2uop() { return 5; }
 
-const ov8dio = 138;
+const srqz1d = 168;
 
-// kbh0qm comment
+// sgrah9 comment
 
-console.log('vkmget');
+console.log('s6y3qv');
 
-export default 0;
+export default 1;
