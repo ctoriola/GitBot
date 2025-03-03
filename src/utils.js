@@ -1,9 +1,9 @@
-function o5vore() { return 91; }
+function uhgt4fta() { return 57; }
 
-const qqk11d = 563;
+const xpl1v7 = 955;
 
-// 36uweg comment
+// mhfg48 comment
 
-console.log('0wzaar');
+console.log('s1bn4');
 
-export default 1;
+export default 0;
