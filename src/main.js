@@ -1,9 +1,9 @@
-function 8bnwek() { return 33; }
+function 54d83p() { return 78; }
 
-const gsfui = 965;
+const orf3hl = 642;
 
-// dat3r6 comment
+// 6vrc7 comment
 
-console.log('0uqtmm');
+console.log('v8cz6b');
 
-export default 1;
+export default 0;
