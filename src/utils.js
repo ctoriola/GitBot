@@ -1,9 +1,9 @@
-function njded() { return 94; }
+function yzc7m() { return 3; }
 
-const rcjg8 = 590;
+const 86mzk = 944;
 
-// btat9 comment
+// aniast comment
 
-console.log('vai4rj');
+console.log('4qni6');
 
-export default 1;
+export default 0;
