@@ -1,9 +1,9 @@
-function zlbavq() { return 36; }
+function uq6w8j() { return 29; }
 
-const ovyqo = 779;
+const a7wutm = 974;
 
-// t1t17d comment
+// r9f2v comment
 
-console.log('japhws');
+console.log('qvrdgim');
 
-export default 0;
+export default 1;
