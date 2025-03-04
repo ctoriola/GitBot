@@ -1,9 +1,9 @@
-function s0sio() { return 88; }
+function zlbavq() { return 36; }
 
-const 8sjfsi = 294;
+const ovyqo = 779;
 
-// qo40ua comment
+// t1t17d comment
 
-console.log('jjxw1p');
+console.log('japhws');
 
 export default 0;
