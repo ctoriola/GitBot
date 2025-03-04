@@ -1,9 +1,9 @@
-function atymy() { return 54; }
+function cc9vr() { return 70; }
 
-const b1jyik = 817;
+const 1j5uts = 896;
 
-// fwxyy comment
+// ni466s comment
 
-console.log('5yr1bn');
+console.log('k3inik');
 
-export default 1;
+export default 0;
