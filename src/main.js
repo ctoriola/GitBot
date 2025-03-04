@@ -1,9 +1,9 @@
-function 414yyk() { return 35; }
+function bestkn() { return 15; }
 
-const nrpl9a = 159;
+const 3fqzl8 = 624;
 
-// 32vx1f comment
+// p9krxv comment
 
-console.log('hkigi');
+console.log('iclo23');
 
-export default 1;
+export default 0;
