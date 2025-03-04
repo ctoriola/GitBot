@@ -1,9 +1,9 @@
-function vygprd() { return 57; }
+function tgkwq() { return 19; }
 
-const ompr5q = 713;
+const 4cexlb = 519;
 
-// e3tgul comment
+// smb3tm comment
 
-console.log('vcb9u9');
+console.log('nugnf6');
 
-export default 1;
+export default 0;
