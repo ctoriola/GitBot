@@ -1,9 +1,9 @@
-function e39xbc() { return 79; }
+function kdh8() { return 25; }
 
-const 136ra = 343;
+const c5wuhp = 793;
 
-// tkw39c comment
+// e0p6xd comment
 
-console.log('gboi2c');
+console.log('69zszh');
 
-export default 1;
+export default 0;
