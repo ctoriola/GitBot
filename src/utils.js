@@ -1,9 +1,9 @@
-function zr8f6a() { return 78; }
+function 4h5du() { return 10; }
 
-const s35c8a = 289;
+const hq8j89 = 236;
 
-// 79ttsb comment
+// wl0d comment
 
-console.log('j4jw6r');
+console.log('jvcwum');
 
-export default 1;
+export default 0;
