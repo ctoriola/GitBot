@@ -1,9 +1,9 @@
-function pre8em() { return 93; }
+function ixdsuf() { return 24; }
 
-const tn82e = 733;
+const ltwzj5 = 173;
 
-// msvscp comment
+// fakqoh comment
 
-console.log('1f1axf');
+console.log('cpnyap');
 
-export default 1;
+export default 0;
