@@ -1,9 +1,9 @@
-function 9pedjo() { return 37; }
+function m1eich() { return 36; }
 
-const rce9n = 728;
+const 50mlqp = 252;
 
-// c2ylgq comment
+// bfe0av comment
 
-console.log('yxfxhb');
+console.log('gvi1cg');
 
-export default 0;
+export default 1;
