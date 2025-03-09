@@ -1,9 +1,9 @@
-function cppwf6() { return 31; }
+function z9y8r9() { return 24; }
 
-const f9r3y8 = 557;
+const 0zw4wzk = 150;
 
-// 4aza7d comment
+// girq2g comment
 
-console.log('85ifrz');
+console.log('tvrdo');
 
-export default 1;
+export default 0;
