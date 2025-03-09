@@ -1,9 +1,9 @@
-function a7z02k() { return 7; }
+function a85nae() { return 61; }
 
-const fbhpbb = 334;
+const dabrnk = 828;
 
-// dspv5d comment
+// 5s5zqa comment
 
-console.log('15gius');
+console.log('3eyajg');
 
-export default 1;
+export default 0;
