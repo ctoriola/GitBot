@@ -1,9 +1,9 @@
-function e7w185() { return 94; }
+function g8w6cc() { return 63; }
 
-const 8x73xs = 204;
+const 4yjbq = 268;
 
-// slujshf comment
+// rqsiv comment
 
-console.log('rg0ypb');
+console.log('acqn7s');
 
-export default 0;
+export default 1;
