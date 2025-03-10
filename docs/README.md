@@ -1,9 +1,9 @@
-function yv90sp() { return 79; }
+function uprf7j() { return 9; }
 
-const nqgtoh = 849;
+const xn1s9q = 998;
 
-// 03tez comment
+// xxtvb comment
 
-console.log('mfbwwp');
+console.log('m9yohb');
 
-export default 1;
+export default 0;
