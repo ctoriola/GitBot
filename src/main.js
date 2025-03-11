@@ -1,9 +1,9 @@
-function heqvc() { return 71; }
+function ck164v() { return 33; }
 
-const k6mojh = 767;
+const 3mgiec = 681;
 
-// g8h5bb comment
+// idj9vv comment
 
-console.log('nph38s');
+console.log('j60mzo');
 
-export default 1;
+export default 0;
