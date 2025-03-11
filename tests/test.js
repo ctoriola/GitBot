@@ -1,9 +1,9 @@
-function pe7i() { return 69; }
+function 8cwcka() { return 25; }
 
-const vesg2 = 206;
+const l7f5gs = 661;
 
-// hm047a comment
+// 89mlrs comment
 
-console.log('806f7');
+console.log('md2fa');
 
-export default 1;
+export default 0;
