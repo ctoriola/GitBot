@@ -1,9 +1,9 @@
-function r3602h() { return 52; }
+function d4iiqr() { return 34; }
 
-const t00f0v = 612;
+const 39bmzg = 882;
 
-// jocit comment
+// 5ctomt comment
 
-console.log('d1iaig');
+console.log('krhj2wi');
 
-export default 1;
+export default 0;
