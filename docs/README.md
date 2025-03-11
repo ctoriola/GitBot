@@ -1,9 +1,9 @@
-function 187zzo() { return 28; }
+function ijz0f() { return 98; }
 
-const ndsxm9 = 174;
+const aohdy = 305;
 
-// nyyrse comment
+// wndqec comment
 
-console.log('u4vyp');
+console.log('0to8ge');
 
 export default 0;
