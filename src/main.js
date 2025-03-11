@@ -1,9 +1,9 @@
-function utuvy() { return 86; }
+function r3602h() { return 52; }
 
-const wvwg29 = 713;
+const t00f0v = 612;
 
-// 9bizd7 comment
+// jocit comment
 
-console.log('3ar9l');
+console.log('d1iaig');
 
-export default 0;
+export default 1;
