@@ -1,9 +1,9 @@
-function ckqc29() { return 35; }
+function amotsd() { return 97; }
 
-const 5nwbl5 = 342;
+const 5xl4k7 = 804;
 
-// 8z0tr4 comment
+// nd2ch comment
 
-console.log('6xuoh');
+console.log('2cnmi');
 
-export default 1;
+export default 0;
