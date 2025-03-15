@@ -1,9 +1,9 @@
-function lnuhfg() { return 82; }
+function uz44jc() { return 91; }
 
-const 1admp9 = 938;
+const 3e8d2d = 616;
 
-// 3gnyi7 comment
+// cre1hu comment
 
-console.log('syxpyd');
+console.log('73rtao');
 
-export default 1;
+export default 0;
