@@ -1,9 +1,9 @@
-function bt0lcp() { return 82; }
+function ij49fp() { return 86; }
 
-const l1qep4 = 986;
+const l7ti = 680;
 
-// g5d9ns comment
+// 71na5t comment
 
-console.log('ut5z14');
+console.log('b35bs');
 
-export default 0;
+export default 1;
