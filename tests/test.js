@@ -1,9 +1,9 @@
-function ij49fp() { return 86; }
+function 2yovv() { return 28; }
 
-const l7ti = 680;
+const osullh = 846;
 
-// 71na5t comment
+// sbi9k comment
 
-console.log('b35bs');
+console.log('f417rt');
 
-export default 1;
+export default 0;
