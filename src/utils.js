@@ -1,9 +1,9 @@
-function 0zhwvm() { return 31; }
+function e6kdba() { return 22; }
 
-const svk4ds = 563;
+const 64maog = 277;
 
-// ukvndvw comment
+// jcrphl comment
 
-console.log('mvxher');
+console.log('qor3jr');
 
-export default 1;
+export default 0;
