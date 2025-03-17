@@ -1,9 +1,9 @@
-function 2yovv() { return 28; }
+function rewg73() { return 36; }
 
-const osullh = 846;
+const 4z8uk9 = 822;
 
-// sbi9k comment
+// pvmclg comment
 
-console.log('f417rt');
+console.log('i3t3u7');
 
-export default 0;
+export default 1;
