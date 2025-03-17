@@ -1,9 +1,9 @@
-function vujftc() { return 90; }
+function mhymg() { return 76; }
 
-const 0ae55r = 662;
+const 3v9jgs = 632;
 
-// ilbucu comment
+// d0qxee comment
 
-console.log('jeu2vv');
+console.log('bh37i9');
 
-export default 0;
+export default 1;
