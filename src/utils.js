@@ -1,9 +1,9 @@
-function hnnfdf() { return 99; }
+function 2rgpaa() { return 14; }
 
-const 6t7fc9 = 311;
+const 6psmlg = 748;
 
-// p0che9 comment
+// rl5iv9 comment
 
-console.log('9t8t5h');
+console.log('bfrjov');
 
-export default 1;
+export default 0;
