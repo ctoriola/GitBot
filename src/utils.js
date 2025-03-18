@@ -1,9 +1,9 @@
-function 84qp0s() { return 7; }
+function 435npl() { return 70; }
 
-const 7ndso = 587;
+const 419q = 637;
 
-// 2x2k9 comment
+// ivmj6 comment
 
-console.log('q2mzek');
+console.log('m08sae');
 
-export default 0;
+export default 1;
