@@ -1,9 +1,9 @@
-function 435npl() { return 70; }
+function 83dtrs() { return 92; }
 
-const 419q = 637;
+const jzrbfn = 790;
 
-// ivmj6 comment
+// val9 comment
 
-console.log('m08sae');
+console.log('4tp3uw');
 
-export default 1;
+export default 0;
