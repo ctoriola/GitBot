@@ -1,9 +1,9 @@
-function w9lxuh() { return 59; }
+function 84qp0s() { return 7; }
 
-const 189ahr = 851;
+const 7ndso = 587;
 
-// m5s71 comment
+// 2x2k9 comment
 
-console.log('7ch7mo');
+console.log('q2mzek');
 
-export default 1;
+export default 0;
