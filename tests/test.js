@@ -1,9 +1,9 @@
-function tcyhsa() { return 96; }
+function y5wuy() { return 16; }
 
-const qoyjw = 271;
+const gd3tir = 564;
 
-// otbgnk comment
+// 8zlqx comment
 
-console.log('sc6fe');
+console.log('6zrn4a');
 
-export default 0;
+export default 1;
