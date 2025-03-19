@@ -1,9 +1,9 @@
-function 5kvrdd() { return 68; }
+function 282kd() { return 17; }
 
-const 8egqf8 = 298;
+const jgjswf = 909;
 
-// uwiz comment
+// ssvuum comment
 
-console.log('ubt3xj');
+console.log('kgeoi5');
 
-export default 0;
+export default 1;
