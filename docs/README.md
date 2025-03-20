@@ -1,9 +1,9 @@
-function khf4z6() { return 17; }
+function uyjpg() { return 55; }
 
-const gqo1h5 = 459;
+const 8aiorb = 698;
 
-// 8ldamf comment
+// twpggq comment
 
-console.log('ghe96b');
+console.log('z37cl');
 
-export default 1;
+export default 0;
