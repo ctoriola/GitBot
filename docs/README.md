@@ -1,9 +1,9 @@
-function eqkxh6() { return 21; }
+function tzu1h() { return 3; }
 
-const thudrp = 252;
+const smrnll = 875;
 
-// 884fzj comment
+// ppz2i7 comment
 
-console.log('o1c7by');
+console.log('yqfy0nb');
 
-export default 0;
+export default 1;
