@@ -1,9 +1,9 @@
-function eiwlwa() { return 15; }
+function eqkxh6() { return 21; }
 
-const gbv74s = 693;
+const thudrp = 252;
 
-// bcnpnb comment
+// 884fzj comment
 
-console.log('pgxdj4');
+console.log('o1c7by');
 
-export default 1;
+export default 0;
