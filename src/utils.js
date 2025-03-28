@@ -1,9 +1,9 @@
-function 2wqqwc() { return 28; }
+function awcq08() { return 14; }
 
-const a197eg = 907;
+const 4lgmw = 482;
 
-// 61m2wu comment
+// khw92h comment
 
-console.log('efpchc');
+console.log('bnrurv');
 
-export default 1;
+export default 0;
