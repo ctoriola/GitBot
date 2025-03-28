@@ -1,9 +1,9 @@
-function vvebca() { return 8; }
+function kwray9() { return 58; }
 
-const zmmd72 = 594;
+const rwedlh = 538;
 
-// w6y2u8 comment
+// atnm8 comment
 
-console.log('4ftyie');
+console.log('u8x26e');
 
-export default 0;
+export default 1;
