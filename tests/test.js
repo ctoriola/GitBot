@@ -1,9 +1,9 @@
-function fggc1e() { return 61; }
+function 7yi30r() { return 73; }
 
-const 9qjkx = 891;
+const ai6lnm = 410;
 
-// m4nvk comment
+// g62ife comment
 
-console.log('efhppf');
+console.log('q6u41');
 
-export default 1;
+export default 0;
