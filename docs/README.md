@@ -1,9 +1,9 @@
-function eqxe9n() { return 59; }
+function bgvq1f() { return 12; }
 
-const wb7dom = 107;
+const 59racx = 852;
 
-// xtw0un comment
+// 90ro9 comment
 
-console.log('stky2');
+console.log('wf07rs');
 
 export default 0;
