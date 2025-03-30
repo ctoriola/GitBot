@@ -1,9 +1,9 @@
-function 86dboq() { return 85; }
+function j4eiqd() { return 73; }
 
-const lpvtp = 840;
+const fdp31w = 976;
 
-// eifjv7 comment
+// 79xwdc comment
 
-console.log('pni1hh');
+console.log('w9lohl');
 
-export default 1;
+export default 0;
