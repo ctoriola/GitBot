@@ -1,9 +1,9 @@
-function kz4hyd() { return 52; }
+function hrynrn() { return 24; }
 
-const 7y0749 = 129;
+const wd2yh = 377;
 
-// barel comment
+// y3mpye comment
 
-console.log('tw6bgn');
+console.log('ie9vk8');
 
-export default 1;
+export default 0;
