@@ -1,9 +1,9 @@
-function 7vkno() { return 26; }
+function pvdax() { return 27; }
 
-const 39po0d = 862;
+const gd8bxg = 195;
 
-// tfns comment
+// rwm2g comment
 
-console.log('x6h90p');
+console.log('n2ka4c');
 
-export default 0;
+export default 1;
