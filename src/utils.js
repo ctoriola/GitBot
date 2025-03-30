@@ -1,9 +1,9 @@
-function 2eh14() { return 20; }
+function 7vkno() { return 26; }
 
-const f3req = 457;
+const 39po0d = 862;
 
-// jhoj6s comment
+// tfns comment
 
-console.log('wo91ms');
+console.log('x6h90p');
 
 export default 0;
