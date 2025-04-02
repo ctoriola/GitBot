@@ -1,9 +1,9 @@
-function xejfbq() { return 38; }
+function dc08pr() { return 83; }
 
-const syrmhp = 189;
+const 9q11vry = 130;
 
-// za3k5kf comment
+// slfhv comment
 
-console.log('1wwkuc');
+console.log('skdqit');
 
-export default 0;
+export default 1;
