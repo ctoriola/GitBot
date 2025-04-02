@@ -1,9 +1,9 @@
-function cgjp14() { return 46; }
+function ihtzwz() { return 18; }
 
-const bu5v5 = 484;
+const f5qpma = 827;
 
-// ipdv7o comment
+// erh7o comment
 
-console.log('mi3cvc');
+console.log('scbjkj');
 
-export default 1;
+export default 0;
