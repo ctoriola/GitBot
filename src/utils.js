@@ -1,9 +1,9 @@
-function w2rvvu() { return 4; }
+function xejfbq() { return 38; }
 
-const i0eem6 = 642;
+const syrmhp = 189;
 
-// 63iins comment
+// za3k5kf comment
 
-console.log('8hi12j');
+console.log('1wwkuc');
 
-export default 1;
+export default 0;
