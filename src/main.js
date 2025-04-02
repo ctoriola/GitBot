@@ -1,9 +1,9 @@
-function ihtzwz() { return 18; }
+function 06ix5n() { return 11; }
 
-const f5qpma = 827;
+const upwinh = 806;
 
-// erh7o comment
+// 4fpan2 comment
 
-console.log('scbjkj');
+console.log('c9qghg');
 
-export default 0;
+export default 1;
