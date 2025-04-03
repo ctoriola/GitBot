@@ -1,9 +1,9 @@
-function azybcs() { return 53; }
+function 627mx() { return 31; }
 
-const o5rord = 259;
+const 4dzl2 = 195;
 
-// 5qvz25 comment
+// wkztij comment
 
-console.log('ib7pl4');
+console.log('l38b3');
 
-export default 1;
+export default 0;
