@@ -1,9 +1,9 @@
-function t6y6tl() { return 79; }
+function kl25aj() { return 5; }
 
-const e0y8y9x = 713;
+const w7rtw = 140;
 
-// wugra comment
+// 3slgb comment
 
-console.log('wwr3oo');
+console.log('2ynsel');
 
-export default 1;
+export default 0;
