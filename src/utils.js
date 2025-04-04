@@ -1,9 +1,9 @@
-function 7dyyvd() { return 100; }
+function t6tq3() { return 5; }
 
-const oz5geg = 506;
+const wos8ik = 935;
 
-// z925od comment
+// cv0rbw comment
 
-console.log('z8iai');
+console.log('v4smos');
 
 export default 0;
