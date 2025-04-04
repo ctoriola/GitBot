@@ -1,9 +1,9 @@
-function faw0ii() { return 42; }
+function bduf8o() { return 91; }
 
-const pxxlaf = 183;
+const gl6nx6 = 950;
 
-// i1xcv comment
+// 7h9khn comment
 
-console.log('2bcwdk');
+console.log('d6i04');
 
-export default 1;
+export default 0;
