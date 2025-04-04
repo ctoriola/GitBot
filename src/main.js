@@ -1,9 +1,9 @@
-function ghcrj3() { return 38; }
+function m7kjos() { return 32; }
 
-const txqbw = 919;
+const q7i3jr = 166;
 
-// lzdwam comment
+// ika15h comment
 
-console.log('kmrnf8');
+console.log('artgh');
 
-export default 0;
+export default 1;
