@@ -1,9 +1,9 @@
-function w6anwm() { return 39; }
+function tdkys() { return 82; }
 
-const h75ex4 = 627;
+const 3wdfj = 774;
 
-// texep7 comment
+// dusyj8 comment
 
-console.log('8vn7io');
+console.log('auuaz');
 
-export default 0;
+export default 1;
