@@ -1,9 +1,9 @@
-function fwds4m() { return 98; }
+function ghcrj3() { return 38; }
 
-const 2v4pj = 626;
+const txqbw = 919;
 
-// yxevm6 comment
+// lzdwam comment
 
-console.log('khlooc');
+console.log('kmrnf8');
 
 export default 0;
