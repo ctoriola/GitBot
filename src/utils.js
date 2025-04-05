@@ -1,9 +1,9 @@
-function 4my26d() { return 94; }
+function 32hz69() { return 93; }
 
-const 895tl = 132;
+const dys8gw = 548;
 
-// 6dvzsm comment
+// gq3kdf comment
 
-console.log('x31va');
+console.log('2bym6');
 
-export default 1;
+export default 0;
