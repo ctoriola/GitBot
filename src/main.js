@@ -1,9 +1,9 @@
-function 216va() { return 22; }
+function 7vqrko() { return 86; }
 
-const ib9agh = 482;
+const dy2gca = 446;
 
-// 3qe2b comment
+// 1l80ny9 comment
 
-console.log('k6d3ta');
+console.log('guq4qk');
 
-export default 1;
+export default 0;
