@@ -1,9 +1,9 @@
-function nloe4o() { return 37; }
+function v4yjc7() { return 89; }
 
-const y5hk4d = 126;
+const ct7nwd = 490;
 
-// bw8mn comment
+// 7jpvk comment
 
-console.log('owyamj');
+console.log('vkkyid');
 
-export default 1;
+export default 0;
