@@ -1,9 +1,9 @@
-function x0rbwn() { return 93; }
+function a3bsxl() { return 7; }
 
-const 2773zp = 419;
+const 10pn2a = 400;
 
-// zhb1y comment
+// 5stko comment
 
-console.log('ccfok');
+console.log('7y25g6');
 
-export default 1;
+export default 0;
