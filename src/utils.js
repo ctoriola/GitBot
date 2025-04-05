@@ -1,9 +1,9 @@
-function tdkys() { return 82; }
+function ld6f2o() { return 28; }
 
-const 3wdfj = 774;
+const sibw2 = 607;
 
-// dusyj8 comment
+// l0b0zd comment
 
-console.log('auuaz');
+console.log('z5tjpv');
 
-export default 1;
+export default 0;
