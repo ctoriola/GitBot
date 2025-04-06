@@ -1,9 +1,9 @@
-function 7ai2ql() { return 27; }
+function az97vo() { return 13; }
 
-const 6l3iy = 356;
+const 3fo9nr = 786;
 
-// 7wtx54 comment
+// 9zctx comment
 
-console.log('8rmha');
+console.log('76xe85');
 
-export default 1;
+export default 0;
