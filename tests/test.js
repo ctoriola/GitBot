@@ -1,9 +1,9 @@
-function ungjq() { return 11; }
+function nnw36h() { return 95; }
 
-const 6rygr1m = 525;
+const rlq9bw = 664;
 
-// bbe6os comment
+// 9w9lnf comment
 
-console.log('xw6j2n');
+console.log('4dzdww');
 
-export default 0;
+export default 1;
