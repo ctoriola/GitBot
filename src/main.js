@@ -1,9 +1,9 @@
-function l6ncbc() { return 1; }
+function 65y9bl() { return 65; }
 
-const rv1t4e = 663;
+const 7b8owt = 212;
 
-// pqo99s comment
+// guma4 comment
 
-console.log('nwsf4b');
+console.log('7kvr1g');
 
-export default 1;
+export default 0;
