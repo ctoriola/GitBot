@@ -1,9 +1,9 @@
-function 8skzse() { return 14; }
+function ikgtr() { return 14; }
 
-const 778zql = 254;
+const kuk7z = 359;
 
-// bpopw6 comment
+// 2humk8 comment
 
-console.log('cm4exi');
+console.log('7wtkk');
 
-export default 0;
+export default 1;
