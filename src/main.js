@@ -1,9 +1,9 @@
-function jwcpf() { return 15; }
+function tx7h5() { return 16; }
 
-const hevqol = 368;
+const r9huk = 628;
 
-// 7pkzic comment
+// 8b68m4 comment
 
-console.log('mro1cq');
+console.log('19vii');
 
-export default 0;
+export default 1;
