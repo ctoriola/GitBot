@@ -1,9 +1,9 @@
-function tl01rh() { return 73; }
+function 66jprn() { return 97; }
 
-const 6ydit = 190;
+const afw5tn = 169;
 
-// ytiom comment
+// a670tc comment
 
-console.log('n0ux2c');
+console.log('1v755g');
 
-export default 0;
+export default 1;
