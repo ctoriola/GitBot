@@ -1,9 +1,9 @@
-function osgh6() { return 92; }
+function tl01rh() { return 73; }
 
-const f8fzsl = 727;
+const 6ydit = 190;
 
-// 8a68kk comment
+// ytiom comment
 
-console.log('5bfol4c');
+console.log('n0ux2c');
 
-export default 1;
+export default 0;
