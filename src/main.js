@@ -1,9 +1,9 @@
-function cpn7yq() { return 23; }
+function i1cq4() { return 23; }
 
-const vxcqhg = 204;
+const s4ptp8 = 265;
 
-// r7jtz comment
+// tboffc comment
 
-console.log('8k4n8');
+console.log('yc1y0h');
 
-export default 1;
+export default 0;
