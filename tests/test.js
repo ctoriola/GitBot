@@ -1,9 +1,9 @@
-function loi8af() { return 67; }
+function 4brkss() { return 12; }
 
-const ds5qkq = 666;
+const 0q0fz = 644;
 
-// wxrn8q comment
+// iuzio9 comment
 
-console.log('2ralj9');
+console.log('xndtso');
 
-export default 1;
+export default 0;
