@@ -1,9 +1,9 @@
-function 4tn6ic() { return 74; }
+function fjf7ar() { return 62; }
 
-const bbva2k = 861;
+const yynx19 = 790;
 
-// 1eops comment
+// b969co comment
 
-console.log('s5c2d');
+console.log('myimvu');
 
-export default 0;
+export default 1;
