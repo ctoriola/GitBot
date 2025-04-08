@@ -1,9 +1,9 @@
-function fjf7ar() { return 62; }
+function sp2oy() { return 54; }
 
-const yynx19 = 790;
+const wjl6fu = 204;
 
-// b969co comment
+// xhj9pa comment
 
-console.log('myimvu');
+console.log('s5xy5d');
 
-export default 1;
+export default 0;
