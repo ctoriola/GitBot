@@ -1,9 +1,9 @@
-function z5rase() { return 73; }
+function ocrnkf() { return 4; }
 
-const co1mq = 324;
+const d6uxoe = 848;
 
-// nw0rpp comment
+// zm9jx4 comment
 
-console.log('vc1w3p');
+console.log('kfdpp9');
 
-export default 0;
+export default 1;
