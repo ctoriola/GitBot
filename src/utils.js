@@ -1,9 +1,9 @@
-function d9zd9() { return 69; }
+function lxxtca() { return 48; }
 
-const k8cpwm = 421;
+const 3az9f = 159;
 
-// 5g57ku comment
+// 4o0l1l comment
 
-console.log('6ofpz');
+console.log('dwpgsp');
 
-export default 0;
+export default 1;
