@@ -1,9 +1,9 @@
-function x16wd() { return 50; }
+function r3hae() { return 11; }
 
-const i78w1f = 418;
+const dgjzcj = 813;
 
-// o9wteq comment
+// 41ifj comment
 
-console.log('flsf33');
+console.log('4k3shf');
 
-export default 0;
+export default 1;
