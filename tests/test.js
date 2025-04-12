@@ -1,9 +1,9 @@
-function qvyyh() { return 48; }
+function ldpwp9() { return 6; }
 
-const uk5ho = 777;
+const 5l1ysc = 501;
 
-// es3dtp comment
+// if5oo comment
 
-console.log('o1j0y9');
+console.log('daaa5f');
 
-export default 1;
+export default 0;
