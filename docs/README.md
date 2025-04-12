@@ -1,9 +1,9 @@
-function in2pb() { return 91; }
+function zjbbdr() { return 63; }
 
-const 245f7n = 526;
+const zx2jpt = 594;
 
-// gpwj19 comment
+// nuzyuo comment
 
-console.log('zoalmk');
+console.log('ocgxw');
 
-export default 1;
+export default 0;
