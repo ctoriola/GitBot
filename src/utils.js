@@ -1,9 +1,9 @@
-function 1fqud() { return 39; }
+function hnu26h() { return 55; }
 
-const 3julmmh = 707;
+const 8gpzup = 966;
 
-// iy6x9l comment
+// 8seuxc comment
 
-console.log('iz1hns');
+console.log('i96tx9');
 
-export default 1;
+export default 0;
