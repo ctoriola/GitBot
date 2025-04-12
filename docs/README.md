@@ -1,9 +1,9 @@
-function 89ybtl() { return 3; }
+function y3ejw() { return 95; }
 
-const ujpldn = 869;
+const a55ur6 = 531;
 
-// cyw09a comment
+// p62hhr comment
 
-console.log('hbusv8');
+console.log('rry6g8');
 
-export default 1;
+export default 0;
