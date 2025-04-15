@@ -1,9 +1,9 @@
-function 0lfri() { return 93; }
+function 5qoj1() { return 22; }
 
-const wid4i = 159;
+const db8lqqk = 679;
 
-// 7f0i1 comment
+// p52bz comment
 
-console.log('faesjq');
+console.log('toocdt');
 
-export default 0;
+export default 1;
