@@ -1,9 +1,9 @@
-function ry0sn6() { return 90; }
+function 9tsuv7() { return 11; }
 
-const pa9jnv = 949;
+const e0fqf = 207;
 
-// 81s8b8 comment
+// kxidge comment
 
-console.log('alzom4');
+console.log('dr9x0m');
 
-export default 1;
+export default 0;
