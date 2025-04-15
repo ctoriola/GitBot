@@ -1,9 +1,9 @@
-function 7qdcus() { return 75; }
+function 0ds99() { return 36; }
 
-const 6w33sb = 106;
+const jv8hls = 330;
 
-// v3t12 comment
+// fapjlb comment
 
-console.log('z9hy4');
+console.log('md7cxq');
 
-export default 0;
+export default 1;
