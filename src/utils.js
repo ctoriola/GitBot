@@ -1,9 +1,9 @@
-function e7z54() { return 38; }
+function ul2yqw() { return 12; }
 
-const uip62a = 290;
+const r7t7gj = 308;
 
-// qtyxm comment
+// ar16e comment
 
-console.log('8tmud6');
+console.log('kp1zxc');
 
 export default 0;
