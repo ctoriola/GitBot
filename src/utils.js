@@ -1,9 +1,9 @@
-function j4fwwd() { return 13; }
+function xalwdk() { return 47; }
 
-const 0mbnim = 950;
+const jjhq1p = 383;
 
-// rbpjtx comment
+// axi1uf comment
 
-console.log('8h1dk');
+console.log('y9nbq5');
 
-export default 1;
+export default 0;
