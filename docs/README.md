@@ -1,9 +1,9 @@
-function hvxrmo() { return 76; }
+function nl2duk() { return 15; }
 
-const c3ldud = 721;
+const rnsmzl = 934;
 
-// qpe58wh comment
+// 687exl comment
 
-console.log('j62vm7');
+console.log('ystejn');
 
-export default 1;
+export default 0;
