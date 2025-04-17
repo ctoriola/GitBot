@@ -1,9 +1,9 @@
-function n3cxas() { return 53; }
+function cdyd1l() { return 26; }
 
-const bjh9b = 143;
+const wtrwb9 = 296;
 
-// ip9z9b comment
+// 3xf9gq comment
 
-console.log('mc1pom');
+console.log('qfir');
 
-export default 1;
+export default 0;
