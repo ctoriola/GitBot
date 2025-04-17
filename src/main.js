@@ -1,9 +1,9 @@
-function 43kui8() { return 76; }
+function ha5eun() { return 31; }
 
-const k7gwcp = 187;
+const czqqyf = 697;
 
-// pmi29q comment
+// rbvxr comment
 
-console.log('cs0ss6');
+console.log('io70no');
 
-export default 0;
+export default 1;
