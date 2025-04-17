@@ -1,9 +1,9 @@
-function rt6ufb() { return 67; }
+function gs5kw() { return 39; }
 
-const dz6rfg = 471;
+const 7852f9 = 659;
 
-// s6cs1n comment
+// d0c9cf comment
 
-console.log('x7857');
+console.log('xhl5g9');
 
-export default 0;
+export default 1;
