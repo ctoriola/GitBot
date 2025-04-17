@@ -1,9 +1,9 @@
-function ha5eun() { return 31; }
+function hrsjkk() { return 13; }
 
-const czqqyf = 697;
+const yyroeh = 235;
 
-// rbvxr comment
+// 64t65d comment
 
-console.log('io70no');
+console.log('a5iwrm');
 
-export default 1;
+export default 0;
