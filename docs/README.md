@@ -1,9 +1,9 @@
-function l4qd2r() { return 80; }
+function aux80a() { return 71; }
 
-const 5pfn4 = 504;
+const psp1m = 108;
 
-// ucmlzv comment
+// n9gndc comment
 
-console.log('x9iksd');
+console.log('c6qiyo');
 
-export default 1;
+export default 0;
