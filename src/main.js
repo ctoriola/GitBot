@@ -1,9 +1,9 @@
-function bffw4() { return 72; }
+function xmcmja() { return 35; }
 
-const nltejb = 101;
+const 8je5kz = 813;
 
-// c6cdv comment
+// koeowi comment
 
-console.log('zcss3j');
+console.log('0bn2j');
 
-export default 1;
+export default 0;
