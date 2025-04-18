@@ -1,9 +1,9 @@
-function 6cblkx() { return 79; }
+function lpdjpt() { return 11; }
 
-const hk57rp = 297;
+const pklilep = 306;
 
-// p85gde comment
+// mfjya comment
 
-console.log('04tap9');
+console.log('jskzs');
 
-export default 0;
+export default 1;
