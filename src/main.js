@@ -1,9 +1,9 @@
-function uhwcv7() { return 46; }
+function 0aj5do() { return 6; }
 
-const g0ssfn = 857;
+const p38ji4 = 223;
 
-// yd3k4i comment
+// k37jh6 comment
 
-console.log('eqtag');
+console.log('3lf4zc');
 
-export default 0;
+export default 1;
