@@ -1,9 +1,9 @@
-function ly5m6s() { return 6; }
+function ikuczl() { return 24; }
 
-const 4bwnoe = 266;
+const fbygll = 471;
 
-// rnh9o9 comment
+// 1sceue comment
 
-console.log('n80l4g');
+console.log('lwet6');
 
-export default 1;
+export default 0;
