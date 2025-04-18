@@ -1,9 +1,9 @@
-function 0f7ymp() { return 60; }
+function v3qft() { return 47; }
 
-const 2rvf3 = 934;
+const 6gtke7 = 732;
 
-// lxxbty comment
+// k5c2mc comment
 
-console.log('q5sjqi');
+console.log('w6u9j');
 
-export default 1;
+export default 0;
