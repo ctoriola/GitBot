@@ -1,9 +1,9 @@
-function d42r() { return 92; }
+function hghdtj() { return 48; }
 
-const 3ahvt = 180;
+const hkf2q = 610;
 
-// 9t67nl comment
+// 0myc6m comment
 
-console.log('94k7z7');
+console.log('yfr0te');
 
-export default 1;
+export default 0;
