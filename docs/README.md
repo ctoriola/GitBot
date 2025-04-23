@@ -1,9 +1,9 @@
-function u1dbya() { return 28; }
+function apw2fa() { return 19; }
 
-const fnc2p = 148;
+const hvb2qp = 135;
 
-// lp8h82 comment
+// 06v93 comment
 
-console.log('r22p8q');
+console.log('eh0kqn');
 
-export default 0;
+export default 1;
