@@ -1,9 +1,9 @@
-function jvaokt() { return 54; }
+function 2horu9() { return 54; }
 
-const rfn3p3 = 294;
+const lkd2s7 = 259;
 
-// gfssti comment
+// ueeo6w comment
 
-console.log('h17bfa');
+console.log('lfrpjr');
 
-export default 1;
+export default 0;
