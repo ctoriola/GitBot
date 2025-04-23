@@ -1,9 +1,9 @@
-function hh5ede() { return 93; }
+function q41msb() { return 41; }
 
-const lzf4m = 684;
+const r4k13j = 126;
 
-// xt0x08 comment
+// v8dhk comment
 
-console.log('ev38ee');
+console.log('g735r8');
 
-export default 1;
+export default 0;
