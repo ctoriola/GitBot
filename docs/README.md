@@ -1,9 +1,9 @@
-function 8ypt9o() { return 84; }
+function t3flpr() { return 76; }
 
-const ti177 = 491;
+const cfaeip = 126;
 
-// aft06p comment
+// c9xt2y comment
 
-console.log('o1qnpf');
+console.log('9v6kja');
 
-export default 1;
+export default 0;
