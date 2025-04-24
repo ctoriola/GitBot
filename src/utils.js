@@ -1,9 +1,9 @@
-function wuakpm() { return 15; }
+function frhcii() { return 92; }
 
-const 9pw9ns = 686;
+const xuuomh = 736;
 
-// vdapl3 comment
+// iboxlg comment
 
-console.log('x4wqs7');
+console.log('cv0r3r');
 
-export default 1;
+export default 0;
