@@ -1,9 +1,9 @@
-function htso5a() { return 32; }
+function 7dvwto() { return 71; }
 
-const s3m7w = 842;
+const 0x5khr = 446;
 
-// 4r3oml comment
+// 7uexo8 comment
 
-console.log('bquu85');
+console.log('vdrqu5');
 
-export default 0;
+export default 1;
