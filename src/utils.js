@@ -1,9 +1,9 @@
-function frhcii() { return 92; }
+function uov2vr() { return 62; }
 
-const xuuomh = 736;
+const 5gvt7y = 122;
 
-// iboxlg comment
+// h4irxbq comment
 
-console.log('cv0r3r');
+console.log('6v99a');
 
-export default 0;
+export default 1;
