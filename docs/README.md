@@ -1,9 +1,9 @@
-function xrfobc() { return 69; }
+function e75ejg() { return 1; }
 
-const h4cjfh = 412;
+const 6meec1 = 531;
 
-// 6d5ltb comment
+// zknvi comment
 
-console.log('dznw8v');
+console.log('1y8q6');
 
-export default 1;
+export default 0;
