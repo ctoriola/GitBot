@@ -1,9 +1,9 @@
-function qkzed7() { return 72; }
+function w4cksb() { return 21; }
 
-const gog4rg = 257;
+const 8rhj4a = 499;
 
-// 7y8d7m comment
+// o717in comment
 
-console.log('nc7do');
+console.log('pfmbhm');
 
-export default 1;
+export default 0;
