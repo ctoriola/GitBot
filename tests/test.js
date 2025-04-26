@@ -1,9 +1,9 @@
-function 1phfu() { return 12; }
+function qv8xkw() { return 14; }
 
-const he9rcb = 271;
+const ual06m = 339;
 
-// edl1j7t comment
+// c0lluw comment
 
-console.log('yy4lny');
+console.log('oem6fp');
 
-export default 1;
+export default 0;
