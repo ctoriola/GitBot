@@ -1,9 +1,9 @@
-function wngzx() { return 8; }
+function wxmahs() { return 18; }
 
-const hq1ut = 543;
+const pdvt2u = 273;
 
-// zioob comment
+// vthnsa comment
 
-console.log('9sb534');
+console.log('8y9qpt');
 
-export default 1;
+export default 0;
