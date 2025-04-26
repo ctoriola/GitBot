@@ -1,9 +1,9 @@
-function uov2vr() { return 62; }
+function t9qoca() { return 97; }
 
-const 5gvt7y = 122;
+const 3tsla3 = 352;
 
-// h4irxbq comment
+// 3h980c comment
 
-console.log('6v99a');
+console.log('peg18');
 
-export default 1;
+export default 0;
