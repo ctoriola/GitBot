@@ -1,9 +1,9 @@
-function nhhe9q() { return 66; }
+function 2t2vm5() { return 65; }
 
-const osb0zu = 471;
+const oz4nub = 258;
 
-// rj288 comment
+// qgtplw comment
 
-console.log('peiyle');
+console.log('32mmhx');
 
-export default 0;
+export default 1;
