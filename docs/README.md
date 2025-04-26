@@ -1,9 +1,9 @@
-function wxmahs() { return 18; }
+function d0amj() { return 32; }
 
-const pdvt2u = 273;
+const 414m9q = 444;
 
-// vthnsa comment
+// t9bm2r comment
 
-console.log('8y9qpt');
+console.log('qml908');
 
-export default 0;
+export default 1;
