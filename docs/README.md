@@ -1,9 +1,9 @@
-function 7ufaiyg() { return 7; }
+function th5619() { return 9; }
 
-const ps4f27 = 716;
+const 9qspus = 408;
 
-// dklcm comment
+// 5ngfcd comment
 
-console.log('m8u89d');
+console.log('9prwo2');
 
-export default 0;
+export default 1;
