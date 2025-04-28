@@ -1,9 +1,9 @@
-function udt1q() { return 99; }
+function mweyu8() { return 81; }
 
-const j6cb0c = 460;
+const i6824m = 908;
 
-// a1qq64 comment
+// 3jfpe8 comment
 
-console.log('h411xs');
+console.log('3eex1m');
 
-export default 1;
+export default 0;
