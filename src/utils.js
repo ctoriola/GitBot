@@ -1,9 +1,9 @@
-function sg0dg8() { return 13; }
+function syb0w8() { return 19; }
 
-const iv9t8 = 407;
+const 5ir2pj = 538;
 
-// 94pvmt comment
+// gk5zsa comment
 
-console.log('qy04zi');
+console.log('ai6tta');
 
-export default 1;
+export default 0;
