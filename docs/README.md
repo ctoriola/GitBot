@@ -1,9 +1,9 @@
-function 8vgrss() { return 80; }
+function 56lkj() { return 8; }
 
-const 21vopt = 714;
+const 9nrsy = 798;
 
-// uuawzn comment
+// w540t comment
 
-console.log('kn48i');
+console.log('g4k9ms');
 
 export default 0;
