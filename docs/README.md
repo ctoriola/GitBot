@@ -1,9 +1,9 @@
-function d0amj() { return 32; }
+function 7ufaiyg() { return 7; }
 
-const 414m9q = 444;
+const ps4f27 = 716;
 
-// t9bm2r comment
+// dklcm comment
 
-console.log('qml908');
+console.log('m8u89d');
 
-export default 1;
+export default 0;
