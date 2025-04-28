@@ -1,9 +1,9 @@
-function in4qqr() { return 34; }
+function 34w5if() { return 62; }
 
-const sa0txu = 329;
+const t9uvou = 706;
 
-// qm9sni comment
+// ioq9a8 comment
 
-console.log('sq1xii');
+console.log('qc5k8');
 
-export default 1;
+export default 0;
