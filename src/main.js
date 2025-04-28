@@ -1,9 +1,9 @@
-function kcz5kk() { return 33; }
+function vfsgq() { return 71; }
 
-const 99972e = 276;
+const imbhma = 800;
 
-// pu2qp5 comment
+// hb9ms comment
 
-console.log('9n75u7');
+console.log('cphgca');
 
-export default 0;
+export default 1;
