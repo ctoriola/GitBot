@@ -1,9 +1,9 @@
-function xladj1() { return 7; }
+function 9urbg() { return 62; }
 
-const xxmoke = 185;
+const c5jfd = 201;
 
-// 7oj48 comment
+// 2m2epx comment
 
-console.log('xrnczg');
+console.log('3b96vm');
 
-export default 1;
+export default 0;
