@@ -1,9 +1,9 @@
-function fszsa8() { return 68; }
+function 4gwhqg() { return 24; }
 
-const xihup = 469;
+const fj4hps = 937;
 
-// ybe0rl comment
+// ht9z8a comment
 
-console.log('xwr9ca');
+console.log('7xm3qp');
 
-export default 1;
+export default 0;
