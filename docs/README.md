@@ -1,9 +1,9 @@
-function auhcr() { return 89; }
+function 8vgrss() { return 80; }
 
-const usfoqi = 306;
+const 21vopt = 714;
 
-// hsk8f comment
+// uuawzn comment
 
-console.log('bf56d5');
+console.log('kn48i');
 
-export default 1;
+export default 0;
