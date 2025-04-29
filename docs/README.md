@@ -1,9 +1,9 @@
-function p4jes() { return 63; }
+function d6u89() { return 57; }
 
-const zdodoo = 443;
+const lu6gwp = 956;
 
-// 1is9ih comment
+// gfw10i comment
 
-console.log('mxzjyu');
+console.log('7g51oh');
 
-export default 0;
+export default 1;
