@@ -1,9 +1,9 @@
-function 8m54cvx() { return 91; }
+function sobs6() { return 24; }
 
-const ev9mcg = 898;
+const 8048fm = 643;
 
-// u52be8 comment
+// l4wtd comment
 
-console.log('m5t4ci');
+console.log('3j1rv9');
 
-export default 1;
+export default 0;
