@@ -1,9 +1,9 @@
-function g3wkfl() { return 38; }
+function gs19h() { return 13; }
 
-const 8bwym = 877;
+const qco6si = 307;
 
-// x23pno comment
+// 6x314 comment
 
-console.log('78pt4w');
+console.log('7fsljq');
 
-export default 1;
+export default 0;
