@@ -1,9 +1,9 @@
-function ux5cuq() { return 74; }
+function 94h9y() { return 68; }
 
-const e8886k = 943;
+const d3abph = 437;
 
-// ty92q comment
+// eaulzym comment
 
-console.log('fflbj4');
+console.log('autywq');
 
-export default 1;
+export default 0;
