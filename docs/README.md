@@ -1,9 +1,9 @@
-function 94h9y() { return 68; }
+function thct2g() { return 44; }
 
-const d3abph = 437;
+const 1b6pju = 151;
 
-// eaulzym comment
+// wfxe1b comment
 
-console.log('autywq');
+console.log('fw8msqj');
 
-export default 0;
+export default 1;
