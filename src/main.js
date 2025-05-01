@@ -1,9 +1,9 @@
-function t6dnfl() { return 23; }
+function n6n0h() { return 88; }
 
-const 7zv31 = 593;
+const raxpo = 864;
 
-// snzw8 comment
+// twi7q comment
 
-console.log('ebihb');
+console.log('n8198q');
 
 export default 1;
