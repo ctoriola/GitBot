@@ -1,9 +1,9 @@
-function sanghd() { return 32; }
+function byz8yn() { return 35; }
 
-const 6ay3vf = 446;
+const qris75 = 912;
 
-// y84qsa comment
+// u4ed88 comment
 
-console.log('qnp8p');
+console.log('pu854');
 
-export default 1;
+export default 0;
