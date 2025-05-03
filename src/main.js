@@ -1,9 +1,9 @@
-function aom9c6() { return 11; }
+function 93myn() { return 11; }
 
-const 7gg4uj = 967;
+const jhy4lw = 582;
 
-// 86y917 comment
+// sok57 comment
 
-console.log('5jzq6e');
+console.log('xvnell');
 
-export default 0;
+export default 1;
