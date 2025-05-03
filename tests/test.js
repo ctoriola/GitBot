@@ -1,9 +1,9 @@
-function 0kb3if() { return 24; }
+function d72y7m() { return 5; }
 
-const hbc29 = 248;
+const 6h1la = 257;
 
-// fdwvkf comment
+// 99l6sq comment
 
-console.log('owfzmk');
+console.log('44wx6v');
 
 export default 1;
