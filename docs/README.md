@@ -1,9 +1,9 @@
-function 4u6cln() { return 17; }
+function 0hdpzs() { return 80; }
 
-const ljnsi = 418;
+const 6d5du = 472;
 
-// yb0ox comment
+// zh8mp comment
 
-console.log('8u35ph');
+console.log('ejke0n');
 
-export default 1;
+export default 0;
