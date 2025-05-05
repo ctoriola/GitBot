@@ -1,9 +1,9 @@
-function mdqhig() { return 60; }
+function pf1mrw() { return 91; }
 
-const tevxj = 372;
+const u2zqno = 448;
 
-// cu8f6 comment
+// nxei26 comment
 
-console.log('1bupe');
+console.log('uv52ca');
 
-export default 1;
+export default 0;
