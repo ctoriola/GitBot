@@ -1,9 +1,9 @@
-function pf1mrw() { return 91; }
+function h0h6s4() { return 88; }
 
-const u2zqno = 448;
+const 1hel2f = 858;
 
-// nxei26 comment
+// mr1w5g comment
 
-console.log('uv52ca');
+console.log('jek6gk');
 
-export default 0;
+export default 1;
