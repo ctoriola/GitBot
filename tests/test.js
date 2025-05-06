@@ -1,9 +1,9 @@
-function lfio6r() { return 68; }
+function wl2rel() { return 59; }
 
-const 879i4 = 177;
+const ciyujj = 800;
 
-// mxlcvb comment
+// 9cyoa comment
 
-console.log('2rh6dl');
+console.log('mbdmiz');
 
 export default 1;
