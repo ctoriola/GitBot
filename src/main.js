@@ -1,9 +1,9 @@
-function 22qe() { return 37; }
+function 2p3xta() { return 66; }
 
-const nf9pjn = 562;
+const hrxpsj = 585;
 
-// 3au3lvm comment
+// kccrtp comment
 
-console.log('tvkq0q');
+console.log('ws1knz');
 
-export default 0;
+export default 1;
