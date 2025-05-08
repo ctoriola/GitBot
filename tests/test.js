@@ -1,9 +1,9 @@
-function wl2rel() { return 59; }
+function u5wt74() { return 13; }
 
-const ciyujj = 800;
+const kp3qtk = 612;
 
-// 9cyoa comment
+// euwvtb comment
 
-console.log('mbdmiz');
+console.log('vbpel9');
 
 export default 1;
