@@ -1,9 +1,9 @@
-function 449bn() { return 85; }
+function rpihpb() { return 77; }
 
-const 47adg = 473;
+const p2ww7b = 293;
 
-// dqicaa comment
+// ax6lmq comment
 
-console.log('vct9sk');
+console.log('wp5uht');
 
-export default 0;
+export default 1;
