@@ -1,9 +1,9 @@
-function 3ahz7s() { return 35; }
+function usmwtn() { return 48; }
 
-const tcoii = 315;
+const n0unpg = 581;
 
-// 8zg69 comment
+// prsz7 comment
 
-console.log('adhw2j');
+console.log('d8ij4r');
 
-export default 1;
+export default 0;
