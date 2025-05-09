@@ -1,9 +1,9 @@
-function usmwtn() { return 48; }
+function gzlkgu() { return 63; }
 
-const n0unpg = 581;
+const oizos = 598;
 
-// prsz7 comment
+// z9l6m4 comment
 
-console.log('d8ij4r');
+console.log('2buskk');
 
-export default 0;
+export default 1;
