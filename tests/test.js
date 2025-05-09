@@ -1,9 +1,9 @@
-function gzlkgu() { return 63; }
+function docapy() { return 77; }
 
-const oizos = 598;
+const nuj1r9 = 256;
 
-// z9l6m4 comment
+// anadx comment
 
-console.log('2buskk');
+console.log('v2or0p');
 
-export default 1;
+export default 0;
