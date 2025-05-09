@@ -1,9 +1,9 @@
-function atmin() { return 45; }
+function h4dsxk() { return 3; }
 
-const 87vdmq = 259;
+const 9d1ib = 267;
 
-// hm2wntr comment
+// 2qjlqk comment
 
-console.log('v1wg8a');
+console.log('t2jhe');
 
-export default 0;
+export default 1;
