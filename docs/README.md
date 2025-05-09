@@ -1,9 +1,9 @@
-function ebtzr() { return 49; }
+function aahoim() { return 14; }
 
-const v7w9mw = 718;
+const ltj9m = 174;
 
-// 2bji0i comment
+// 2wrzij comment
 
-console.log('jr1asp');
+console.log('1h0etr');
 
-export default 0;
+export default 1;
