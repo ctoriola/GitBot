@@ -1,9 +1,9 @@
-function 2p3xta() { return 66; }
+function w8n6q() { return 33; }
 
-const hrxpsj = 585;
+const zdej9p = 678;
 
-// kccrtp comment
+// sbzzqj comment
 
-console.log('ws1knz');
+console.log('evmpld');
 
-export default 1;
+export default 0;
