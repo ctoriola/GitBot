@@ -1,9 +1,9 @@
-function m1ntot() { return 32; }
+function y1yj5() { return 26; }
 
-const 32s1eq = 648;
+const 3ldmtr = 551;
 
-// h0c1iq comment
+// fozdl comment
 
-console.log('leh5bl');
+console.log('nxgpfs');
 
 export default 1;
