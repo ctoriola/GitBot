@@ -1,9 +1,9 @@
-function hmmtnp() { return 62; }
+function gutap() { return 50; }
 
-const sww4qo = 910;
+const 4ygs8t = 844;
 
-// 1jqcqr comment
+// ikwowd comment
 
-console.log('8sbgue');
+console.log('r8ezmb');
 
-export default 1;
+export default 0;
