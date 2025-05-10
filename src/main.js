@@ -1,9 +1,9 @@
-function qjjski() { return 45; }
+function 1ydste() { return 18; }
 
-const haynj = 404;
+const 3f8rq5 = 172;
 
-// mh5iyn comment
+// vteuzs comment
 
-console.log('nmmha');
+console.log('vpyft');
 
-export default 0;
+export default 1;
