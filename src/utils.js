@@ -1,9 +1,9 @@
-function 0v857i() { return 48; }
+function 7j2j48() { return 29; }
 
-const wau7vi = 980;
+const j08uzs = 903;
 
-// luf8qdh comment
+// bezpoc comment
 
-console.log('t0io6s');
+console.log('ady892');
 
 export default 0;
