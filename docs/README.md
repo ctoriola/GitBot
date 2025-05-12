@@ -1,9 +1,9 @@
-function pxsrnj() { return 69; }
+function t2mxz5() { return 19; }
 
-const k8jq1h = 331;
+const 7vvq6u = 318;
 
-// ex6zd9 comment
+// 6672c7 comment
 
-console.log('fm5ddl');
+console.log('1mbd5');
 
-export default 1;
+export default 0;
