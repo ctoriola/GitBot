@@ -1,9 +1,9 @@
-function d4666r() { return 42; }
+function on4ot() { return 28; }
 
-const 6dxcfi = 380;
+const ze66ti = 292;
 
-// ov6nic comment
+// aitn comment
 
-console.log('jrd0q');
+console.log('jj7b5s');
 
-export default 1;
+export default 0;
