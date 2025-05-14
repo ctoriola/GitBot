@@ -1,9 +1,9 @@
-function pspwvk() { return 36; }
+function ekkxbm() { return 38; }
 
-const l5ok4 = 494;
+const n6gkp = 356;
 
-// or1ysk comment
+// 3oadop comment
 
-console.log('np73pb');
+console.log('8l7vol');
 
 export default 0;
