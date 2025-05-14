@@ -1,9 +1,9 @@
-function fq3kuq() { return 11; }
+function p4s4hg() { return 81; }
 
-const oif8jd = 626;
+const f6fbn = 289;
 
-// 7jjys7 comment
+// bxl9m comment
 
-console.log('ol55ai');
+console.log('vbi3w');
 
-export default 0;
+export default 1;
