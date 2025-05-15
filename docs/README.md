@@ -1,9 +1,9 @@
-function on4ot() { return 28; }
+function 4e1j9e() { return 86; }
 
-const ze66ti = 292;
+const ywtjh = 914;
 
-// aitn comment
+// 308oga comment
 
-console.log('jj7b5s');
+console.log('tsdwem');
 
-export default 0;
+export default 1;
