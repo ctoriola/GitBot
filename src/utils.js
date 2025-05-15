@@ -1,9 +1,9 @@
-function oyp0m() { return 33; }
+function 6jrqxp() { return 30; }
 
-const fr146 = 235;
+const bbltqi = 748;
 
-// 4s7djq comment
+// eqjslt comment
 
-console.log('kbdipr');
+console.log('k8651g');
 
-export default 0;
+export default 1;
