@@ -1,9 +1,9 @@
-function 7ea6ih() { return 95; }
+function t7mh2d() { return 55; }
 
-const tqgn3k = 518;
+const vmwkpi = 810;
 
-// hxqguq comment
+// o4eymg comment
 
-console.log('4wal1l');
+console.log('s43za9');
 
-export default 1;
+export default 0;
