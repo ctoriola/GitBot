@@ -1,9 +1,9 @@
-function 1ficbl() { return 72; }
+function 5wg6x() { return 82; }
 
-const wdree = 219;
+const ea7ri9 = 487;
 
-// kwnuut comment
+// 5ryx3w comment
 
-console.log('zrbofn');
+console.log('dspg6s');
 
-export default 0;
+export default 1;
