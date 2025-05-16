@@ -1,9 +1,9 @@
-function t68vxk() { return 46; }
+function lixb64() { return 44; }
 
-const c2741 = 794;
+const cjxhcx = 990;
 
-// ph31a9 comment
+// 3vld3b comment
 
-console.log('v04yh');
+console.log('bt764w');
 
-export default 1;
+export default 0;
