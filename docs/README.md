@@ -1,9 +1,9 @@
-function txvyv2() { return 82; }
+function oyy9p2() { return 29; }
 
-const myqz4p = 564;
+const hsxw8d = 832;
 
-// uuge4 comment
+// iuj7w4 comment
 
-console.log('iny0xn');
+console.log('x6qe7');
 
-export default 1;
+export default 0;
