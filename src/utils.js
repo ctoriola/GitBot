@@ -1,9 +1,9 @@
-function t9mxm4() { return 17; }
+function ux8cq2() { return 68; }
 
-const 4e3mfi = 824;
+const 5qiiwi = 398;
 
-// rksg7 comment
+// rn4ezp comment
 
-console.log('anr93g');
+console.log('v3o2jl');
 
-export default 0;
+export default 1;
