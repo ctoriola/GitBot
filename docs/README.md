@@ -1,9 +1,9 @@
-function ddqjwa() { return 93; }
+function txvyv2() { return 82; }
 
-const og8k85 = 108;
+const myqz4p = 564;
 
-// kti01p comment
+// uuge4 comment
 
-console.log('q6avjb');
+console.log('iny0xn');
 
-export default 0;
+export default 1;
