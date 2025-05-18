@@ -1,9 +1,9 @@
-function slucf9() { return 18; }
+function ynjnf6() { return 13; }
 
-const vaphr = 780;
+const v1qs5m = 733;
 
-// dp34ud comment
+// vjc74f comment
 
-console.log('ugx42o');
+console.log('g39i2p');
 
-export default 1;
+export default 0;
