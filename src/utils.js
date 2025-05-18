@@ -1,9 +1,9 @@
-function f5bzlf() { return 34; }
+function jk59c() { return 73; }
 
-const ud8nh = 418;
+const 1u8xs7 = 318;
 
-// 68ac1 comment
+// 5t5ob comment
 
-console.log('stymcp');
+console.log('dd4kqe');
 
-export default 0;
+export default 1;
