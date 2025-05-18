@@ -1,9 +1,9 @@
-function vw07j() { return 33; }
+function kdlo83() { return 88; }
 
-const 5ez4t5 = 383;
+const d1wews = 136;
 
-// eq2als comment
+// f146hf comment
 
-console.log('ws53k9');
+console.log('q1h1i');
 
-export default 1;
+export default 0;
