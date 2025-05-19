@@ -1,9 +1,9 @@
-function kl0t2h() { return 16; }
+function glafc() { return 2; }
 
-const 5zh4oi = 770;
+const bqd2d = 218;
 
-// 9g501p comment
+// fx5dst comment
 
-console.log('z36plg');
+console.log('ap3fi8');
 
-export default 0;
+export default 1;
