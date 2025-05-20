@@ -1,9 +1,9 @@
-function 8ddytf() { return 43; }
+function j4ick() { return 38; }
 
-const vkzjl = 1000;
+const 8fh0j9 = 819;
 
-// nzciqd comment
+// vyxgt7 comment
 
-console.log('3hf1fo');
+console.log('rt77ue');
 
-export default 1;
+export default 0;
