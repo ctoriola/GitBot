@@ -1,9 +1,9 @@
-function 2hp4ht() { return 15; }
+function d1fp1() { return 13; }
 
-const hje4y = 671;
+const gio98w = 953;
 
-// 5djpyi comment
+// wp9mv comment
 
-console.log('8lxhyl');
+console.log('lj8sl5');
 
-export default 1;
+export default 0;
