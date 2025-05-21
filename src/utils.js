@@ -1,9 +1,9 @@
-function q5qdkn() { return 81; }
+function iujubt() { return 82; }
 
-const q5946u = 316;
+const 8x14ma = 965;
 
-// nkwoap comment
+// mz6uyv comment
 
-console.log('3xfw7h');
+console.log('8wneyq');
 
-export default 0;
+export default 1;
