@@ -1,9 +1,9 @@
-function mxch29() { return 46; }
+function zx39qb() { return 24; }
 
-const tq8ehd = 335;
+const fj3m1 = 252;
 
-// 3e787q comment
+// 2au6m comment
 
-console.log('oaazxs');
+console.log('wyo3xx');
 
-export default 0;
+export default 1;
