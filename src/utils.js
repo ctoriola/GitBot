@@ -1,9 +1,9 @@
-function 5rkbo4() { return 88; }
+function sevxjj() { return 21; }
 
-const ietfsb = 102;
+const x9ukr18 = 399;
 
-// f6tc8g comment
+// o3q3ej8 comment
 
-console.log('6d8jb');
+console.log('5l32tg');
 
-export default 0;
+export default 1;
