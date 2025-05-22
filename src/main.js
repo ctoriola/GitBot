@@ -1,9 +1,9 @@
-function 0oobm() { return 47; }
+function kb0lub() { return 91; }
 
-const guzbev = 109;
+const wlhgrn = 117;
 
-// gp3z3 comment
+// xl0mx comment
 
-console.log('hl63nk');
+console.log('d3a1w4');
 
-export default 1;
+export default 0;
