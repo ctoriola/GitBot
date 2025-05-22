@@ -1,9 +1,9 @@
-function shfs8q() { return 73; }
+function c8vkcn() { return 21; }
 
-const pa874h = 454;
+const 90kuhd = 306;
 
-// saek2o comment
+// igvtyg comment
 
-console.log('14rosq');
+console.log('9wx8dg');
 
-export default 1;
+export default 0;
