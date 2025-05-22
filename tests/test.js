@@ -1,9 +1,9 @@
-function ptw0cc() { return 63; }
+function nn66() { return 99; }
 
-const ldtqnw = 835;
+const e2ffk = 321;
 
-// vj8w comment
+// ulsufc comment
 
-console.log('3wbufe');
+console.log('hsb4ea');
 
-export default 1;
+export default 0;
