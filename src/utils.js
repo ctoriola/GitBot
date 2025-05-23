@@ -1,9 +1,9 @@
-function j15wlm() { return 89; }
+function khgoqf() { return 15; }
 
-const kd4irg = 519;
+const kdgrek = 226;
 
-// b9j4t7 comment
+// o5km4d comment
 
-console.log('7go7ff');
+console.log('gqb8jz');
 
-export default 0;
+export default 1;
