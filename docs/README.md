@@ -1,9 +1,9 @@
-function nk6r0i() { return 83; }
+function 6bm5fj() { return 15; }
 
-const irct4l = 525;
+const chm7lf = 375;
 
-// txj6cv comment
+// cqua28 comment
 
-console.log('vcqet');
+console.log('5i2mse');
 
-export default 1;
+export default 0;
