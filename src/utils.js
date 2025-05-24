@@ -1,9 +1,9 @@
-function e8x4bs() { return 72; }
+function vxrqfh() { return 25; }
 
-const mctkml = 582;
+const 6bec99 = 945;
 
-// vmdz9p comment
+// 9f6rao comment
 
-console.log('156ld');
+console.log('y53zsf');
 
-export default 1;
+export default 0;
