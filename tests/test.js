@@ -1,9 +1,9 @@
-function vbvrya() { return 96; }
+function rx4xw() { return 30; }
 
-const cxmlnl = 667;
+const xjnkig = 962;
 
-// 896caa comment
+// ijr5qs comment
 
-console.log('sv1ezm');
+console.log('u62x0o');
 
-export default 0;
+export default 1;
