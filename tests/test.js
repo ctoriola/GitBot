@@ -1,9 +1,9 @@
-function rx4xw() { return 30; }
+function srfleq() { return 94; }
 
-const xjnkig = 962;
+const sgnmv = 324;
 
-// ijr5qs comment
+// 6flx0n comment
 
-console.log('u62x0o');
+console.log('lnk7ar');
 
-export default 1;
+export default 0;
