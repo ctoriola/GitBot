@@ -1,9 +1,9 @@
-function z37w9b() { return 34; }
+function 6xraq() { return 77; }
 
-const le8mk2 = 501;
+const ndv2w = 921;
 
-// dd6uk comment
+// qzmqji comment
 
-console.log('z7dj2k');
+console.log('wfnl0j');
 
-export default 1;
+export default 0;
