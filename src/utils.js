@@ -1,9 +1,9 @@
-function 24hx5l() { return 52; }
+function e8x4bs() { return 72; }
 
-const 41p7nm = 793;
+const mctkml = 582;
 
-// urxak8 comment
+// vmdz9p comment
 
-console.log('yuzgag');
+console.log('156ld');
 
-export default 0;
+export default 1;
