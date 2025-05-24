@@ -1,9 +1,9 @@
-function g859m() { return 67; }
+function sg5zc() { return 96; }
 
-const rdtjr = 263;
+const 1dkmeu = 164;
 
-// mz9gi comment
+// bfmdoc comment
 
-console.log('r6njag');
+console.log('pl5zzd');
 
-export default 1;
+export default 0;
