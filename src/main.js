@@ -1,9 +1,9 @@
-function qwmtar() { return 51; }
+function ozw615() { return 5; }
 
-const 6prg5w = 988;
+const jh1ql = 129;
 
-// kl777i comment
+// ha1on8 comment
 
-console.log('xvvd3x');
+console.log('xwezj');
 
-export default 0;
+export default 1;
