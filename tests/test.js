@@ -1,9 +1,9 @@
-function srfleq() { return 94; }
+function 5kinoq() { return 20; }
 
-const sgnmv = 324;
+const li73zg = 920;
 
-// 6flx0n comment
+// 45t9vd comment
 
-console.log('lnk7ar');
+console.log('vefvc8');
 
-export default 0;
+export default 1;
