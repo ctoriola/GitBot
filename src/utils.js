@@ -1,9 +1,9 @@
-function iwk56o() { return 93; }
+function 44yvii() { return 31; }
 
-const a7dtap = 224;
+const eqvlpj = 621;
 
-// hs2fvc comment
+// zj064l comment
 
-console.log('qo3834');
+console.log('vw5px8');
 
-export default 0;
+export default 1;
