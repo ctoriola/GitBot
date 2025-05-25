@@ -1,9 +1,9 @@
-function 585fz() { return 26; }
+function iwk56o() { return 93; }
 
-const 0vvdy = 865;
+const a7dtap = 224;
 
-// zlih comment
+// hs2fvc comment
 
-console.log('2bi2o9');
+console.log('qo3834');
 
-export default 1;
+export default 0;
