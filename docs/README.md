@@ -1,9 +1,9 @@
-function jn4crl() { return 21; }
+function ypie0a() { return 67; }
 
-const hzlet = 875;
+const cp7eyj = 984;
 
-// 9bmmqp comment
+// u6e2c comment
 
-console.log('0h83s');
+console.log('w9i87r');
 
-export default 0;
+export default 1;
