@@ -1,9 +1,9 @@
-function gon7yq() { return 13; }
+function 585fz() { return 26; }
 
-const k4h01 = 163;
+const 0vvdy = 865;
 
-// 2xmzu comment
+// zlih comment
 
-console.log('ohjbdj');
+console.log('2bi2o9');
 
-export default 0;
+export default 1;
