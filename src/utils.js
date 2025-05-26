@@ -1,9 +1,9 @@
-function bsin8i() { return 24; }
+function 4n8sod() { return 6; }
 
-const 0h1at = 751;
+const 579y3j = 815;
 
-// 9leini comment
+// yiy2who comment
 
-console.log('fandtt');
+console.log('e8iyob');
 
 export default 1;
