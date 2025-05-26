@@ -1,9 +1,9 @@
-function ao1o0a() { return 37; }
+function vb5x3k() { return 63; }
 
-const x9bgtf = 892;
+const afzgu = 555;
 
-// afi2sb comment
+// q0ks6n comment
 
-console.log('9c8x8q');
+console.log('52ivx7');
 
-export default 1;
+export default 0;
