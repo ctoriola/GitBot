@@ -1,9 +1,9 @@
-function 3wsf2n() { return 88; }
+function htpmy() { return 94; }
 
-const foeap8 = 262;
+const 0ioypv = 243;
 
-// 4y1xlo comment
+// l4lib comment
 
-console.log('snw7wu');
+console.log('uus5cj');
 
-export default 1;
+export default 0;
