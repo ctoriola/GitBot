@@ -1,9 +1,9 @@
-function qfb9mn() { return 38; }
+function vxgud() { return 18; }
 
-const j5t8pe = 697;
+const 7fh4no = 994;
 
-// 9tc1xq comment
+// 1vyyke comment
 
-console.log('e2k35');
+console.log('kjl2pb');
 
-export default 1;
+export default 0;
