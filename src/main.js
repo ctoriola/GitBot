@@ -1,9 +1,9 @@
-function tebp() { return 52; }
+function sefn6() { return 74; }
 
-const hhzmbn = 972;
+const svueui = 920;
 
-// iu20ei comment
+// sompb comment
 
-console.log('smpgs7h');
+console.log('esttf');
 
-export default 1;
+export default 0;
