@@ -1,9 +1,9 @@
-function ji89u() { return 52; }
+function a3f1qq() { return 38; }
 
-const w51a3 = 797;
+const i2r7hj = 729;
 
-// 1rcnx comment
+// 113ntb comment
 
-console.log('appzi5');
+console.log('7efblb');
 
-export default 0;
+export default 1;
