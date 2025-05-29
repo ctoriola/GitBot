@@ -1,9 +1,9 @@
-function jde6ii() { return 76; }
+function v380fi() { return 8; }
 
-const nuasab = 378;
+const tsy1mj = 682;
 
-// 72luh comment
+// sr2w4 comment
 
-console.log('4tx4no');
+console.log('hvkskd');
 
-export default 0;
+export default 1;
