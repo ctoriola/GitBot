@@ -1,9 +1,9 @@
-function v380fi() { return 8; }
+function 61q1os() { return 61; }
 
-const tsy1mj = 682;
+const h1dzjvv = 358;
 
-// sr2w4 comment
+// nwx9oc comment
 
-console.log('hvkskd');
+console.log('eubtr');
 
-export default 1;
+export default 0;
