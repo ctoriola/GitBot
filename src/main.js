@@ -1,9 +1,9 @@
-function o1377l() { return 80; }
+function tebp() { return 52; }
 
-const 84rg2 = 517;
+const hhzmbn = 972;
 
-// zvrur comment
+// iu20ei comment
 
-console.log('qoie7m');
+console.log('smpgs7h');
 
-export default 0;
+export default 1;
