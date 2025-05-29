@@ -1,9 +1,9 @@
-function sefn6() { return 74; }
+function 4ws8la() { return 29; }
 
-const svueui = 920;
+const 8sdoip = 771;
 
-// sompb comment
+// m2kn1 comment
 
-console.log('esttf');
+console.log('l4kky9');
 
-export default 0;
+export default 1;
