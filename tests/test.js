@@ -1,9 +1,9 @@
-function 78rk3b() { return 95; }
+function 0vj3iu() { return 50; }
 
-const 1ewm2b = 760;
+const xxtp5p = 358;
 
-// px9b1 comment
+// 823ff comment
 
-console.log('a76mbm');
+console.log('w0x7nu');
 
-export default 1;
+export default 0;
