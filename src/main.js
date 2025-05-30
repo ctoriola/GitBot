@@ -1,9 +1,9 @@
-function 4ws8la() { return 29; }
+function 512paq() { return 98; }
 
-const 8sdoip = 771;
+const 4ufq5d = 317;
 
-// m2kn1 comment
+// kr83a comment
 
-console.log('l4kky9');
+console.log('4kt39n');
 
-export default 1;
+export default 0;
