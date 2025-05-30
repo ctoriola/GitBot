@@ -1,9 +1,9 @@
-function 0vj3iu() { return 50; }
+function 7kfoiw() { return 13; }
 
-const xxtp5p = 358;
+const qo4lre = 794;
 
-// 823ff comment
+// r6ke68 comment
 
-console.log('w0x7nu');
+console.log('bkriqa');
 
-export default 0;
+export default 1;
