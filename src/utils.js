@@ -1,9 +1,9 @@
-function 0jy4si() { return 30; }
+function qlzdj() { return 15; }
 
-const fas17 = 914;
+const eo9hc = 214;
 
-// 3km4nr comment
+// 3jl7db comment
 
-console.log('tbbxad');
+console.log('yo9pzb');
 
-export default 0;
+export default 1;
