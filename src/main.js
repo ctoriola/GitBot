@@ -1,9 +1,9 @@
-function wutew() { return 21; }
+function 13d748() { return 15; }
 
-const p94wal = 860;
+const 0kryr = 547;
 
-// twyjh5 comment
+// dkqd7 comment
 
-console.log('hxd36s');
+console.log('6go3dn');
 
-export default 1;
+export default 0;
