@@ -1,9 +1,9 @@
-function 4m50re() { return 34; }
+function ygf7w5() { return 45; }
 
-const v1ymyp = 580;
+const 0ld1l = 748;
 
-// 3nnh5c comment
+// 27br3h comment
 
-console.log('ps91us');
+console.log('itl6t');
 
-export default 0;
+export default 1;
