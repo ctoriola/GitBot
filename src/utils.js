@@ -1,9 +1,9 @@
-function dnstg() { return 22; }
+function cee6qn() { return 14; }
 
-const 8r5aid = 148;
+const jlbsbt = 244;
 
-// wm0oq8 comment
+// khnmln comment
 
-console.log('lf8ok3');
+console.log('d5eia3');
 
-export default 0;
+export default 1;
