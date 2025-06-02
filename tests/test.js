@@ -1,9 +1,9 @@
-function 8xb5o() { return 72; }
+function 893gx() { return 44; }
 
-const vidpcp = 870;
+const imnm3 = 287;
 
-// 5j9x3m comment
+// rmd907 comment
 
-console.log('n7qd5o');
+console.log('4nd47g');
 
-export default 1;
+export default 0;
