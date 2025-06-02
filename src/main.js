@@ -1,9 +1,9 @@
-function h7gm18() { return 36; }
+function 20buc() { return 28; }
 
-const fc1o8b = 837;
+const 9gpeag = 188;
 
-// vztdy8 comment
+// umqd2 comment
 
-console.log('uk89kh');
+console.log('1bhbr6');
 
-export default 0;
+export default 1;
