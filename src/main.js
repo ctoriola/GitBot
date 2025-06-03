@@ -1,9 +1,9 @@
-function 20buc() { return 28; }
+function rwnhje() { return 96; }
 
-const 9gpeag = 188;
+const h9l3o9 = 249;
 
-// umqd2 comment
+// 0xhelb comment
 
-console.log('1bhbr6');
+console.log('gxbc3m');
 
-export default 1;
+export default 0;
