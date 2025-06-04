@@ -1,9 +1,9 @@
-function zwsdy() { return 84; }
+function nb81ok() { return 38; }
 
-const 2elxvh = 240;
+const cr272a = 524;
 
-// 6dg0h comment
+// 36vkor comment
 
-console.log('1v79hr');
+console.log('tm0wjp');
 
-export default 1;
+export default 0;
