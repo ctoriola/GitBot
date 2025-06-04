@@ -1,9 +1,9 @@
-function nb81ok() { return 38; }
+function 4wxksl() { return 37; }
 
-const cr272a = 524;
+const yr9msw = 828;
 
-// 36vkor comment
+// m3f0gk comment
 
-console.log('tm0wjp');
+console.log('vq06u');
 
-export default 0;
+export default 1;
