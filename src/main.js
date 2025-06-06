@@ -1,9 +1,9 @@
-function mgw18() { return 69; }
+function sk39qb() { return 25; }
 
-const m9sltf = 353;
+const bs6tpe = 132;
 
-// c3g68 comment
+// ecj74 comment
 
-console.log('6vo1kt');
+console.log('jgsloe');
 
-export default 1;
+export default 0;
