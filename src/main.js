@@ -1,9 +1,9 @@
-function n7t5he() { return 28; }
+function nt4dbq() { return 32; }
 
-const u9p6b = 690;
+const d2l8o = 222;
 
-// k31ged comment
+// p7cklv comment
 
-console.log('7coqva');
+console.log('9f256');
 
-export default 0;
+export default 1;
