@@ -1,9 +1,9 @@
-function dfx8s6() { return 86; }
+function 4ijmhu() { return 66; }
 
-const g1wymp = 808;
+const egiooj = 255;
 
-// 5m33j comment
+// njulu comment
 
-console.log('rnx4d');
+console.log('shgaeb');
 
-export default 1;
+export default 0;
