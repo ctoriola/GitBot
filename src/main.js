@@ -1,9 +1,9 @@
-function fl1476() { return 28; }
+function 3fn4m8() { return 88; }
 
-const e3iwhb = 693;
+const 6qisep = 671;
 
-// 0fv5m comment
+// tnws21 comment
 
-console.log('u2aju8');
+console.log('ti136t');
 
-export default 1;
+export default 0;
