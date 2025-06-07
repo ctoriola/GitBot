@@ -1,9 +1,9 @@
-function uer86i() { return 56; }
+function lday1t() { return 34; }
 
-const xvcs7c = 511;
+const 2rdz3e = 435;
 
-// imnhph comment
+// xt59 comment
 
-console.log('5kk3sq');
+console.log('x8ki0y');
 
-export default 0;
+export default 1;
