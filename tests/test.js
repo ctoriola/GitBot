@@ -1,9 +1,9 @@
-function lday1t() { return 34; }
+function r26r6r() { return 98; }
 
-const 2rdz3e = 435;
+const 9fk5o = 654;
 
-// xt59 comment
+// a95be5 comment
 
-console.log('x8ki0y');
+console.log('k5ric');
 
-export default 1;
+export default 0;
