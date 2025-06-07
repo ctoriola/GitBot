@@ -1,9 +1,9 @@
-function ylos8() { return 78; }
+function vamo7() { return 67; }
 
-const jv60z = 837;
+const phnr7 = 364;
 
-// 1nmgbm comment
+// jzz174e comment
 
-console.log('qilfzk');
+console.log('pmmm7');
 
-export default 1;
+export default 0;
