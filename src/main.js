@@ -1,9 +1,9 @@
-function tbb0ei() { return 6; }
+function 36a46() { return 68; }
 
-const y2ps9u = 672;
+const 0674l = 964;
 
-// d45z4 comment
+// e65fz comment
 
-console.log('x1vq84');
+console.log('t8qw0u');
 
 export default 1;
