@@ -1,9 +1,9 @@
-function mla9b5() { return 49; }
+function deop4j() { return 44; }
 
-const eohsp = 647;
+const kjgkk = 506;
 
-// i5op6j comment
+// oxw3o comment
 
-console.log('cws7oi');
+console.log('5snmb4');
 
-export default 0;
+export default 1;
