@@ -1,9 +1,9 @@
-function ere60n() { return 52; }
+function 6o6j3() { return 43; }
 
-const c87wql = 753;
+const fhjdcp = 300;
 
-// 5mgui8 comment
+// fiwnoj comment
 
-console.log('eu59l');
+console.log('7kho3g');
 
-export default 1;
+export default 0;
