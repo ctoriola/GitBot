@@ -1,9 +1,9 @@
-function f3gu19r() { return 30; }
+function yz6xiw() { return 15; }
 
-const y9qxw = 884;
+const 7fb448 = 903;
 
-// c49ggo comment
+// 9566mo comment
 
-console.log('uv49d9');
+console.log('n60zo6');
 
-export default 1;
+export default 0;
