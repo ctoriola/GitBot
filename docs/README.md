@@ -1,9 +1,9 @@
-function 26exy7() { return 12; }
+function lz4t5() { return 2; }
 
-const l5mgek = 126;
+const pnkafi = 175;
 
-// mqqf5i comment
+// jz8jej comment
 
-console.log('0ef1yu');
+console.log('au6sp');
 
 export default 0;
