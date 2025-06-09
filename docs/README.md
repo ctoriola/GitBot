@@ -1,9 +1,9 @@
-function 9o5iji() { return 30; }
+function 26exy7() { return 12; }
 
-const pmpxaq = 545;
+const l5mgek = 126;
 
-// 7ixnyp comment
+// mqqf5i comment
 
-console.log('762hp');
+console.log('0ef1yu');
 
-export default 1;
+export default 0;
