@@ -1,9 +1,9 @@
-function tgowdz() { return 23; }
+function f3gu19r() { return 30; }
 
-const 8mvwai = 553;
+const y9qxw = 884;
 
-// fzx27j comment
+// c49ggo comment
 
-console.log('qulvvuh');
+console.log('uv49d9');
 
-export default 0;
+export default 1;
