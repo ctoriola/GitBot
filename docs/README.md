@@ -1,9 +1,9 @@
-function 9d01ch() { return 91; }
+function 7myzzg() { return 84; }
 
-const u9lxq7 = 724;
+const 41351 = 674;
 
-// gx4ebp comment
+// 7mxkka comment
 
-console.log('2nrpyy');
+console.log('2wibj');
 
-export default 0;
+export default 1;
