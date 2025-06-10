@@ -1,9 +1,9 @@
-function opp2aq() { return 38; }
+function ee528l() { return 82; }
 
-const qj3n4 = 496;
+const 5bfi = 148;
 
-// qzx8z comment
+// ydo51v comment
 
-console.log('1x33a');
+console.log('dzzd59');
 
-export default 0;
+export default 1;
