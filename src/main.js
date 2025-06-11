@@ -1,9 +1,9 @@
-function enq727() { return 70; }
+function b69epq() { return 96; }
 
-const 4qlklb = 830;
+const jtry7h = 426;
 
-// 0ihu8 comment
+// s9rrov comment
 
-console.log('429ey7');
+console.log('204fze');
 
-export default 0;
+export default 1;
