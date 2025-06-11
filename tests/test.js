@@ -1,9 +1,9 @@
-function 0as85h() { return 98; }
+function gey0ip() { return 69; }
 
-const rkqpl = 657;
+const bt0d5 = 750;
 
-// y8kvf comment
+// i28m4e comment
 
-console.log('9bga2o');
+console.log('r1709');
 
-export default 1;
+export default 0;
