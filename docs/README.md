@@ -1,9 +1,9 @@
-function dztnv() { return 72; }
+function 8aui6li() { return 83; }
 
-const 5l12gs = 577;
+const wfxl2d = 193;
 
-// 6le5kt comment
+// 3of4ml comment
 
-console.log('pdq8cp');
+console.log('btqbw');
 
 export default 1;
