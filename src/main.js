@@ -1,9 +1,9 @@
-function mab34b() { return 31; }
+function enq727() { return 70; }
 
-const x3nkt = 958;
+const 4qlklb = 830;
 
-// 6n83qm comment
+// 0ihu8 comment
 
-console.log('uyaise');
+console.log('429ey7');
 
-export default 1;
+export default 0;
