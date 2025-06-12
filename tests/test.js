@@ -1,9 +1,9 @@
-function wwfjho() { return 30; }
+function b77h6() { return 22; }
 
-const hbn84c = 815;
+const 1y23wm = 519;
 
-// 79wpq comment
+// fb2d5o comment
 
-console.log('yy9sy');
+console.log('cbqb3');
 
 export default 1;
