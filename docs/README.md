@@ -1,9 +1,9 @@
-function 1wprc5() { return 3; }
+function a7wobi() { return 67; }
 
-const zju7en = 794;
+const mdgqvv = 985;
 
-// z1tc6a comment
+// ok5j comment
 
-console.log('votekg');
+console.log('gssqko');
 
-export default 1;
+export default 0;
