@@ -1,9 +1,9 @@
-function iptgme() { return 86; }
+function c1x8ub() { return 39; }
 
-const v12mpl = 878;
+const wt6nl = 482;
 
-// xk88k comment
+// 42iwnt comment
 
-console.log('qa5obe');
+console.log('3u9ffe');
 
-export default 1;
+export default 0;
