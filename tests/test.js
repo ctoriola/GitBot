@@ -1,9 +1,9 @@
-function b77h6() { return 22; }
+function h3spr() { return 43; }
 
-const 1y23wm = 519;
+const pnnu2j = 258;
 
-// fb2d5o comment
+// djtg03 comment
 
-console.log('cbqb3');
+console.log('z0iod');
 
-export default 1;
+export default 0;
