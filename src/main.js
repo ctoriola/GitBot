@@ -1,9 +1,9 @@
-function b69epq() { return 96; }
+function flip49() { return 73; }
 
-const jtry7h = 426;
+const p22k2a = 174;
 
-// s9rrov comment
+// tcic3d comment
 
-console.log('204fze');
+console.log('jreki2i');
 
-export default 1;
+export default 0;
