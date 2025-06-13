@@ -1,9 +1,9 @@
-function a78wqi() { return 56; }
+function vnqber() { return 3; }
 
-const mkor5r = 951;
+const onptg9 = 814;
 
-// eyn1kb comment
+// 925y7a comment
 
-console.log('zplgj8');
+console.log('dnex9s');
 
-export default 1;
+export default 0;
