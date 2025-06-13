@@ -1,9 +1,9 @@
-function c4b1ow() { return 8; }
+function 6f4g75() { return 62; }
 
-const q19gk = 196;
+const mudn5u = 320;
 
-// q427as comment
+// v0j75e comment
 
-console.log('z498y');
+console.log('ktno06');
 
-export default 0;
+export default 1;
