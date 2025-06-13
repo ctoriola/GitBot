@@ -1,9 +1,9 @@
-function d4vmga() { return 85; }
+function c4b1ow() { return 8; }
 
-const 0lqhwd = 157;
+const q19gk = 196;
 
-// az8hy comment
+// q427as comment
 
-console.log('nhz2eb');
+console.log('z498y');
 
-export default 1;
+export default 0;
