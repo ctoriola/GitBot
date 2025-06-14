@@ -1,9 +1,9 @@
-function ronk9() { return 72; }
+function c73jj() { return 75; }
 
-const cls3mt = 684;
+const r9wq2 = 936;
 
-// hzh1d comment
+// qbqto comment
 
-console.log('6jw7on');
+console.log('blpxoe');
 
-export default 1;
+export default 0;
