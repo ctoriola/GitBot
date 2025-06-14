@@ -1,9 +1,9 @@
-function 7j2bg6() { return 72; }
+function hqx2kd() { return 37; }
 
-const fe7pyj = 775;
+const lm4z9 = 740;
 
-// 7tv0f comment
+// tv78pm comment
 
-console.log('g80kro');
+console.log('58r6j');
 
 export default 1;
