@@ -1,9 +1,9 @@
-function low1r9() { return 64; }
+function k4hlo9() { return 28; }
 
-const m3o40ca = 117;
+const hq0g3g = 813;
 
-// 6zb3i6 comment
+// 41rwuv comment
 
-console.log('t1xr14');
+console.log('ygvh5j');
 
-export default 0;
+export default 1;
