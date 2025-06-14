@@ -1,9 +1,9 @@
-function sdvrwn() { return 28; }
+function u3hh16() { return 80; }
 
-const atxdzl = 868;
+const j1sf6 = 730;
 
-// ibjbxs comment
+// 4njtwa comment
 
-console.log('yaet');
+console.log('nretlo');
 
-export default 0;
+export default 1;
