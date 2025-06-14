@@ -1,9 +1,9 @@
-function r9pcw() { return 62; }
+function wzhph3o() { return 49; }
 
-const osysfq = 719;
+const yj1d8q = 913;
 
-// g3rydi comment
+// nba49w comment
 
-console.log('j7ffjd');
+console.log('sm5hji');
 
-export default 0;
+export default 1;
