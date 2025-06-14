@@ -1,9 +1,9 @@
-function 6f4g75() { return 62; }
+function obhg4() { return 38; }
 
-const mudn5u = 320;
+const 58gf4h = 604;
 
-// v0j75e comment
+// 9z94a comment
 
-console.log('ktno06');
+console.log('5a0149');
 
-export default 1;
+export default 0;
