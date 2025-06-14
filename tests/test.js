@@ -1,9 +1,9 @@
-function 00s1jb() { return 91; }
+function jalbn() { return 39; }
 
-const dxpwyq = 844;
+const 5l8szw = 139;
 
-// eyynvj comment
+// dj6m15 comment
 
-console.log('cl0cph');
+console.log('lmbq1');
 
-export default 1;
+export default 0;
