@@ -1,9 +1,9 @@
-function xgfea8() { return 9; }
+function xjr7g() { return 96; }
 
-const 5plsd = 859;
+const 6inct = 435;
 
-// dhzzks comment
+// khzsye comment
 
-console.log('q22vk');
+console.log('aqg0o');
 
-export default 1;
+export default 0;
