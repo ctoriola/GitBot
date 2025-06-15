@@ -1,9 +1,9 @@
-function 517on() { return 62; }
+function zeuz4m() { return 51; }
 
-const tyhar = 593;
+const e2mvpq = 489;
 
-// hcv6xv comment
+// tbabt comment
 
-console.log('yywknd');
+console.log('s2qjv');
 
-export default 1;
+export default 0;
