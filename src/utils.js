@@ -1,9 +1,9 @@
-function 9hey09() { return 93; }
+function 9x7olv() { return 11; }
 
-const x9saxp = 764;
+const pg6l2m = 760;
 
-// 8nh1t comment
+// skt6lp comment
 
-console.log('9x874d');
+console.log('ienkbp');
 
-export default 0;
+export default 1;
