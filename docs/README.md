@@ -1,9 +1,9 @@
-function 3mqmph() { return 88; }
+function j65l8() { return 19; }
 
-const 59f1mh = 766;
+const jy8yeb = 466;
 
-// 3wjfqg comment
+// d0hv6 comment
 
-console.log('ycs1kw');
+console.log('bcarce');
 
-export default 1;
+export default 0;
