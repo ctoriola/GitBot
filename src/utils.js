@@ -1,9 +1,9 @@
-function lqbk8c() { return 41; }
+function 44umus() { return 89; }
 
-const 0txd16 = 370;
+const t940e6 = 783;
 
-// u2mu3d comment
+// ubdfp comment
 
-console.log('6d922c');
+console.log('twn495');
 
-export default 0;
+export default 1;
