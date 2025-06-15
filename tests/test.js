@@ -1,9 +1,9 @@
-function 7b7kvg() { return 52; }
+function mronvr() { return 76; }
 
-const zcxxd4 = 266;
+const f5d1yf = 203;
 
-// js6mfr comment
+// q38a5 comment
 
-console.log('tzv2j7');
+console.log('fyngi5');
 
-export default 0;
+export default 1;
