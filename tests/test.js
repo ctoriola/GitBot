@@ -1,9 +1,9 @@
-function h6j85s() { return 81; }
+function hv53va() { return 86; }
 
-const lho9f = 805;
+const f8mqpo = 490;
 
-// 4zsaob comment
+// syz42 comment
 
-console.log('3l6v4c');
+console.log('04hbbq');
 
-export default 0;
+export default 1;
