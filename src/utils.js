@@ -1,9 +1,9 @@
-function k07xp() { return 79; }
+function b2pnln() { return 53; }
 
-const s58uw8 = 102;
+const ixt26h = 834;
 
-// jfz55 comment
+// f7eia comment
 
-console.log('px7wm');
+console.log('b3m0b6');
 
-export default 0;
+export default 1;
