@@ -1,9 +1,9 @@
-function 3g0pb4() { return 83; }
+function 8fy5rm() { return 10; }
 
-const 3ixupm = 219;
+const bjb5s4 = 473;
 
-// hj9ca comment
+// spe6dy comment
 
-console.log('f19xc');
+console.log('p267yw');
 
-export default 1;
+export default 0;
