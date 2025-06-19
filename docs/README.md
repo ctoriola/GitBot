@@ -1,9 +1,9 @@
-function mzun3() { return 47; }
+function r7ytml() { return 61; }
 
-const bnumsp = 262;
+const 0602k9 = 531;
 
-// wo1fqc comment
+// h6qx3b comment
 
-console.log('f00rrw');
+console.log('js6c4g');
 
-export default 1;
+export default 0;
