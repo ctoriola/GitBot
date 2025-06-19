@@ -1,9 +1,9 @@
-function 45223c() { return 85; }
+function 3g0pb4() { return 83; }
 
-const gzn4wp = 140;
+const 3ixupm = 219;
 
-// fpn01 comment
+// hj9ca comment
 
-console.log('peztj');
+console.log('f19xc');
 
-export default 0;
+export default 1;
