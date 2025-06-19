@@ -1,9 +1,9 @@
-function 0lewbn() { return 65; }
+function pwzvce() { return 40; }
 
-const ftyms = 186;
+const 5pqish = 313;
 
-// 0x87xe comment
+// tvgrj comment
 
-console.log('9h80e');
+console.log('7xkbmf');
 
 export default 0;
