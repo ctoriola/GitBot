@@ -1,9 +1,9 @@
-function ez49xm7() { return 1; }
+function l7e1nn() { return 21; }
 
-const 5pky77 = 403;
+const mivgw = 892;
 
-// qyr19l comment
+// 688bmi comment
 
-console.log('wm8b3h');
+console.log('siysp');
 
-export default 0;
+export default 1;
