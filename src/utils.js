@@ -1,9 +1,9 @@
-function z0mj8i() { return 89; }
+function smqedh() { return 90; }
 
-const xux6db = 306;
+const pn8nts = 589;
 
-// ok6om9 comment
+// 0wtf2 comment
 
-console.log('kdscxg');
+console.log('ig3gfq');
 
-export default 1;
+export default 0;
