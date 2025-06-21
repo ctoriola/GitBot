@@ -1,9 +1,9 @@
-function l7e1nn() { return 21; }
+function i4f9h() { return 4; }
 
-const mivgw = 892;
+const mrbzgg = 709;
 
-// 688bmi comment
+// 6xdl6h comment
 
-console.log('siysp');
+console.log('7cp2dl');
 
-export default 1;
+export default 0;
