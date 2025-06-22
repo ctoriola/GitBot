@@ -1,9 +1,9 @@
-function r53ht() { return 28; }
+function 61dsx() { return 88; }
 
-const st1b0a = 325;
+const jgj2gp = 313;
 
-// dd7rva comment
+// e1axop comment
 
-console.log('5s1c8');
+console.log('6i2ln6');
 
-export default 1;
+export default 0;
