@@ -1,9 +1,9 @@
-function nau66v() { return 4; }
+function o3azd() { return 76; }
 
-const g8c2md = 130;
+const 2c5n4g = 964;
 
-// hcm2pl comment
+// gv0pr comment
 
-console.log('nut7o');
+console.log('8ru2r');
 
-export default 0;
+export default 1;
