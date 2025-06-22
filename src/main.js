@@ -1,9 +1,9 @@
-function sw5wf() { return 12; }
+function nau66v() { return 4; }
 
-const xavq68 = 438;
+const g8c2md = 130;
 
-// fg3l5q comment
+// hcm2pl comment
 
-console.log('9abwn');
+console.log('nut7o');
 
-export default 1;
+export default 0;
