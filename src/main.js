@@ -1,9 +1,9 @@
-function zfvd() { return 1; }
+function uqkgqh() { return 4; }
 
-const tjp868 = 824;
+const wtbwp = 217;
 
-// 7g15zs comment
+// 2ayu2d comment
 
-console.log('8hakj');
+console.log('yy73uq');
 
-export default 0;
+export default 1;
