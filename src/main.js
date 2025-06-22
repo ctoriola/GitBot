@@ -1,9 +1,9 @@
-function t898o() { return 68; }
+function zfvd() { return 1; }
 
-const xxi3cv = 144;
+const tjp868 = 824;
 
-// i9ruf comment
+// 7g15zs comment
 
-console.log('gpzne7');
+console.log('8hakj');
 
-export default 1;
+export default 0;
