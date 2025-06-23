@@ -1,9 +1,9 @@
-function mde7es() { return 83; }
+function x6drk() { return 55; }
 
-const z573gi = 892;
+const 8ijlxb = 382;
 
-// 6x9f7w comment
+// gmacsq comment
 
-console.log('323emc');
+console.log('xxclnb');
 
-export default 1;
+export default 0;
