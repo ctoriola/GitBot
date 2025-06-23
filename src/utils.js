@@ -1,9 +1,9 @@
-function gvsmc() { return 41; }
+function e5boc() { return 27; }
 
-const lfmrz = 416;
+const lg5hq = 380;
 
-// stoi8k comment
+// 7057gh comment
 
-console.log('qqnnge');
+console.log('pne8ez');
 
-export default 1;
+export default 0;
