@@ -1,9 +1,9 @@
-function qq88vl() { return 59; }
+function t2upfv() { return 99; }
 
-const 8yvhtf = 722;
+const hdgag = 618;
 
-// v6f08w comment
+// loyyih comment
 
-console.log('sz3j9t');
+console.log('lhgaw');
 
-export default 1;
+export default 0;
