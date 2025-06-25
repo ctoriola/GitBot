@@ -1,9 +1,9 @@
-function 0z603p() { return 53; }
+function nnf5jf() { return 62; }
 
-const yaqqui = 644;
+const 8kumdq = 550;
 
-// b2z3wz8 comment
+// gfbn7t comment
 
-console.log('omvgjm');
+console.log('g611yy');
 
-export default 1;
+export default 0;
