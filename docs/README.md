@@ -1,9 +1,9 @@
-function bonuon() { return 33; }
+function 50h938() { return 22; }
 
-const xsl5vq = 847;
+const ljioui = 248;
 
-// hg1rue comment
+// k7irfr comment
 
-console.log('nita6k');
+console.log('qiic8e');
 
-export default 0;
+export default 1;
