@@ -1,9 +1,9 @@
-function cbqbzk() { return 7; }
+function 0b28s() { return 18; }
 
-const xgzam7 = 932;
+const kvw47 = 601;
 
-// 431wnc comment
+// v7fot comment
 
-console.log('ymp0i');
+console.log('gf762m');
 
 export default 0;
