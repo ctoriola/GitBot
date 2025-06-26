@@ -1,9 +1,9 @@
-function pncze7() { return 7; }
+function rs619p() { return 76; }
 
-const dry95l = 436;
+const 9oj02i = 376;
 
-// k82lnv comment
+// o68l7 comment
 
-console.log('p1pgo');
+console.log('kad18o');
 
-export default 1;
+export default 0;
