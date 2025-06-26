@@ -1,9 +1,9 @@
-function wsqkqf() { return 96; }
+function psat7h() { return 18; }
 
-const rk8ql8 = 480;
+const jt0m83 = 567;
 
-// vksslv comment
+// 8w931e comment
 
-console.log('l18mtc');
+console.log('37fc8m');
 
-export default 0;
+export default 1;
