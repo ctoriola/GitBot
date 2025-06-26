@@ -1,9 +1,9 @@
-function 0vpspi() { return 77; }
+function li13er() { return 16; }
 
-const qnv2 = 805;
+const yyqbr = 533;
 
-// owj0uk comment
+// jls9ij comment
 
-console.log('4lwehf');
+console.log('yvqlg');
 
-export default 1;
+export default 0;
