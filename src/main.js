@@ -1,9 +1,9 @@
-function xjpmcf() { return 76; }
+function c82vu() { return 52; }
 
-const yzjrog = 570;
+const ua81m = 198;
 
-// zjuiwl comment
+// jali9p comment
 
-console.log('qzc4ls');
+console.log('j4kcai');
 
-export default 0;
+export default 1;
