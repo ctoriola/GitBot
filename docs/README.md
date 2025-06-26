@@ -1,9 +1,9 @@
-function 44j8h() { return 84; }
+function 85ath8() { return 62; }
 
-const wuf96b = 377;
+const 4cw3hd = 781;
 
-// zjt665 comment
+// zctane comment
 
-console.log('6rjspf');
+console.log('tcsmai');
 
-export default 0;
+export default 1;
