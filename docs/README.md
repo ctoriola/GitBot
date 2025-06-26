@@ -1,9 +1,9 @@
-function 0pf1nk() { return 97; }
+function ygrxc() { return 27; }
 
-const h4p9xw = 969;
+const tpc2t = 168;
 
-// b7ggt9 comment
+// nagc3 comment
 
-console.log('eoilzb');
+console.log('52chx');
 
-export default 1;
+export default 0;
