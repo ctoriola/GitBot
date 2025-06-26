@@ -1,9 +1,9 @@
-function j92zzk() { return 12; }
+function gwaygi() { return 80; }
 
-const l3hqem = 618;
+const cmm72g = 164;
 
-// 8aeio comment
+// obl3h comment
 
-console.log('13v07n');
+console.log('h021uq');
 
-export default 0;
+export default 1;
