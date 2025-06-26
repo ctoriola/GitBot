@@ -1,9 +1,9 @@
-function 0b28s() { return 18; }
+function mxsw0b() { return 51; }
 
-const kvw47 = 601;
+const jryh5i = 611;
 
-// v7fot comment
+// bmayq comment
 
-console.log('gf762m');
+console.log('s0yyac');
 
-export default 0;
+export default 1;
